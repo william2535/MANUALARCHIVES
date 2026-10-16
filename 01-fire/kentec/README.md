@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-150 document records, grouped into 108 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+154 document records, grouped into 110 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -29,6 +29,7 @@
 | [K-Mesh Wireless](k-mesh-wireless/README.md) | 1 |
 | [K2.01](k2-01/README.md) | 1 |
 | [K3000](k3000/README.md) | 1 |
+| [K3000S](k3000s/README.md) | 1 |
 | [K3200](k3200/README.md) | 1 |
 | [K4.01/ K4.01+](k4-01-k4-01/README.md) | 1 |
 | [LIOU](liou/README.md) | 1 |
@@ -54,8 +55,8 @@
 | [Sigma Matrix](sigma-matrix/README.md) | 1 |
 | [Sigma Si](sigma-si/README.md) | 1 |
 | [Sigma Si Weatherproof](sigma-si-weatherproof/README.md) | 1 |
-| [Sigma XT](sigma-xt/README.md) | 5 |
-| [Sigma XT+](sigma-xt/README.md) | 5 |
+| [Sigma XT](sigma-xt/README.md) | 6 |
+| [Sigma XT+](sigma-xt/README.md) | 6 |
 | [Sigma ZXT (Installation)](sigma-zxt-installation/README.md) | 1 |
 | [Sigma ZXT (Operation](sigma-zxt-operation/README.md) | 2 |
 | [Sigma ZXT (Operation)](sigma-zxt-operation/README.md) | 2 |
@@ -72,7 +73,8 @@
 | [Solo II Lite](solo-ii-lite/README.md) | 1 |
 | [Solo Response](solo-response/README.md) | 2 |
 | [Status Units](status-units/README.md) | 1 |
-| [Syncro](syncro/README.md) | 2 |
+| [Syncro](syncro/README.md) | 3 |
+| [Syncro AS](syncro-as/README.md) | 1 |
 | [Syncro AS (Addressable)](syncro-as-addressable/README.md) | 1 |
 | [Syncro AS Listec](syncro-as-listec/README.md) | 1 |
 | [Syncro ASM](syncro-asm/README.md) | 2 |

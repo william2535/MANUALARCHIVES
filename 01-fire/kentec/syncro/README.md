@@ -8,9 +8,10 @@ Source titles and model associations are navigation aids. Some legacy model name
 |---|---|---|---|---|---|
 | [Man-1055 Syncro (Main)](https://kentec.co.uk/resources/product-resources/) | reference | Man-1055 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1057 Syncro (User)](https://kentec.co.uk/resources/product-resources/) | user-guide | Man-1057 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro — Product manual](https://trinityfireandsecurity.com/wp-content/uploads/2025/09/Syncro-Fire-Control-Panel-Product-Manual.pdf) | installation | Man-1055 | Issue 26 | pdf-indexed | [Installer](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `kentec-724b56a14295`, `kentec-2a8e55fe4ae2`
+Record IDs: `kentec-724b56a14295`, `kentec-2a8e55fe4ae2`, `kentec-21f0fd797fe0`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

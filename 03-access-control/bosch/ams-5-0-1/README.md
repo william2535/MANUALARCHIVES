@@ -14,6 +14,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `bosch-4e8d015a6594`, `bosch-8442bf53e0bf`, `bosch-fec88ed02242`, `bosch-804e2717259e`, `bosch-6be0d924e3c6`
+Record IDs: `bosch-4e8d015a6594`, `bosch-fec88ed02242`, `bosch-8442bf53e0bf`, `bosch-804e2717259e`, `bosch-6be0d924e3c6`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

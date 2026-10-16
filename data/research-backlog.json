@@ -4662,10 +4662,13 @@
     "Comelit remaining product pages",
     "TDSi controller hardware manuals",
     "Salto platform software manuals",
-    "Protec 6300 installation manual",
     "Hochiki device installation guides",
     "Bosch MAP 5000 working manufacturer download",
-    "Remaining Apollo and Nittan product pages and unresolved links"
+    "Remaining Apollo and Nittan product pages and unresolved links",
+    "Siemens FC360 full English technical manual and FS20/FS720 panel manuals",
+    "FireClass FC600 installation and user manuals",
+    "TDSi UM0120 hardware instructions; public page currently has no link"
   ],
-  "continuation_log": "data/continuation-log.json"
+  "continuation_log": "data/continuation-log.json",
+  "gap_fill_log": "data/gap-fill-log-2026-10-16.json"
 }

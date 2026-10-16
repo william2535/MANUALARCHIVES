@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Axis EN 5000V — Installation, programming and commissioning manual](https://www.advancedco.com/wp-content/uploads/680-165V-07-Axis-EN-Product-Manual.pdf) | programming | 680-165V | Not recorded | pdf-link-listed | [Manufacturer](https://www.advancedco.com/wp-content/uploads/680-165V-07-Axis-EN-Product-Manual.pdf) |
+| [Axis EN 5000V — Installation, programming and commissioning manual](https://www.advancedco.com/wp-content/uploads/680-165V-07-Axis-EN-Product-Manual.pdf) | programming | 680-165V | Not recorded | pdf-indexed | [Manufacturer](https://www.advancedco.com/wp-content/uploads/680-165V-07-Axis-EN-Product-Manual.pdf) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

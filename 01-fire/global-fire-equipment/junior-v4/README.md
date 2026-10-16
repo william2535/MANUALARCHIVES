@@ -1,4 +1,4 @@
-# Global Fire Equipment — JUNIOR V4
+# Global Fire Equipment — junior v4
 
 [Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
 
@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `global-fire-equipment-14c6cd463c9f`, `global-fire-equipment-a1626de034a4`
+Record IDs: `global-fire-equipment-a1626de034a4`, `global-fire-equipment-14c6cd463c9f`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

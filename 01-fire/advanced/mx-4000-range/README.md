@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Advanced MX 4000 range](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Advanced%20MX%204000%20range.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Advanced MX 4000 range](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Advanced%20MX%204000%20range.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

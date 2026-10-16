@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-138 document records, grouped into 71 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+141 document records, grouped into 73 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -43,7 +43,7 @@
 | [CAPROG](caprog/README.md) | 1 |
 | [CAST Devices](cast-devices/README.md) | 9 |
 | [CAST PRO](cast-pro/README.md) | 2 |
-| [CFP](cfp/README.md) | 5 |
+| [CFP](cfp/README.md) | 6 |
 | [CFP AlarmSense](cfp-alarmsense/README.md) | 1 |
 | [CFP Standard](cfp-standard/README.md) | 1 |
 | [CFP UNIVERSAL](cfp-universal/README.md) | 1 |
@@ -54,11 +54,13 @@
 | [ECU4/8/16](ecu4-8-16/README.md) | 3 |
 | [EVCS SigTel Compact](evcs-sigtel-compact/README.md) | 1 |
 | [FF502P 4 ZONE SOUNDER EXTENDER](ff502p-4-zone-sounder-extender/README.md) | 1 |
+| [FP Range](fp-range/README.md) | 1 |
 | [Hush-Pro](hush-pro/README.md) | 9 |
 | [RELAY CARD](relay-card/README.md) | 1 |
+| [SigTEL Compact](sigtel-compact/README.md) | 1 |
 | [Sigtel Disabled Refuge & Fire Telephone Systems](sigtel-disabled-refuge-fire-telephone-systems/README.md) | 3 |
 | [Stand Alone Toilet Alarm](stand-alone-toilet-alarm/README.md) | 1 |
-| [XFP](xfp/README.md) | 2 |
+| [XFP](xfp/README.md) | 3 |
 | [XFP 1 OR 2 LOOP 32Z LPCB ENG](xfp-1-or-2-loop-32z-lpcb-eng/README.md) | 1 |
 | [XFP 1 or 2 loop 32 Zone fire panel](xfp-1-or-2-loop-32-zone-fire-panel/README.md) | 1 |
 | [XFP 16Z REPEATER](xfp-16z-repeater/README.md) | 1 |

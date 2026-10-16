@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `eaton-scantronic-de36d5818888`, `eaton-scantronic-a48a6474256a`
+Record IDs: `eaton-scantronic-a48a6474256a`, `eaton-scantronic-de36d5818888`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

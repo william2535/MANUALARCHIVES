@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [MxPro 5 — Hochiki device compatibility](https://www.advancedco.com/wp-content/uploads/680-168-04-MxPro-5-Hochiki.pdf) | application-note | 680-168 | Not recorded | pdf-link-listed | [Manufacturer](https://www.advancedco.com/wp-content/uploads/680-168-04-MxPro-5-Hochiki.pdf) |
+| [MxPro 5 — Hochiki device compatibility](https://www.advancedco.com/wp-content/uploads/680-168-04-MxPro-5-Hochiki.pdf) | application-note | 680-168 | 04 | pdf-indexed | [Manufacturer](https://www.advancedco.com/wp-content/uploads/680-168-04-MxPro-5-Hochiki.pdf) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

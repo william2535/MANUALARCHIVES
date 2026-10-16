@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Advanced Mx 4000 Install and Commissioning](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Advanced%20Mx%204000%20Install%20and%20Commissioning.pdf) | programming | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Advanced Mx 4000 User Manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Advanced%20Mx%204000%20User%20Manual.pdf) | user-guide | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Advanced Mx 4000 Install and Commissioning](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Advanced%20Mx%204000%20Install%20and%20Commissioning.pdf) | programming | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Advanced Mx 4000 User Manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Advanced%20Mx%204000%20User%20Manual.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

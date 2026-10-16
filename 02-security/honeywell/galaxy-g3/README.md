@@ -13,6 +13,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `honeywell-566aced6c87d`, `honeywell-444422a1dd94`, `honeywell-c6dc9715822b`, `honeywell-0e21641eed86`
+Record IDs: `honeywell-c6dc9715822b`, `honeywell-566aced6c87d`, `honeywell-444422a1dd94`, `honeywell-0e21641eed86`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-904 document records. Door entry belongs under access control.
+913 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -25,5 +25,5 @@
 | [Nice](nice/README.md) | 16 | 16 |
 | [Paxton](paxton/README.md) | 390 | 85 |
 | [Salto](salto/README.md) | 238 | 237 |
-| [TDSi](tdsi/README.md) | 17 | 17 |
+| [TDSi](tdsi/README.md) | 26 | 30 |
 | [Videx](videx/README.md) | 73 | 64 |

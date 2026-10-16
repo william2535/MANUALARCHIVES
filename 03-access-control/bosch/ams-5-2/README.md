@@ -18,6 +18,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `bosch-5d639b6d9bbb`, `bosch-898e2cc39c88`, `bosch-0352186fc736`, `bosch-4a7cb6a07ca0`, `bosch-c65800427834`, `bosch-a1a490c55ac0`, `bosch-4502ed59caf5`, `bosch-f60fa43131e3`, `bosch-d87ae1a918d3`
+Record IDs: `bosch-5d639b6d9bbb`, `bosch-0352186fc736`, `bosch-898e2cc39c88`, `bosch-4a7cb6a07ca0`, `bosch-c65800427834`, `bosch-a1a490c55ac0`, `bosch-4502ed59caf5`, `bosch-f60fa43131e3`, `bosch-d87ae1a918d3`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).
