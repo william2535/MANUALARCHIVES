@@ -2,10 +2,11 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-96 document records, grouped into 146 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+114 document records, grouped into 161 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
+| [8-User-Guide](8-user-guide/README.md) | 1 |
 | [Capture A20](capture-a20/README.md) | 8 |
 | [Capture C15](capture-c15/README.md) | 1 |
 | [Capture C15-W](capture-c15-w/README.md) | 1 |
@@ -24,6 +25,7 @@
 | [Capture PET-W](capture-pet-w/README.md) | 1 |
 | [Capture Q20](capture-q20/README.md) | 8 |
 | [Capture Q20-W](capture-q20-w/README.md) | 4 |
+| [Com-IP](com-ip/README.md) | 1 |
 | [Impaq S](impaq-s/README.md) | 9 |
 | [Impaq S G3](impaq-s-g3/README.md) | 8 |
 | [Impaq SC](impaq-sc/README.md) | 9 |
@@ -36,6 +38,7 @@
 | [Midnight Black LCDLP](midnight-black-lcdlp/README.md) | 1 |
 | [Midnight Black LCDLP-W](midnight-black-lcdlp-w/README.md) | 1 |
 | [Mirage DT PetWise Replaced by Capture D20 (Discontinued)](mirage-dt-petwise-replaced-by-capture-d20-discontinued/README.md) | 1 |
+| [Odyssey 3E](odyssey-3e/README.md) | 1 |
 | [Odyssey X](odyssey-x/README.md) | 2 |
 | [Odyssey X-B](odyssey-x-b/README.md) | 2 |
 | [Odyssey X-BE](odyssey-x-be/README.md) | 2 |
@@ -57,6 +60,7 @@
 | [Premier Compact PW (Discontinued)](premier-compact-pw-discontinued/README.md) | 1 |
 | [Premier Compact QD (Discontinued)](premier-compact-qd-discontinued/README.md) | 1 |
 | [Premier Compact XT (Discontinued)](premier-compact-xt-discontinued/README.md) | 1 |
+| [Premier Elite](premier-elite/README.md) | 2 |
 | [Premier Elite 168](premier-elite-168/README.md) | 5 |
 | [Premier Elite 24](premier-elite-24/README.md) | 5 |
 | [Premier Elite 24 (Polymer)](premier-elite-24-polymer/README.md) | 5 |
@@ -64,9 +68,11 @@
 | [Premier Elite 48](premier-elite-48/README.md) | 5 |
 | [Premier Elite 5Ci-W](premier-elite-5ci-w/README.md) | 2 |
 | [Premier Elite 60iXD](premier-elite-60ixd/README.md) | 4 |
-| [Premier Elite 64-W](premier-elite-64-w/README.md) | 5 |
+| [Premier Elite 64 W](premier-elite-64-w/README.md) | 6 |
+| [Premier Elite 64-W](premier-elite-64-w/README.md) | 6 |
 | [Premier Elite 64-W LIVE](premier-elite-64-w-live/README.md) | 5 |
 | [Premier Elite 640](premier-elite-640/README.md) | 5 |
+| [Premier Elite 64W LIVE](premier-elite-64w-live/README.md) | 1 |
 | [Premier Elite 88](premier-elite-88/README.md) | 5 |
 | [Premier Elite 8XP](premier-elite-8xp/README.md) | 5 |
 | [Premier Elite 8XP-W](premier-elite-8xp-w/README.md) | 5 |
@@ -86,7 +92,8 @@
 | [Premier Elite Flasher Interface](premier-elite-flasher-interface/README.md) | 4 |
 | [Premier Elite IR (Discontinued)](premier-elite-ir-discontinued/README.md) | 1 |
 | [Premier Elite LCDLP](premier-elite-lcdlp/README.md) | 7 |
-| [Premier Elite LCDLP-W](premier-elite-lcdlp-w/README.md) | 7 |
+| [Premier Elite LCDLP W](premier-elite-lcdlp-w/README.md) | 8 |
+| [Premier Elite LCDLP-W](premier-elite-lcdlp-w/README.md) | 8 |
 | [Premier Elite MR (Discontinued)](premier-elite-mr-discontinued/README.md) | 1 |
 | [Premier Elite Micro Contact-W](premier-elite-micro-contact-w/README.md) | 4 |
 | [Premier Elite Micro Shock-W](premier-elite-micro-shock-w/README.md) | 4 |
@@ -116,6 +123,7 @@
 | [Premier Elite TD (Discontinued)](premier-elite-td-discontinued/README.md) | 1 |
 | [Premier Elite TTLCom](premier-elite-ttlcom/README.md) | 4 |
 | [Premier Elite USB Com](premier-elite-usb-com/README.md) | 3 |
+| [Premier Elite Wireless Keypad](premier-elite-wireless-keypad/README.md) | 1 |
 | [Premier Elite iProx](premier-elite-iprox/README.md) | 4 |
 | [Premier External TD](premier-external-td/README.md) | 2 |
 | [Premier External TD-W](premier-external-td-w/README.md) | 2 |
@@ -135,6 +143,7 @@
 | [RKP4 LED Keypad](rkp4-led-keypad/README.md) | 1 |
 | [RKP8 LED Keypad](rkp8-led-keypad/README.md) | 1 |
 | [RKP8Plus LED Keypad](rkp8plus-led-keypad/README.md) | 1 |
+| [Ricochet Monitor Help Files](ricochet-monitor-help-files/README.md) | 1 |
 | [Ricochet™ Expansion Pack](ricochettm-expansion-pack/README.md) | 1 |
 | [SmartCom](smartcom/README.md) | 6 |
 | [SmartCom 4G](smartcom-4g/README.md) | 6 |
@@ -145,10 +154,16 @@
 | [SmartCom Pro DR](smartcom-pro-dr/README.md) | 1 |
 | [Speech and Text Dialler Installation Guide INS232-2](speech-and-text-dialler-installation-guide-ins232-2/README.md) | 1 |
 | [Speech and Text Dialler User Guide INS233-2](speech-and-text-dialler-user-guide-ins233-2/README.md) | 1 |
-| [Veritas 8](veritas-8/README.md) | 4 |
+| [To Omit Zones](to-omit-zones/README.md) | 1 |
+| [Veritas](veritas/README.md) | 1 |
+| [Veritas 8](veritas-8/README.md) | 5 |
 | [Veritas 8 Compact](veritas-8-compact/README.md) | 4 |
+| [Veritas 8, R8, 8 compact](veritas-8-r8-8-compact/README.md) | 1 |
 | [Veritas Excel](veritas-excel/README.md) | 2 |
 | [Veritas Medusa](veritas-medusa/README.md) | 2 |
 | [Veritas R8](veritas-r8/README.md) | 4 |
 | [Veritas R8 Plus](veritas-r8-plus/README.md) | 3 |
+| [Veritas R8 Plus and Excell](veritas-r8-plus-and-excell/README.md) | 1 |
 | [Veritas Reflex](veritas-reflex/README.md) | 2 |
+| [Wintex](wintex/README.md) | 2 |
+| [user](user/README.md) | 1 |

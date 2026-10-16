@@ -1,74 +1,220 @@
 # Coverage and outstanding work
 
-Collection date: 2026-10-16. Counts are unique document records, not downloaded files or a claim of completeness.
+Collection date: 2026-10-16. Counts are catalogue records, not downloaded files or a claim of completeness.
 
 ## Brands
 
 | Brand | Records | Direct PDF links |
 |---|---:|---:|
-| Advanced | 2 | 2 |
-| Ajax | 27 | 0 |
-| Apollo | 2 | 1 |
+| ACT | 1 | 1 |
+| ADE | 6 | 6 |
+| ADPRO | 13 | 13 |
+| AES | 1 | 1 |
+| ASO | 1 | 1 |
+| Adams Rite | 1 | 1 |
+| Ademco | 17 | 17 |
+| Advanced | 11 | 11 |
+| Aiphone | 4 | 4 |
+| Ajax | 232 | 0 |
+| Altron | 1 | 1 |
+| Apollo | 9 | 8 |
+| Aritech | 6 | 6 |
 | Axis | 637 | 636 |
-| C-TEC | 107 | 90 |
-| CDVI | 4 | 0 |
+| BBV | 25 | 25 |
+| Bandit | 3 | 3 |
+| Baxall | 12 | 12 |
+| Bell System | 2 | 2 |
+| Beninca | 6 | 6 |
+| Borg Locks | 1 | 1 |
+| Bosch | 3 | 3 |
+| C-TEC | 138 | 121 |
+| CAME / BPT | 21 | 21 |
+| CDVI | 6 | 2 |
+| Comelit | 156 | 156 |
 | Dahua | 10 | 10 |
-| Eaton / Scantronic | 3 | 3 |
-| Hikvision | 6 | 6 |
-| Kentec | 148 | 53 |
-| Paxton | 92 | 84 |
-| Pyronix | 2 | 0 |
-| Texecom | 97 | 97 |
-| Videx | 68 | 68 |
+| Dedicated Micros | 10 | 10 |
+| EMS | 2 | 2 |
+| Eaton / Cooper | 2 | 2 |
+| Eaton / Scantronic | 20 | 20 |
+| FLIR | 2 | 2 |
+| Farfisa | 1 | 1 |
+| Fike | 44 | 44 |
+| GJD | 12 | 12 |
+| Genie | 1 | 1 |
+| Gent | 15 | 15 |
+| Global Fire Equipment | 4 | 4 |
+| Haes | 76 | 76 |
+| Hikvision | 52 | 52 |
+| Hochiki | 3 | 3 |
+| Honeywell | 41 | 41 |
+| Inovonics | 2 | 2 |
+| Kentec | 151 | 56 |
+| Keyscan | 1 | 1 |
+| Luminite | 2 | 2 |
+| Luxrite | 1 | 1 |
+| Menvier | 10 | 10 |
+| Meyertech | 89 | 89 |
+| Morley-IAS | 7 | 7 |
+| NVT | 8 | 8 |
+| Nice | 16 | 16 |
+| Nortek | 4 | 4 |
+| Notifier | 7 | 7 |
+| Orisec | 11 | 11 |
+| Paxton | 398 | 398 |
+| Philips | 14 | 14 |
+| Protec | 2 | 2 |
+| Pyronix | 9 | 7 |
+| Risco | 87 | 87 |
+| Salto | 238 | 238 |
+| Samsung | 1 | 1 |
+| SmokeCloak | 1 | 1 |
+| System Q | 5 | 5 |
+| TDSi | 17 | 17 |
+| Texecom | 115 | 115 |
+| VCL / Ademco | 11 | 11 |
+| Videx | 73 | 73 |
+| Visonic | 9 | 9 |
+| Ziton | 5 | 5 |
 
 ## Availability
 
 | Status | Records | Meaning |
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
-| online-manual | 30 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 214 | Retrieval service identified a PDF and its page count; this is not a local copy. |
-| pdf-link-listed | 830 | A direct PDF link was found on a manufacturer source; full file not downloaded by this collection. |
-| retrieval-failed | 6 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
-| source-listing | 121 | Document title listed by manufacturer; a usable direct download is still unresolved. |
+| online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
+| pdf-indexed | 398 | Retrieval service identified a PDF and its page count; this is not a local copy. |
+| pdf-link-listed | 1844 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
+| retrieval-failed | 308 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
+| source-listing | 113 | Document title listed by manufacturer; a usable direct download is still unresolved. |
 
 ## Document types
 
 | Type | Records |
 |---|---:|
-| application-note | 24 |
-| datasheet | 3 |
-| diagram | 10 |
-| installation | 163 |
-| programming | 4 |
-| quick-start | 52 |
-| reference | 267 |
-| troubleshooting | 4 |
-| user-guide | 678 |
+| application-note | 252 |
+| datasheet | 4 |
+| diagram | 16 |
+| installation | 574 |
+| programming | 45 |
+| quick-start | 116 |
+| reference | 827 |
+| troubleshooting | 5 |
+| user-guide | 1063 |
+
+## Source provenance
+
+| Source type | Records |
+|---|---:|
+| distributor | 21 |
+| installer | 626 |
+| manufacturer | 2255 |
+
+Manufacturer sources are preferred. Installer and distributor copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
+
+## This expansion
+
+- Expanded the catalogue from 1,205 to 2,902 records across 69 brands, using manufacturer libraries and clearly labelled public supplier archives.
+- Collected 72 current and archived Haes manuals, 238 distinct Salto PDF URLs, 81 Risco PDF download endpoints, and Fike Twinflex / CIE-A documentation.
+- Checked all 231 Ajax manual paths in its published English sitemap. Indexed 230 manual or configuration-guide pages; excluded the service-payment article. These are web documents, not offline PDF exports.
+- Added 244 Paxton application notes and resolved all eight previously missing Paxton instruction download URLs.
+- Added Comelit fire, intrusion, CCTV and door-entry documentation, TDSi guides, and core Gent, Morley-IAS, Notifier, Protec, Ziton and EMS records.
+- Checked 601 supplier-hosted legacy URLs: 299 returned PDF headers and 297 complete responses were hashed. Identical complete-file hashes were merged; alternate URLs were retained.
+- Merged 102 overlapping additions by source URL or identical file hash. Existing catalogue IDs were retained.
 
 ## Known gaps
 
-- Source indexes are a starting set, not an exhaustive crawl of all products or historical revisions. The largest collections here are the published Axis, Kentec, C-TEC, Texecom, Paxton and Videx indexes.
-- Ajax records cover the models visible on the retrieved device listing. Additional product pages remain to be collected.
-- Advanced, Apollo, CDVI, Dahua, Eaton/Scantronic, Hikvision and Pyronix have partial coverage. Shared firmware manuals must be matched to the exact product; generic family folders do not imply every model is supported.
-- More manufacturer work remains, including Gent, Honeywell/Notifier/Morley-IAS, Cooper fire systems, Orisec, Risco, Bosch, TDSi, Salto, Comelit, CAME/BPT, Fike, Protec, Ziton and Haes. No empty folders are counted as collected manuals.
-- Some Kentec index links did not resolve through the retrieval service. The manufacturer listing and exact listed title are retained for those records.
-- No claim is made that a PDF has redistribution permission, is the newest issue, or is correct for a particular installation.
-- The public archive contains no original PDF binaries. Device downloads and their integrity records are created by the local downloader.
+- This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.
+- Kentec and C-TEC still have unresolved entries. Their public pages returned HTTP 202 to ordinary retrieval and some indexed links failed in the retrieval service. Titles and source references remain available; download URLs were not guessed.
+- 301 legacy URL checks were blocked by the retrieval connection with HTTP 403, and one response was not a PDF. Those records are marked retrieval-failed. Their listing links remain available; they are not verified working downloads.
+- Many legacy supplier filenames are abbreviated. Exact model variants, publication dates, firmware, language and region need review against the document. Similar unverified mirror files may still overlap; counts are records, not a guarantee of unique file contents.
+- Ajax web manuals and CDVI document viewers require a supported export or manual download before offline use. The local PDF downloader does not make those pages available offline.
+- Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch coverage currently includes only a few legacy CCTV manuals; MAP, intrusion and current access platforms need more work.
+- Protec currently has 6500/6600 commissioning guides; 6100, 6300 and other installation/user editions still need accessible original sources. Advanced MxPro, Apollo devices, Hochiki, Nittan and additional Honeywell families need deeper model-level coverage.
+- Comelit category pages expose only a subset of larger libraries. Further pagination and product-specific downloads remain to be collected. Manufacturer brand coverage does not imply complete coverage within that brand.
+- The archive contains no third-party PDF binaries. PDFs and checksum manifests created by the downloader remain local and gitignored. No claim is made about redistribution permission or technical suitability.
+
+## Records without direct PDF links
+
+| Brand | Records |
+|---|---:|
+| Ajax | 232 |
+| Apollo | 1 |
+| Axis | 1 |
+| C-TEC | 17 |
+| CDVI | 4 |
+| Kentec | 95 |
+| Pyronix | 2 |
+
+The full queue is in [data/research-backlog.json](data/research-backlog.json). These counts include valid web manuals as well as unresolved listings; they are not all broken links.
 
 ## Sources
 
-- **Advanced**: [source 1](https://www.advancedco.com/wp-content/uploads/680-165V-07-Axis-EN-Product-Manual.pdf), [source 2](https://www.advancedco.com/wp-content/uploads/680-168-04-MxPro-5-Hochiki.pdf)
-- **Ajax**: [source 1](https://ajax.systems/support/category/en54-fire-hub-jeweller/), [source 2](https://ajax.systems/support/category/en54-fire-rex-jeweller/), [source 3](https://ajax.systems/support/category/hub-2/), [source 4](https://ajax.systems/support/category/hub-bp/), [source 5](https://ajax.systems/support/category/hub/), [source 6](https://ajax.systems/support/category/hub2-plus/), [source 7](https://ajax.systems/support/category/hubplus/), [source 8](https://ajax.systems/support/category/rex-2/), [source 9](https://ajax.systems/support/category/rex/), [source 10](https://ajax.systems/support/category/superior-doorprotect-fibra/), [source 11](https://ajax.systems/support/category/superior-doorprotect-g3-fibra/), [source 12](https://ajax.systems/support/category/superior-doorprotect-jeweller/), [source 13](https://ajax.systems/support/category/superior-doorprotect-plus-fibra/), [source 14](https://ajax.systems/support/category/superior-glassprotect-fibra/), [source 15](https://ajax.systems/support/category/superior-hub-g3-jeweller/), [source 16](https://ajax.systems/support/category/superior-hub-hybrid-2/), [source 17](https://ajax.systems/support/category/superior-hub-hybrid/), [source 18](https://ajax.systems/support/category/superior-megahub/), [source 19](https://ajax.systems/support/category/superior-rex-g3-jeweller/), [source 20](https://ajax.systems/support/category/type4-fire-hub-jeweller/), [source 21](https://ajax.systems/support/category/type4-fire-rex-jeweller/), [source 22](https://ajax.systems/support/category/type4-hub-4g-jeweller/), [source 23](https://ajax.systems/support/category/type4-rex-jeweller/)
-- **Apollo**: [source 1](https://apollo-fire.co.uk/system-types/xpander-range/), [source 2](https://apollo-fire.co.uk/wp-content/uploads/2025/10/XP95-I.S.-Manual-Call-Point-EN54-Installation-Guide.pdf)
+- **ACT**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **ADE**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **ADPRO**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **AES**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **ASO**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Adams Rite**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Ademco**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Advanced**: [source 1](https://www.advancedco.com/wp-content/uploads/680-165V-07-Axis-EN-Product-Manual.pdf), [source 2](https://www.advancedco.com/wp-content/uploads/680-168-04-MxPro-5-Hochiki.pdf), [source 3](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Aiphone**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Ajax**: [source 1](https://ajax.systems/support/category/en54-fire-hub-jeweller/), [source 2](https://ajax.systems/support/category/en54-fire-rex-jeweller/), [source 3](https://ajax.systems/support/category/hub-2/), [source 4](https://ajax.systems/support/category/hub-bp/), [source 5](https://ajax.systems/support/category/hub/), [source 6](https://ajax.systems/support/category/hub2-plus/), [source 7](https://ajax.systems/support/category/hubplus/), [source 8](https://ajax.systems/support/category/rex-2/), [source 9](https://ajax.systems/support/category/rex/), [source 10](https://ajax.systems/support/category/superior-doorprotect-fibra/), [source 11](https://ajax.systems/support/category/superior-doorprotect-g3-fibra/), [source 12](https://ajax.systems/support/category/superior-doorprotect-jeweller/), [source 13](https://ajax.systems/support/category/superior-doorprotect-plus-fibra/), [source 14](https://ajax.systems/support/category/superior-glassprotect-fibra/), [source 15](https://ajax.systems/support/category/superior-hub-g3-jeweller/), [source 16](https://ajax.systems/support/category/superior-hub-hybrid-2/), [source 17](https://ajax.systems/support/category/superior-hub-hybrid/), [source 18](https://ajax.systems/support/category/superior-megahub/), [source 19](https://ajax.systems/support/category/superior-rex-g3-jeweller/), [source 20](https://ajax.systems/support/category/type4-fire-hub-jeweller/), [source 21](https://ajax.systems/support/category/type4-fire-rex-jeweller/), [source 22](https://ajax.systems/support/category/type4-hub-4g-jeweller/), [source 23](https://ajax.systems/support/category/type4-rex-jeweller/), [source 24](https://ajax.systems/support/manuals/12-24vpsu-hub2/), [source 25](https://ajax.systems/support/manuals/12v-psu-for-nvr/), [source 26](https://ajax.systems/support/manuals/12vpsu-hub2/), [source 27](https://ajax.systems/support/manuals/12vpsu/), [source 28](https://ajax.systems/support/manuals/6vpsu-hub2/), [source 29](https://ajax.systems/support/manuals/access-devices/), [source 30](https://ajax.systems/support/manuals/ajax-911/), [source 31](https://ajax.systems/support/manuals/ajax-bulletcam-hlvf-nm/), [source 32](https://ajax.systems/support/manuals/ajax-cloud-storage/), [source 33](https://ajax.systems/support/manuals/ajax-desktop/), [source 34](https://ajax.systems/support/manuals/ajax-din-holder-shutter-module/), [source 35](https://ajax.systems/support/manuals/ajax-media-player/), [source 36](https://ajax.systems/support/manuals/ajax-photo-mode/), [source 37](https://ajax.systems/support/manuals/ajax-response/), [source 38](https://ajax.systems/support/manuals/ajax-sim/), [source 39](https://ajax.systems/support/manuals/ajax-superior-doorprotect-flush-fibra/), [source 40](https://ajax.systems/support/manuals/ajax-superior-spacecontrol-jeweller/), [source 41](https://ajax.systems/support/manuals/ajax-translator-pro/), [source 42](https://ajax.systems/support/manuals/ajax-tv/), [source 43](https://ajax.systems/support/manuals/ajax-video-sdk/), [source 44](https://ajax.systems/support/manuals/ajaxspacecontrol/), [source 45](https://ajax.systems/support/manuals/apple-watch-app/), [source 46](https://ajax.systems/support/manuals/bulletcam-hl/), [source 47](https://ajax.systems/support/manuals/bulletcam-hlvf/), [source 48](https://ajax.systems/support/manuals/bulletcam/), [source 49](https://ajax.systems/support/manuals/button/), [source 50](https://ajax.systems/support/manuals/bypass-dimmer-55/), [source 51](https://ajax.systems/support/manuals/cabletrunk/), [source 52](https://ajax.systems/support/manuals/case-e-395/), [source 53](https://ajax.systems/support/manuals/case-fibra/), [source 54](https://ajax.systems/support/manuals/cloud-signaling/), [source 55](https://ajax.systems/support/manuals/combiprotect-u-jeweller/), [source 56](https://ajax.systems/support/manuals/combiprotect/), [source 57](https://ajax.systems/support/manuals/coverplate/), [source 58](https://ajax.systems/support/manuals/curtain-outdoor-jeweller/), [source 59](https://ajax.systems/support/manuals/curtain-outdoor-mini-jeweller/), [source 60](https://ajax.systems/support/manuals/curtaincam-outdoor-highmount-phod-jeweller/), [source 61](https://ajax.systems/support/manuals/domecam-mini-hl/), [source 62](https://ajax.systems/support/manuals/domecam-mini/), [source 63](https://ajax.systems/support/manuals/doorbell/), [source 64](https://ajax.systems/support/manuals/doorprotect-outdoor-jeweller/), [source 65](https://ajax.systems/support/manuals/doorprotect-plus-u-jeweller/), [source 66](https://ajax.systems/support/manuals/doorprotect-plus/), [source 67](https://ajax.systems/support/manuals/doorprotect-u-jeweller/), [source 68](https://ajax.systems/support/manuals/doorprotect/), [source 69](https://ajax.systems/support/manuals/doublebutton/), [source 70](https://ajax.systems/support/manuals/dualcurtain-outdoor/), [source 71](https://ajax.systems/support/manuals/en54-fireprotect-heat-jeweller/), [source 72](https://ajax.systems/support/manuals/en54-fireprotect-heat-smoke-jeweller/), [source 73](https://ajax.systems/support/manuals/en54-fireprotect-heat-sounder-jeweller/), [source 74](https://ajax.systems/support/manuals/en54-fireprotect-smoke-jeweller/), [source 75](https://ajax.systems/support/manuals/en54-fireprotect-smoke-sounder-jeweller/), [source 76](https://ajax.systems/support/manuals/en54-fireprotect-sounder-jeweller/), [source 77](https://ajax.systems/support/manuals/en54-fireprotect-sounder-vad-jeweller/), [source 78](https://ajax.systems/support/manuals/en54-fireprotect-vad-jeweller/), [source 79](https://ajax.systems/support/manuals/en54-indicator-jeweller/), [source 80](https://ajax.systems/support/manuals/en54-internal-battery/), [source 81](https://ajax.systems/support/manuals/en54-io-module-2x2-jeweller/), [source 82](https://ajax.systems/support/manuals/external-antenna/), [source 83](https://ajax.systems/support/manuals/fireprotect-2-ac-co/), [source 84](https://ajax.systems/support/manuals/fireprotect-2-ac-heat-co/), [source 85](https://ajax.systems/support/manuals/fireprotect-2-ac-heat-smoke-co/), [source 86](https://ajax.systems/support/manuals/fireprotect-2-ac-heat-smoke/), [source 87](https://ajax.systems/support/manuals/fireprotect-2-ac-heat/), [source 88](https://ajax.systems/support/manuals/fireprotect-2-co/), [source 89](https://ajax.systems/support/manuals/fireprotect-2-heat-co/), [source 90](https://ajax.systems/support/manuals/fireprotect-2-heat-smoke-co/), [source 91](https://ajax.systems/support/manuals/fireprotect-2-heat-smoke/), [source 92](https://ajax.systems/support/manuals/fireprotect-2-heat/), [source 93](https://ajax.systems/support/manuals/fireprotect-plus/), [source 94](https://ajax.systems/support/manuals/fireprotect/), [source 95](https://ajax.systems/support/manuals/glandbox/), [source 96](https://ajax.systems/support/manuals/glassprotect-u-jeweller/), [source 97](https://ajax.systems/support/manuals/glassprotect/), [source 98](https://ajax.systems/support/manuals/homesiren-u-jeweller/), [source 99](https://ajax.systems/support/manuals/homesiren/), [source 100](https://ajax.systems/support/manuals/indoorcam/), [source 101](https://ajax.systems/support/manuals/internal-battery-nb-190ah/), [source 102](https://ajax.systems/support/manuals/internal-battery-nb-95ah/), [source 103](https://ajax.systems/support/manuals/internal-battery-rb-36ah/), [source 104](https://ajax.systems/support/manuals/internal-battery-rb-78ah/), [source 105](https://ajax.systems/support/manuals/junctionbox/), [source 106](https://ajax.systems/support/manuals/keypad-outdoor-jeweller/), [source 107](https://ajax.systems/support/manuals/keypad-plus/), [source 108](https://ajax.systems/support/manuals/keypad-touchscreen/), [source 109](https://ajax.systems/support/manuals/keypad/), [source 110](https://ajax.systems/support/manuals/leaksprotect/), [source 111](https://ajax.systems/support/manuals/lifequality-lite-jeweller/), [source 112](https://ajax.systems/support/manuals/lifequality/), [source 113](https://ajax.systems/support/manuals/lightswitch-1-gang-120-jeweller/), [source 114](https://ajax.systems/support/manuals/lightswitch-2-gang-2-way-jeweller/), [source 115](https://ajax.systems/support/manuals/lightswitch-3-way-120-jeweller/), [source 116](https://ajax.systems/support/manuals/lightswitch-4-way-120-jeweller/), [source 117](https://ajax.systems/support/manuals/lightswitch-crossover-jeweller/), [source 118](https://ajax.systems/support/manuals/lightswitch-dimmer-jeweller/), [source 119](https://ajax.systems/support/manuals/lightswitch/), [source 120](https://ajax.systems/support/manuals/lockbridge-d-jeweller/), [source 121](https://ajax.systems/support/manuals/manualcallpoint-black-jeweller/), [source 122](https://ajax.systems/support/manuals/manualcallpoint-red-jeweller/), [source 123](https://ajax.systems/support/manuals/manualcallpoints-jeweller/), [source 124](https://ajax.systems/support/manuals/motioncam-outdoor-highmount-phod/), [source 125](https://ajax.systems/support/manuals/motioncam-outdoor-phod/), [source 126](https://ajax.systems/support/manuals/motioncam-outdoor/), [source 127](https://ajax.systems/support/manuals/motioncam-phod/), [source 128](https://ajax.systems/support/manuals/motioncam-u-jeweller/), [source 129](https://ajax.systems/support/manuals/motioncam-u-phod-jeweller/), [source 130](https://ajax.systems/support/manuals/motioncam/), [source 131](https://ajax.systems/support/manuals/motionprotect-curtain/), [source 132](https://ajax.systems/support/manuals/motionprotect-na/), [source 133](https://ajax.systems/support/manuals/motionprotect-outdoor/), [source 134](https://ajax.systems/support/manuals/motionprotect-plus-u-jeweller/), [source 135](https://ajax.systems/support/manuals/motionprotect-plus/), [source 136](https://ajax.systems/support/manuals/motionprotect-u-jeweller/), [source 137](https://ajax.systems/support/manuals/motionprotect/), [source 138](https://ajax.systems/support/manuals/mountcam/), [source 139](https://ajax.systems/support/manuals/multitransmitter/), [source 140](https://ajax.systems/support/manuals/nvr-h/), [source 141](https://ajax.systems/support/manuals/nvr/), [source 142](https://ajax.systems/support/manuals/ocbridge-plus/), [source 143](https://ajax.systems/support/manuals/onvif/), [source 144](https://ajax.systems/support/manuals/outlet-basic-type-e/), [source 145](https://ajax.systems/support/manuals/outlet-basic-type-f/), [source 146](https://ajax.systems/support/manuals/outlet-lan/), [source 147](https://ajax.systems/support/manuals/outlet-type-e-jeweller/), [source 148](https://ajax.systems/support/manuals/outlet-type-f-jeweller/), [source 149](https://ajax.systems/support/manuals/pro-desktop/), [source 150](https://ajax.systems/support/manuals/relay/), [source 151](https://ajax.systems/support/manuals/scenarios/), [source 152](https://ajax.systems/support/manuals/services/), [source 153](https://ajax.systems/support/manuals/socket-type-b-jeweller/), [source 154](https://ajax.systems/support/manuals/socket-type-f/), [source 155](https://ajax.systems/support/manuals/socket-type-g/), [source 156](https://ajax.systems/support/manuals/sounder-vad-blue-jeweller/), [source 157](https://ajax.systems/support/manuals/speakerphone-jeweller/), [source 158](https://ajax.systems/support/manuals/streetsiren-doubledeck/), [source 159](https://ajax.systems/support/manuals/streetsiren/), [source 160](https://ajax.systems/support/manuals/superior-bulletcam-hlvf/), [source 161](https://ajax.systems/support/manuals/superior-button-jeweller/), [source 162](https://ajax.systems/support/manuals/superior-combiprotect-fibra/), [source 163](https://ajax.systems/support/manuals/superior-combiprotect-jeweller/), [source 164](https://ajax.systems/support/manuals/superior-domecam-hlvf/), [source 165](https://ajax.systems/support/manuals/superior-doorprotect-g3-jeweller/), [source 166](https://ajax.systems/support/manuals/superior-doorprotect-plus-jeweller/), [source 167](https://ajax.systems/support/manuals/superior-doublebutton-g3-jeweller/), [source 168](https://ajax.systems/support/manuals/superior-glassprotect-jeweller/), [source 169](https://ajax.systems/support/manuals/superior-homesiren-fibra/), [source 170](https://ajax.systems/support/manuals/superior-homesiren-g3-jeweller/), [source 171](https://ajax.systems/support/manuals/superior-homesiren-jeweller/), [source 172](https://ajax.systems/support/manuals/superior-internal-battery/), [source 173](https://ajax.systems/support/manuals/superior-keypad-fibra/), [source 174](https://ajax.systems/support/manuals/superior-keypad-outdoor-fibra/), [source 175](https://ajax.systems/support/manuals/superior-keypad-plus-g3-jeweller/), [source 176](https://ajax.systems/support/manuals/superior-keypad-plus-jeweller/), [source 177](https://ajax.systems/support/manuals/superior-keypad-touchscreen-fibra/), [source 178](https://ajax.systems/support/manuals/superior-keypad-touchscreen-g3-jeweller/), [source 179](https://ajax.systems/support/manuals/superior-lineprotect-fibra/), [source 180](https://ajax.systems/support/manuals/superior-linesplit-fibra/), [source 181](https://ajax.systems/support/manuals/superior-linesupply-fibra/), [source 182](https://ajax.systems/support/manuals/superior-motioncam-am-phod-jeweller/), [source 183](https://ajax.systems/support/manuals/superior-motioncam-fibra/), [source 184](https://ajax.systems/support/manuals/superior-motioncam-g3-phod-jeweller/), [source 185](https://ajax.systems/support/manuals/superior-motioncam-hd-phod-jeweller/), [source 186](https://ajax.systems/support/manuals/superior-motioncam-phod-fibra/), [source 187](https://ajax.systems/support/manuals/superior-motioncam-phod-jeweller/), [source 188](https://ajax.systems/support/manuals/superior-motionprotect-fibra/), [source 189](https://ajax.systems/support/manuals/superior-motionprotect-g3-fibra/), [source 190](https://ajax.systems/support/manuals/superior-motionprotect-g3-jeweller/), [source 191](https://ajax.systems/support/manuals/superior-motionprotect-jeweller/), [source 192](https://ajax.systems/support/manuals/superior-motionprotect-plus-fibra/), [source 193](https://ajax.systems/support/manuals/superior-motionprotect-plus-g3-fibra/), [source 194](https://ajax.systems/support/manuals/superior-motionprotect-plus-g3-jeweller/), [source 195](https://ajax.systems/support/manuals/superior-motionprotect-plus-jeweller/), [source 196](https://ajax.systems/support/manuals/superior-multirelay-fibra/), [source 197](https://ajax.systems/support/manuals/superior-multitransmitter-fibra-without-casing/), [source 198](https://ajax.systems/support/manuals/superior-multitransmitter-fibra/), [source 199](https://ajax.systems/support/manuals/superior-multitransmitter-g3-jeweller-without-casing/), [source 200](https://ajax.systems/support/manuals/superior-multitransmitter-g3-jeweller/), [source 201](https://ajax.systems/support/manuals/superior-multitransmitter-io-4x4-fibra/), [source 202](https://ajax.systems/support/manuals/superior-nvr-h2daip/), [source 203](https://ajax.systems/support/manuals/superior-seismoprotect-g3-fibra/), [source 204](https://ajax.systems/support/manuals/superior-streetsiren-doubledeck-fibra/), [source 205](https://ajax.systems/support/manuals/superior-streetsiren-doubledeck-jeweller/), [source 206](https://ajax.systems/support/manuals/superior-streetsiren-fibra/), [source 207](https://ajax.systems/support/manuals/superior-streetsiren-plus-fibra/), [source 208](https://ajax.systems/support/manuals/superior-streetsiren-plus-g3-jeweller/), [source 209](https://ajax.systems/support/manuals/superior-streetsiren-plus-jeweller/), [source 210](https://ajax.systems/support/manuals/superior-transmitter-fibra/), [source 211](https://ajax.systems/support/manuals/surfacebox-55/), [source 212](https://ajax.systems/support/manuals/translator/), [source 213](https://ajax.systems/support/manuals/transmitter/), [source 214](https://ajax.systems/support/manuals/turretcam-hl/), [source 215](https://ajax.systems/support/manuals/turretcam/), [source 216](https://ajax.systems/support/manuals/type4-fireprotect-sounder-jeweller/), [source 217](https://ajax.systems/support/manuals/type4-fireprotect-sounder-vad-jeweller/), [source 218](https://ajax.systems/support/manuals/type4-fireprotect-vad-jeweller/), [source 219](https://ajax.systems/support/manuals/type4-internal-battery/), [source 220](https://ajax.systems/support/manuals/type4-io-module-2x2-jeweller/), [source 221](https://ajax.systems/support/manuals/type4-manualcallpoint-jeweller/), [source 222](https://ajax.systems/support/manuals/uartbridge/), [source 223](https://ajax.systems/support/manuals/ultradp/), [source 224](https://ajax.systems/support/manuals/vhfbridge/), [source 225](https://ajax.systems/support/manuals/videoscenarios/), [source 226](https://ajax.systems/support/manuals/wallswitch/), [source 227](https://ajax.systems/support/manuals/waterstop/), [source 228](https://ajax.systems/support/manuals/wear-os-app/)
+- **Altron**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Apollo**: [source 1](https://apollo-fire.co.uk/system-types/xpander-range/), [source 2](https://apollo-fire.co.uk/wp-content/uploads/2025/10/XP95-I.S.-Manual-Call-Point-EN54-Installation-Guide.pdf), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Aritech**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Axis**: [source 1](https://help.axis.com/en-us/)
-- **C-TEC**: [source 1](https://c-tec.com/info/instruction-manuals/)
-- **CDVI**: [source 1](https://www.cdvi.co.uk/our-products/a22/), [source 2](https://www.cdvi.co.uk/our-products/galeo-w/)
+- **BBV**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Bandit**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Baxall**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Bell System**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Beninca**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Borg Locks**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Bosch**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **C-TEC**: [source 1](https://c-tec.com/info/instruction-manuals/), [source 2](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **CAME / BPT**: [source 1](https://www.bptintercoms.co.uk/manuals.html), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **CDVI**: [source 1](https://www.cdvi.co.uk/our-products/a22/), [source 2](https://www.cdvi.co.uk/our-products/galeo-w/), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Comelit**: [source 1](https://pro.comelitgroup.com/en-gb/downloads/cctv/technical-sheets-5/generic-documents-1), [source 2](https://pro.comelitgroup.com/en-gb/downloads/door-entry-systems-kits-1/technical-manuals-3/audio-internal-units-1), [source 3](https://pro.comelitgroup.com/en-gb/downloads/fire-detection/technical-documents-1), [source 4](https://pro.comelitgroup.com/en-gb/downloads/intruder-alarm/technical-documents-2), [source 5](https://pro.comelitgroup.com/en-gb/downloads/vip-system-3/technical-manuals-4/generic-documents-6)
 - **Dahua**: [source 1](https://www.dahuasecurity.com/asset/upload/product/20180524/Dahua-HDCVI-DVR-Users-Manual-V1_3_1.pdf), [source 2](https://www.dahuasecurity.com/asset/upload/product/20180525/Dahua-HDCVI-DVR-Users-Manual-V2_3_4-30.pdf), [source 3](https://www.dahuasecurity.com/asset/upload/product/20180705/Dahua-HDCVI-DVR-Users-Manual-V4_0_0-20180605_pdf1.pdf), [source 4](https://www.dahuasecurity.com/asset/upload/product/20180810/IPC-T2B40-ZS_Operation_Manual-_20171229.pdf), [source 5](https://www.dahuasecurity.com/asset/upload/product/20180904/ASC1202B-D_Users-Manual_V1_0_0_201808.pdf), [source 6](https://www.dahuasecurity.com/asset/upload/uploads/soft/20181031/Dahua-AI-Network-Video-Recorder_Users-Manual_V1.0.1-201810081.pdf), [source 7](https://www.dahuasecurity.com/asset/upload/uploads/soft/20181107/Dahua-Network-Video-Server-Users-Manual-V1.1.1.pdf), [source 8](https://www.dahuasecurity.com/asset/upload/uploads/soft/20181220/Embedded-Video-Storage-Server-%28EVS50-70-Series%29_Users-Manual_V2.1.03.pdf), [source 9](https://www.dahuasecurity.com/asset/upload/uploads/soft/20200720/Digital-VTH_Users-Manual_V1.2.0_201906063.pdf), [source 10](https://www.dahuasecurity.com/asset/upload/uploads/soft/20210511/DMSS-App_Users-Manual_V1.3.0.pdf)
-- **Eaton / Scantronic**: [source 1](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/security-intruder-alarm-systems/i-on-series-admin-and-user-guides/eaton-intrusion-i-on-user-guide-en.pdf), [source 2](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/security-intruder-alarm-systems/i-on-series-admin-and-user-guides/eaton-security-i-on-series-admin-user-manual-en-gb.pdf), [source 3](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/security-intruder-alarm-systems/i-on-series-admin-and-user-guides/eaton-security-i-on-user-guide-en.pdf)
-- **Hikvision**: [source 1](https://assets.hikvision.com/prd/public/all/doc/m000051606/UD15501B-C_Baseline_User-Manual-of-Network-Camera_V5.5.90_20221223.pdf), [source 2](https://assets.hikvision.com/prd/public/all/doc/m000052822/UD11733B-B_Baseline_User-Manual-of-Network-Camera_V5.5.85_20221114.pdf), [source 3](https://assets.hikvision.com/prd/public/all/doc/m000052971/DOC000073129_UD01171B_Baseline_User-Manual-V5.4.0_20160401.pdf), [source 4](https://assets.hikvision.com/prd/public/all/doc/m000053772/UD15501B_Baseline_User-Manual-of-Network-Camera_V5.5.90_20221114.pdf), [source 5](https://assets.hikvision.com/prd/public/all/doc/m000059088/UD29837B_Baseline_Thermal-Network-Bullet-Camera_QSG_220914.pdf), [source 6](https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000003/S000001255/OFR000056/M000026522/User_Manual/UD15753B-B_Baseline_User-Manual-of-Network-Camera_V5.5.83-H5_20221223.pdf)
-- **Kentec**: [source 1](https://kentec.co.uk/resources/product-resources/)
-- **Paxton**: [source 1](https://www.paxton-access.com/install-paxton/resources/instructions/)
-- **Pyronix**: [source 1](https://www.support.pyronix.com/uk/product/enforcer-v11/documentation/enforcer-v11-extended-user-guide), [source 2](https://www.support.pyronix.com/uk/product/homecontrol2-0/documentation/homecontrol2-0-user-guide-2)
-- **Texecom**: [source 1](https://www.texe.com/help-and-support/product-support/)
-- **Videx**: [source 1](https://www.videxuk.com/downloads/application-notes/), [source 2](https://www.videxuk.com/downloads/manuals/), [source 3](https://www.videxuk.com/downloads/quick-guides/)
+- **Dedicated Micros**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **EMS**: [source 1](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2023/operation_manual/mk067_smartcell_intelligent_wzm_programming_guide_issue_3_0.pdf), [source 2](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2024/user_manual/tsd113-0001-99_smartcell_control_panel_user_guide_issue_5.pdf)
+- **Eaton / Cooper**: [source 1](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/fire/addressable/cf1000-panel/en/eaton-fire-addressable-control-panel-cf1100-1200-manual-25-16327-en.pdf), [source 2](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/fire/addressable/cf3000-panel/en/eaton-fire-addressable-control-panel-cf3000-manual-25-14682-en.pdf)
+- **Eaton / Scantronic**: [source 1](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/security-intruder-alarm-systems/i-on-series-admin-and-user-guides/eaton-intrusion-i-on-user-guide-en.pdf), [source 2](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/security-intruder-alarm-systems/i-on-series-admin-and-user-guides/eaton-security-i-on-series-admin-user-manual-en-gb.pdf), [source 3](https://www.eaton.com/content/dam/eaton/products/safety-security-emergency-communications/security-intruder-alarm-systems/i-on-series-admin-and-user-guides/eaton-security-i-on-user-guide-en.pdf), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **FLIR**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Farfisa**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Fike**: [source 1](https://www.fike.com/en-gb/product-documents/cie-a-200-fire-alarm-system/), [source 2](https://www.fike.com/es-es/product-documents/twinflex-pro2/), [source 3](https://www.fike.com/product-documents/cie-a-400-fire-alarm-system/), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **GJD**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Genie**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Gent**: [source 1](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/installation-guides/gent-112425/hon-ba-fire-vig-ins.pdf?download=false), [source 2](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/repair-and-maintenance-guides/gent-112425/hon-ba-fire-vigop.pdf?download=false), [source 3](https://www.midlandfiresecurity.co.uk/client-support-training/instruction-manuals-and-documentation/)
+- **Global Fire Equipment**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Haes**: [source 1](https://haes-tech.com/downloads/2000-series-manual-2), [source 2](https://haes-tech.com/downloads/3000-series-manual-2), [source 3](https://haes-tech.com/downloads/6000-series-manual-2), [source 4](https://haes-tech.com/downloads/7003-manual-2), [source 5](https://haes-tech.com/downloads/8000-series-manual-2), [source 6](https://haes-tech.com/downloads/9001sd-manual-2), [source 7](https://haes-tech.com/downloads/9002-4-manual-2), [source 8](https://haes-tech.com/downloads/9012-manual-2), [source 9](https://haes-tech.com/downloads/alarmsense-instruction-manual), [source 10](https://haes-tech.com/downloads/alarmsense-plus-instruction-manual), [source 11](https://haes-tech.com/downloads/alarmsense-plus-repeater-instruction-manual), [source 12](https://haes-tech.com/downloads/aov-instruction-manual), [source 13](https://haes-tech.com/downloads/boxed-isolate-relay-instruction-leaflet), [source 14](https://haes-tech.com/downloads/eclipse-instruction-manual), [source 15](https://haes-tech.com/downloads/elan-installation-commissioning-manual-2), [source 16](https://haes-tech.com/downloads/elan-remote-terminal-manual-2), [source 17](https://haes-tech.com/downloads/elan-user-manual-2), [source 18](https://haes-tech.com/downloads/elite-1-apollo-installation-manual), [source 19](https://haes-tech.com/downloads/elite-1-nittan-installation-manual), [source 20](https://haes-tech.com/downloads/elite-1-operating-manual), [source 21](https://haes-tech.com/downloads/elite-1-programming-manual), [source 22](https://haes-tech.com/downloads/elite-1-repeater-manual), [source 23](https://haes-tech.com/downloads/envoy-1-4-manual), [source 24](https://haes-tech.com/downloads/esento-marine-2-4-instruction-manual), [source 25](https://haes-tech.com/downloads/esento-marine-8-12-instruction-manual), [source 26](https://haes-tech.com/downloads/esento-marine-repeater-instruction-manual), [source 27](https://haes-tech.com/downloads/esento-output-card-instruction-leaflet), [source 28](https://haes-tech.com/downloads/esento-rdu-instruction-manual), [source 29](https://haes-tech.com/downloads/esento-repeater-instruction-manual-2), [source 30](https://haes-tech.com/downloads/esprit-a-config-software-manual), [source 31](https://haes-tech.com/downloads/esprit-a-instruction-manual), [source 32](https://haes-tech.com/downloads/esprit-apollo-addressable-instruction-manual-2), [source 33](https://haes-tech.com/downloads/esprit-g-instruction-manual), [source 34](https://haes-tech.com/downloads/evoque-instruction-manual), [source 35](https://haes-tech.com/downloads/excel-instruction-manual), [source 36](https://haes-tech.com/downloads/fire-alarm-isolate-switch-instruction-leaflet), [source 37](https://haes-tech.com/downloads/firemax-configuration-manual), [source 38](https://haes-tech.com/downloads/firemax-installation-manual-2), [source 39](https://haes-tech.com/downloads/fmk-xlk-a-installation-leaflet), [source 40](https://haes-tech.com/downloads/fusion-expansion-card-installation-guide), [source 41](https://haes-tech.com/downloads/fusion-fmk-installation-guide), [source 42](https://haes-tech.com/downloads/fusion-installation-commissioning-manual), [source 43](https://haes-tech.com/downloads/fusion-operating-manual), [source 44](https://haes-tech.com/downloads/fusion-quick-start-guide), [source 45](https://haes-tech.com/downloads/level-1-4-manual-2), [source 46](https://haes-tech.com/downloads/level-1-4-twin-manual-2), [source 47](https://haes-tech.com/downloads/level-2-1cd-manual-2), [source 48](https://haes-tech.com/downloads/lockdown-alarm-instruction-leaflet), [source 49](https://haes-tech.com/downloads/mini4-manual), [source 50](https://haes-tech.com/downloads/multi-tech-installation-manual), [source 51](https://haes-tech.com/downloads/multi-tech-pc-config-manual), [source 52](https://haes-tech.com/downloads/multi-tech-user-manual), [source 53](https://haes-tech.com/downloads/mzaov-config-software-manual), [source 54](https://haes-tech.com/downloads/mzaov-instruction-manual), [source 55](https://haes-tech.com/downloads/pc-config-software-manual-addressable-panel-2), [source 56](https://haes-tech.com/downloads/sounder-circuit-card-instruction-leaflet), [source 57](https://haes-tech.com/downloads/szaov-instruction-manual), [source 58](https://haes-tech.com/downloads/timer-relay-instruction-leaflet), [source 59](https://haes-tech.com/downloads/vector-1-installation-commissioning-manual), [source 60](https://haes-tech.com/downloads/vector-1-operating-manual), [source 61](https://haes-tech.com/downloads/vector-1-printer-manual), [source 62](https://haes-tech.com/downloads/vector-ml-installation-commissioning-manual-pre-v4-1), [source 63](https://haes-tech.com/downloads/vector-ml-operating-manual-pre-v4-1), [source 64](https://haes-tech.com/downloads/vector-ml-printer-manual-pre-v4-1), [source 65](https://haes-tech.com/downloads/vector-ml-repeater-manual-pre-v4-1), [source 66](https://haes-tech.com/downloads/vector-ml-v4-1-installation-commissioning-manual), [source 67](https://haes-tech.com/downloads/vector-ml-v4-1-operating-manual-2), [source 68](https://haes-tech.com/downloads/vector-ml-v4-1-printer-manual), [source 69](https://haes-tech.com/downloads/vector-ml-v4-1-repeater-manual), [source 70](https://haes-tech.com/downloads/xlk-e-repeater-manual), [source 71](https://haes-tech.com/downloads/xlk-installation-commissioning-manual), [source 72](https://haes-tech.com/downloads/xlk-programming-manual), [source 73](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 74](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Hikvision**: [source 1](https://assets.hikvision.com/prd/public/all/doc/m000000586/UD39811B-A_Network-Video-Recorder_User-Manual_V5.04.000_20250407.pdf), [source 2](https://assets.hikvision.com/prd/public/all/doc/m000051606/UD15501B-C_Baseline_User-Manual-of-Network-Camera_V5.5.90_20221223.pdf), [source 3](https://assets.hikvision.com/prd/public/all/doc/m000052822/UD11733B-B_Baseline_User-Manual-of-Network-Camera_V5.5.85_20221114.pdf), [source 4](https://assets.hikvision.com/prd/public/all/doc/m000052971/DOC000073129_UD01171B_Baseline_User-Manual-V5.4.0_20160401.pdf), [source 5](https://assets.hikvision.com/prd/public/all/doc/m000053772/UD15501B_Baseline_User-Manual-of-Network-Camera_V5.5.90_20221114.pdf), [source 6](https://assets.hikvision.com/prd/public/all/doc/m000059088/UD29837B_Baseline_Thermal-Network-Bullet-Camera_QSG_220914.pdf), [source 7](https://assets.hikvision.com/prd/public/all/doc/m000065352/UD39811B-A_Network-Video-Recorder_User-Manual_V5.04.000_20250425.pdf), [source 8](https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000003/S000001255/OFR000056/M000026522/User_Manual/UD15753B-B_Baseline_User-Manual-of-Network-Camera_V5.5.83-H5_20221223.pdf), [source 9](https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000007/S000000023/OFR000031/M000000690/User_Manual/UD10737B_Baseline_User-Manual-of-iDS-96000NXI-I16-24-Network-Video-Recorder_V4.1.18_20180627.pdf), [source 10](https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000007/S000000026/OFR000040/M000000599/User_Manual/UD33768B_Baseline_Network-Video-Recorder-I-and-M-Series_User-Manual_V4.63.010_20230609.pdf), [source 11](https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000132/S000000007/S000000008/OFR031214/M000111487/User_Manual/UD34396B_Network-Video-Recorder_User-Manual_V4.61.300_20231101.PDF), [source 12](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Hochiki**: [source 1](https://www.hochikieurope.com/literature), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Honeywell**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Inovonics**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Kentec**: [source 1](https://kentec.co.uk/resources/product-resources/), [source 2](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals)
+- **Keyscan**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Luminite**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Luxrite**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Menvier**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Meyertech**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Morley-IAS**: [source 1](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/installation-guides/BA-Fire-M-168-2-LITE-EN-Version-2024-KSA.pdf), [source 2](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 3](https://www.plpfire.co.uk/support/)
+- **NVT**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Nice**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Nortek**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Notifier**: [source 1](https://www.plpfire.co.uk/support/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Orisec**: [source 1](https://www.arrowesecuritysystems.co.uk/technical-support/orisec-user-manuals/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Paxton**: [source 1](https://www.paxton-access.com/install-paxton/resources/application-notes/), [source 2](https://www.paxton-access.com/install-paxton/resources/instructions/), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Philips**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Protec**: [source 1](https://www.acornfiresecurity.com/protec/protec-algo-tec-6500-fire-alarm-control-panel-1-4-loop?page=18)
+- **Pyronix**: [source 1](https://www.support.pyronix.com/uk/product/enforcer-v11/documentation/enforcer-v11-extended-user-guide), [source 2](https://www.support.pyronix.com/uk/product/homecontrol2-0/documentation/homecontrol2-0-user-guide-2), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Risco**: [source 1](https://riscogroup.com/en/rscm_product/agility-4/), [source 2](https://riscogroup.com/en/rscm_product/industrial-lunar-ceiling-detector/), [source 3](https://riscogroup.com/en/rscm_product/keyfob/), [source 4](https://riscogroup.com/en/rscm_product/keypads/), [source 5](https://riscogroup.com/en/rscm_product/lightsys-2/), [source 6](https://riscogroup.com/en/rscm_product/lightsys-air/), [source 7](https://riscogroup.com/en/rscm_product/lightsys/), [source 8](https://riscogroup.com/en/rscm_product/riscontrol-smart-home-controller/), [source 9](https://riscogroup.com/en/rscm_product/smart-accessories/), [source 10](https://riscogroup.com/en/rscm_product/wicomm-pro/), [source 11](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Salto**: [source 1](https://support.saltosystems.com/installation-guides/controllers/bluenet/), [source 2](https://support.saltosystems.com/installation-guides/controllers/cu4000/), [source 3](https://support.saltosystems.com/installation-guides/cylinders/geo/), [source 4](https://support.saltosystems.com/installation-guides/cylinders/neo/), [source 5](https://support.saltosystems.com/installation-guides/electronic-locks/accessories/), [source 6](https://support.saltosystems.com/installation-guides/electronic-locks/aelement/), [source 7](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-mini/), [source 8](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-one-s/), [source 9](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-one/), [source 10](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-original-plus/), [source 11](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-original/), [source 12](https://support.saltosystems.com/installation-guides/energy-saving-devices/universal/), [source 13](https://support.saltosystems.com/installation-guides/energy-saving-devices/xs4sense/), [source 14](https://support.saltosystems.com/installation-guides/face-recognition/xs4face/), [source 15](https://support.saltosystems.com/installation-guides/home-smart-locks/danalock/), [source 16](https://support.saltosystems.com/installation-guides/home-smart-locks/dbolt/), [source 17](https://support.saltosystems.com/installation-guides/home-smart-locks/dlok/), [source 18](https://support.saltosystems.com/installation-guides/locker-locks/eco-lock/), [source 19](https://support.saltosystems.com/installation-guides/locker-locks/xs4/), [source 20](https://support.saltosystems.com/installation-guides/mortise-locks/eco-lock/), [source 21](https://support.saltosystems.com/installation-guides/padlocks/geo/), [source 22](https://support.saltosystems.com/installation-guides/padlocks/neoxx/), [source 23](https://support.saltosystems.com/installation-guides/peripherals/bluenet-wireless/), [source 24](https://support.saltosystems.com/installation-guides/peripherals/management-tools/), [source 25](https://support.saltosystems.com/installation-guides/readers/design-xs/), [source 26](https://support.saltosystems.com/installation-guides/readers/glass-xs/), [source 27](https://support.saltosystems.com/installation-guides/readers/modular-xs/), [source 28](https://support.saltosystems.com/installation-guides/readers/mullion-xs/), [source 29](https://support.saltosystems.com/installation-guides/readers/panel-xs/)
+- **Samsung**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **SmokeCloak**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **System Q**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **TDSi**: [source 1](https://www.tdsi.co.uk/technical-guides/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Texecom**: [source 1](https://www.texe.com/help-and-support/product-support/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **VCL / Ademco**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Videx**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php), [source 2](https://www.videxuk.com/downloads/application-notes/), [source 3](https://www.videxuk.com/downloads/manuals/), [source 4](https://www.videxuk.com/downloads/quick-guides/)
+- **Visonic**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Ziton**: [source 1](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/installation_manual/503-1160ze-i-15_zp3_fire_control_panel_installation_manual_en.pdf), [source 2](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/operation_manual/00-3251-505-0003-07_zp2_series_operation_manual_en.pdf), [source 3](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/quick_installation_guide/00-3251-507-0003-06_zp2_series_quick_installation_guide_en.pdf), [source 4](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/user_manual/503-1160ze-u-14_zp3_fire_panel_user_guide_en_0.pdf), [source 5](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2023/installation_manual/00-3251-501-0003-07_it.b_zp2_series_installation_manual_en.pdf)

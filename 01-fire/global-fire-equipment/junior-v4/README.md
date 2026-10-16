@@ -1,0 +1,16 @@
+# Global Fire Equipment — junior v4
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [GFE JUNIOR V4 manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GFE%20JUNIOR%20V4%20manual.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [GFE junior v4](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GFE%20junior_v4.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `global-fire-equipment-a1626de034a4`, `global-fire-equipment-14c6cd463c9f`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

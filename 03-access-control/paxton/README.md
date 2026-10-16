@@ -2,14 +2,16 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-84 document records, grouped into 79 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+390 document records, grouped into 85 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
 | [1A power supply in plastic housing](1a-power-supply-in-plastic-housing/README.md) | 1 |
 | [Cardlock Reader](cardlock-reader/README.md) | 1 |
+| [Compact](compact/README.md) | 10 |
 | [Desktop reader with keyboard output-USB](desktop-reader-with-keyboard-output-usb/README.md) | 1 |
 | [EN179 Guidance Notes for installation of Paxlock Pro](en179-guidance-notes-for-installation-of-paxlock-pro/README.md) | 1 |
+| [Entry](entry/README.md) | 27 |
 | [Entry Audio monitor](entry-audio-monitor/README.md) | 1 |
 | [Entry Premium Monitor – Quick Start Guide](entry-premium-monitor-quick-start-guide/README.md) | 1 |
 | [Entry – Controller](entry-controller/README.md) | 1 |
@@ -24,6 +26,8 @@
 | [Hands free keyfob for Net2](hands-free-keyfob-for-net2/README.md) | 2 |
 | [Hands free keyfob pack for Switch2](hands-free-keyfob-pack-for-switch2/README.md) | 1 |
 | [How to use your PaxLock Pro](how-to-use-your-paxlock-pro/README.md) | 1 |
+| [Mobile Apps](mobile-apps/README.md) | 3 |
+| [Net2](net2/README.md) | 176 |
 | [Net2 Desktop Reader USB](net2-desktop-reader-usb/README.md) | 2 |
 | [Net2 Desktop Reader USB UL](net2-desktop-reader-usb-ul/README.md) | 1 |
 | [Net2 I/O](net2-i-o/README.md) | 1 |
@@ -48,13 +52,15 @@
 | [PROXIMITY vandal proof compact](proximity-vandal-proof-compact/README.md) | 1 |
 | [PROXIMITY vandal proof reader 2nd Gen](proximity-vandal-proof-reader-2nd-gen/README.md) | 1 |
 | [Panel mount Readers UL](panel-mount-readers-ul/README.md) | 2 |
-| [PaxLock](paxlock/README.md) | 1 |
+| [PaxLock](paxlock/README.md) | 14 |
 | [PaxLock Pro Euro](paxlock-pro-euro/README.md) | 1 |
 | [PaxLock Pro door Installation Jig](paxlock-pro-door-installation-jig/README.md) | 1 |
 | [PaxLock Pro2 – Euro](paxlock-pro2-euro/README.md) | 1 |
+| [Paxton Solo](paxton-solo/README.md) | 12 |
 | [Paxton Solo – Controller](paxton-solo-controller/README.md) | 1 |
 | [Paxton Solo – DoorTag](paxton-solo-doortag/README.md) | 1 |
 | [Paxton Solo – Starter kit](paxton-solo-starter-kit/README.md) | 1 |
+| [Paxton10](paxton10/README.md) | 57 |
 | [Paxton10 Alarm Connector](paxton10-alarm-connector/README.md) | 1 |
 | [Paxton10 BLE Fob](paxton10-ble-fob/README.md) | 1 |
 | [Paxton10 Desktop Reader](paxton10-desktop-reader/README.md) | 1 |
@@ -81,7 +87,7 @@
 | [Proximity readers and Keypads UL](proximity-readers-and-keypads-ul/README.md) | 2 |
 | [RJ45 – Reader port connector module](rj45-reader-port-connector-module/README.md) | 1 |
 | [Reader booklet 2nd Gen](reader-booklet-2nd-gen/README.md) | 1 |
-| [Switch2](switch2/README.md) | 1 |
+| [Switch2](switch2/README.md) | 19 |
 | [Switch2 quickstart guide](switch2-quickstart-guide/README.md) | 1 |
 | [TOUCHLOCK compact K series keypad](touchlock-compact-k-series-keypad/README.md) | 1 |
 | [Vandal resistant metal keypad](vandal-resistant-metal-keypad/README.md) | 2 |

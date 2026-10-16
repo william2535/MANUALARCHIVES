@@ -1,0 +1,535 @@
+{
+  "date": "2026-10-16",
+  "baseline_commit": "1a69f8d59f116dc52de49291811e20d095e83dc2",
+  "before": 1205,
+  "after": 2902,
+  "added": 1697,
+  "resolved_record_ids": [
+    "paxton-7306ade0a58e",
+    "paxton-d81c5845eeff",
+    "paxton-b8afae73e83e",
+    "paxton-616d8782ab8e",
+    "paxton-b6c3dee6adc6",
+    "paxton-68d318e927fb",
+    "paxton-10a275cadfa7",
+    "paxton-02bbe2342cca"
+  ],
+  "merged_additions": [
+    {
+      "retained_id": "salto-393f199c06ae",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220405.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-e532a928b102",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220447.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-0ac8ae995a79",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226707.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-8a089b00bb23",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226708.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-200351e3e835",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220448.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-d4ffde56f4c6",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220451.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-055550a74795",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226705.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-5eccc63b7d5a",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226706.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-8d0b8fec11f1",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226995.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-393f199c06ae",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220405.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-e532a928b102",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220447.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-0ac8ae995a79",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226707.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-8a089b00bb23",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226708.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-200351e3e835",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220448.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-d4ffde56f4c6",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220451.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-055550a74795",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226705.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-5eccc63b7d5a",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226706.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-333bd4d368d9",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226565.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-43d9e2a56906",
+      "merged_url": "https://support.saltosystems.com/installation-guides/226206.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "salto-7b0201b1a06c",
+      "merged_url": "https://support.saltosystems.com/installation-guides/220823.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-6fec87fdf63f",
+      "merged_url": "https://my.fike.com/_fike_new_docs/02181c3b-6298-45dc-af80-9816716c3522.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-594585b67819",
+      "merged_url": "https://my.fike.com/_fike_new_docs/1ab59b39-88d2-4b6f-8805-7786a80534bd.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-9da9de1fce01",
+      "merged_url": "https://my.fike.com/_fike_new_docs/c4de5609-d407-4bb2-b815-2d5c66490021.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-9ad6d29dceb2",
+      "merged_url": "https://my.fike.com/_fike_new_docs/7de78a6f-cc64-46df-89d5-c229ae4a2bc2.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-77a5c9cbeaa2",
+      "merged_url": "https://my.fike.com/_fike_new_docs/8a702f3e-4883-42bf-8eda-0388fdd005c4.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-594585b67819",
+      "merged_url": "https://my.fike.com/_fike_new_docs/1ab59b39-88d2-4b6f-8805-7786a80534bd.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-9da9de1fce01",
+      "merged_url": "https://my.fike.com/_fike_new_docs/c4de5609-d407-4bb2-b815-2d5c66490021.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-9da9de1fce01",
+      "merged_url": "https://my.fike.com/_fike_new_docs/c4de5609-d407-4bb2-b815-2d5c66490021.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-b33ea7ae9b41",
+      "merged_url": "https://my.fike.com/_fike_new_docs/81f6b796-9285-4a62-b16a-3590abae3144.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-b33ea7ae9b41",
+      "merged_url": "https://my.fike.com/_fike_new_docs/81f6b796-9285-4a62-b16a-3590abae3144.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-f049fa4c18db",
+      "merged_url": "https://my.fike.com/_fike_new_docs/826f7994-ae5b-4afd-bdc3-4e022a1b6b1e.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-1b2de37e6684",
+      "merged_url": "https://my.fike.com/_fike_new_docs/56377394-750b-4543-90b1-16a1d520c9fc.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "fike-99ba62c170f4",
+      "merged_url": "https://my.fike.com/_fike_new_docs/3bb90675-b813-4531-b451-308bc6fe1949.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "risco-076506db1406",
+      "merged_url": "https://riscogroup.com/en/downloads-material/15339/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "risco-1c850f3ecb07",
+      "merged_url": "https://riscogroup.com/en/downloads-material/15494/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "risco-2d5996dff974",
+      "merged_url": "https://riscogroup.com/en/downloads-material/15510/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-9f20d91c9e64",
+      "merged_url": "https://ajax.systems/support/manuals/type4-fire-rex-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-b8377a6a91b0",
+      "merged_url": "https://ajax.systems/support/manuals/type4-rex-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-a5c6db932560",
+      "merged_url": "https://ajax.systems/support/manuals/superior-doorprotect-fibra/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-ba6dddd2c1cf",
+      "merged_url": "https://ajax.systems/support/manuals/superior-doorprotect-plus-fibra/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-ce9b2cfcadb3",
+      "merged_url": "https://ajax.systems/support/manuals/rex/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-8270edd0bd5f",
+      "merged_url": "https://ajax.systems/support/manuals/rex-2/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-d1ddac19e8ca",
+      "merged_url": "https://ajax.systems/support/manuals/superior-doorprotect-g3-fibra/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-f4bb5b258831",
+      "merged_url": "https://ajax.systems/support/manuals/superior-rex-g3-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-8e45d15ee93a",
+      "merged_url": "https://ajax.systems/support/manuals/superior-glassprotect-fibra/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-07488b8a2375",
+      "merged_url": "https://ajax.systems/support/manuals/en54-fire-rex-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-da87c7ea0846",
+      "merged_url": "https://ajax.systems/support/manuals/en54-fire-hub-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-4e31470de939",
+      "merged_url": "https://ajax.systems/support/manuals/hub-2/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-da72f91090f5",
+      "merged_url": "https://ajax.systems/support/manuals/hub/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-bb17d3ddfa25",
+      "merged_url": "https://ajax.systems/support/manuals/superior-doorprotect-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-405d10102d03",
+      "merged_url": "https://ajax.systems/support/manuals/hub-plus/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-982cc4aee34b",
+      "merged_url": "https://ajax.systems/support/manuals/hub-2-plus/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-4529e96172d1",
+      "merged_url": "https://ajax.systems/support/manuals/hub-bp/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-1dda1429227f",
+      "merged_url": "https://ajax.systems/support/manuals/hub-bp-without-casing/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-f17688e2a754",
+      "merged_url": "https://ajax.systems/support/manuals/superior-hub-g3-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-1f0063efa4b5",
+      "merged_url": "https://ajax.systems/support/manuals/superior-hub-hybrid/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-1196b6f580b2",
+      "merged_url": "https://ajax.systems/support/manuals/superior-hub-hybrid-4g-without-casing/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-5e65d9bf3806",
+      "merged_url": "https://ajax.systems/support/manuals/superior-hub-hybrid-2/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-a00583657322",
+      "merged_url": "https://ajax.systems/support/manuals/superior-hub-hybrid-2-without-casing/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-62ac7fc8627c",
+      "merged_url": "https://ajax.systems/support/manuals/type4-fire-hub-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ajax-1e9db2964fcf",
+      "merged_url": "https://ajax.systems/support/manuals/type4-hub-4g-jeweller/",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "comelit-7cef362c7a63",
+      "merged_url": "https://staticpro.comelitgroup.com/storage/2021/04/27222/mp-horus-en-1ed.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-c1af2d1129fc",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1091.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-7dcdf9f397e6",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1037.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-f6ea9b85bedc",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1038.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-9dddb0917f5b",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1112.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-01979c0ac1e8",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1088.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-c047495b8636",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1094.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-f6ea9b85bedc",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1038.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-6faa0f4ec54c",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1166.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-a25bf0cf1028",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1170.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-23df51aba121",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1086.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-01979c0ac1e8",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1088.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-f1aedbde7107",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1005.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-292625ed985c",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1008.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-f5718c016f1c",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1017.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-d019d31879aa",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1020.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-767338e939bb",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1021.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-9634f905c530",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1022.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-dd8155663497",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1026.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "paxton-42ffac754e4f",
+      "merged_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/AN1078.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "ziton-ca89b0c32aa4",
+      "merged_url": "https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/user_manual/503-1160ze-u-14_zp3_fire_panel_user_guide_en_0.pdf",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "came-bpt-58e5ecc811a3",
+      "merged_url": "https://docs.came.com/pdf/FA01401-EN.pdf?1644590819",
+      "reason": "same source URL"
+    },
+    {
+      "retained_id": "act-6137ac1ea5e1",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/ACT%2010%20Digital%20Keypad.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "act-6137ac1ea5e1",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/ACT%2010%20Keypad.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "act-6137ac1ea5e1",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/ACT%2010%20Keypad%20Manual.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "ade-c7e69ae94edd",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/ADE%20KARIZMA%20Install%20Manual.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "ade-c7e69ae94edd",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/ADE%20KARIZMA%20program%20manual.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "ademco-918318edcded",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Ademco%20Accord%20Xpc%20user%20manu.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "apollo-f3d2682ef9c5",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Apollo%20xp95%20MCP.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "bbv-47918b4b6bde",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/BBV%20TX400DC.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "bell-system-3d2a640154cc",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Bell%20Systems%20900%20%2B%20VRK%20Wiring%20upto%2010%20x%20801%20Telephones.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "c-tec-4b1267f3fefc",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CTEC%20CFP%20Installation%20Manual_DFU7004010%20Rev1%2015_04_11.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "c-tec-e9818d7e23a6",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CTEC%20XFP_16Z_REPEATER_MANUAL_1.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "c-tec-ec140ad546f0",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CTEC%20XFP_32Z_REPEATER_MANUAL_1.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "c-tec-0fb079726b4a",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CTEC%20XFP_QUICK_START%20GUIDE_DFU2200533_Rev3.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "c-tec-48ad981ee969",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CTEC%20XFP_USER_MANUAL_DFU2000510%20Rev1.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "pyronix-855dae57c252",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Euro%20Mini%20RINS1209-5%20User.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "pyronix-855dae57c252",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Euro%20Mini%20user%20manual.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "honeywell-c6dc9715822b",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Galaxy%20G3%20Install%20Manual.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "hikvision-1b736acf0754",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Hik%20Vision%20DS1002KI%201003KI%20Keyboard%20manual.pdf",
+      "reason": "identical SHA-256"
+    },
+    {
+      "retained_id": "hikvision-d4d851aaf3d8",
+      "merged_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/IVMS%204500.pdf",
+      "reason": "identical SHA-256"
+    }
+  ],
+  "source_pdf_checks": {
+    "attempted": 601,
+    "pdf_headers": 299,
+    "complete_files_hashed": 297,
+    "failed": 302
+  }
+}

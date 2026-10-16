@@ -1,8 +1,8 @@
 # FESS Manual Archives
 
-Manufacturer-source manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
+Fire, security, access control and CCTV manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**1,205 unique document records · 14 brands · 1,050 direct PDF links · 0 PDF files mirrored**
+**2,902 document records · 69 brands · 2,550 direct PDF links · 0 PDF files mirrored**
 
 Source collection date: 2026-10-16. A check date does not mean a document is the latest revision.
 
@@ -10,16 +10,16 @@ Source collection date: 2026-10-16. A check date does not mean a document is the
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 263 |
-| [Security / intruder](02-security/README.md) | 173 |
-| [Access control / door entry](03-access-control/README.md) | 185 |
-| [CCTV](04-cctv/README.md) | 584 |
+| [Fire](01-fire/README.md) | 552 |
+| [Security / intruder](02-security/README.md) | 605 |
+| [Access control / door entry](03-access-control/README.md) | 858 |
+| [CCTV](04-cctv/README.md) | 887 |
 
-Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without inflating the unique count.
+Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 
 ## Search and app data
 
-- Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening manufacturer documents requires a connection until you download them.
+- Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening source documents requires a connection until you download them.
 - [`data/catalogue.json`](data/catalogue.json) is the structured source for app integration. It contains stable IDs, categories, models, document types, source URLs, direct PDF URLs where found, and availability records.
 - [Coverage and gaps](COVERAGE.md) separates confirmed PDF retrieval metadata, published PDF links, online manuals and unresolved sources.
 
@@ -50,7 +50,7 @@ A successful download checks the file header, trailer and integrity; it does not
 
 ## What is stored here
 
-The repository stores original indexing work and manufacturer links. It does **not** republish copyrighted manufacturer PDFs. Publicly accessible downloads do not themselves establish permission to redistribute. See [document rights](RIGHTS.md).
+The repository stores original indexing work and links. Manufacturer sources are preferred; public installer and distributor copies are labelled separately with `source_kind`. Some legacy titles and model associations come from abbreviated filenames and need document-level review. It does **not** republish copyrighted manufacturer PDFs. Publicly accessible downloads do not themselves establish permission to redistribute. See [document rights](RIGHTS.md).
 
 This archive includes older editions and multiple languages. Unknown language, market or revision information stays explicitly unverified. Engineering manuals, application notes and datasheets are not interchangeable. No passwords, default-code lists, customer records or paid standards have been extracted into the catalogue.
 

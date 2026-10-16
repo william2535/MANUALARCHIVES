@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-10-16",
+  "baseline_commit": "1a69f8d59f116dc52de49291811e20d095e83dc2",
+  "baseline_records": 1205,
+  "completed": [
+    "Expanded the catalogue from 1,205 to 2,902 records across 69 brands, using manufacturer libraries and clearly labelled public supplier archives.",
+    "Collected 72 current and archived Haes manuals, 238 distinct Salto PDF URLs, 81 Risco PDF download endpoints, and Fike Twinflex / CIE-A documentation.",
+    "Checked all 231 Ajax manual paths in its published English sitemap. Indexed 230 manual or configuration-guide pages; excluded the service-payment article. These are web documents, not offline PDF exports.",
+    "Added 244 Paxton application notes and resolved all eight previously missing Paxton instruction download URLs.",
+    "Added Comelit fire, intrusion, CCTV and door-entry documentation, TDSi guides, and core Gent, Morley-IAS, Notifier, Protec, Ziton and EMS records.",
+    "Checked 601 supplier-hosted legacy URLs: 299 returned PDF headers and 297 complete responses were hashed. Identical complete-file hashes were merged; alternate URLs were retained.",
+    "Merged 102 overlapping additions by source URL or identical file hash. Existing catalogue IDs were retained."
+  ],
+  "remaining": [
+    "This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.",
+    "Kentec and C-TEC still have unresolved entries. Their public pages returned HTTP 202 to ordinary retrieval and some indexed links failed in the retrieval service. Titles and source references remain available; download URLs were not guessed.",
+    "301 legacy URL checks were blocked by the retrieval connection with HTTP 403, and one response was not a PDF. Those records are marked retrieval-failed. Their listing links remain available; they are not verified working downloads.",
+    "Many legacy supplier filenames are abbreviated. Exact model variants, publication dates, firmware, language and region need review against the document. Similar unverified mirror files may still overlap; counts are records, not a guarantee of unique file contents.",
+    "Ajax web manuals and CDVI document viewers require a supported export or manual download before offline use. The local PDF downloader does not make those pages available offline.",
+    "Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch coverage currently includes only a few legacy CCTV manuals; MAP, intrusion and current access platforms need more work.",
+    "Protec currently has 6500/6600 commissioning guides; 6100, 6300 and other installation/user editions still need accessible original sources. Advanced MxPro, Apollo devices, Hochiki, Nittan and additional Honeywell families need deeper model-level coverage.",
+    "Comelit category pages expose only a subset of larger libraries. Further pagination and product-specific downloads remain to be collected. Manufacturer brand coverage does not imply complete coverage within that brand.",
+    "The archive contains no third-party PDF binaries. PDFs and checksum manifests created by the downloader remain local and gitignored. No claim is made about redistribution permission or technical suitability."
+  ]
+}

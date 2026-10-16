@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-147 document records, grouped into 105 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+150 document records, grouped into 108 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -11,6 +11,7 @@
 | [AMX Network Manager – Taktis](amx-network-manager-taktis/README.md) | 1 |
 | [E2000000 Series](e2000000-series/README.md) | 1 |
 | [ECU](ecu/README.md) | 1 |
+| [EVCS Safe-Point](evcs-safe-point/README.md) | 1 |
 | [Elite](elite/README.md) | 2 |
 | [Elite RS](elite-rs/README.md) | 2 |
 | [Elite RS-A](elite-rs-a/README.md) | 1 |
@@ -47,6 +48,7 @@
 | [Sigma A-Si](sigma-a-si/README.md) | 4 |
 | [Sigma A-XT](sigma-a-xt/README.md) | 3 |
 | [Sigma CP](sigma-cp/README.md) | 4 |
+| [Sigma CP (Conventional)](sigma-cp-conventional/README.md) | 1 |
 | [Sigma CP-A](sigma-cp-a/README.md) | 1 |
 | [Sigma CP-R](sigma-cp-r/README.md) | 1 |
 | [Sigma Matrix](sigma-matrix/README.md) | 1 |
@@ -71,6 +73,7 @@
 | [Solo Response](solo-response/README.md) | 2 |
 | [Status Units](status-units/README.md) | 1 |
 | [Syncro](syncro/README.md) | 2 |
+| [Syncro AS (Addressable)](syncro-as-addressable/README.md) | 1 |
 | [Syncro AS Listec](syncro-as-listec/README.md) | 1 |
 | [Syncro ASM](syncro-asm/README.md) | 2 |
 | [Syncro Comms](syncro-comms/README.md) | 1 |

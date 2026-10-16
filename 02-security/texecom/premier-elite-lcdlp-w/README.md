@@ -2,7 +2,7 @@
 
 [Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
 
-Manufacturer titles and model associations are navigation aids. Confirm the installed model, protocol, firmware, market and issue against the original document.
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@ Manufacturer titles and model associations are navigation aids. Confirm the inst
 | [Premier Elite Series User Guide](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/03/31085427/INS555-5-Premier-Elite-User-Guide-LS1-1.pdf) | user-guide | INS555 | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
 | [Premier Elite UserGuide INS525-2_web](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/03/31092914/Premier-Elite-UserGuide-INS525-2_web.pdf) | user-guide | INS525 | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
 | [Product-Guide-2025_Landscape-1](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/01/30144620/Product-Guide-2025_Landscape-1.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
+| [Texecom Premier Elite LCDLP W](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Premier%20Elite%20LCDLP%20W.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `texecom-12ae0837287a`, `texecom-a088cf2857ea`, `texecom-cf87c6dea623`, `texecom-c0768b1467bb`, `texecom-fd2dcd39cfb9`, `texecom-73155831f1a8`, `texecom-67ed8059d278`
+Record IDs: `texecom-12ae0837287a`, `texecom-a088cf2857ea`, `texecom-cf87c6dea623`, `texecom-c0768b1467bb`, `texecom-e97735792413`, `texecom-fd2dcd39cfb9`, `texecom-73155831f1a8`, `texecom-67ed8059d278`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).
