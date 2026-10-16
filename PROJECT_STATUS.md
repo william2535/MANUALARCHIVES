@@ -10,11 +10,11 @@ Build a comprehensive manual archive for a professional offline onsite guide, or
 
 The prepared **309 records are published on main**, in commit `fff64dc8668ebd6f78c30e39d275eec6697c4b35`. The connected GitHub app was used because command-line Git has read access but no push credentials. The local checkpoint branch `checkpoint/prepared-309-local` preserves the equivalent original local commit.
 
-The gap-fill batch adds **70 records**, taking the catalogue to **3,281 records across 72 brands**: Advanced 22, Hochiki 16, FireClass 9, TDSi 9, Siemens 5, Kentec 4, C-TEC 3 and Protec 2. Every addition was retrieved as a complete PDF, parsed for page count and SHA-256 hashed. Three duplicate candidates were merged and all previous record IDs retained. See `data/gap-fill-log-2026-10-16.json` for exact additions, sources, duplicates and held candidates.
+The gap-fill batch is published on main in commit `0714ba5637df3b1a9c84e23fba50ac47d254137f`. It adds **70 records**, taking the catalogue to **3,281 records across 72 brands**: Advanced 22, Hochiki 16, FireClass 9, TDSi 9, Siemens 5, Kentec 4, C-TEC 3 and Protec 2. Every addition was retrieved as a complete PDF, parsed for page count and SHA-256 hashed. Three duplicate candidates were merged and all previous record IDs retained. See `data/gap-fill-log-2026-10-16.json` for exact additions, sources, duplicates and held candidates.
 
 Protec 6300 installation is now present as **93-509-09 Issue 2 Rev 2**. TDSi additions are controller/PSU/extension datasheets; UM0120 installation instructions remain unresolved. The Bosch MAP 5000 download still failed. Older Kentec issues were retained separately from unresolved manufacturer listings. Two misleading Advanced files were held for review instead of indexed under incorrect identities.
 
-Validation for both batches: catalogue/model navigation/offline embedded index checks passed, and all nine downloader tests passed. The final publication must be checked against the remote tree.
+Validation for both batches: catalogue/model navigation/offline embedded index checks passed, and all nine downloader tests passed. Both published batch trees were fetched and verified against the local files. The local checkpoint branch `checkpoint/gap-fill-70-local` preserves the original local gap-fill commit; main is aligned with GitHub.
 
 ### Earlier prepared-batch checkpoint
 
