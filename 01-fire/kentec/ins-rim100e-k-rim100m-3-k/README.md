@@ -1,0 +1,16 @@
+# Kentec — iNS RIM100E-K / RIM100M-3-K
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Manufacturer titles and model associations are navigation aids. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [Man-1494 iNS RIM100E-K / RIM100M-3-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1494 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Man-1528 iNS RIM100E-K / RIM100M-3-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1528 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `kentec-4d0c115c1f49`, `kentec-0552d6eb9d4f`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

@@ -1,0 +1,15 @@
+# Texecom — Premier Elite Speech Module
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Manufacturer titles and model associations are navigation aids. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [Premier Elite Speech Module Installation Manual](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/04/07130057/Premier-Elite-Speech-Module-Installation-Manual-INS656-3.pdf) | installation | INS656 | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `texecom-4b027b6893c7`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

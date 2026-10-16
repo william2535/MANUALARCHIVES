@@ -1,0 +1,65 @@
+# FESS Manual Archives
+
+Manufacturer-source manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
+
+**1,205 unique document records · 14 brands · 1,050 direct PDF links · 0 PDF files mirrored**
+
+Source collection date: 2026-10-16. A check date does not mean a document is the latest revision.
+
+## Browse by system
+
+| Category | Documents |
+|---|---:|
+| [Fire](01-fire/README.md) | 263 |
+| [Security / intruder](02-security/README.md) | 173 |
+| [Access control / door entry](03-access-control/README.md) | 185 |
+| [CCTV](04-cctv/README.md) | 584 |
+
+Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without inflating the unique count.
+
+## Search and app data
+
+- Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening manufacturer documents requires a connection until you download them.
+- [`data/catalogue.json`](data/catalogue.json) is the structured source for app integration. It contains stable IDs, categories, models, document types, source URLs, direct PDF URLs where found, and availability records.
+- [Coverage and gaps](COVERAGE.md) separates confirmed PDF retrieval metadata, published PDF links, online manuals and unresolved sources.
+
+## Offline downloads
+
+Requires Python 3.10 or later; no extra packages. Download only material you are entitled to use under the publisher’s terms.
+
+Preview a selection:
+
+```bash
+python3 scripts/download.py --category fire --brand "C-TEC" --list
+```
+
+Download that brand’s available PDFs locally:
+
+```bash
+python3 scripts/download.py --category fire --brand "C-TEC"
+python3 scripts/download.py --category security --brand Texecom
+python3 scripts/download.py --category access-control --brand Paxton
+python3 scripts/download.py --category cctv --brand Axis --model P3245
+```
+
+Use `--limit 5` for a small first batch. `--all` selects the whole catalogue and can download many GB. `--refresh` checks the selected sources again; changed contents get a separate file, retaining old versions.
+
+Files go into `downloads/category/brand/model/`. The gitignored `downloads/download-manifest.json` records source URLs, download time, exact byte counts, SHA-256 checksums, results and retained version history. Interrupted or non-PDF responses are removed. Source-only entries, login pages and blocked requests are reported for manual attention. The tool can resolve Axis’s explicit PDF export from its model manual page.
+
+A successful download checks the file header, trailer and integrity; it does not certify technical applicability. Open each required PDF and check it before going on site.
+
+## What is stored here
+
+The repository stores original indexing work and manufacturer links. It does **not** republish copyrighted manufacturer PDFs. Publicly accessible downloads do not themselves establish permission to redistribute. See [document rights](RIGHTS.md).
+
+This archive includes older editions and multiple languages. Unknown language, market or revision information stays explicitly unverified. Engineering manuals, application notes and datasheets are not interchangeable. No passwords, default-code lists, customer records or paid standards have been extracted into the catalogue.
+
+## Maintain the archive
+
+```bash
+python3 scripts/build_index.py
+python3 scripts/validate.py
+python3 -m unittest discover -s tests -v
+```
+
+See [contribution guidance](CONTRIBUTING.md).

@@ -1,0 +1,17 @@
+# C-TEC — Sigtel Disabled Refuge & Fire Telephone Systems
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Manufacturer titles and model associations are navigation aids. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [App Note – How to fit a PTT handset to a new-style ECU Controller – DAU0000100](https://c-tec.com/info/instruction-manuals/) | application-note | DAU0000100 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [App Note – How to replace an ECU-8S with an ECU-16 – DAU000098](https://c-tec.com/info/instruction-manuals/) | application-note | DAU000098 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [App Note – How to wire to an ECU/16 using a Junction Box – DAU000099](https://c-tec.com/info/instruction-manuals/) | application-note | DAU000099 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `c-tec-a309eea20fe3`, `c-tec-1c2c602cb28b`, `c-tec-192b58bedf94`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).
