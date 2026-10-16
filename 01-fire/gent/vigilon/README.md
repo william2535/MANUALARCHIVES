@@ -12,6 +12,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `gent-945e977903d9`, `gent-4d383857e271`, `gent-f03fe5ba8e30`
+Record IDs: `gent-4d383857e271`, `gent-f03fe5ba8e30`, `gent-945e977903d9`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

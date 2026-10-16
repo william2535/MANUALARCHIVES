@@ -14,6 +14,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `texecom-67ed8059d278`, `texecom-eba0d135edbe`, `texecom-61fc3423b2b3`, `texecom-d633f6433f65`, `texecom-5d52b56ed249`
+Record IDs: `texecom-67ed8059d278`, `texecom-eba0d135edbe`, `texecom-61fc3423b2b3`, `texecom-5d52b56ed249`, `texecom-d633f6433f65`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

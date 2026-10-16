@@ -1,4 +1,4 @@
-# Pyronix — vocaliser
+# Pyronix — Vocaliser
 
 [Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
 
@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `pyronix-b44b36bb2262`, `pyronix-28c4d0a92109`
+Record IDs: `pyronix-28c4d0a92109`, `pyronix-b44b36bb2262`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

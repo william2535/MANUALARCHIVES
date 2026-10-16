@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `hikvision-4c4c5353b658`, `hikvision-d4d851aaf3d8`
+Record IDs: `hikvision-d4d851aaf3d8`, `hikvision-4c4c5353b658`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

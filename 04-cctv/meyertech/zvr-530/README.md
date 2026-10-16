@@ -13,6 +13,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `meyertech-8f82c1fe184e`, `meyertech-b48cd0a0ae05`, `meyertech-9f03074bf60f`, `meyertech-c5483644cf9c`
+Record IDs: `meyertech-9f03074bf60f`, `meyertech-8f82c1fe184e`, `meyertech-b48cd0a0ae05`, `meyertech-c5483644cf9c`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

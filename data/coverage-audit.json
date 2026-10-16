@@ -9,7 +9,8 @@
     "Added 244 Paxton application notes and resolved all eight previously missing Paxton instruction download URLs.",
     "Added Comelit fire, intrusion, CCTV and door-entry documentation, TDSi guides, and core Gent, Morley-IAS, Notifier, Protec, Ziton and EMS records.",
     "Checked 601 supplier-hosted legacy URLs: 299 returned PDF headers and 297 complete responses were hashed. Identical complete-file hashes were merged; alternate URLs were retained.",
-    "Merged 102 overlapping additions by source URL or identical file hash. Existing catalogue IDs were retained."
+    "Merged 102 overlapping additions by source URL or identical file hash. Existing catalogue IDs were retained.",
+    "Continuation: added 309 records (174 Apollo, 82 Nittan, 47 Bosch, 3 Protec and 3 Dahua), bringing the catalogue to 3,211 records across 70 brands. Of these additions, 257 have PDF page-count evidence, 48 have listed PDF links and four failed retrieval checks."
   ],
   "remaining": [
     "This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.",
@@ -17,9 +18,10 @@
     "301 legacy URL checks were blocked by the retrieval connection with HTTP 403, and one response was not a PDF. Those records are marked retrieval-failed. Their listing links remain available; they are not verified working downloads.",
     "Many legacy supplier filenames are abbreviated. Exact model variants, publication dates, firmware, language and region need review against the document. Similar unverified mirror files may still overlap; counts are records, not a guarantee of unique file contents.",
     "Ajax web manuals and CDVI document viewers require a supported export or manual download before offline use. The local PDF downloader does not make those pages available offline.",
-    "Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch coverage currently includes only a few legacy CCTV manuals; MAP, intrusion and current access platforms need more work.",
-    "Protec currently has 6500/6600 commissioning guides; 6100, 6300 and other installation/user editions still need accessible original sources. Advanced MxPro, Apollo devices, Hochiki, Nittan and additional Honeywell families need deeper model-level coverage.",
+    "Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch AMS and APE manuals have been added; the identified MAP 5000 URL redirects to a missing page and is explicitly marked retrieval-failed. Further intrusion and hardware manuals remain outstanding.",
+    "Protec 6100 installation/user and 6300 user manuals have been added. Apollo and Nittan now have substantial device-level coverage. Protec 6300 installation, Advanced MxPro, Hochiki and additional Honeywell families remain priorities.",
     "Comelit category pages expose only a subset of larger libraries. Further pagination and product-specific downloads remain to be collected. Manufacturer brand coverage does not imply complete coverage within that brand.",
-    "The archive contains no third-party PDF binaries. PDFs and checksum manifests created by the downloader remain local and gitignored. No claim is made about redistribution permission or technical suitability."
+    "The archive contains no third-party PDF binaries. PDFs and checksum manifests created by the downloader remain local and gitignored. No claim is made about redistribution permission or technical suitability.",
+    "The Apollo product-map pass attempted 525 URLs and returned 505 page records; not every product has a manual. Nine unresolved document-link associations from the Apollo/Nittan pass are retained in data/continuation-log.json. Identical URLs were merged; different URLs were not assumed to contain identical bytes."
   ]
 }

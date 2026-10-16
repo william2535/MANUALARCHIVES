@@ -1,0 +1,1589 @@
+{
+  "date": "2026-10-16",
+  "baseline_commit": "0610c4c7505d8733fab2f59660557afdbbbf9f22",
+  "before": 2902,
+  "after": 3211,
+  "added": 309,
+  "added_record_ids": [
+    "apollo-d48ca7497f0d",
+    "apollo-a8c6835ba422",
+    "apollo-24d16454da6c",
+    "apollo-39df14ef538f",
+    "apollo-84a148874eaa",
+    "apollo-07085f4ca06f",
+    "apollo-0f80e75d8a7b",
+    "apollo-9739bb7328db",
+    "apollo-2323fa59b7f0",
+    "apollo-642658c0a23e",
+    "apollo-6114d98ab3a2",
+    "apollo-1fed4310f752",
+    "apollo-5c793f1b1100",
+    "apollo-57c00498ddee",
+    "apollo-c7b3a86300bb",
+    "apollo-6db588310b42",
+    "apollo-53aaddfa3ad4",
+    "apollo-55ebb530fa12",
+    "apollo-61ea92be95e0",
+    "apollo-e2fd9d2c73b0",
+    "apollo-5cf1e3bdb64f",
+    "apollo-a33e32a216ee",
+    "apollo-7e024555277a",
+    "apollo-c79f53dca137",
+    "apollo-00c3936bf0fc",
+    "apollo-62ccb8dd9c6c",
+    "apollo-a95ce45b2f4c",
+    "apollo-32e1dba74a38",
+    "apollo-cd03061552f7",
+    "apollo-73ff07b7942b",
+    "apollo-803490fc340d",
+    "apollo-c27fa404701f",
+    "apollo-75cff346ca76",
+    "apollo-be0ef98b810a",
+    "apollo-582dd081a3ba",
+    "apollo-9ff83d3c64f1",
+    "apollo-bf454449a8a1",
+    "apollo-6041edb436d6",
+    "apollo-cb5b96d626ac",
+    "apollo-6c47edcdb51e",
+    "apollo-6d1c8c9777e4",
+    "apollo-405549974c83",
+    "apollo-61b8bb44ffed",
+    "apollo-90bdb8e794b2",
+    "apollo-fbd8bf8a68db",
+    "apollo-ce1ee17f4619",
+    "apollo-6eaef9a6e207",
+    "apollo-5a9bb58c0cdf",
+    "apollo-31b02c5edb68",
+    "apollo-3d43b425fbdf",
+    "apollo-d8a4f9f388e9",
+    "apollo-263ed34fbdbd",
+    "apollo-0c56c3bc7569",
+    "apollo-ceceae4b2ae2",
+    "apollo-637d9cca5334",
+    "apollo-1288f40f26a2",
+    "apollo-92853505bb6c",
+    "apollo-fe50a6c32956",
+    "apollo-05b2ed9ae8b8",
+    "apollo-d2bf07822c79",
+    "apollo-b30b6c040974",
+    "apollo-023e16718ebc",
+    "apollo-f15f59473a1e",
+    "apollo-ae612a27ea60",
+    "apollo-aeeb0f64c140",
+    "apollo-5a20c2c61081",
+    "apollo-19a719efb039",
+    "apollo-b1ef57709e83",
+    "apollo-028ae73ad3d4",
+    "apollo-07535cfe5fb9",
+    "apollo-c80a5e9700fb",
+    "apollo-35636945e865",
+    "apollo-cf81fd48fbef",
+    "apollo-aa1814508b24",
+    "apollo-7066dfc763ba",
+    "apollo-5cc579483ea5",
+    "apollo-ca6ae6d346fc",
+    "apollo-a3f3d3716225",
+    "apollo-3530ecad9605",
+    "apollo-764d0e4da82e",
+    "apollo-3e4519abd5e5",
+    "apollo-d4cf205bd40c",
+    "apollo-60a405af59bc",
+    "apollo-c1e6bda65652",
+    "apollo-07f3da8f08ed",
+    "apollo-07744a0bb623",
+    "apollo-d6b14267563b",
+    "apollo-ecd5dcd138ef",
+    "apollo-2840de610355",
+    "apollo-e4ec6992b586",
+    "apollo-034fc31b561e",
+    "apollo-925b9aeacb99",
+    "apollo-2b5fc4332e14",
+    "apollo-d632a36424b9",
+    "apollo-4f4c9f7227ed",
+    "apollo-35dca1f6e0bb",
+    "apollo-aef33ec47f2a",
+    "apollo-43988347e6f2",
+    "apollo-0acbfd84f8e0",
+    "apollo-ab572c3d8bc0",
+    "apollo-fe1bd8184476",
+    "apollo-c78d6fd1d3cb",
+    "apollo-723a2ac52b3a",
+    "apollo-7581733c3ee3",
+    "apollo-13dae651718b",
+    "apollo-1fc668f17f1f",
+    "apollo-39954425c4c2",
+    "apollo-624030674f8d",
+    "apollo-58df08001e24",
+    "apollo-452b1d104c41",
+    "apollo-e0cd2c5f8327",
+    "apollo-18a381b30fcf",
+    "apollo-5066e87fc751",
+    "apollo-90392a829f68",
+    "apollo-27fdbbdfc377",
+    "apollo-63171e1e44df",
+    "apollo-3bf4961c4d64",
+    "apollo-7e9f50267330",
+    "apollo-7dfdbd60ca0b",
+    "apollo-52c5d872454c",
+    "apollo-9a9ae9248fbb",
+    "apollo-412c1520aefd",
+    "apollo-cbe1db291b13",
+    "apollo-d6acbcd58788",
+    "apollo-5d6eb37d8e4c",
+    "apollo-703b4a349e01",
+    "apollo-08ad30480ca4",
+    "apollo-adaf7e0c3d11",
+    "apollo-4896ae470cdf",
+    "apollo-a625810fd22e",
+    "apollo-48f3a2f78314",
+    "apollo-0e31d7a2d0ff",
+    "apollo-09faca3f0341",
+    "apollo-1b4d27ab8f05",
+    "apollo-ed9a71a1bda0",
+    "apollo-55f8f2f50396",
+    "apollo-52c5a13cd733",
+    "apollo-6975c108b2f6",
+    "apollo-1d6c1ae02181",
+    "apollo-44957aeb7f75",
+    "apollo-2094b2aab17c",
+    "apollo-c8bb353eab01",
+    "apollo-33c5f6586bfd",
+    "apollo-038511ac30b8",
+    "apollo-4d04e221d940",
+    "apollo-6b8c3387bb93",
+    "apollo-5f0265efd28a",
+    "apollo-945a2af74ae8",
+    "apollo-d07084591023",
+    "apollo-ce893e802e25",
+    "apollo-a2c97a164706",
+    "apollo-51ec76a5f7b0",
+    "apollo-99bdea634fe2",
+    "apollo-f90a5a09ca58",
+    "apollo-48e785b7625b",
+    "apollo-dd4c9495686d",
+    "apollo-71cffac2c922",
+    "apollo-97ac48b74156",
+    "apollo-904284d247ae",
+    "apollo-f4883b056dfe",
+    "apollo-1a2dec837c3b",
+    "apollo-6cccbb23f565",
+    "apollo-9334526e3e3d",
+    "apollo-b0f94030fd8a",
+    "apollo-7f46cc36d934",
+    "apollo-89ab8a49f276",
+    "apollo-c856a2f77f85",
+    "apollo-f27ce8642ca3",
+    "apollo-e84c530f47a5",
+    "apollo-d4085e7c3082",
+    "apollo-9f3b821a95bd",
+    "apollo-ff8644c57eb9",
+    "apollo-8024003a3f52",
+    "apollo-3075e69eac4d",
+    "nittan-b2a230e7fe7f",
+    "nittan-5e3c5663ffd0",
+    "nittan-065b501a7aa2",
+    "nittan-702bcab0c22a",
+    "nittan-6eb25cb84349",
+    "nittan-0a32d6080625",
+    "nittan-bd8d59dc49f8",
+    "nittan-ea9adebcd190",
+    "nittan-fc3ada88eee1",
+    "nittan-1a1a18b53ab3",
+    "nittan-62c9c1d3b106",
+    "nittan-6fd49a400a54",
+    "nittan-bd4b83c91afc",
+    "nittan-14089a9905eb",
+    "nittan-695cd16504ab",
+    "nittan-be83ecae2286",
+    "nittan-14b8944e8de0",
+    "nittan-b291e816c6f1",
+    "nittan-0ac170ea49ab",
+    "nittan-571a6383f7e7",
+    "nittan-b06497cb4a3e",
+    "nittan-bb0bc355931a",
+    "nittan-7f156aa78ccc",
+    "nittan-d2d870bccd47",
+    "nittan-c6296873283f",
+    "nittan-9309749f5d19",
+    "nittan-2f76ae56e08f",
+    "nittan-7a9700160a47",
+    "nittan-b11675be6d09",
+    "nittan-b5745038b870",
+    "nittan-3735a925ba7c",
+    "nittan-69e1fdb23eff",
+    "nittan-68733c52d36b",
+    "nittan-c11593087062",
+    "nittan-a60ccd630414",
+    "nittan-1fcd5b960770",
+    "nittan-a18fbd73f5ff",
+    "nittan-528e12695212",
+    "nittan-299c85f2dc32",
+    "nittan-4e5bd13bf5c1",
+    "nittan-59b757ae1d2f",
+    "nittan-5552121e3dd5",
+    "nittan-674b8368e353",
+    "nittan-9b4d5deb543b",
+    "nittan-7ae431a1dd96",
+    "nittan-95bed86cfe4d",
+    "nittan-a9a039c9d468",
+    "nittan-3d432ccdc1a7",
+    "nittan-bec2de576f0f",
+    "nittan-46195c49fb6c",
+    "nittan-8e4be7e105de",
+    "nittan-fc74d0fee27b",
+    "nittan-947e830bda94",
+    "nittan-e7dcd9351f0a",
+    "nittan-61971ec2df67",
+    "nittan-3f083ae93ab4",
+    "nittan-3f661a417baa",
+    "nittan-137af486d0a9",
+    "nittan-e7523afc6818",
+    "nittan-1d230f149c12",
+    "nittan-74c12f8f2a74",
+    "nittan-3dacc7c393a0",
+    "nittan-785ffdc514cd",
+    "nittan-d8a76564d248",
+    "nittan-2140d3529003",
+    "nittan-ace753692ead",
+    "nittan-b6ecfc96b1ee",
+    "nittan-0788ca9f043d",
+    "nittan-b1c6d477fe6b",
+    "nittan-c849f426f196",
+    "nittan-e751f5fb96a5",
+    "nittan-c9ee266436b4",
+    "nittan-dc4daf1891df",
+    "nittan-38e7c086af43",
+    "nittan-538f5d3b7566",
+    "nittan-b43879e0c4f5",
+    "nittan-aa169324ab5d",
+    "nittan-16cc2625beea",
+    "nittan-97af46243c43",
+    "nittan-d1de39397e52",
+    "nittan-b239369b0b6d",
+    "nittan-73f263aef3dd",
+    "bosch-e3f9858cdaac",
+    "bosch-a97269eada07",
+    "bosch-b238ab50455d",
+    "bosch-aa709bab3925",
+    "bosch-555864061c8b",
+    "bosch-d49cacdaf327",
+    "bosch-0947f114eacb",
+    "bosch-52bb37eded70",
+    "bosch-3d1cc956ff6e",
+    "bosch-227a86ca91bb",
+    "bosch-bcbcf6f54ce5",
+    "bosch-c71ca3b0e419",
+    "bosch-8d7eb1c2eb1b",
+    "bosch-c9018d32d073",
+    "bosch-f16cf542d1dc",
+    "bosch-a80ea13cb118",
+    "bosch-c38a8268abb9",
+    "bosch-6d4eb1f3a249",
+    "bosch-7f83cb6a3a03",
+    "bosch-88d27586865a",
+    "bosch-44639bf72f82",
+    "bosch-f8cf97663b16",
+    "bosch-36dbec47086a",
+    "bosch-42a131386d40",
+    "bosch-ff32a00b511c",
+    "bosch-5d639b6d9bbb",
+    "bosch-4a7cb6a07ca0",
+    "bosch-0352186fc736",
+    "bosch-898e2cc39c88",
+    "bosch-d87ae1a918d3",
+    "bosch-c65800427834",
+    "bosch-f60fa43131e3",
+    "bosch-a1a490c55ac0",
+    "bosch-4502ed59caf5",
+    "bosch-4e8d015a6594",
+    "bosch-fec88ed02242",
+    "bosch-8442bf53e0bf",
+    "bosch-6be0d924e3c6",
+    "bosch-804e2717259e",
+    "bosch-aad55b55b5cc",
+    "bosch-d25e0a72d902",
+    "bosch-3b3c76c388d4",
+    "bosch-9e5e0227cef2",
+    "bosch-340da7dfd627",
+    "bosch-95eeeb9ddd4b",
+    "bosch-eba38480fbe9",
+    "bosch-0e116ce86eec",
+    "protec-79db1246ccd8",
+    "protec-39c1da3d5d13",
+    "protec-c8d33590799c",
+    "dahua-1c025fc44c26",
+    "dahua-7aa9956f4902",
+    "dahua-15cdd9752825"
+  ],
+  "merged_model_associations": [
+    {
+      "id": "apollo-d48ca7497f0d",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/02/AlarmSense-IG-304-Issue-10.pdf",
+      "models": [
+        "45681-510APO — AlarmSense Sounder Base"
+      ]
+    },
+    {
+      "id": "apollo-d48ca7497f0d",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/02/AlarmSense-IG-304-Issue-10.pdf",
+      "models": [
+        "55000-017APO — AlarmSense Open-Area Sounder VID – Red Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-d48ca7497f0d",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/02/AlarmSense-IG-304-Issue-10.pdf",
+      "models": [
+        "55000-018APO — AlarmSense Open-Area Sounder – Red Body"
+      ]
+    },
+    {
+      "id": "apollo-d48ca7497f0d",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/02/AlarmSense-IG-304-Issue-10.pdf",
+      "models": [
+        "45681-244APO — AlarmSense Base"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-197APO — AlarmSense Heat Detector (CS) with Sounder Base"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-198APO — AlarmSense Heat Detector (A1R) with Sounder VID Base (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-199APO — AlarmSense Heat Detector (CS) with Sounder VID Base (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-392APO — AlarmSense Optical Smoke Detector with Sounder Base"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-393APO — AlarmSense Optical Smoke Detector (Integrating) with Sounder Base"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-394APO — AlarmSense Optical Smoke Detector with Sounder VID Base (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-a8c6835ba422",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001910_0001.pdf",
+      "models": [
+        "55000-395APO — AlarmSense Optical Smoke Detector (Integrating) with Sounder VID Base (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-d48ca7497f0d",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/02/AlarmSense-IG-304-Issue-10.pdf",
+      "models": [
+        "55000-835APO — AlarmSense Alarm Relay Module"
+      ]
+    },
+    {
+      "id": "apollo-39df14ef538f",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001890_0001.pdf",
+      "models": [
+        "58000-650APO — Discovery UL Photoelectric Smoke Detector"
+      ]
+    },
+    {
+      "id": "apollo-39df14ef538f",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001890_0001.pdf",
+      "models": [
+        "58000-750APO — Discovery UL Multi-Sensor Detector (Photoelectric/Heat)"
+      ]
+    },
+    {
+      "id": "apollo-84a148874eaa",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_488_disc_avs2_issue_2.pdf",
+      "models": [
+        "58002-350APO — Discovery Base Sounder Visual Indicator (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-84a148874eaa",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_488_disc_avs2_issue_2.pdf",
+      "models": [
+        "58002-351APO — Discovery Base Sounder Visual Indicator (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-84a148874eaa",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_488_disc_avs2_issue_2.pdf",
+      "models": [
+        "58006-300APO — Discovery Base Sounder – Black"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-305APO — Discovery Multi-Sensor Detector (CO/Heat)"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-400APO — Discovery Heat Detector"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-400MAR — Discovery Marine Heat Detector [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-400SIL — Discovery Heat Detector [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-600MAR — Discovery Marine Optical Smoke Detector [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-700MAR — Discovery Marine Multi-Sensor Detector (Optical/Heat) [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "58000-700SIL — Discovery Multi-Sensor Detector (Optical/Heat) [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-9739bb7328db",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Orbis-TimeSaver-Base-Installation-Guide.pdf",
+      "models": [
+        "ORB-MB-00001-APO — Orbis TimeSaver Base – Continuity Switch"
+      ]
+    },
+    {
+      "id": "apollo-9739bb7328db",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Orbis-TimeSaver-Base-Installation-Guide.pdf",
+      "models": [
+        "ORB-MB-00001-MAR — Orbis Marine TimeSaver Base – Continuity Switch"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-MB-00012-APO — Orbis Base – LX"
+      ]
+    },
+    {
+      "id": "apollo-9739bb7328db",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Orbis-TimeSaver-Base-Installation-Guide.pdf",
+      "models": [
+        "ORB-MB-00019-APO — Orbis TimeSaver Base – Deep"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-RB-10004-APO — Orbis TimeSaver Base – Relay"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-SW-10005-APO — Orbis Base – Sav-Wire"
+      ]
+    },
+    {
+      "id": "apollo-5c793f1b1100",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/apollo-conv.-flame-detector-user-guide.pdf",
+      "models": [
+        "55000-062APO — Conventional Exd Flame Detector (IR3) – Flameproof"
+      ]
+    },
+    {
+      "id": "apollo-c7b3a86300bb",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0008034_0001.pdf",
+      "models": [
+        "55000-062APO — Conventional Exd Flame Detector (IR3) – Flameproof"
+      ]
+    },
+    {
+      "id": "apollo-57c00498ddee",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Flameproof-Exd-UV_IR%C2%B2-Flame-Detector-Installation-Maintenance-Guide.pdf",
+      "models": [
+        "55000-065APO — Conventional Exd Flame Detector (UV/IR2) – Flameproof"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11001-APO — Orbis Heat Detector (A1R)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11002-APO — Orbis Heat Detector (A2S)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11003-APO — Orbis Heat Detector (BR)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11004-APO — Orbis Heat Detector (BS)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11005-APO — Orbis Heat Detector (CR)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11006-APO — Orbis Heat Detector (CS)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11013-APO — Orbis Heat Detector (A1R) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11014-APO — Orbis Heat Detector (A2S) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11015-APO — Orbis Heat Detector (BR) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11016-APO — Orbis Heat Detector (BS) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11017-APO — Orbis Heat Detector (CR) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11018-APO — Orbis Heat Detector (CS) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11166-APO — Orbis Heat Detector (A1S)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-HT-11167-APO — Orbis Heat Detector (A1S) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-OH-13001-APO — Orbis Multi-Sensor Detector (Optical/Heat)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-OH-13003-APO — Orbis Multi-Sensor Detector (Optical/Heat) – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-OP-02032-APO — Orbis Optical Smoke Detector (Non-latching)"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-OP-12001-APO — Orbis Optical Smoke Detector"
+      ]
+    },
+    {
+      "id": "apollo-2323fa59b7f0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001978_0001.pdf",
+      "models": [
+        "ORB-OP-12003-APO — Orbis Optical Smoke Detector – Flashing LED"
+      ]
+    },
+    {
+      "id": "apollo-61ea92be95e0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000331_0001.pdf",
+      "models": [
+        "55100-022MAR — Conventional Marine Manual Call Point – Outdoor"
+      ]
+    },
+    {
+      "id": "apollo-a33e32a216ee",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000330_0001.pdf",
+      "models": [
+        "55100-033APO — Conventional I.S. Manual Call Point – Outdoor (without LED)"
+      ]
+    },
+    {
+      "id": "apollo-6114d98ab3a2",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001945_0001.pdf",
+      "models": [
+        "53546-021APO — Duct Detector Housing (Series 65)"
+      ]
+    },
+    {
+      "id": "apollo-5c793f1b1100",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/apollo-conv.-flame-detector-user-guide.pdf",
+      "models": [
+        "55000-019APO — Conventional Flame Detector (IR3)"
+      ]
+    },
+    {
+      "id": "apollo-5c793f1b1100",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/apollo-conv.-flame-detector-user-guide.pdf",
+      "models": [
+        "55000-060APO — Conventional Flame Detector (IR2)"
+      ]
+    },
+    {
+      "id": "apollo-57c00498ddee",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Flameproof-Exd-UV_IR%C2%B2-Flame-Detector-Installation-Maintenance-Guide.pdf",
+      "models": [
+        "55000-060APO — Conventional Flame Detector (IR2)"
+      ]
+    },
+    {
+      "id": "apollo-cb5b96d626ac",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000329_0001.pdf",
+      "models": [
+        "55100-002APO — Conventional Manual Call Point – Yellow (without LED)"
+      ]
+    },
+    {
+      "id": "apollo-6c47edcdb51e",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Conventional-Manual-Call-Point-Installation-Guide.pdf",
+      "models": [
+        "55100-002APO — Conventional Manual Call Point – Yellow (without LED)"
+      ]
+    },
+    {
+      "id": "apollo-cb5b96d626ac",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000329_0001.pdf",
+      "models": [
+        "55100-003APO — Conventional Manual Call Point – Outdoor (without LED)"
+      ]
+    },
+    {
+      "id": "apollo-cb5b96d626ac",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000329_0001.pdf",
+      "models": [
+        "55100-004APO — Conventional Manual Call Point – Outdoor – Yellow (without LED)"
+      ]
+    },
+    {
+      "id": "apollo-6eaef9a6e207",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Series-60A-Mounting-Bases-Installation-Guide.pdf",
+      "models": [
+        "45681-220APO — Series 65A Base 6″"
+      ]
+    },
+    {
+      "id": "apollo-73ff07b7942b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001896_0001.pdf",
+      "models": [
+        "45681-251USA — Series 65A Base 6″ – E-Z Fit"
+      ]
+    },
+    {
+      "id": "apollo-31b02c5edb68",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002001_0001.pdf",
+      "models": [
+        "45681-256USA — Series 65A Base 4″ – Auxillary Relay"
+      ]
+    },
+    {
+      "id": "apollo-31b02c5edb68",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002001_0001.pdf",
+      "models": [
+        "45681-258USA — Series 65A Base 4″ – End-of-Line Relay (24V)"
+      ]
+    },
+    {
+      "id": "apollo-263ed34fbdbd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_476_avslice2_issue_2.pdf",
+      "models": [
+        "SA5302-351APO — Soteria Base Sounder Visual Indicator (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-263ed34fbdbd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_476_avslice2_issue_2.pdf",
+      "models": [
+        "SA5306-300APO — Soteria Base Sounder – Black"
+      ]
+    },
+    {
+      "id": "apollo-263ed34fbdbd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_476_avslice2_issue_2.pdf",
+      "models": [
+        "SA5306-350APO — Soteria Base Sounder Visual Indicator – Black (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-263ed34fbdbd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215_476_avslice2_issue_2.pdf",
+      "models": [
+        "SA5306-351APO — Soteria Base Sounder Visual Indicator – Black (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-0c56c3bc7569",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/PICTORIAL-Soteria-Dimension-IG-39215-173-Issue-4.pdf",
+      "models": [
+        "FL5100-600APO — Soteria Dimension Optical Smoke Detector"
+      ]
+    },
+    {
+      "id": "apollo-ceceae4b2ae2",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/PICTORIAL-Soteria-Dimension-Specialist-IG-39215-174-Issue-3.pdf",
+      "models": [
+        "FL6100-600APO — Soteria Dimension Optical Smoke Detector – Specialist"
+      ]
+    },
+    {
+      "id": "apollo-fe50a6c32956",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007743_0001.pdf",
+      "models": [
+        "SA5100-810APO — Soteria Tri-Sensor Detector (Dual Optical/Heat/CO)"
+      ]
+    },
+    {
+      "id": "apollo-b30b6c040974",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001924_0001.pdf",
+      "models": [
+        "45681-218APO — Deckhead Mounting Box Accessory Kit"
+      ]
+    },
+    {
+      "id": "apollo-f15f59473a1e",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002028_0001.pdf",
+      "models": [
+        "45681-293 — XPERT 7 Base Cover – Red"
+      ]
+    },
+    {
+      "id": "apollo-19a719efb039",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002016_0001.pdf",
+      "models": [
+        "45681-709APO — XP95 VAD Base Cat. O (White Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-028ae73ad3d4",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002032_0001.pdf",
+      "models": [
+        "55000-748APO — XP95 Open-Area VAD Cat. C – White Body (White Flash) (C-3-15) – Isolator Kit"
+      ]
+    },
+    {
+      "id": "apollo-07535cfe5fb9",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007121_0001.pdf",
+      "models": [
+        "55000-748APO — XP95 Open-Area VAD Cat. C – White Body (White Flash) (C-3-15) – Isolator Kit"
+      ]
+    },
+    {
+      "id": "apollo-c80a5e9700fb",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007122_0001.pdf",
+      "models": [
+        "55000-748APO — XP95 Open-Area VAD Cat. C – White Body (White Flash) (C-3-15) – Isolator Kit"
+      ]
+    },
+    {
+      "id": "apollo-cf81fd48fbef",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001949_0001.pdf",
+      "models": [
+        "45681-278APO — XP95 Sounder Base"
+      ]
+    },
+    {
+      "id": "apollo-cf81fd48fbef",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001949_0001.pdf",
+      "models": [
+        "45681-290APO — Discovery Sounder Base – Slow Whoop – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-7066dfc763ba",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Sounder-Visual-Indicator-Base-Installation-Guide.pdf",
+      "models": [
+        "45681-332APO — XP95 Sounder VID Base (Red Flash) – Slow Whoop – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-5cc579483ea5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Sounder-and-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "45681-333APO — XP95 VID Base (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-5cc579483ea5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Sounder-and-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "55000-002APO — XP95 Open-Area Sounder – White Body – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-5cc579483ea5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Sounder-and-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "55000-005APO — XP95 Open-Area Sounder VID – Red Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-5cc579483ea5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Sounder-and-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "55000-009APO — XP95 Open-Area VID – Red Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-5cc579483ea5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Sounder-and-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "55000-010APO — XP95 Open-Area VID – White Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-278APO — XP95 Open-Area Multi-Tone Sounder – Red Body"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-279APO — XP95 Open-Area Multi-Tone Sounder – White Body"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-291APO — XP95 Open-Area Multi-Tone Sounder VID – Red Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-293APO — XP95 Open-Area Multi-Tone Sounder VID – Red Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-294APO — XP95 Open-Area Multi-Tone Sounder VID – White Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-296APO — XP95 Open-Area Multi-Tone Sounder VID – Outdoor – Red Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-298APO — XP95 Open-Area Multi-Tone Sounder VID – Outdoor – Red Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-3e4519abd5e5",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001988_0001.pdf",
+      "models": [
+        "55000-299APO — XP95 Open-Area Multi-Tone Sounder VID – Outdoor – White Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-d4cf205bd40c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Loop-Powered-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "55000-879APO — XP95 Open-Area VID – Amber Body (Amber Flash)"
+      ]
+    },
+    {
+      "id": "apollo-60a405af59bc",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Discovery-Open-Area-Sounder-Visual-Indicator-Installation-Guide.pdf",
+      "models": [
+        "58000-007APO — Discovery Open-Area Sounder VID – White Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-c1e6bda65652",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001940_0001.pdf",
+      "models": [
+        "58000-020APO — Discovery Open-Area Voice Sounder – White Body – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-c1e6bda65652",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001940_0001.pdf",
+      "models": [
+        "58000-030APO — Discovery Open-Area Voice Sounder VID – Red Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-c1e6bda65652",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001940_0001.pdf",
+      "models": [
+        "58000-040APO — Discovery Open-Area Voice Sounder VID – White Body (Red Flash) – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5500-350APO — Intelligent Open-Area Sounder VID – Red Body (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5500-351APO — Intelligent Open-Area Sounder VID – Red Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-07744a0bb623",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Audio-Visual-Device-Installation-Guide.pdf",
+      "models": [
+        "SA5500-351APO — Intelligent Open-Area Sounder VID – Red Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5501-300APO — Intelligent Open-Area Sounder – White Body"
+      ]
+    },
+    {
+      "id": "apollo-07744a0bb623",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Audio-Visual-Device-Installation-Guide.pdf",
+      "models": [
+        "SA5501-300APO — Intelligent Open-Area Sounder – White Body"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5501-320APO — Intelligent Open-Area VID – White Body (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-07744a0bb623",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Audio-Visual-Device-Installation-Guide.pdf",
+      "models": [
+        "SA5501-320APO — Intelligent Open-Area VID – White Body (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5501-321APO — Intelligent Open-Area VID – White Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-07f3da8f08ed",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/39215-320_en_openareavid_ig_issue_8.pdf",
+      "models": [
+        "SA5501-321APO — Intelligent Open-Area VID – White Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5501-350APO — Intelligent Open-Area Sounder VID – White Body (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-07744a0bb623",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Audio-Visual-Device-Installation-Guide.pdf",
+      "models": [
+        "SA5501-350APO — Intelligent Open-Area Sounder VID – White Body (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-92853505bb6c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2026/03/Xpert-8-Mounting-Base-IG-39215-005-Issue-3.pdf",
+      "models": [
+        "SA5501-351APO — Intelligent Open-Area Sounder VID – White Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-07744a0bb623",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Intelligent-Open-Area-Audio-Visual-Device-Installation-Guide.pdf",
+      "models": [
+        "SA5501-351APO — Intelligent Open-Area Sounder VID – White Body (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "45681-210APO — XPERT 7 Base"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "45681-210MAR — XPERT 7 Marine Base"
+      ]
+    },
+    {
+      "id": "apollo-6114d98ab3a2",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001945_0001.pdf",
+      "models": [
+        "53546-022APO — Duct Detector Housing (XPERT 7)"
+      ]
+    },
+    {
+      "id": "apollo-034fc31b561e",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/intelligent-ir2-flame-detector-installation-maintenance-guide-4.pdf",
+      "models": [
+        "55000-021APO — XP95 Exd Flame Detector (IR3) – Flameproof"
+      ]
+    },
+    {
+      "id": "apollo-034fc31b561e",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/intelligent-ir2-flame-detector-installation-maintenance-guide-4.pdf",
+      "models": [
+        "55000-280APO — XP95 Flame Detector (IR2)"
+      ]
+    },
+    {
+      "id": "apollo-034fc31b561e",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/intelligent-ir2-flame-detector-installation-maintenance-guide-4.pdf",
+      "models": [
+        "55000-295APO — XP95 Exd Flame Detector (IR2) – Flameproof"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "55000-401APO — XP95 Heat Detector (CS)"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "55000-420APO — XP95 Heat Detector (A2S)"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "55000-620APO — XP95 Optical Smoke Detector"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "55000-660APO — XP95 Optical Smoke Detector – Black"
+      ]
+    },
+    {
+      "id": "apollo-0f80e75d8a7b",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002037_0001.pdf",
+      "models": [
+        "55000-885APO — XP95 Multi-Sensor Detector (Optical/Heat)"
+      ]
+    },
+    {
+      "id": "apollo-703b4a349e01",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000314_0001.pdf",
+      "models": [
+        "55100-908APO — XP95 Manual Call Point – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-08ad30480ca4",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006479_0001.pdf",
+      "models": [
+        "55100-908APO — XP95 Manual Call Point – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-adaf7e0c3d11",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/XP95-Manual-Call-Point-EN54-Installation-Guide.pdf",
+      "models": [
+        "55100-908APO — XP95 Manual Call Point – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-e1f5a3c7a6f4",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/XP95-I.S.-Manual-Call-Point-EN54-Installation-Guide.pdf",
+      "models": [
+        "55100-940APO — XP95 I.S. Manual Call Point"
+      ]
+    },
+    {
+      "id": "apollo-e1f5a3c7a6f4",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/XP95-I.S.-Manual-Call-Point-EN54-Installation-Guide.pdf",
+      "models": [
+        "55100-942APO — XP95 I.S. Manual Call Point – Yellow"
+      ]
+    },
+    {
+      "id": "apollo-05b2ed9ae8b8",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0005873_0001.pdf",
+      "models": [
+        "58100-908SIL — Discovery Manual Call Point – Isolating [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-0e31d7a2d0ff",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Discovery-Manual-Call-Point-Installation-Guide.pdf",
+      "models": [
+        "58100-910APO — Discovery Manual Call Point"
+      ]
+    },
+    {
+      "id": "apollo-0e31d7a2d0ff",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Discovery-Manual-Call-Point-Installation-Guide.pdf",
+      "models": [
+        "58100-927APO — Discovery Manual Call Point – Yellow"
+      ]
+    },
+    {
+      "id": "apollo-09faca3f0341",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000315_0001.pdf",
+      "models": [
+        "58100-951APO — Discovery Manual Call Point – Outdoor – Isolating [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-1b4d27ab8f05",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Waterproof-Manual-Call-Point-EN54-Installation-Guide.pdf",
+      "models": [
+        "58100-951APO — Discovery Manual Call Point – Outdoor – Isolating [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-09faca3f0341",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000315_0001.pdf",
+      "models": [
+        "58100-953APO — Discovery Manual Call Point – Outdoor – Yellow – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-ed9a71a1bda0",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/Discovery-Marine-Manual-Call-Point-Installation-Guide.pdf",
+      "models": [
+        "58100-971MAR — Discovery Marine Manual Call Point – Isolating [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-6975c108b2f6",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/PP2454-Waterproof-Addressable-MCP-Issue-4.pdf",
+      "models": [
+        "58200-951APO — Discovery Manual Call Point – Outdoor – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-1d6c1ae02181",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001981_0001.pdf",
+      "models": [
+        "58200-951APO — Discovery Manual Call Point – Outdoor – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-6975c108b2f6",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/PP2454-Waterproof-Addressable-MCP-Issue-4.pdf",
+      "models": [
+        "58200-951SIL — Discovery Manual Call Point – Outdoor – Isolating [SIL2]"
+      ]
+    },
+    {
+      "id": "apollo-44957aeb7f75",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000341_0001.pdf",
+      "models": [
+        "58200-976MAR — Discovery Marine Manual Call Point – Outdoor – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-2094b2aab17c",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0005886_0001.pdf",
+      "models": [
+        "58200-976MAR — Discovery Marine Manual Call Point – Outdoor – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-c8bb353eab01",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001968_0001.pdf",
+      "models": [
+        "58200-976MAR — Discovery Marine Manual Call Point – Outdoor – Isolating"
+      ]
+    },
+    {
+      "id": "apollo-33c5f6586bfd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000082_0001.pdf",
+      "models": [
+        "SA5900-904APO — Intelligent Manual Call Point – Yellow"
+      ]
+    },
+    {
+      "id": "apollo-33c5f6586bfd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000082_0001.pdf",
+      "models": [
+        "SA5900-905APO — Intelligent Manual Call Point – Blue"
+      ]
+    },
+    {
+      "id": "apollo-33c5f6586bfd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000082_0001.pdf",
+      "models": [
+        "SA5900-906APO — Intelligent Manual Call Point – Green"
+      ]
+    },
+    {
+      "id": "apollo-33c5f6586bfd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000082_0001.pdf",
+      "models": [
+        "SA5900-907APO — Intelligent Manual Call Point – Orange"
+      ]
+    },
+    {
+      "id": "apollo-33c5f6586bfd",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0000082_0001.pdf",
+      "models": [
+        "SA5900-908APO — Intelligent Manual Call Point"
+      ]
+    },
+    {
+      "id": "apollo-028ae73ad3d4",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0002032_0001.pdf",
+      "models": [
+        "55000-750USA — Isolator"
+      ]
+    },
+    {
+      "id": "apollo-39df14ef538f",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001890_0001.pdf",
+      "models": [
+        "55000-450APO — XP95A Heat Detector (135˚F)"
+      ]
+    },
+    {
+      "id": "apollo-39df14ef538f",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001890_0001.pdf",
+      "models": [
+        "55000-650APO — XP95A Photoelectric Smoke Detector"
+      ]
+    },
+    {
+      "id": "apollo-39df14ef538f",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0001890_0001.pdf",
+      "models": [
+        "55000-886APO — XP95A Multi-Sensor Detector (Photoelectric/Heat)"
+      ]
+    },
+    {
+      "id": "apollo-f90a5a09ca58",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007692_0001.pdf",
+      "models": [
+        "55000-806USA — XP95A Priority Switch Monitor Module"
+      ]
+    },
+    {
+      "id": "apollo-f90a5a09ca58",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007692_0001.pdf",
+      "models": [
+        "55000-830USA — XP95A Mini Priority Switch Monitor Module"
+      ]
+    },
+    {
+      "id": "apollo-f90a5a09ca58",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007692_0001.pdf",
+      "models": [
+        "55000-831USA — XP95A Mini Switch Monitor Module"
+      ]
+    },
+    {
+      "id": "apollo-6b8c3387bb93",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/PP2581_XP95A_Dual_Action_Addressable_Manual_Pull_Station_Issue-2.pdf",
+      "models": [
+        "56000-005USA — Discovery UL Manual Pull Station – Dual Action"
+      ]
+    },
+    {
+      "id": "apollo-5f0265efd28a",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0007138_0001.pdf",
+      "models": [
+        "56000-005USA — Discovery UL Manual Pull Station – Dual Action"
+      ]
+    },
+    {
+      "id": "apollo-7f46cc36d934",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006575_0001.pdf",
+      "models": [
+        "XPA-CB-14023-APO — XPander Multisensor Detector (Optical/Heat) with Sounder VID Base (Red Flash)"
+      ]
+    },
+    {
+      "id": "apollo-7f46cc36d934",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006575_0001.pdf",
+      "models": [
+        "XPA-CB-14027-APO — XPander Multisensor Detector (Optical/Heat) with Sounder VID Base (White Flash)"
+      ]
+    },
+    {
+      "id": "apollo-7f46cc36d934",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006575_0001.pdf",
+      "models": [
+        "XPA-CB-11170-APO — XPander Heat Detector (A1R) with Base"
+      ]
+    },
+    {
+      "id": "apollo-7f46cc36d934",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006575_0001.pdf",
+      "models": [
+        "XPA-CB-11171-APO — XPander Heat Detector (CS) with Base"
+      ]
+    },
+    {
+      "id": "apollo-89ab8a49f276",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0008048_0001.pdf",
+      "models": [
+        "XPA-CB-11171-APO — XPander Heat Detector (CS) with Base"
+      ]
+    },
+    {
+      "id": "apollo-7f46cc36d934",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006575_0001.pdf",
+      "models": [
+        "XPA-CB-12034-APO — XPander Optical Smoke Detector with Base"
+      ]
+    },
+    {
+      "id": "apollo-89ab8a49f276",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0008048_0001.pdf",
+      "models": [
+        "XPA-CB-12034-APO — XPander Optical Smoke Detector with Base"
+      ]
+    },
+    {
+      "id": "apollo-7f46cc36d934",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0006575_0001.pdf",
+      "models": [
+        "XPA-CB-13032-APO — XPander Multisensor Detector (Optical/Heat) with Base"
+      ]
+    },
+    {
+      "id": "apollo-89ab8a49f276",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0008048_0001.pdf",
+      "models": [
+        "XPA-CB-13032-APO — XPander Multisensor Detector (Optical/Heat) with Base"
+      ]
+    },
+    {
+      "id": "apollo-c856a2f77f85",
+      "url": "https://apollo-fire.co.uk/wp-content/uploads/2025/10/F0008050_0001.pdf",
+      "models": [
+        "XPA-IN-14012-APO — XPander Input/Output Module – Dual Channel"
+      ]
+    },
+    {
+      "id": "nittan-3735a925ba7c",
+      "url": "https://www.nittan.com/english/cms/wp-content/uploads/products/files/alarm/manuals/DW2000744_K1_EVA-H3_EVA-H3-H%20Instruction%20Manual_2022.01.24.pdf",
+      "models": [
+        "EVA-H3"
+      ]
+    },
+    {
+      "id": "nittan-68733c52d36b",
+      "url": "https://www.nittan.com/english/cms/wp-content/uploads/products/files/alarm/manuals/EVA-UB4%28-6%29-TEC-K1.pdf",
+      "models": [
+        "EVA-UB4"
+      ]
+    },
+    {
+      "id": "bosch-b238ab50455d",
+      "url": "https://keenfinity.blob.core.windows.net/public/documents/Enduser_Quick_user_guide_enUS_122846978443.pdf",
+      "models": [
+        "AMS 6.0"
+      ]
+    },
+    {
+      "id": "bosch-aa709bab3925",
+      "url": "https://keenfinity.blob.core.windows.net/public/documents/Installer_Quick_user_guide_enUS_122846981771.pdf",
+      "models": [
+        "AMS 6.0"
+      ]
+    },
+    {
+      "id": "bosch-b238ab50455d",
+      "url": "https://keenfinity.blob.core.windows.net/public/documents/Enduser_Quick_user_guide_enUS_122846978443.pdf",
+      "models": [
+        "AMS 5.5"
+      ]
+    },
+    {
+      "id": "bosch-aa709bab3925",
+      "url": "https://keenfinity.blob.core.windows.net/public/documents/Installer_Quick_user_guide_enUS_122846981771.pdf",
+      "models": [
+        "AMS 5.5"
+      ]
+    }
+  ],
+  "unresolved_download_links": [
+    {
+      "source_url": "https://apollo-fire.co.uk/products/orbis/base/orb-sw-10005-apo-orbis-base-sav-wire/",
+      "product": "Orbis Base – Sav-Wire",
+      "title": "Orbis Sav-Wire Base Installation Guide",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/series-65/mcp/55100-003apo-conventional-manual-call-point-outdoor-without-led/",
+      "product": "Conventional Manual Call Point – Outdoor (without LED)",
+      "title": "Conventional Waterproof Manual Call Point Installation Guide",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/series-65/mcp/55100-004apo-conventional-manual-call-point-outdoor-yellow-without-led/",
+      "product": "Conventional Manual Call Point – Outdoor – Yellow (without LED)",
+      "title": "Conventional Waterproof Manual Call Point Installation Guide",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/series-65a/base/45681-220apo-series-65a-base-6/",
+      "product": "Series 65A Base 6″",
+      "title": "Series 65A Smoke & Heat Detectors Installation Instructions",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/xp95/av/sa5500-300apo-intelligent-open-area-sounder-red-body/",
+      "product": "Intelligent Open-Area Sounder – Red Body",
+      "title": "XPERT 8 Mounting Base (Red) Installation Guide",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/xp95/interface-din-rail/55000-772mar-xp95-marine-din-rail-switch-monitor-plus-module/",
+      "product": "XP95 Marine DIN-Rail Switch Monitor Plus Module",
+      "title": "Marine DIN-Rail Mounted Switch Monitor Plus Installation Guide",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/xp95a/base/45681-210ul-xpert-7-base-4/",
+      "product": "XPERT 7 Base 4″",
+      "title": "XP95A and Discovery UL Smoke & Heat Detectors Installation Instructions",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://apollo-fire.co.uk/products/xp95a/interface-face-plate/55000-825usa-xp95a-av-control-module/",
+      "product": "XP95A AV Control Module",
+      "title": "XP95A Sounder Control Module Installation Instructions",
+      "document_url": null,
+      "error": null
+    },
+    {
+      "source_url": "https://www.nittan.com/english/product/evolution-1/",
+      "product": "Evolution 1",
+      "title": "Manual(ENG)",
+      "document_url": null,
+      "error": null
+    }
+  ]
+}

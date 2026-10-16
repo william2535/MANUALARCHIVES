@@ -12,6 +12,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `videx-459d745fba92`, `videx-2fd7bd18ad18`, `videx-91fe7e11019b`
+Record IDs: `videx-459d745fba92`, `videx-91fe7e11019b`, `videx-2fd7bd18ad18`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

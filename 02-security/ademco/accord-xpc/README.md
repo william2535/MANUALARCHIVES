@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `ademco-8eb2930ea632`, `ademco-918318edcded`
+Record IDs: `ademco-918318edcded`, `ademco-8eb2930ea632`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

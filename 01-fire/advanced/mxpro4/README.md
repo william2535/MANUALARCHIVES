@@ -1,4 +1,4 @@
-# Advanced — mxpro4
+# Advanced — MxPro4
 
 [Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
 
@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `advanced-76cae27e9ec7`, `advanced-8f3ba6ecfc7f`
+Record IDs: `advanced-8f3ba6ecfc7f`, `advanced-76cae27e9ec7`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

@@ -16,6 +16,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `risco-076506db1406`, `risco-1c850f3ecb07`, `risco-2d5996dff974`, `risco-acbbcfda4bf1`, `risco-85f504d839ef`, `risco-5f35f8533820`, `risco-5f439a7e9d04`
+Record IDs: `risco-acbbcfda4bf1`, `risco-85f504d839ef`, `risco-076506db1406`, `risco-1c850f3ecb07`, `risco-2d5996dff974`, `risco-5f35f8533820`, `risco-5f439a7e9d04`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

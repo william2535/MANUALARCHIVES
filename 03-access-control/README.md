@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-858 document records. Door entry belongs under access control.
+904 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -15,6 +15,7 @@
 | [Bell System](bell-system/README.md) | 2 | 3 |
 | [Beninca](beninca/README.md) | 6 | 6 |
 | [Borg Locks](borg-locks/README.md) | 1 | 1 |
+| [Bosch](bosch/README.md) | 46 | 11 |
 | [CAME / BPT](came-bpt/README.md) | 21 | 22 |
 | [CDVI](cdvi/README.md) | 6 | 4 |
 | [Comelit](comelit/README.md) | 49 | 61 |

@@ -1,4 +1,4 @@
-# Morley-IAS — ZX Series
+# Morley-IAS — ZX-Series
 
 [Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
 
@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `morley-ias-dc9e249b17d0`, `morley-ias-cd7f2f707ab9`
+Record IDs: `morley-ias-cd7f2f707ab9`, `morley-ias-dc9e249b17d0`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

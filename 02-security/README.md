@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-605 document records. Door entry belongs under access control.
+606 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -12,6 +12,7 @@
 | [Aritech](aritech/README.md) | 6 | 3 |
 | [Axis](axis/README.md) | 48 | 45 |
 | [Bandit](bandit/README.md) | 3 | 3 |
+| [Bosch](bosch/README.md) | 1 | 1 |
 | [Comelit](comelit/README.md) | 31 | 36 |
 | [Eaton / Scantronic](eaton-scantronic/README.md) | 20 | 16 |
 | [GJD](gjd/README.md) | 10 | 7 |

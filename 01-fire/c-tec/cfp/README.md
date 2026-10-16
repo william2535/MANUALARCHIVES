@@ -14,6 +14,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `c-tec-4b1267f3fefc`, `c-tec-dea7a195ae12`, `c-tec-bd84d9182a12`, `c-tec-4f882f066920`, `c-tec-b6aba07515eb`
+Record IDs: `c-tec-dea7a195ae12`, `c-tec-bd84d9182a12`, `c-tec-4f882f066920`, `c-tec-4b1267f3fefc`, `c-tec-b6aba07515eb`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

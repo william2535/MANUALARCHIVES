@@ -2,7 +2,7 @@
 
 Fire, security, access control and CCTV manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**2,902 document records · 69 brands · 2,550 direct PDF links · 0 PDF files mirrored**
+**3,211 document records · 70 brands · 2,859 direct PDF links · 0 PDF files mirrored**
 
 Source collection date: 2026-10-16. A check date does not mean a document is the latest revision.
 
@@ -10,10 +10,10 @@ Source collection date: 2026-10-16. A check date does not mean a document is the
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 552 |
-| [Security / intruder](02-security/README.md) | 605 |
-| [Access control / door entry](03-access-control/README.md) | 858 |
-| [CCTV](04-cctv/README.md) | 887 |
+| [Fire](01-fire/README.md) | 811 |
+| [Security / intruder](02-security/README.md) | 606 |
+| [Access control / door entry](03-access-control/README.md) | 904 |
+| [CCTV](04-cctv/README.md) | 890 |
 
 Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 

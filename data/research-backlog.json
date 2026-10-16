@@ -4657,13 +4657,15 @@
   "priority_brand_gaps": [
     "Dahua current recorders and firmware",
     "Bosch MAP and current intrusion/access",
-    "Protec 6100 and 6300 installation/user manuals",
-    "Nittan control panels and devices",
     "Honeywell Galaxy current regional editions",
     "Advanced MxPro model applicability and editions",
-    "Apollo and Hochiki device installation guides",
     "Comelit remaining product pages",
     "TDSi controller hardware manuals",
-    "Salto platform software manuals"
-  ]
+    "Salto platform software manuals",
+    "Protec 6300 installation manual",
+    "Hochiki device installation guides",
+    "Bosch MAP 5000 working manufacturer download",
+    "Remaining Apollo and Nittan product pages and unresolved links"
+  ],
+  "continuation_log": "data/continuation-log.json"
 }

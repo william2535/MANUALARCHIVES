@@ -1,4 +1,4 @@
-# Kentec — Sigma ZXT (Operation
+# Kentec — Sigma ZXT (Operation)
 
 [Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
 
@@ -11,6 +11,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `kentec-a19446f80d83`, `kentec-40861f214a25`
+Record IDs: `kentec-40861f214a25`, `kentec-a19446f80d83`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

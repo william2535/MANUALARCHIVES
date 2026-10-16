@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-887 document records. Door entry belongs under access control.
+890 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -14,7 +14,7 @@
 | [Baxall](baxall/README.md) | 12 | 12 |
 | [Bosch](bosch/README.md) | 3 | 3 |
 | [Comelit](comelit/README.md) | 39 | 44 |
-| [Dahua](dahua/README.md) | 8 | 6 |
+| [Dahua](dahua/README.md) | 11 | 7 |
 | [Dedicated Micros](dedicated-micros/README.md) | 10 | 10 |
 | [FLIR](flir/README.md) | 2 | 2 |
 | [GJD](gjd/README.md) | 2 | 2 |
