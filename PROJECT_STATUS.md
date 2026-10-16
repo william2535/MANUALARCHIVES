@@ -8,6 +8,8 @@ Build a comprehensive manual archive for a professional offline onsite guide, or
 
 ## Saved progress — 16 October 2026
 
+Resumed collection checkpoint: **45 more complete-PDF records**, bringing the archive to **3,326 records across 72 brands**. Added Dahua 7, Hikvision 13, Siemens 16, TDSi 4, FireClass 4 and Salto 1. TDSi **UM0120 Issue 2** and the **FC600 installation/user manuals, version 3.0** are now present. Original IDs, source URLs and models were preserved; duplicate hashes were merged. See `data/continuation-log-2026-10-16-b.json`. Kentec and C-TEC collection continues after this checkpoint.
+
 The prepared **309 records are published on main**, in commit `fff64dc8668ebd6f78c30e39d275eec6697c4b35`. The connected GitHub app was used because command-line Git has read access but no push credentials. The local checkpoint branch `checkpoint/prepared-309-local` preserves the equivalent original local commit.
 
 The gap-fill batch is published on main in commit `0714ba5637df3b1a9c84e23fba50ac47d254137f`. It adds **70 records**, taking the catalogue to **3,281 records across 72 brands**: Advanced 22, Hochiki 16, FireClass 9, TDSi 9, Siemens 5, Kentec 4, C-TEC 3 and Protec 2. Every addition was retrieved as a complete PDF, parsed for page count and SHA-256 hashed. Three duplicate candidates were merged and all previous record IDs retained. See `data/gap-fill-log-2026-10-16.json` for exact additions, sources, duplicates and held candidates.
@@ -27,7 +29,7 @@ The public repository stores source links and metadata, not manufacturer PDF bin
 ## Next work
 
 1. Start from the current GitHub main branch; inspect status and preserve any newer changes. Do not rerun older scratch merge scripts blindly.
-2. Resolve the remaining identified links and collect missing model/revision families. Priorities include C-TEC/Kentec unresolved links, Bosch MAP 5000 (identified URL still fails), newer Advanced MxPro editions, further Hochiki devices, current Hikvision/Dahua, Comelit pagination, TDSi UM0120 hardware instructions and Salto software. Siemens and FireClass now have initial records; full English FC360 technical and FireClass FC600 installation/user manuals remain gaps.
+2. Resolve the remaining identified links and collect missing model/revision families. Priorities include C-TEC/Kentec unresolved links, Bosch MAP 5000 (identified URL still fails), newer Advanced MxPro editions, further Hochiki devices, current Hikvision/Dahua, Comelit pagination, remaining TDSi controller editions and current Salto software guides. Siemens and FireClass now have initial records; full English FC360 technical manuals from a verified source and further FireClass editions remain gaps.
 3. Prefer manufacturer sources; label public installer/distributor copies, retain actual model and version evidence, and do not invent download URLs or call unknown editions current.
 4. Rebuild with `python3 scripts/build_index.py`, run `python3 scripts/validate.py`, and publish useful additions to this repository. Avoid prolonged research without saving additions.
 5. To publish through the connected GitHub app, create a tree from the current main tree plus changed file contents, create its commit with the current main as parent, then update main with `force=false` and the expected head SHA. Verify remote/local tree equality before aligning the local branch. Do not force-push. PDF binaries stay local and excluded from Git.

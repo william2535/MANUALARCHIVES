@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-16",
+  "baseline_commit": "326c97959a85e41946f916fc74ded3807761394f",
+  "before": 3281,
+  "after": 3326,
+  "added": 45,
+  "added_by_brand": {
+    "Salto": 1,
+    "TDSi": 4,
+    "Dahua": 7,
+    "Hikvision": 13,
+    "FireClass": 4,
+    "Siemens": 16
+  },
+  "added_record_ids": [
+    "tdsi-7c9af2323476",
+    "tdsi-c7a4a3cea9a5",
+    "tdsi-ba9b7d50a443",
+    "salto-7508ecbc6421",
+    "fireclass-3a132d62d40d",
+    "fireclass-17c5efd719ee",
+    "fireclass-f70236451b0f",
+    "hikvision-12bef863c834",
+    "hikvision-0768b41d0172",
+    "hikvision-17adbd9f0256",
+    "hikvision-843e18ff8f4c",
+    "hikvision-702ace8cd356",
+    "hikvision-449116a24cef",
+    "hikvision-679f3798e8c0",
+    "hikvision-66f2f4fab5f9",
+    "hikvision-4b440527e0a7",
+    "fireclass-03c13827fa9d",
+    "dahua-c78295a8234a",
+    "dahua-f228dcca0cf2",
+    "dahua-1eb49317d405",
+    "hikvision-59dc5a231324",
+    "hikvision-fad3731221ee",
+    "hikvision-97348f31916f",
+    "hikvision-3af0e27bfc8c",
+    "siemens-63356ea94f4c",
+    "siemens-ce5cdb5f00f2",
+    "siemens-a164655b70f5",
+    "siemens-04270d2a02bc",
+    "siemens-46bb91e028c7",
+    "siemens-93dbcd604642",
+    "siemens-20f2be95f023",
+    "siemens-bab3756a44bc",
+    "siemens-5fe27af79a2c",
+    "siemens-5d825c6e6f8d",
+    "siemens-24c1966262b4",
+    "siemens-8fa30a810428",
+    "siemens-ede50976c614",
+    "siemens-7b0867952677",
+    "tdsi-084894b18916",
+    "dahua-99dc6b507384",
+    "dahua-8a45ba1207b1",
+    "dahua-10b2d3eda945",
+    "dahua-06a7bdf379bf",
+    "siemens-d8983bb5fed5",
+    "siemens-f8c6ffda3843"
+  ],
+  "updated_existing_record_ids": [
+    "dahua-15cdd9752825",
+    "dahua-1c025fc44c26",
+    "dahua-7aa9956f4902",
+    "hikvision-1125f8ee4ab1"
+  ],
+  "merged_candidates": [
+    {
+      "retained_id": "hikvision-1125f8ee4ab1",
+      "document_url": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000007/S000000026/OFR000040/M000000564/User_Manual/UD33768B_Baseline_Network-Video-Recorder-I-and-M-Series_User-Manual_V4.63.010_20230609.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "dahua-1c025fc44c26",
+      "document_url": "https://materialfile.dahuasecurity.com/uploads/cpq/88595/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.1.0.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "dahua-1c025fc44c26",
+      "document_url": "https://materialfile.dahuasecurity.com/uploads/cpq/88595/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.1.0.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "dahua-1c025fc44c26",
+      "document_url": "https://materialfile.dahuasecurity.com/uploads/cpq/83548/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.1.0.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "hikvision-66f2f4fab5f9",
+      "document_url": "https://assets.hikvision.com/prd/public/all/doc/m000115844/UD34765B_Baseline_Network-Video-Recorder_User-Manual_V4.76.000_20240409.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "dahua-7aa9956f4902",
+      "document_url": "https://materialfile.dahuasecurity.com/uploads/cpq/83548/user_manual/Dahua_Network_Video_Recorder_User_Manual_V1.1.1.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "dahua-15cdd9752825",
+      "document_url": "https://materialfile.dahuasecurity.com/uploads/cpq/61577/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    },
+    {
+      "retained_id": "dahua-10b2d3eda945",
+      "document_url": "https://materialfile.dahuasecurity.com/uploads/cpq/43507/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf",
+      "reason": "Exact source URL or matching complete-file SHA-256."
+    }
+  ],
+  "held_candidates": [
+    {
+      "title": "FC361-xx / FC362-xx — Technical manual",
+      "document_url": "https://sgnltechsvcprg01stg01.blob.core.windows.net/container01/Branddetectie/Siemens/Cerberus%20Fit%20FC360/Technische_handleiding_FC361_en_FC362_A6V10951489.pdf",
+      "reason": "Complete PDF verified, but the public storage host ownership/provenance is not established; held rather than incorrectly label manufacturer/installer/distributor."
+    }
+  ],
+  "verification": "All added records have complete-file PDF header, EOF, byte count, SHA-256 and Poppler page count evidence. Document identity and model tables checked; no full technical applicability review. Existing IDs, original URLs and model associations preserved."
+}

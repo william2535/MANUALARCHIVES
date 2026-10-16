@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-9 document records, grouped into 11 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+13 document records, grouped into 13 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -14,6 +14,8 @@
 | [FC32](fc32/README.md) | 1 |
 | [FC442AVB](fc442avb/README.md) | 1 |
 | [FC501](fc501/README.md) | 1 |
+| [FC600](fc600/README.md) | 2 |
 | [FC64](fc64/README.md) | 1 |
+| [FC700](fc700/README.md) | 2 |
 | [FC708D](fc708d/README.md) | 1 |
 | [FC718D](fc718d/README.md) | 1 |

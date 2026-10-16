@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-238 document records, grouped into 237 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+239 document records, grouped into 238 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -75,6 +75,7 @@
 | [Panel XS Reader](panel-xs-reader/README.md) | 1 |
 | [Panel XS Reader - OSDP](panel-xs-reader-osdp/README.md) | 1 |
 | [Pedestal Series WRMPExx](pedestal-series-wrmpexx/README.md) | 1 |
+| [ProAccess SPACE 2.0](proaccess-space-2-0/README.md) | 1 |
 | [Salto DLok Nordic FrameFit](salto-dlok-nordic-framefit/README.md) | 1 |
 | [Salto DLok for European profile cylinders](salto-dlok-for-european-profile-cylinders/README.md) | 1 |
 | [Salto DLok for Scandi](salto-dlok-for-scandi/README.md) | 1 |
