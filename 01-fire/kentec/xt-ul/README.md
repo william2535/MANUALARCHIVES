@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1252KE XT+ (UL)](https://kentec.co.uk/resources/product-resources/) | reference | Man-1252KE | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [XT+ — Releasing control unit installation manual (UL)](https://kentec.co.uk/wp-content/uploads/2020/07/Man-1252KE-XT-UL-Releasing-Unit-Install-Manual-V1.pdf) | installation | Man-1252KE | Version 1.00 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

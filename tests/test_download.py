@@ -47,6 +47,26 @@ class DownloadTests(unittest.TestCase):
         with tempfile.TemporaryDirectory()as directory:
             result=download.download_record(r,directory,opener=network)
             self.assertEqual(result['result'],'manual-download-needed')
+    def test_download_compares_catalogue_hash_and_keeps_changed_source_for_review(self):
+        import hashlib
+        r=record();r.update(source_pdf_sha256=hashlib.sha256(PDF).hexdigest(),source_pdf_bytes=len(PDF))
+        with tempfile.TemporaryDirectory()as directory:
+            first=download.download_record(r,directory,opener=opener())
+            self.assertEqual(first['catalogue_match'],'matched')
+            changed=download.download_record(r,directory,first,refresh=True,opener=opener(PDF.replace(b'1.4',b'1.5')))
+            self.assertEqual(changed['catalogue_match'],'changed')
+            self.assertTrue((Path(directory)/first['path']).is_file())
+            self.assertTrue((Path(directory)/changed['path']).is_file())
+    def test_cached_file_is_compared_against_updated_catalogue_without_network(self):
+        r=record()
+        with tempfile.TemporaryDirectory()as directory:
+            first=download.download_record(r,directory,opener=opener())
+            self.assertEqual(first['catalogue_match'],'unverified')
+            r.update(source_pdf_sha256='0'*64,source_pdf_bytes=len(PDF))
+            def offline(*args,**kwargs):raise AssertionError('Unexpected network request')
+            resumed=download.download_record(r,directory,first,opener=offline)
+            self.assertEqual(resumed['result'],'already-saved')
+            self.assertEqual(resumed['catalogue_match'],'changed')
     def test_axis_export_is_resolved_from_exact_model_page(self):
         r=record();r.update(brand='Axis',download_url=None,document_url='https://help.axis.com/en-us/example')
         def page(*args,**kwargs):return Response(b'<a href="/download/example.pdf">Download PDF</a>',url=r['document_url'])

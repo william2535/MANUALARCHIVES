@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1605KE Installation Manual for XT+](https://kentec.co.uk/resources/product-resources/) | installation | Man-1605KE | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [XT+ K1751-XX / K1752-XX — Releasing control module installation manual](https://kentec.co.uk/wp-content/uploads/2026/10/Man-1605KE-Installation-Manual-for-XT-Releasing-Control-Module-Model-no.s-K1751-XX-K1752-XX-V1.00.pdf) | installation | Man-1605KE | Version 1.00 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

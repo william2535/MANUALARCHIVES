@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-154 document records, grouped into 110 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+157 document records, grouped into 121 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -25,13 +25,18 @@
 | [HydroSense Matrix](hydrosense-matrix/README.md) | 1 |
 | [Install Instructions](install-instructions/README.md) | 2 |
 | [Installation](installation/README.md) | 1 |
+| [K-Mesh](k-mesh/README.md) | 2 |
 | [K-Mesh Configurator Software Guide](k-mesh-configurator-software-guide/README.md) | 1 |
 | [K-Mesh Wireless](k-mesh-wireless/README.md) | 1 |
+| [K1751-XX](k1751-xx/README.md) | 1 |
+| [K1752-XX](k1752-xx/README.md) | 1 |
 | [K2.01](k2-01/README.md) | 1 |
+| [K25800](k25800/README.md) | 1 |
 | [K3000](k3000/README.md) | 1 |
 | [K3000S](k3000s/README.md) | 1 |
 | [K3200](k3200/README.md) | 1 |
 | [K4.01/ K4.01+](k4-01-k4-01/README.md) | 1 |
+| [KD25800](kd25800/README.md) | 1 |
 | [LIOU](liou/README.md) | 1 |
 | [MIOU](miou/README.md) | 1 |
 | [Microsense II](microsense-ii/README.md) | 1 |
@@ -41,6 +46,7 @@
 | [S405 PSU](s405-psu/README.md) | 1 |
 | [SB.02](sb-02/README.md) | 1 |
 | [SB.04](sb-04/README.md) | 1 |
+| [Safe-Point](safe-point/README.md) | 1 |
 | [Safe-Point EVCS](safe-point-evcs/README.md) | 1 |
 | [Sigma](sigma/README.md) | 1 |
 | [Sigma (Economy)](sigma-economy/README.md) | 1 |
@@ -55,8 +61,9 @@
 | [Sigma Matrix](sigma-matrix/README.md) | 1 |
 | [Sigma Si](sigma-si/README.md) | 1 |
 | [Sigma Si Weatherproof](sigma-si-weatherproof/README.md) | 1 |
-| [Sigma XT](sigma-xt/README.md) | 6 |
-| [Sigma XT+](sigma-xt/README.md) | 6 |
+| [Sigma XT](sigma-xt/README.md) | 7 |
+| [Sigma XT+](sigma-xt/README.md) | 7 |
+| [Sigma ZXT](sigma-zxt/README.md) | 5 |
 | [Sigma ZXT (Installation)](sigma-zxt-installation/README.md) | 1 |
 | [Sigma ZXT (Operation](sigma-zxt-operation/README.md) | 2 |
 | [Sigma ZXT (Operation)](sigma-zxt-operation/README.md) | 2 |
@@ -74,7 +81,7 @@
 | [Solo Response](solo-response/README.md) | 2 |
 | [Status Units](status-units/README.md) | 1 |
 | [Syncro](syncro/README.md) | 3 |
-| [Syncro AS](syncro-as/README.md) | 1 |
+| [Syncro AS](syncro-as/README.md) | 3 |
 | [Syncro AS (Addressable)](syncro-as-addressable/README.md) | 1 |
 | [Syncro AS Listec](syncro-as-listec/README.md) | 1 |
 | [Syncro ASM](syncro-asm/README.md) | 2 |
@@ -105,8 +112,12 @@
 | [Technical Bulletin](technical-bulletin/README.md) | 1 |
 | [VDR Interface](vdr-interface/README.md) | 1 |
 | [Vizulinx](vizulinx/README.md) | 2 |
+| [W911000W8](w911000w8/README.md) | 1 |
+| [W911100W8](w911100w8/README.md) | 1 |
+| [W911110W8](w911110w8/README.md) | 1 |
+| [W911113W8](w911113w8/README.md) | 1 |
 | [XT+ (UL)](xt-ul/README.md) | 1 |
-| [XT+ Releasing Unit](xt-releasing-unit/README.md) | 4 |
+| [XT+ Releasing Unit](xt-releasing-unit/README.md) | 6 |
 | [eMatrix](ematrix/README.md) | 1 |
 | [eNet](enet/README.md) | 1 |
 | [eView](eview/README.md) | 1 |

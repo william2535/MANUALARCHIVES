@@ -2,15 +2,15 @@
 
 Fire, security, access control and CCTV manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**3,326 document records · 72 brands · 2,974 direct PDF links · 0 PDF files mirrored**
+**3,329 document records · 72 brands · 2,999 direct PDF links · 0 PDF files mirrored**
 
-Source collection date: 2026-10-16. A check date does not mean a document is the latest revision.
+Catalogue build date: 2026-10-21. A check date does not mean a document is the latest revision.
 
 ## Browse by system
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 892 |
+| [Fire](01-fire/README.md) | 895 |
 | [Security / intruder](02-security/README.md) | 606 |
 | [Access control / door entry](03-access-control/README.md) | 918 |
 | [CCTV](04-cctv/README.md) | 910 |
@@ -22,6 +22,16 @@ Each category contains **brand → model / product family → document** navigat
 - Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening source documents requires a connection until you download them.
 - [`data/catalogue.json`](data/catalogue.json) is the structured source for app integration. It contains stable IDs, categories, models, document types, source URLs, direct PDF URLs where found, and availability records.
 - [Coverage and gaps](COVERAGE.md) separates confirmed PDF retrieval metadata, published PDF links, online manuals and unresolved sources.
+
+## Phone app foundation
+
+[`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
+
+Current evidence: **130 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+
+See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
+
+[`data/gap-audit.json`](data/gap-audit.json) audits every record and model association, with review flags and counts by brand. It is regenerated with the catalogue.
 
 ## Offline downloads
 

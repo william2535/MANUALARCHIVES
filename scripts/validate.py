@@ -1,9 +1,28 @@
 #!/usr/bin/env python3
 """Validate catalogue identity, links, paths, generated navigation and embedded data."""
 import collections,json,re,sys
+from datetime import date
 from pathlib import Path,PurePosixPath
 from urllib.parse import urlparse
+from app_data import build_manifest, build_gap_audit
 ROOT=Path(__file__).resolve().parents[1]
+def date_errors(data):
+    errors=[]
+    def parse(value,label):
+        try:
+            if not isinstance(value,str)or not re.fullmatch(r'\d{4}-\d{2}-\d{2}',value):raise ValueError()
+            return date.fromisoformat(value)
+        except ValueError:errors.append(f'{label}: invalid ISO date');return None
+    generated=parse(data.get('generated_on'),'generated_on')
+    for row in data['records']:
+        values={'source_checked':row.get('source_checked')}
+        for key in ['retrieval_evidence','pdf_indexing_evidence']:
+            if row.get(key,{}).get('checked_on'):values[key]=row[key]['checked_on']
+        if isinstance(row.get('pdf_header_checked'),str):values['pdf_header_checked']=row['pdf_header_checked']
+        for label,value in values.items():
+            checked=parse(value,f'{row["id"]}: {label}')
+            if generated and checked and checked>generated:errors.append(f'{row["id"]}: {label} is later than catalogue build')
+    return errors
 def validate(root=ROOT):
     data=json.loads((root/'data/catalogue.json').read_text());rows=data['records'];errors=[];ids=set();identities=set()
     if data.get('schema_version')!=1:errors.append('Unexpected schema version')
@@ -37,7 +56,10 @@ def validate(root=ROOT):
     page=(root/'index.html').read_text();match=re.search(r'<script id="catalogue" type="application/json">(.*?)</script>',page,re.S)
     embedded=json.loads(match.group(1))if match else []
     if {r['id']for r in embedded}!=ids:errors.append('Browser index differs from catalogue')
-    if not all(r['source_checked']==data['generated_on']for r in rows):errors.append('Mixed source-check dates need explicit handling')
+    errors.extend(date_errors(data))
+    for filename,expected in [('app-manifest.json',build_manifest(data)),('gap-audit.json',build_gap_audit(data))]:
+        path=root/'data'/filename
+        if not path.is_file()or json.loads(path.read_text())!=expected:errors.append(f'{filename}: missing or stale generated data')
     return errors,{'records':len(rows),'brands':len({r['brand']for r in rows}),'categories':dict(collections.Counter(r['category']for r in rows)),'direct_pdf_links':sum(bool(r.get('download_url'))for r in rows)}
 if __name__=='__main__':
     errors,summary=validate()

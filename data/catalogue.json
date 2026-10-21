@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-10-16",
+  "generated_on": "2026-10-21",
   "description": "Manufacturer and labelled supplier manual catalogue. PDF files are not mirrored in this public repository.",
   "records": [
     {
@@ -70383,90 +70383,180 @@
       "category": "fire",
       "brand": "C-TEC",
       "models": [
-        "ECU4/8/16"
+        "ECU4/8/16",
+        "SigTEL Compact",
+        "ECU-4",
+        "ECU-8",
+        "ECU-16",
+        "ECU-8NT",
+        "ECU-224"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "ECU4/8/16 Quick Start Guide – DAU0000093",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "SigTEL — Standalone EVCS quick start installation guide",
       "document_type": "quick-start",
       "document_number": "DAU0000093",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev 6",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://c-tec.com/info/instruction-manuals/",
-      "document_url": "https://c-tec.com/info/instruction-manuals/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=21",
+      "download_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=21",
+      "availability": "pdf-indexed",
+      "page_count": 2,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": "Sigtel Disabled Refuge & Fire Telephone Systems",
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/c-tec/ecu4-8-16"
+        "01-fire/c-tec/ecu4-8-16",
+        "01-fire/c-tec/sigtel-compact",
+        "01-fire/c-tec/ecu-4",
+        "01-fire/c-tec/ecu-8",
+        "01-fire/c-tec/ecu-16",
+        "01-fire/c-tec/ecu-8nt",
+        "01-fire/c-tec/ecu-224"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://c-tec.com/info/instruction-manuals/"
+      ],
+      "previous_titles": [
+        "ECU4/8/16 Quick Start Guide – DAU0000093"
+      ],
+      "verified_revision": "Rev 6",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=21",
+        "source_url": "https://signet-ac.com/disabled-refuge-fire-telephone-systems/50-sigtel-4-244-line-controllers.html",
+        "method": "retrieval-service PDF parse",
+        "page_count": 2,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://signet-ac.com/disabled-refuge-fire-telephone-systems/50-sigtel-4-244-line-controllers.html"
+      ]
     },
     {
       "id": "c-tec-c78ad5aeaedb",
       "category": "fire",
       "brand": "C-TEC",
       "models": [
-        "ECU4/8/16"
+        "ECU4/8/16",
+        "SigTEL Compact",
+        "ECU-4",
+        "ECU-8",
+        "ECU-16",
+        "ECU-8NT",
+        "ECU-224"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "ECU4/8/16 SigTEL Engineers Manual – DAU0000091",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "SigTEL Compact — Installation and configuration manual",
       "document_type": "installation",
       "document_number": "DAU0000091",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev 9",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://c-tec.com/info/instruction-manuals/",
-      "document_url": "https://c-tec.com/info/instruction-manuals/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=19",
+      "download_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=19",
+      "availability": "pdf-indexed",
+      "page_count": 36,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": "Sigtel Disabled Refuge & Fire Telephone Systems",
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/c-tec/ecu4-8-16"
+        "01-fire/c-tec/ecu4-8-16",
+        "01-fire/c-tec/sigtel-compact",
+        "01-fire/c-tec/ecu-4",
+        "01-fire/c-tec/ecu-8",
+        "01-fire/c-tec/ecu-16",
+        "01-fire/c-tec/ecu-8nt",
+        "01-fire/c-tec/ecu-224"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://c-tec.com/info/instruction-manuals/"
+      ],
+      "previous_titles": [
+        "ECU4/8/16 SigTEL Engineers Manual – DAU0000091"
+      ],
+      "verified_revision": "Rev 9",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=19",
+        "source_url": "https://signet-ac.com/disabled-refuge-fire-telephone-systems/50-sigtel-4-244-line-controllers.html",
+        "method": "retrieval-service PDF parse",
+        "page_count": 36,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://signet-ac.com/disabled-refuge-fire-telephone-systems/50-sigtel-4-244-line-controllers.html"
+      ]
     },
     {
       "id": "c-tec-648aedfe0ad2",
       "category": "fire",
       "brand": "C-TEC",
       "models": [
-        "ECU4/8/16"
+        "ECU4/8/16",
+        "SigTEL Compact",
+        "ECU-4",
+        "ECU-8",
+        "ECU-16",
+        "ECU-8NT",
+        "ECU-224"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "ECU4/8/16 SigTEL Operators Manual – DAU0000092",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "SigTEL Compact — Operator instructions and log book",
       "document_type": "user-guide",
       "document_number": "DAU0000092",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev 7",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://c-tec.com/info/instruction-manuals/",
-      "document_url": "https://c-tec.com/info/instruction-manuals/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=20",
+      "download_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=20",
+      "availability": "pdf-indexed",
+      "page_count": 23,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": "Sigtel Disabled Refuge & Fire Telephone Systems",
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/c-tec/ecu4-8-16"
+        "01-fire/c-tec/ecu4-8-16",
+        "01-fire/c-tec/sigtel-compact",
+        "01-fire/c-tec/ecu-4",
+        "01-fire/c-tec/ecu-8",
+        "01-fire/c-tec/ecu-16",
+        "01-fire/c-tec/ecu-8nt",
+        "01-fire/c-tec/ecu-224"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://c-tec.com/info/instruction-manuals/"
+      ],
+      "previous_titles": [
+        "ECU4/8/16 SigTEL Operators Manual – DAU0000092"
+      ],
+      "verified_revision": "Rev 7",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://signet-ac.com/index.php?controller=attachment&id_attachment=20",
+        "source_url": "https://signet-ac.com/disabled-refuge-fire-telephone-systems/50-sigtel-4-244-line-controllers.html",
+        "method": "retrieval-service PDF parse",
+        "page_count": 23,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://signet-ac.com/disabled-refuge-fire-telephone-systems/50-sigtel-4-244-line-controllers.html"
+      ]
     },
     {
       "id": "c-tec-62322e9ef971",
@@ -79454,7 +79544,19 @@
       "folders": [
         "01-fire/kentec/syncro-net"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "alternate_sources": [
+        {
+          "source_url": "https://www.product-manuals.online/Syncro_AS/",
+          "document_url": "https://www.product-manuals.online/Syncro_AS/Man-1058%20Syncro%20Networking%20Manual%20Rev%2006.pdf",
+          "source_kind": "manufacturer",
+          "document_number": "Man-1058",
+          "verified_revision": "Issue 06",
+          "page_count": 12,
+          "checked_on": "2026-10-21",
+          "relationship": "Same printed document number and issue; byte identity with primary URL not checked."
+        }
+      ]
     },
     {
       "id": "kentec-3093ce5a5998",
@@ -80303,58 +80405,104 @@
       "models": [
         "Syncro ASM"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1096M Syncro ASM (Main)",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Syncro ASM — Marine fire control panel product manual",
+      "document_type": "installation",
       "document_number": "Man-1096M",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 21",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2024/05/Man-1096M_SyncroASM_21.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2024/05/Man-1096M_SyncroASM_21.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 36,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/syncro-asm"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1096M Syncro ASM (Main)"
+      ],
+      "verified_revision": "Issue 21",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2024/05/Man-1096M_SyncroASM_21.pdf",
+        "source_url": "https://kentec.co.uk/product/syncro-asm/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 36,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/syncro-asm/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-3e952c5b0dac",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma Si Weatherproof"
+        "Sigma Si Weatherproof",
+        "W911000W8",
+        "W911100W8",
+        "W911110W8",
+        "W911113W8"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1097 Sigma Si Weatherproof",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma Si Weatherproof — Operation and maintenance manual",
+      "document_type": "installation",
       "document_number": "Man-1097",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 04",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1097_SigmaSi_Weatherproof_status_unit_04.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1097_SigmaSi_Weatherproof_status_unit_04.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 12,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/sigma-si-weatherproof"
+        "01-fire/kentec/sigma-si-weatherproof",
+        "01-fire/kentec/w911000w8",
+        "01-fire/kentec/w911100w8",
+        "01-fire/kentec/w911110w8",
+        "01-fire/kentec/w911113w8"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1097 Sigma Si Weatherproof"
+      ],
+      "verified_revision": "Issue 04",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1097_SigmaSi_Weatherproof_status_unit_04.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-si/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 12,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-si/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-ee30c2dc5754",
@@ -80453,28 +80601,47 @@
       "models": [
         "Syncro ASM"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1100M Syncro ASM (User)",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Syncro ASM — Marine fire control panel user manual",
       "document_type": "user-guide",
       "document_number": "Man-1100M",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 03",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1100m.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1100m.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 9,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/syncro-asm"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1100M Syncro ASM (User)"
+      ],
+      "verified_revision": "Issue 03",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1100m.pdf",
+        "source_url": "https://kentec.co.uk/product/syncro-asm/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 9,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/syncro-asm/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-27e21544df94",
@@ -80483,28 +80650,47 @@
       "models": [
         "Sigma XT+"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1111 Sigma XT+",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma XT+ — Extinguishant coincidence unit operation and maintenance manual",
+      "document_type": "installation",
       "document_number": "Man-1111",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 19",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2019/10/Man-1111_SigmaXT_Coincidence_Unit_19.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2019/10/Man-1111_SigmaXT_Coincidence_Unit_19.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 36,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/sigma-xt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1111 Sigma XT+"
+      ],
+      "verified_revision": "Issue 19",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2019/10/Man-1111_SigmaXT_Coincidence_Unit_19.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-xtplus/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 36,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-xtplus/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-42f5839191ee",
@@ -80513,28 +80699,47 @@
       "models": [
         "Sigma XT+"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1112 Sigma XT+",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma XT+ — Extinguishant control panel operation and maintenance manual",
+      "document_type": "installation",
       "document_number": "Man-1112",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 26",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2019/10/Man-1112-SIGMA-XT-MANUAL_26.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2019/10/Man-1112-SIGMA-XT-MANUAL_26.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 52,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/sigma-xt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1112 Sigma XT+"
+      ],
+      "verified_revision": "Issue 26",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2019/10/Man-1112-SIGMA-XT-MANUAL_26.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-xtplus/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 52,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-xtplus/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-7f1414ef5647",
@@ -81171,30 +81376,52 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "PSU"
+        "PSU",
+        "K25800",
+        "KD25800"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1152 PSU",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "K25800 / KD25800 — Power supply installation, commissioning and operating manual",
+      "document_type": "installation",
       "document_number": "Man-1152",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 05",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1152.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1152.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 18,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/psu"
+        "01-fire/kentec/psu",
+        "01-fire/kentec/k25800",
+        "01-fire/kentec/kd25800"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1152 PSU"
+      ],
+      "verified_revision": "Issue 05",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1152.pdf",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 18,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-8a36d5087932",
@@ -81884,37 +82111,59 @@
       "folders": [
         "01-fire/kentec/xt-releasing-unit"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "possible_duplicate_of": "kentec-4a121ba05955"
     },
     {
       "id": "kentec-4a121ba05955",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "XT+ (UL)"
+        "XT+ (UL)",
+        "XT+ Releasing Unit"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1252KE XT+ (UL)",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "XT+ — Releasing control unit installation manual (UL)",
+      "document_type": "installation",
       "document_number": "Man-1252KE",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Version 1.00",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "UL-marked / verify market",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1252KE-XT-UL-Releasing-Unit-Install-Manual-V1.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1252KE-XT-UL-Releasing-Unit-Install-Manual-V1.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 54,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/xt-ul"
+        "01-fire/kentec/xt-ul",
+        "01-fire/kentec/xt-releasing-unit"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1252KE XT+ (UL)"
+      ],
+      "verified_revision": "Version 1.00",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1252KE-XT-UL-Releasing-Unit-Install-Manual-V1.pdf",
+        "source_url": "https://kentec.co.uk/product/xt-releasing-unit/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 54,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/xt-releasing-unit/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-f03b1ca358b3",
@@ -81923,28 +82172,50 @@
       "models": [
         "XT+ Releasing Unit"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1253 XT+ Releasing Unit Operating Manual",
-      "document_type": "reference",
-      "document_number": "Man-1253",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
-      "region": "not-verified",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "XT+ — Releasing control unit operating manual",
+      "document_type": "user-guide",
+      "document_number": "Man-1253KE",
+      "revision_hint": "Version 1.00",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "region": "UL-marked / verify market",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1253KE-XT-UL-Releasing-Unit-Operating-Manual-V1.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1253KE-XT-UL-Releasing-Unit-Operating-Manual-V1.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 15,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/xt-releasing-unit"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1253 XT+ Releasing Unit Operating Manual"
+      ],
+      "document_number_aliases": [
+        "Man-1253"
+      ],
+      "verified_revision": "Version 1.00",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1253KE-XT-UL-Releasing-Unit-Operating-Manual-V1.pdf",
+        "source_url": "https://kentec.co.uk/product/xt-releasing-unit/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 15,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/xt-releasing-unit/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-208b4a168baa",
@@ -81953,28 +82224,50 @@
       "models": [
         "XT+ Releasing Unit"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1254 XT+ Releasing Unit Operating Instructions",
-      "document_type": "installation",
-      "document_number": "Man-1254",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
-      "region": "not-verified",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "XT+ — Basic operating instructions",
+      "document_type": "user-guide",
+      "document_number": "Man-1254KE",
+      "revision_hint": "Version 1.00",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "region": "UL-marked / verify market",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1254KE-XT-UL-Releasing-Unit-Operating-Ins-Sheet-V1-B1106.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1254KE-XT-UL-Releasing-Unit-Operating-Ins-Sheet-V1-B1106.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 1,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/xt-releasing-unit"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1254 XT+ Releasing Unit Operating Instructions"
+      ],
+      "document_number_aliases": [
+        "Man-1254"
+      ],
+      "verified_revision": "Version 1.00",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1254KE-XT-UL-Releasing-Unit-Operating-Ins-Sheet-V1-B1106.pdf",
+        "source_url": "https://kentec.co.uk/product/xt-releasing-unit/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 1,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/xt-releasing-unit/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-12defcf5d1c1",
@@ -81983,28 +82276,50 @@
       "models": [
         "XT+ Releasing Unit"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1255 XT+ Releasing Unit Wiring Diagram",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "XT+ — Releasing control unit wiring diagram",
       "document_type": "diagram",
-      "document_number": "Man-1255",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
-      "region": "not-verified",
+      "document_number": "Man-1255KE",
+      "revision_hint": "Version 1.00",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "region": "UL-marked / verify market",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1255KE-XT-UL-Releasing-Wiring-Manual-V1.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1255KE-XT-UL-Releasing-Wiring-Manual-V1.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 7,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
         "01-fire/kentec/xt-releasing-unit"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1255 XT+ Releasing Unit Wiring Diagram"
+      ],
+      "document_number_aliases": [
+        "Man-1255"
+      ],
+      "verified_revision": "Version 1.00",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2019/07/Man-1255KE-XT-UL-Releasing-Wiring-Manual-V1.pdf",
+        "source_url": "https://kentec.co.uk/product/xt-releasing-unit/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 7,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/xt-releasing-unit/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-94f46083acf7",
@@ -82371,150 +82686,261 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma ZXT (Quick Start Guide)"
+        "Sigma ZXT (Quick Start Guide)",
+        "Sigma ZXT"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1450 Sigma ZXT (Quick Start Guide)",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma ZXT — Quick start guide",
       "document_type": "quick-start",
-      "document_number": "Man-1450",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "document_number": "Man-1450EN",
+      "revision_hint": "Rev.05",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2022/03/Man-1450EN-Sigma-ZXT-Quick-Start-Guide-Rev.05.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/03/Man-1450EN-Sigma-ZXT-Quick-Start-Guide-Rev.05.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 12,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/sigma-zxt-quick-start-guide"
+        "01-fire/kentec/sigma-zxt-quick-start-guide",
+        "01-fire/kentec/sigma-zxt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1450 Sigma ZXT (Quick Start Guide)"
+      ],
+      "document_number_aliases": [
+        "Man-1450"
+      ],
+      "verified_revision": "Rev.05",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2022/03/Man-1450EN-Sigma-ZXT-Quick-Start-Guide-Rev.05.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-zxt/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 12,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-zxt/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-8d211ee554b1",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma ZXT (Quick Start Guide DANISH)"
+        "Sigma ZXT (Quick Start Guide DANISH)",
+        "Sigma ZXT"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1450DK Sigma ZXT (Quick Start Guide DANISH)",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma ZXT — Quick start guide (Danish)",
       "document_type": "quick-start",
       "document_number": "Man-1450DK",
-      "revision_hint": null,
-      "revision_basis": null,
+      "revision_hint": "Rev.03",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
       "language": "da",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2023/10/Man-1450DK-Sigma-ZXT-Quick-Start-Guide-DANISH-Rev.03.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2023/10/Man-1450DK-Sigma-ZXT-Quick-Start-Guide-DANISH-Rev.03.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 12,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/sigma-zxt-quick-start-guide-danish"
+        "01-fire/kentec/sigma-zxt-quick-start-guide-danish",
+        "01-fire/kentec/sigma-zxt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1450DK Sigma ZXT (Quick Start Guide DANISH)"
+      ],
+      "verified_revision": "Rev.03",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2023/10/Man-1450DK-Sigma-ZXT-Quick-Start-Guide-DANISH-Rev.03.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-zxt/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 12,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-zxt/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-eaceaec80486",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma ZXT (Quick Start Guide HUNGARIAN)"
+        "Sigma ZXT (Quick Start Guide HUNGARIAN)",
+        "Sigma ZXT"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1450HU Sigma ZXT (Quick Start Guide HUNGARIAN)",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma ZXT — Quick start guide (Hungarian)",
       "document_type": "quick-start",
       "document_number": "Man-1450HU",
-      "revision_hint": null,
-      "revision_basis": null,
+      "revision_hint": "Rev.01",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
       "language": "hu",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2024/09/Man-1450HU-Sigma-ZXT-Quick-Start-Guide-HUNGARIAN-Rev.01.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2024/09/Man-1450HU-Sigma-ZXT-Quick-Start-Guide-HUNGARIAN-Rev.01.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 12,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/sigma-zxt-quick-start-guide-hungarian"
+        "01-fire/kentec/sigma-zxt-quick-start-guide-hungarian",
+        "01-fire/kentec/sigma-zxt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1450HU Sigma ZXT (Quick Start Guide HUNGARIAN)"
+      ],
+      "verified_revision": "Rev.01",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2024/09/Man-1450HU-Sigma-ZXT-Quick-Start-Guide-HUNGARIAN-Rev.01.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-zxt/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 12,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-zxt/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-503ac2414e28",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma ZXT (Installation)"
+        "Sigma ZXT (Installation)",
+        "Sigma ZXT"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1451 Sigma ZXT (Installation)",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma ZXT — Installation manual",
       "document_type": "installation",
       "document_number": "Man-1451",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.04",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2022/02/Man-1451EN-Sigma-ZXT-Installation-Manual-Rev.04.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/02/Man-1451EN-Sigma-ZXT-Installation-Manual-Rev.04.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 78,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/sigma-zxt-installation"
+        "01-fire/kentec/sigma-zxt-installation",
+        "01-fire/kentec/sigma-zxt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1451 Sigma ZXT (Installation)"
+      ],
+      "verified_revision": "Rev.04",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2022/02/Man-1451EN-Sigma-ZXT-Installation-Manual-Rev.04.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-zxt/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 78,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-zxt/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-40861f214a25",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma ZXT (Operation)"
+        "Sigma ZXT (Operation)",
+        "Sigma ZXT"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1452 Sigma ZXT (Operation)",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Sigma ZXT — Operation manual",
       "document_type": "user-guide",
-      "document_number": "Man-1452",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "document_number": "Man-1452EN",
+      "revision_hint": "Rev.03",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2022/02/Man-1452EN-Sigma-ZXT-Operation-Manual-Rev.03.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/02/Man-1452EN-Sigma-ZXT-Operation-Manual-Rev.03.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 21,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/sigma-zxt-operation"
+        "01-fire/kentec/sigma-zxt-operation",
+        "01-fire/kentec/sigma-zxt"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1452 Sigma ZXT (Operation)"
+      ],
+      "document_number_aliases": [
+        "Man-1452"
+      ],
+      "verified_revision": "Rev.03",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2022/02/Man-1452EN-Sigma-ZXT-Operation-Manual-Rev.03.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-zxt/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 21,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-zxt/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-a19446f80d83",
@@ -82581,30 +83007,52 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Safe-Point EVCS"
+        "Safe-Point EVCS",
+        "Safe-Point"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1484 Safe-Point EVCS Manual",
-      "document_type": "reference",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "Safe-Point — Disabled refuge commissioning and user manual",
+      "document_type": "user-guide",
       "document_number": "Man-1484",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.01",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2019/03/Man-1484-Safe-Point-Disabled-Refuge-Manual-Rev-Rev.01.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2019/03/Man-1484-Safe-Point-Disabled-Refuge-Manual-Rev-Rev.01.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 31,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/safe-point-evcs"
+        "01-fire/kentec/safe-point-evcs",
+        "01-fire/kentec/safe-point"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1484 Safe-Point EVCS Manual"
+      ],
+      "verified_revision": "Rev.01",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2019/03/Man-1484-Safe-Point-Disabled-Refuge-Manual-Rev-Rev.01.pdf",
+        "source_url": "https://kentec.co.uk/product/safe-point/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 31,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/safe-point/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "publication_note": "Cover repeats K41216 for loop and radial variants; retain Safe-Point family association without silently correcting the printed model table."
     },
     {
       "id": "kentec-953ad828aa6a",
@@ -82821,60 +83269,102 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "K-Mesh Wireless"
+        "K-Mesh Wireless",
+        "K-Mesh"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1559 K-Mesh Wireless Installation Guide",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "K-Mesh — Wireless installation guide",
       "document_type": "installation",
       "document_number": "Man-1559",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.01",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1559-K-Mesh-Wireless-Installation-Guide-Rev.01.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1559-K-Mesh-Wireless-Installation-Guide-Rev.01.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 17,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/k-mesh-wireless"
+        "01-fire/kentec/k-mesh-wireless",
+        "01-fire/kentec/k-mesh"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1559 K-Mesh Wireless Installation Guide"
+      ],
+      "verified_revision": "Rev.01",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1559-K-Mesh-Wireless-Installation-Guide-Rev.01.pdf",
+        "source_url": "https://kentec.co.uk/product/k-mesh-wireless-fire-detection/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 17,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/k-mesh-wireless-fire-detection/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-01ce67eb36c6",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "K-Mesh Configurator Software Guide"
+        "K-Mesh Configurator Software Guide",
+        "K-Mesh"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1561 K-Mesh Configurator Software Guide",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "K-Mesh — Configurator software guide",
       "document_type": "programming",
       "document_number": "Man-1561",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.01",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
       "region": "not-verified",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1561-K-Mesh-Configurator-Software-Guide-Rev.01.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1561-K-Mesh-Configurator-Software-Guide-Rev.01.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 10,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/k-mesh-configurator-software-guide"
+        "01-fire/kentec/k-mesh-configurator-software-guide",
+        "01-fire/kentec/k-mesh"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1561 K-Mesh Configurator Software Guide"
+      ],
+      "verified_revision": "Rev.01",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1561-K-Mesh-Configurator-Software-Guide-Rev.01.pdf",
+        "source_url": "https://kentec.co.uk/product/k-mesh-wireless-fire-detection/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 10,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/k-mesh-wireless-fire-detection/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     },
     {
       "id": "kentec-d06859911ab7",
@@ -83031,30 +83521,56 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Installation"
+        "Installation",
+        "XT+ Releasing Unit",
+        "K1751-XX",
+        "K1752-XX"
       ],
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "title": "Man-1605KE Installation Manual for XT+",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "title": "XT+ K1751-XX / K1752-XX — Releasing control module installation manual",
       "document_type": "installation",
       "document_number": "Man-1605KE",
-      "revision_hint": null,
-      "revision_basis": null,
-      "language": "not-verified",
-      "region": "not-verified",
+      "revision_hint": "Version 1.00",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "region": "UL-marked / verify market",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "document_url": "https://kentec.co.uk/resources/product-resources/",
-      "download_url": null,
-      "availability": "source-listing",
-      "page_count": null,
-      "source_checked": "2026-10-16",
-      "retrieval_note": null,
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2026/10/Man-1605KE-Installation-Manual-for-XT-Releasing-Control-Module-Model-no.s-K1751-XX-K1752-XX-V1.00.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/10/Man-1605KE-Installation-Manual-for-XT-Releasing-Control-Module-Model-no.s-K1751-XX-K1752-XX-V1.00.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 54,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
       "manufacturer_section": null,
       "distribution": "source-link-only",
       "local_pdf": null,
       "folders": [
-        "01-fire/kentec/installation"
+        "01-fire/kentec/installation",
+        "01-fire/kentec/xt-releasing-unit",
+        "01-fire/kentec/k1751-xx",
+        "01-fire/kentec/k1752-xx"
       ],
-      "source_kind": "manufacturer"
+      "source_kind": "manufacturer",
+      "previous_document_urls": [
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "previous_titles": [
+        "Man-1605KE Installation Manual for XT+"
+      ],
+      "verified_revision": "Version 1.00",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2026/10/Man-1605KE-Installation-Manual-for-XT-Releasing-Control-Module-Model-no.s-K1751-XX-K1752-XX-V1.00.pdf",
+        "source_url": "https://kentec.co.uk/product/xt-releasing-unit/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 54,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/xt-releasing-unit/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ],
+      "publication_note": "Cover states Aug 2025; the /2026/10/ upload directory is not the publication date."
     },
     {
       "id": "kentec-001fd3365756",
@@ -107318,6 +107834,135 @@
         "02-security/visonic/wireless-battery"
       ],
       "source_kind": "installer"
+    },
+    {
+      "id": "kentec-12149c786fb9",
+      "category": "fire",
+      "brand": "Kentec",
+      "models": [
+        "Sigma XT+"
+      ],
+      "source_url": "https://kentec.co.uk/product/sigma-xtplus/",
+      "region": "not-verified",
+      "manufacturer_section": null,
+      "distribution": "source-link-only",
+      "local_pdf": null,
+      "folders": [
+        "01-fire/kentec/sigma-xt"
+      ],
+      "source_kind": "manufacturer",
+      "title": "Sigma XT+ — User manual",
+      "document_type": "user-guide",
+      "document_number": "Man-1134",
+      "verified_revision": "Issue 02",
+      "revision_hint": "Issue 02",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2022/01/Man-1134-Sigma-XT-ECP-user_02.pdf",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/01/Man-1134-Sigma-XT-ECP-user_02.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 5,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://kentec.co.uk/wp-content/uploads/2022/01/Man-1134-Sigma-XT-ECP-user_02.pdf",
+        "source_url": "https://kentec.co.uk/product/sigma-xtplus/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 5,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://kentec.co.uk/product/sigma-xtplus/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
+    },
+    {
+      "id": "kentec-3464b141139d",
+      "category": "fire",
+      "brand": "Kentec",
+      "models": [
+        "Syncro AS"
+      ],
+      "source_url": "https://www.product-manuals.online/Syncro_AS/",
+      "region": "not-verified",
+      "manufacturer_section": null,
+      "distribution": "source-link-only",
+      "local_pdf": null,
+      "folders": [
+        "01-fire/kentec/syncro-as"
+      ],
+      "source_kind": "manufacturer",
+      "title": "Syncro AS — User manual",
+      "document_type": "user-guide",
+      "document_number": "Man-1100",
+      "verified_revision": "Issue 04",
+      "revision_hint": "Issue 04",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "document_url": "https://www.product-manuals.online/Syncro_AS/Man-1100%20Syncro%20AS%20User%20Manual%20Rev%2004.pdf",
+      "download_url": "https://www.product-manuals.online/Syncro_AS/Man-1100%20Syncro%20AS%20User%20Manual%20Rev%2004.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 9,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://www.product-manuals.online/Syncro_AS/Man-1100%20Syncro%20AS%20User%20Manual%20Rev%2004.pdf",
+        "source_url": "https://www.product-manuals.online/Syncro_AS/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 9,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://www.product-manuals.online/Syncro_AS/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
+    },
+    {
+      "id": "kentec-eade9dbedd32",
+      "category": "fire",
+      "brand": "Kentec",
+      "models": [
+        "Syncro AS"
+      ],
+      "source_url": "https://www.product-manuals.online/Syncro_AS/",
+      "region": "not-verified",
+      "manufacturer_section": null,
+      "distribution": "source-link-only",
+      "local_pdf": null,
+      "folders": [
+        "01-fire/kentec/syncro-as"
+      ],
+      "source_kind": "manufacturer",
+      "title": "Syncro AS — Product manual",
+      "document_type": "installation",
+      "document_number": "Man-1096",
+      "verified_revision": "Issue 15",
+      "revision_hint": "Issue 15",
+      "revision_basis": "PDF cover or footer issue marking checked through retrieval-service document text.",
+      "language": "en",
+      "model_basis": "PDF cover and applicable-model text checked; existing manufacturer listing associations retained. Confirm hardware generation against the document.",
+      "document_url": "https://www.product-manuals.online/Syncro_AS/Man-1096%20Syncro%20AS%20Product%20Manual%20Rev%2015.pdf",
+      "download_url": "https://www.product-manuals.online/Syncro_AS/Man-1096%20Syncro%20AS%20Product%20Manual%20Rev%2015.pdf",
+      "availability": "pdf-indexed",
+      "page_count": 38,
+      "source_checked": "2026-10-21",
+      "retrieval_note": "PDF retrieved by indexing service; title, document number, issue and page count checked. No complete local-file checksum recorded for this source. No current-edition claim.",
+      "pdf_indexing_evidence": {
+        "checked_on": "2026-10-21",
+        "document_url": "https://www.product-manuals.online/Syncro_AS/Man-1096%20Syncro%20AS%20Product%20Manual%20Rev%2015.pdf",
+        "source_url": "https://www.product-manuals.online/Syncro_AS/",
+        "method": "retrieval-service PDF parse",
+        "page_count": 38,
+        "identity_check": "Document cover/footer and applicable-model text."
+      },
+      "associated_source_pages": [
+        "https://www.product-manuals.online/Syncro_AS/",
+        "https://kentec.co.uk/resources/product-resources/"
+      ]
     }
   ]
 }

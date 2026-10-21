@@ -61,12 +61,16 @@ def fetch_pdf(url,temp,opener=urllib.request.urlopen,max_bytes=MAX_BYTES):
         temp.unlink(missing_ok=True);raise
 def atomic_json(path,value):
     temporary=path.with_suffix('.tmp');temporary.write_text(json.dumps(value,indent=2,ensure_ascii=False)+'\n');temporary.replace(path)
+def catalogue_comparison(record,sha256,size):
+    expected=record.get('source_pdf_sha256');expected_size=record.get('source_pdf_bytes')
+    state='unverified'if not expected else 'matched'if sha256==expected and(expected_size is None or size==expected_size)else 'changed'
+    return {'catalogue_match':state,'catalogue_sha256':expected,'catalogue_bytes':expected_size}
 def download_record(record,output,previous=None,refresh=False,opener=urllib.request.urlopen):
     output=Path(output).resolve();previous=previous or {}
     if not refresh and previous.get('path'):
         existing=(output/previous['path']).resolve()
         if existing.is_relative_to(output)and existing.is_file()and file_hash(existing)==previous.get('sha256'):
-            return {**previous,'result':'already-saved'}
+            return {**previous,**catalogue_comparison(record,previous['sha256'],existing.stat().st_size),'result':'already-saved'}
     url=pdf_url(record,opener)
     if not url:return {'id':record['id'],'result':'manual-download-needed','source_url':record['document_url']}
     folder=output/record['category']/slug(record['brand'])/slug(record['models'][0]);folder.mkdir(parents=True,exist_ok=True)
@@ -79,7 +83,7 @@ def download_record(record,output,previous=None,refresh=False,opener=urllib.requ
         if file_hash(target)!=info['sha256']:temp.unlink(missing_ok=True);raise ValueError('An existing version has changed locally; it was not overwritten')
         temp.unlink()
     else:temp.replace(target)
-    return {'id':record['id'],'title':record['title'],'models':record['models'],'path':target.relative_to(output).as_posix(),'downloaded_at':datetime.now(timezone.utc).isoformat(),'source_url':record['source_url'],'requested_url':url,**info,'result':'saved','validation':'PDF header, EOF marker, byte count and SHA-256; exact model/revision still needs human review'}
+    return {'id':record['id'],'title':record['title'],'models':record['models'],'path':target.relative_to(output).as_posix(),'downloaded_at':datetime.now(timezone.utc).isoformat(),'source_url':record['source_url'],'requested_url':url,**info,**catalogue_comparison(record,info['sha256'],info['bytes']),'result':'saved','validation':'PDF header, EOF marker, byte count and SHA-256; exact model/revision still needs human review'}
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--category',choices=['fire','security','access-control','cctv']);parser.add_argument('--brand');parser.add_argument('--model');parser.add_argument('--id')
@@ -103,14 +107,15 @@ def main():
     for i,row in enumerate(rows,1):
         try:
             previous=data['files'].get(row['id']);result=download_record(row,args.output,previous,args.refresh)
-            if result['result']=='saved':
+            if result['result']in ['saved','already-saved']:
                 if previous and previous.get('sha256')!=result['sha256']:data['history'].append(previous)
                 data['files'][row['id']]=result
             if result['result']=='manual-download-needed':failures+=1
         except Exception as error:
             failures+=1;result={'id':row['id'],'result':'failed','error':str(error),'source_url':row['document_url']}
         data['attempts'].append({**result,'attempted_at':datetime.now(timezone.utc).isoformat()});atomic_json(manifest,data)
-        print(f"{i}/{len(rows)} {result['result']}: {row['brand']} — {row['title']}",flush=True)
+        review=' (source differs from catalogue; review edition)'if result.get('catalogue_match')=='changed'else ''
+        print(f"{i}/{len(rows)} {result['result']}{review}: {row['brand']} — {row['title']}",flush=True)
         if i<len(rows):time.sleep(args.delay)
     print(f'Local manifest: {manifest}. {failures} records need attention.');return 2 if failures else 0
 if __name__=='__main__':sys.exit(main())

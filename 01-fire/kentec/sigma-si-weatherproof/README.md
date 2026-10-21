@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1097 Sigma Si Weatherproof](https://kentec.co.uk/resources/product-resources/) | reference | Man-1097 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma Si Weatherproof — Operation and maintenance manual](https://kentec.co.uk/wp-content/uploads/2020/08/Man-1097_SigmaSi_Weatherproof_status_unit_04.pdf) | installation | Man-1097 | Issue 04 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

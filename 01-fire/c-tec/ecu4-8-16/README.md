@@ -6,9 +6,9 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [ECU4/8/16 Quick Start Guide – DAU0000093](https://c-tec.com/info/instruction-manuals/) | quick-start | DAU0000093 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [ECU4/8/16 SigTEL Engineers Manual – DAU0000091](https://c-tec.com/info/instruction-manuals/) | installation | DAU0000091 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [ECU4/8/16 SigTEL Operators Manual – DAU0000092](https://c-tec.com/info/instruction-manuals/) | user-guide | DAU0000092 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [SigTEL Compact — Installation and configuration manual](https://signet-ac.com/index.php?controller=attachment&id_attachment=19) | installation | DAU0000091 | Rev 9 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [SigTEL Compact — Operator instructions and log book](https://signet-ac.com/index.php?controller=attachment&id_attachment=20) | user-guide | DAU0000092 | Rev 7 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [SigTEL — Standalone EVCS quick start installation guide](https://signet-ac.com/index.php?controller=attachment&id_attachment=21) | quick-start | DAU0000093 | Rev 6 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

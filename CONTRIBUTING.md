@@ -13,3 +13,7 @@ Generated category, brand and model README files should be rebuilt from the JSON
 Keep existing record IDs when correcting a URL. Merge records that share an exact source URL, or whose complete files have identical SHA-256 hashes, retaining alternate source URLs and model associations. Similar filenames alone do not establish identical contents or editions. Counts describe catalogue records; unverified mirror copies may still overlap.
 
 Update `data/coverage-audit.json` and `data/research-backlog.json` when resolving gaps. A public PDF link, a PDF header check, a complete-file checksum and a technical applicability review are different levels of evidence. Report them separately.
+
+`generated_on` dates the catalogue build. Preserve older `source_checked` and file-evidence dates for records not rechecked. Record a document's actually inspected issue in `verified_revision`; retain `revision_hint` and its basis. Retrieval-service PDF parsing belongs in `pdf_indexing_evidence` and must not invent a local checksum or byte count.
+
+The build generates `data/app-manifest.json` and `data/gap-audit.json` from the same catalogue. Keep manifest version 1 compatible with `data/app-manifest.schema.json`; see [app integration](APP_INTEGRATION.md). Never put device-local download states, paths or customer selections in the public feed.

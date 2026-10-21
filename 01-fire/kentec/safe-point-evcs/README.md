@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1484 Safe-Point EVCS Manual](https://kentec.co.uk/resources/product-resources/) | reference | Man-1484 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Safe-Point — Disabled refuge commissioning and user manual](https://kentec.co.uk/wp-content/uploads/2019/03/Man-1484-Safe-Point-Disabled-Refuge-Manual-Rev-Rev.01.pdf) | user-guide | Man-1484 | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1559 K-Mesh Wireless Installation Guide](https://kentec.co.uk/resources/product-resources/) | installation | Man-1559 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [K-Mesh — Wireless installation guide](https://kentec.co.uk/wp-content/uploads/2026/06/Man-1559-K-Mesh-Wireless-Installation-Guide-Rev.01.pdf) | installation | Man-1559 | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

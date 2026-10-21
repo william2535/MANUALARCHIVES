@@ -6,10 +6,13 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
+| [SigTEL Compact — Installation and configuration manual](https://signet-ac.com/index.php?controller=attachment&id_attachment=19) | installation | DAU0000091 | Rev 9 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [SigTEL Compact — Operator instructions](https://www.srsalertfire.ie/uploads/0NYA79o5/SigTELCompactOperatorInstructions.pdf) | user-guide | DAU0000092 | Rev 4 | pdf-indexed | [Installer](https://www.srsalertfire.ie/product-info/user-manuals) |
+| [SigTEL Compact — Operator instructions and log book](https://signet-ac.com/index.php?controller=attachment&id_attachment=20) | user-guide | DAU0000092 | Rev 7 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [SigTEL — Standalone EVCS quick start installation guide](https://signet-ac.com/index.php?controller=attachment&id_attachment=21) | quick-start | DAU0000093 | Rev 6 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `c-tec-b52a482cbf7f`
+Record IDs: `c-tec-6b3b7e57c111`, `c-tec-c78ad5aeaedb`, `c-tec-648aedfe0ad2`, `c-tec-b52a482cbf7f`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

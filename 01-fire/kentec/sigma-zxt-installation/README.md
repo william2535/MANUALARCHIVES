@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1451 Sigma ZXT (Installation)](https://kentec.co.uk/resources/product-resources/) | installation | Man-1451 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma ZXT — Installation manual](https://kentec.co.uk/wp-content/uploads/2022/02/Man-1451EN-Sigma-ZXT-Installation-Manual-Rev.04.pdf) | installation | Man-1451 | Rev.04 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

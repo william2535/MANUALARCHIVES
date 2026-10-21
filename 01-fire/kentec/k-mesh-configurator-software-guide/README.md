@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1561 K-Mesh Configurator Software Guide](https://kentec.co.uk/resources/product-resources/) | programming | Man-1561 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [K-Mesh — Configurator software guide](https://kentec.co.uk/wp-content/uploads/2026/06/Man-1561-K-Mesh-Configurator-Software-Guide-Rev.01.pdf) | programming | Man-1561 | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

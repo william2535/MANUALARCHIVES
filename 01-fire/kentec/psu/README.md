@@ -6,9 +6,9 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
+| [K25800 / KD25800 — Power supply installation, commissioning and operating manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1152.pdf) | installation | Man-1152 | Issue 05 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1039 PSU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1039 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1128 PSU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1128 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1152 PSU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1152 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1223 PSU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1223 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1225 PSU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1225 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 

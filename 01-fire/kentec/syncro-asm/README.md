@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1096M Syncro ASM (Main)](https://kentec.co.uk/resources/product-resources/) | reference | Man-1096M | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1100M Syncro ASM (User)](https://kentec.co.uk/resources/product-resources/) | user-guide | Man-1100M | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro ASM — Marine fire control panel product manual](https://kentec.co.uk/wp-content/uploads/2024/05/Man-1096M_SyncroASM_21.pdf) | installation | Man-1096M | Issue 21 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro ASM — Marine fire control panel user manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1100m.pdf) | user-guide | Man-1100M | Issue 03 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

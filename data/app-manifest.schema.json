@@ -1,0 +1,270 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MANUALARCHIVES app manifest v1",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "generated_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "catalogue_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "repository_url": {
+      "const": "https://github.com/william2535/MANUALARCHIVES"
+    },
+    "distribution": {
+      "const": "source-link-only"
+    },
+    "record_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "download_status_counts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "document_number",
+          "revision_hint",
+          "revision_basis",
+          "verified_revision",
+          "language",
+          "region",
+          "model_basis",
+          "retrieval_note",
+          "id",
+          "brand",
+          "title",
+          "document_type",
+          "category",
+          "models",
+          "source_kind",
+          "source_url",
+          "source_checked",
+          "download"
+        ],
+        "properties": {
+          "document_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "revision_hint": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "revision_basis": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "verified_revision": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "language": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "region": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "model_basis": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "retrieval_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "brand": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "document_type": {
+            "type": "string",
+            "minLength": 1
+          },
+          "category": {
+            "enum": [
+              "fire",
+              "security",
+              "access-control",
+              "cctv"
+            ]
+          },
+          "models": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "source_kind": {
+            "enum": [
+              "manufacturer",
+              "installer",
+              "distributor"
+            ]
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "source_checked": {
+            "type": "string",
+            "format": "date"
+          },
+          "download": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "mode",
+              "status",
+              "url",
+              "source_page_url",
+              "resolver",
+              "verification"
+            ],
+            "properties": {
+              "mode": {
+                "enum": [
+                  "direct-pdf",
+                  "resolve-pdf-export",
+                  "source-page"
+                ]
+              },
+              "status": {
+                "enum": [
+                  "complete-file",
+                  "file-hash",
+                  "pdf-indexed",
+                  "pdf-header",
+                  "listed",
+                  "retrieval-failed",
+                  "source-page"
+                ]
+              },
+              "url": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "uri"
+              },
+              "source_page_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "resolver": {
+                "enum": [
+                  "axis-manual-pdf",
+                  null
+                ]
+              },
+              "verification": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "level",
+                  "checked_on",
+                  "sha256",
+                  "bytes",
+                  "page_count"
+                ],
+                "properties": {
+                  "level": {
+                    "enum": [
+                      "complete-file",
+                      "file-hash",
+                      "pdf-indexed",
+                      "pdf-header",
+                      "unverified"
+                    ]
+                  },
+                  "checked_on": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "format": "date"
+                  },
+                  "sha256": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "pattern": "^[a-f0-9]{64}$"
+                  },
+                  "bytes": {
+                    "type": [
+                      "integer",
+                      "null"
+                    ],
+                    "minimum": 1
+                  },
+                  "page_count": {
+                    "type": [
+                      "integer",
+                      "null"
+                    ],
+                    "minimum": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "generated_on",
+    "catalogue_sha256",
+    "repository_url",
+    "distribution",
+    "record_count",
+    "download_status_counts",
+    "records"
+  ]
+}

@@ -1,0 +1,17 @@
+# C-TEC — ECU-8NT
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [SigTEL Compact — Installation and configuration manual](https://signet-ac.com/index.php?controller=attachment&id_attachment=19) | installation | DAU0000091 | Rev 9 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [SigTEL Compact — Operator instructions and log book](https://signet-ac.com/index.php?controller=attachment&id_attachment=20) | user-guide | DAU0000092 | Rev 7 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [SigTEL — Standalone EVCS quick start installation guide](https://signet-ac.com/index.php?controller=attachment&id_attachment=21) | quick-start | DAU0000093 | Rev 6 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `c-tec-6b3b7e57c111`, `c-tec-c78ad5aeaedb`, `c-tec-648aedfe0ad2`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).
