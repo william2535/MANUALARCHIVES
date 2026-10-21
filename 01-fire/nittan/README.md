@@ -57,12 +57,12 @@
 | [EVA-ZMU-SCI](eva-zmu-sci/README.md) | 1 |
 | [EVC conventional](evc-conventional/README.md) | 1 |
 | [EVC-IR](evc-ir/README.md) | 2 |
-| [EVO+5030](evo-5030/README.md) | 1 |
-| [EVO+5030FT](evo-5030ft/README.md) | 1 |
-| [EVO+5800](evo-5800/README.md) | 1 |
+| [EVO+5030](evo-plus-5030/README.md) | 1 |
+| [EVO+5030FT](evo-plus-5030ft/README.md) | 1 |
+| [EVO+5800](evo-plus-5800/README.md) | 1 |
 | [EVO-5200](evo-5200/README.md) | 1 |
-| [Evo+](evo/README.md) | 4 |
-| [Evo+5000](evo-5000/README.md) | 1 |
+| [Evo+](evo-plus/README.md) | 4 |
+| [Evo+5000](evo-plus-5000/README.md) | 1 |
 | [Evolution 1](evolution-1/README.md) | 9 |
 | [Evolution addressable](evolution-addressable/README.md) | 1 |
 | [Evolution interfaces](evolution-interfaces/README.md) | 1 |

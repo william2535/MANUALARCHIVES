@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-21",
+  "public_brand_count": 104,
+  "brand_index_total": 8519,
+  "unique_listing_ids": 8519,
+  "primary_pages": 428,
+  "supplemental_pages": 17,
+  "all_brand_totals_reconciled": true,
+  "sitemap_manual_urls": 8518,
+  "sitemap_exact_matches": 8517,
+  "listing_urls_absent_from_sitemap": [
+    "https://facpmanuals.com/manuals/honeywell/idp-pull-sa_and_idp-pull-da_manual_stations-datasheet-2017-revh",
+    "https://facpmanuals.com/manuals/silent_knight/ps-sa_and_ps-da_conventional_pull_stations-datasheet-2011-revd"
+  ],
+  "sitemap_aliases": [
+    {
+      "url": "https://facpmanuals.com/manuals/silent_knight/conventional_pull_stations-datasheet-2011",
+      "destination": "https://facpmanuals.com/manuals/silent_knight/ps-sa_and_ps-da_conventional_pull_stations-datasheet-2011-revd",
+      "evidence": "Public HTML includes Next.js 308 redirect and meta refresh to the already-collected current listing."
+    }
+  ],
+  "pagination_note": "Equal-title ordering repeated 11 source IDs across page boundaries and initially omitted 11 siblings. Seventeen title-search pages recovered them. Completeness is established by unique IDs against each brand total, not by page count alone.",
+  "fields_not_promoted": [
+    "modelNumber: includes referenced components and React Flight string references",
+    "year: source-listed date, not a verified issue",
+    "filename tokens: not verified document numbers or revisions"
+  ]
+}

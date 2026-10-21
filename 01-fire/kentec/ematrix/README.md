@@ -7,9 +7,10 @@ Source titles and model associations are navigation aids. Some legacy model name
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
 | [Man-1202 eMatrix](https://kentec.co.uk/wp-content/uploads/2018/08/man-1202.pdf) | reference | Man-1202 | Not recorded | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [eMatrix — Installation, Operations (2013, source-listed)](https://docs.facpmanuals.com/manuals/Kentec/ematrix-installation-2013.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/kentec) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `kentec-84e1c4033963`
+Record IDs: `kentec-84e1c4033963`, `facp-17c419ac-a8d2-48d0-ba9b-ac2a7b384eaf`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

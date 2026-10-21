@@ -6,12 +6,15 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
+| [Vigilon — Installation (2010, source-listed)](https://docs.facpmanuals.com/manuals/Honeywell_Gent/vigilon-installation-2010.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/honeywell_gent) |
 | [Vigilon — Installation manual](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/installation-guides/gent-112425/hon-ba-fire-vig-ins.pdf?download=false) | installation | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/installation-guides/gent-112425/hon-ba-fire-vig-ins.pdf?download=false) |
+| [Vigilon — Operating Instructions (2009, source-listed)](https://docs.facpmanuals.com/manuals/Honeywell_Gent/vigilon-operating-instructions-2009.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/honeywell_gent) |
 | [Vigilon — Operating instructions](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/repair-and-maintenance-guides/gent-112425/hon-ba-fire-vigop.pdf?download=false) | user-guide | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/manuals-and-guides/repair-and-maintenance-guides/gent-112425/hon-ba-fire-vigop.pdf?download=false) |
+| [Vigilon — Operations (1999, source-listed)](https://docs.facpmanuals.com/manuals/Honeywell_Gent/vigilon-operations-1999.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/honeywell_gent) |
 | [gent-honeywell-vigilon-Vig-4-6-loops-Oper_2km-4188-1025](https://www.midlandfiresecurity.co.uk/wp-content/uploads/2019/05/gent-honeywell-vigilon-Vig-4-6-loops-Oper_2km-4188-1025.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.midlandfiresecurity.co.uk/client-support-training/instruction-manuals-and-documentation/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `gent-945e977903d9`, `gent-4d383857e271`, `gent-f03fe5ba8e30`
+Record IDs: `gent-945e977903d9`, `gent-4d383857e271`, `gent-f03fe5ba8e30`, `facp-8f3116f7-a850-46ce-9e84-ed197dea0367`, `facp-e33036de-023c-4c4c-b17a-ad7787c7549a`, `facp-faba6936-2889-4bc9-b699-8b59f7fef64c`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

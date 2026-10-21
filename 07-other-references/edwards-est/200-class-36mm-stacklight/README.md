@@ -1,0 +1,16 @@
+# Edwards EST — 200 Class 36mm StackLight
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [200 Class 36mm StackLight — Catalog Page](https://docs.facpmanuals.com/manuals/Edwards_EST/200_class_36mm_stacklight-datasheet.pdf) | catalogue-page | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/edwards_est) |
+| [200 Class 36mm Stacklight — Datasheet (2011, source-listed)](https://docs.facpmanuals.com/manuals/Edwards_EST/200_class_36mm_stacklight-datasheet-2011.pdf) | datasheet | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/edwards_est) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-3528b719-a273-4949-a239-a5c887a24560`, `facp-0a9eaa66-a43b-4449-94bb-a342f2417dc5`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

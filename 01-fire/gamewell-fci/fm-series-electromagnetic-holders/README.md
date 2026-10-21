@@ -1,0 +1,15 @@
+# Gamewell FCI — FM Series Electromagnetic Holders
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [FM Series Electromagnetic Holders — Datasheet (2009, source-listed)](https://docs.facpmanuals.com/manuals/Gamewell_FCI/fm_series-datasheet-2009.pdf) | datasheet | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/gamewell_fci) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-0cdbc5b7-3fac-45f1-9143-bb1bbd2b833b`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

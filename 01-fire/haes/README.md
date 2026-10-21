@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-76 document records, grouped into 65 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+78 document records, grouped into 66 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -31,6 +31,7 @@
 | [Elite 1-Apollo](elite-1-apollo/README.md) | 1 |
 | [Elite 1-Nittan](elite-1-nittan/README.md) | 1 |
 | [Envoy 1-4](envoy-1-4/README.md) | 1 |
+| [Esento Excel](esento-excel/README.md) | 2 |
 | [Esento Marine 2-4](esento-marine-2-4/README.md) | 1 |
 | [Esento Marine 8-12](esento-marine-8-12/README.md) | 1 |
 | [Esento Marine Repeater](esento-marine-repeater/README.md) | 1 |

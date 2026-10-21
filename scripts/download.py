@@ -12,13 +12,14 @@ from urllib.parse import urljoin,urlparse
 from record_references import canonical_record
 
 ROOT=Path(__file__).resolve().parents[1]
-MAX_BYTES=100*1024*1024
+# The complete FACP collection includes a 161 MiB scanned Simplex manual.
+MAX_BYTES=256*1024*1024
 def slug(value):return re.sub(r'[^a-z0-9]+','-',value.lower()).strip('-')[:100]or 'unspecified'
 def read_catalogue(path=ROOT/'data/catalogue.json'):return json.loads(Path(path).read_text())['records']
-def matching(records,category=None,brand=None,model=None,record_id=None):
+def matching(records,category=None,brand=None,model=None,record_id=None,collection=None):
     records=list(records);by_id={r['id']:r for r in records};selected=[];seen=set()
     for row in records:
-        if (category and row['category']!=category)or(brand and slug(row['brand'])!=slug(brand))or(model and model.casefold()not in ' '.join(row['models']).casefold())or(record_id and row['id']!=record_id):continue
+        if (category and row['category']!=category)or(brand and slug(row['brand'])!=slug(brand))or(model and model.casefold()not in ' '.join(row['models']).casefold())or(record_id and row['id']!=record_id)or(collection and collection not in row.get('source_collections',[])):continue
         canonical=canonical_record(row,by_id)
         if canonical['id']not in seen:selected.append(canonical);seen.add(canonical['id'])
     return selected
@@ -92,16 +93,17 @@ def download_record(record,output,previous=None,refresh=False,opener=urllib.requ
     return {'id':record['id'],'title':record['title'],'models':record['models'],'path':target.relative_to(output).as_posix(),'downloaded_at':datetime.now(timezone.utc).isoformat(),'source_url':record['source_url'],'requested_url':url,**info,**catalogue_comparison(record,info['sha256'],info['bytes']),'result':'saved','validation':'PDF header, EOF marker, byte count and SHA-256; exact model/revision still needs human review'}
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--category',choices=['fire','security','access-control','cctv','warden-call']);parser.add_argument('--brand');parser.add_argument('--model');parser.add_argument('--id')
+    parser.add_argument('--category',choices=['fire','security','access-control','cctv','warden-call','other-reference']);parser.add_argument('--brand');parser.add_argument('--model');parser.add_argument('--id')
+    parser.add_argument('--collection',choices=['facp'],help='Select every catalogue document represented in this source collection')
     parser.add_argument('--all',action='store_true',help='Select the whole catalogue; may download many GB')
     parser.add_argument('--limit',type=int);parser.add_argument('--list',action='store_true',help='Print matching records without downloading')
     parser.add_argument('--refresh',action='store_true',help='Fetch again and preserve a new file if source contents changed')
     parser.add_argument('--output',type=Path,default=ROOT/'downloads');parser.add_argument('--delay',type=float,default=.5)
     args=parser.parse_args()
-    if not any([args.category,args.brand,args.model,args.id,args.all]):parser.error('Choose a category, brand, model, id or --all')
+    if not any([args.category,args.brand,args.model,args.id,args.all,args.collection]):parser.error('Choose a category, brand, model, id, collection or --all')
     if args.limit is not None and args.limit<1:parser.error('--limit must be positive')
     if args.delay<0:parser.error('--delay cannot be negative')
-    rows=matching(read_catalogue(),args.category,args.brand,args.model,args.id)
+    rows=matching(read_catalogue(),args.category,args.brand,args.model,args.id,args.collection)
     if args.limit:rows=rows[:args.limit]
     if not rows:print('No matching records.');return 1
     if args.list:

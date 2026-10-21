@@ -1842,7 +1842,7 @@
     "Salto current SPACE/KS online platform guides and newer publicly downloadable software manuals; SPACE 2.0 historical user manual is now indexed.",
     "Kentec: three source-only legacy listings and Man-1494 failed download remain; see the Kentec legacy audit. C-TEC retains three explicit publisher metadata conflicts.",
     "Care systems: TeleAlarm replacement download links, Tynetec Reach IP 4G guide, Aidcall, Careium, Ascom and Jontek document-level coverage.",
-    "FACP Manuals: this pass covered Cornell and Jeron only; remaining fire/security collections need edition and duplicate review before import."
+    "FACP: full 8,519-listing source inventory imported; review source metadata and engineering applicability against original documents as needed."
   ],
   "continuation_log": "data/continuation-log.json",
   "gap_fill_log": "data/gap-fill-log-2026-10-16.json",
@@ -1858,7 +1858,9 @@
     "data/source-audits/paxton-20603-recovery-2026-10-21.json",
     "data/source-audits/cdvi-viewers-2026-10-21.json",
     "data/source-audits/warden-call-2026-10-21.json",
-    "data/source-audits/facp-manuals-2026-10-21.json"
+    "data/source-audits/facp-manuals-2026-10-21.json",
+    "data/source-audits/facp-full-2026-10-21.json",
+    "data/source-audits/facp-inventory-reconciliation-2026-10-21.json"
   ],
   "continuation_log_kentec": "data/continuation-log-2026-10-21-kentec.json",
   "continuation_log_supplier_audit": {
@@ -1911,5 +1913,15 @@
     "exact_duplicate_urls_merged": 3,
     "standards_records": 147,
     "audit": "data/source-audits/warden-call-2026-10-21.json"
+  },
+  "continuation_log_facp_full": {
+    "checked_on": "2026-10-21",
+    "source_listings": 8519,
+    "source_brands": 104,
+    "new_records": 8507,
+    "existing_records_linked": 12,
+    "complete_source_downloads": 8519,
+    "unresolved_source_downloads": 0,
+    "audit": "data/source-audits/facp-full-2026-10-21.json"
   }
 }

@@ -1,0 +1,15 @@
+# Silent Knight — VisorALARM Manager Tool
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [VisorALARM Manager Tool — Quick Start](https://docs.facpmanuals.com/manuals/Silent_Knight/visoralarm_manager_tool-quick-start.pdf) | quick-start | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/silent_knight) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-c35abc0c-8b8e-4f14-9c69-feaf5ce02ab7`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

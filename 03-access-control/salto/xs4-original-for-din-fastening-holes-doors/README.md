@@ -7,10 +7,9 @@ Source titles and model associations are navigation aids. Some legacy model name
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
 | [XS4 Original for DIN fastening holes doors — Installation guide](https://support.saltosystems.com/installation-guides/220815.pdf) | installation | 220815 | Not recorded | pdf-link-listed | [Manufacturer](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-original/) |
-| [XS4 Original+ for DIN fastening holes doors — Installation guide](https://support.saltosystems.com/installation-guides/226865.pdf) | installation | 226865 | Not recorded | pdf-link-listed | [Manufacturer](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-original-plus/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `salto-3698f4bdfd17`, `salto-3d2697a3a85a`
+Record IDs: `salto-3698f4bdfd17`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

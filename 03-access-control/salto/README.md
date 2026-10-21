@@ -36,14 +36,14 @@
 | [Design XS Reader WRDx0E4 series](design-xs-reader-wrdx0e4-series/README.md) | 1 |
 | [Design XS Reader WRDx0E4xY series](design-xs-reader-wrdx0e4xy-series/README.md) | 1 |
 | [Desktop reader cable](desktop-reader-cable/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S Scandinavian with Modular Locks (Steel Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-scandinavian-with-modular-locks-steel-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S Scandinavian with Modular Locks (Wooden Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-scandinavian-with-modular-locks-wooden-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with ANSI Lock (Steel Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-with-ansi-lock-steel-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with ANSI Lock (Wooden Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-with-ansi-lock-wooden-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Euro Locks (Steel Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-with-euro-locks-steel-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Euro Locks (Wooden Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-with-euro-locks-wooden-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Latch (Steel Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-with-latch-steel-doors/README.md) | 1 |
-| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Latch (Wooden Doors)](door-detector-for-xs4-original-xs4-original-xs4-one-s-with-latch-wooden-doors/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S Scandinavian with Modular Locks (Steel Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-scandinavian-with-modular-locks-steel-doo/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S Scandinavian with Modular Locks (Wooden Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-scandinavian-with-modular-locks-wooden-do/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with ANSI Lock (Steel Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-with-ansi-lock-steel-doors/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with ANSI Lock (Wooden Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-with-ansi-lock-wooden-doors/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Euro Locks (Steel Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-with-euro-locks-steel-doors/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Euro Locks (Wooden Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-with-euro-locks-wooden-doors/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Latch (Steel Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-with-latch-steel-doors/README.md) | 1 |
+| [Door Detector For XS4 Original \| XS4 Original+ \| XS4 One S with Latch (Wooden Doors)](door-detector-for-xs4-original-xs4-original-plus-xs4-one-s-with-latch-wooden-doors/README.md) | 1 |
 | [Door detector for metal doors](door-detector-for-metal-doors/README.md) | 1 |
 | [Door detector for wooden doors](door-detector-for-wooden-doors/README.md) | 1 |
 | [Euro Compact Turner Adapter](euro-compact-turner-adapter/README.md) | 1 |
@@ -51,8 +51,8 @@
 | [GAT ECO.EPS 7000 emergency power adapter](gat-eco-eps-7000-emergency-power-adapter/README.md) | 1 |
 | [Glass XS Reader WRDx0Gxx series](glass-xs-reader-wrdx0gxx-series/README.md) | 1 |
 | [Handing selection XS4 One S](handing-selection-xs4-one-s/README.md) | 2 |
-| [Handing selection XS4 Original+](handing-selection-xs4-original/README.md) | 1 |
-| [Handing selection XS4 Original+ DIN](handing-selection-xs4-original-din/README.md) | 1 |
+| [Handing selection XS4 Original+](handing-selection-xs4-original-plus/README.md) | 1 |
+| [Handing selection XS4 Original+ DIN](handing-selection-xs4-original-plus-din/README.md) | 1 |
 | [IQ 2.0](iq-2-0/README.md) | 1 |
 | [IQ 2.0 support](iq-2-0-support/README.md) | 1 |
 | [IQ3](iq3/README.md) | 1 |
@@ -66,11 +66,11 @@
 | [Mullion XS Reader](mullion-xs-reader/README.md) | 1 |
 | [NCoder (Space)](ncoder-space/README.md) | 1 |
 | [NCoder Nebula/Homelok](ncoder-nebula-homelok/README.md) | 1 |
-| [Outdoor gasket kit for Original & Original+](outdoor-gasket-kit-for-original-original/README.md) | 1 |
+| [Outdoor gasket kit for Original & Original+](outdoor-gasket-kit-for-original-original-plus/README.md) | 1 |
 | [Outdoor gasket kit for Original - models Xi4xx](outdoor-gasket-kit-for-original-models-xi4xx/README.md) | 1 |
 | [Outdoor gasket kit for Original - models Xi6xx](outdoor-gasket-kit-for-original-models-xi6xx/README.md) | 1 |
-| [Outdoor gasket kit for Original+ DIN Double Reader](outdoor-gasket-kit-for-original-din-double-reader/README.md) | 1 |
-| [Outdoor gasket kit for Original+ Double Reader](outdoor-gasket-kit-for-original-double-reader/README.md) | 1 |
+| [Outdoor gasket kit for Original+ DIN Double Reader](outdoor-gasket-kit-for-original-plus-din-double-reader/README.md) | 1 |
+| [Outdoor gasket kit for Original+ Double Reader](outdoor-gasket-kit-for-original-plus-double-reader/README.md) | 1 |
 | [Outdoor gasket kit for XS4 One S](outdoor-gasket-kit-for-xs4-one-s/README.md) | 1 |
 | [Panel XS Reader](panel-xs-reader/README.md) | 1 |
 | [Panel XS Reader - OSDP](panel-xs-reader-osdp/README.md) | 1 |
@@ -194,7 +194,7 @@
 | [XS4 One for DIN type locks - applicable only to these models Ei7xxxRO—Ei7xxxSH (DIN)](xs4-one-for-din-type-locks-applicable-only-to-these-models-ei7xxxroei7xxxsh-din/README.md) | 1 |
 | [XS4 Original - COMFORT For Scandinavian modular lock](xs4-original-comfort-for-scandinavian-modular-lock/README.md) | 1 |
 | [XS4 Original - European Profile Cylinder Key Override](xs4-original-european-profile-cylinder-key-override/README.md) | 1 |
-| [XS4 Original - Glass Door DIN](xs4-original-glass-door-din/README.md) | 2 |
+| [XS4 Original - Glass Door DIN](xs4-original-glass-door-din/README.md) | 1 |
 | [XS4 Original - Handing selection](xs4-original-handing-selection/README.md) | 1 |
 | [XS4 Original - SECURITY For Scandinavian modular lock](xs4-original-security-for-scandinavian-modular-lock/README.md) | 1 |
 | [XS4 Original - SPINDLES PREPARATION FOR LOCK WITH SPLIT HUB](xs4-original-spindles-preparation-for-lock-with-split-hub/README.md) | 1 |
@@ -205,20 +205,20 @@
 | [XS4 Original Ei4Kxx…](xs4-original-ei4kxx/README.md) | 1 |
 | [XS4 Original Ei6xx…](xs4-original-ei6xx/README.md) | 1 |
 | [XS4 Original for Australian mortise locks](xs4-original-for-australian-mortise-locks/README.md) | 1 |
-| [XS4 Original for DIN fastening holes doors](xs4-original-for-din-fastening-holes-doors/README.md) | 2 |
-| [XS4 Original+ - Glass Door DIN](xs4-original-glass-door-din/README.md) | 2 |
-| [XS4 Original+ ANSI Double Reader models](xs4-original-ansi-double-reader-models/README.md) | 1 |
-| [XS4 Original+ DIN Double Reader models](xs4-original-din-double-reader-models/README.md) | 1 |
-| [XS4 Original+ Double Reader for Australian mortise locks](xs4-original-double-reader-for-australian-mortise-locks/README.md) | 1 |
-| [XS4 Original+ Euro Double Reader models](xs4-original-euro-double-reader-models/README.md) | 1 |
-| [XS4 Original+ SKG** models](xs4-original-skg-models/README.md) | 1 |
-| [XS4 Original+ for DIN fastening holes doors](xs4-original-for-din-fastening-holes-doors/README.md) | 2 |
-| [XS4 Original+ for EURO mortise locks & tubular latches EI4XX](xs4-original-for-euro-mortise-locks-tubular-latches-ei4xx/README.md) | 1 |
-| [XS4 Original+ for EURO mortise locks & tubular latches EI6XX](xs4-original-for-euro-mortise-locks-tubular-latches-ei6xx/README.md) | 1 |
-| [XS4 Original+ for Scandinavian Double Reader models](xs4-original-for-scandinavian-double-reader-models/README.md) | 1 |
-| [XS4 Original+ for Scandinavian modular mortise locks SI4XX](xs4-original-for-scandinavian-modular-mortise-locks-si4xx/README.md) | 1 |
-| [XS4 Original+ for Scandinavian modular mortise locks SI6XX](xs4-original-for-scandinavian-modular-mortise-locks-si6xx/README.md) | 1 |
-| [XS4 Original+ for USA mortise locks, cylindrical & tubular latches](xs4-original-for-usa-mortise-locks-cylindrical-tubular-latches/README.md) | 1 |
+| [XS4 Original for DIN fastening holes doors](xs4-original-for-din-fastening-holes-doors/README.md) | 1 |
+| [XS4 Original+ - Glass Door DIN](xs4-original-plus-glass-door-din/README.md) | 1 |
+| [XS4 Original+ ANSI Double Reader models](xs4-original-plus-ansi-double-reader-models/README.md) | 1 |
+| [XS4 Original+ DIN Double Reader models](xs4-original-plus-din-double-reader-models/README.md) | 1 |
+| [XS4 Original+ Double Reader for Australian mortise locks](xs4-original-plus-double-reader-for-australian-mortise-locks/README.md) | 1 |
+| [XS4 Original+ Euro Double Reader models](xs4-original-plus-euro-double-reader-models/README.md) | 1 |
+| [XS4 Original+ SKG** models](xs4-original-plus-skg-models/README.md) | 1 |
+| [XS4 Original+ for DIN fastening holes doors](xs4-original-plus-for-din-fastening-holes-doors/README.md) | 1 |
+| [XS4 Original+ for EURO mortise locks & tubular latches EI4XX](xs4-original-plus-for-euro-mortise-locks-tubular-latches-ei4xx/README.md) | 1 |
+| [XS4 Original+ for EURO mortise locks & tubular latches EI6XX](xs4-original-plus-for-euro-mortise-locks-tubular-latches-ei6xx/README.md) | 1 |
+| [XS4 Original+ for Scandinavian Double Reader models](xs4-original-plus-for-scandinavian-double-reader-models/README.md) | 1 |
+| [XS4 Original+ for Scandinavian modular mortise locks SI4XX](xs4-original-plus-for-scandinavian-modular-mortise-locks-si4xx/README.md) | 1 |
+| [XS4 Original+ for Scandinavian modular mortise locks SI6XX](xs4-original-plus-for-scandinavian-modular-mortise-locks-si6xx/README.md) | 1 |
+| [XS4 Original+ for USA mortise locks, cylindrical & tubular latches](xs4-original-plus-for-usa-mortise-locks-cylindrical-tubular-latches/README.md) | 1 |
 | [XS4 PRIVACY THUMBTURN](xs4-privacy-thumbturn/README.md) | 1 |
 | [XS4 Sense Controller](xs4-sense-controller/README.md) | 1 |
 | [XS4 Sense Door/Window wireless sensor](xs4-sense-door-window-wireless-sensor/README.md) | 1 |

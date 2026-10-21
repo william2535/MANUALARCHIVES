@@ -26,7 +26,7 @@ Use `id` as the durable bookmark and download key. Keep every `models` associati
 
 `generated_on` is the catalogue build date. Each record retains its own `source_checked` date; `download.verification.checked_on` dates the recorded file evidence. Rebuilding the feed does not recheck every source.
 
-Category values now include `warden-call` (warden call, telecare and related nurse call); source provenance includes `archive` for independent collections such as FACP Manuals. Consumers with fixed enum lists must use the updated version-1 schema and support these added values. Keep US rescue-assistance documents and UK social-alarm equipment distinguishable by the actual title, model and source; a shared archive is not evidence of interchangeability.
+Category values now include `other-reference` (building controls and supporting references from the full FACP collection) and `warden-call` (warden call, telecare and related nurse call); source provenance includes `archive` for independent collections such as FACP Manuals. Consumers with fixed enum lists must use the updated version-1 schema and support these added values. Keep US rescue-assistance documents and UK social-alarm equipment distinguishable by the actual title, model and source; a shared archive is not evidence of interchangeability.
 
 ## Download contract
 
@@ -86,3 +86,16 @@ Cache the register and search it offline. Keep bookmarks keyed by edition ID, an
 Every entry has `access: publisher-link-only`. Open the official publisher page for licensed access; never queue it as a manufacturer PDF download. A metadata update must not imply a standard is saved on the phone. The IET requires links to its updates page rather than direct update-PDF links. Full standard texts are not mirrored by this archive.
 
 `draft_watchlist` is optional in the version-1 feed. Its entries use a DC reference, subject, publisher record date, check date and source URL. Show these separately as proposals; do not mix them into published-standard counts or infer that consultation remains open. Published PD CEN/TS, PD CLC/TS and DD CLC/TS entries remain explicitly labelled companion documents in `records`; a DD publication is not a DC consultation draft.
+
+
+## FACP collection provenance
+
+`source_collections` is an optional array; `facp` identifies a catalogue record represented in the complete FACP source inventory. Treat an absent or null value as an empty array. A record can retain manufacturer provenance while also belonging to this collection when a byte-identical FACP mirror was found.
+
+[`data/source-audits/facp-full-2026-10-21.json`](data/source-audits/facp-full-2026-10-21.json) maps every FACP listing UUID and detail URL to a catalogue record. This is the reconciliation contract: source-listing counts can exceed catalogue-record counts when exact duplicates or earlier records are reused. Every listed PDF URL remains available in the audit and, where different from the selected download, in the record's alternate sources.
+
+Imported titles and source-listed years are navigation aids. The FACP `modelNumber` field includes incidental referenced devices and must not be treated as a list of primary compatible models. Imported records leave revision, language and market unverified unless independently established. A complete-file hash does not establish engineering applicability.
+
+Large catalogue and manifest JSON files use one compact record per line. Their JSON structure and version-1 field semantics are unchanged. The source collection is a dated snapshot, not automatic synchronization with FACP.
+
+`document_types` optionally preserves multiple source classifications for a document, such as installation and programming. Fall back to the existing singular `document_type` when absent or null; filters should match any listed type.

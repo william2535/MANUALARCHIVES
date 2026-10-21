@@ -19,9 +19,9 @@
 | [EXpert4](expert4/README.md) | 1 |
 | [GARDiS 1](gardis-1/README.md) | 1 |
 | [GARDiS 2](gardis-2/README.md) | 1 |
-| [GARDiS 4](gardis-4/README.md) | 2 |
+| [GARDiS 4](gardis-4/README.md) | 1 |
 | [GARDiS 4 Door Extension Module](gardis-4-door-extension-module/README.md) | 1 |
-| [GARDiS 4+](gardis-4/README.md) | 2 |
+| [GARDiS 4+](gardis-4-plus/README.md) | 1 |
 | [GARDiS Controller Embedded Web Server](gardis-controller-embedded-web-server/README.md) | 1 |
 | [GARDiS G1](gardis-g1/README.md) | 1 |
 | [GARDiS G2](gardis-g2/README.md) | 1 |

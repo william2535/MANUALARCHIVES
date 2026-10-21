@@ -85,7 +85,7 @@
 | [Premier Elite Com300](premier-elite-com300/README.md) | 1 |
 | [Premier Elite ComGSM](premier-elite-comgsm/README.md) | 1 |
 | [Premier Elite ComIP](premier-elite-comip/README.md) | 1 |
-| [Premier Elite ComPort+](premier-elite-comport/README.md) | 5 |
+| [Premier Elite ComPort+](premier-elite-comport-plus/README.md) | 5 |
 | [Premier Elite DT (Discontinued)](premier-elite-dt-discontinued/README.md) | 1 |
 | [Premier Elite External iProx Coil](premier-elite-external-iprox-coil/README.md) | 4 |
 | [Premier Elite FMK/SMK](premier-elite-fmk-smk/README.md) | 7 |

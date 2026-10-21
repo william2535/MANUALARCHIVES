@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-169 document records, grouped into 125 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+178 document records, grouped into 131 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -61,8 +61,12 @@
 | [CAPROG](caprog/README.md) | 1 |
 | [CAST Devices](cast-devices/README.md) | 9 |
 | [CAST PRO](cast-pro/README.md) | 2 |
-| [CAST ZFP](cast-zfp/README.md) | 1 |
+| [CAST XFP Fire Alarm Control Panels](cast-xfp-fire-alarm-control-panels/README.md) | 1 |
+| [CAST XFP Series](cast-xfp-series/README.md) | 1 |
+| [CAST ZFP](cast-zfp/README.md) | 2 |
+| [CAST ZFP Fire Alarm Control Panel](cast-zfp-fire-alarm-control-panel/README.md) | 1 |
 | [CFP](cfp/README.md) | 6 |
+| [CFP 2/4/8 Zone](cfp-2-4-8-zone/README.md) | 1 |
 | [CFP AlarmSense](cfp-alarmsense/README.md) | 1 |
 | [CFP Standard](cfp-standard/README.md) | 1 |
 | [CFP UNIVERSAL](cfp-universal/README.md) | 1 |
@@ -73,7 +77,8 @@
 | [Discovery compact sounders](discovery-compact-sounders/README.md) | 1 |
 | [Discovery high-output sounders](discovery-high-output-sounders/README.md) | 1 |
 | [Discovery high-output voice sounders / VADs](discovery-high-output-voice-sounders-vads/README.md) | 1 |
-| [EACIE](eacie/README.md) | 2 |
+| [EACIE](eacie/README.md) | 3 |
+| [EACIE 1 to 4 Loop Panel](eacie-1-to-4-loop-panel/README.md) | 1 |
 | [ECU-16](ecu-16/README.md) | 6 |
 | [ECU-224](ecu-224/README.md) | 3 |
 | [ECU-4](ecu-4/README.md) | 4 |
@@ -86,6 +91,7 @@
 | [ECU722](ecu722/README.md) | 1 |
 | [ECU723](ecu723/README.md) | 1 |
 | [EFP1](efp1/README.md) | 1 |
+| [EP203](ep203/README.md) | 2 |
 | [EVC301/JP](evc301-jp/README.md) | 1 |
 | [EVC301RLK](evc301rlk/README.md) | 1 |
 | [EVC301RPO](evc301rpo/README.md) | 1 |

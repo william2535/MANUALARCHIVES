@@ -1,0 +1,16 @@
+# Edwards EST — SB4U
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [SB4U — Installation (2013, source-listed)](https://docs.facpmanuals.com/manuals/Edwards_EST/sb4u-installation-2013-rev05.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/edwards_est) |
+| [SB4U — Wiring Diagram (2011, source-listed)](https://docs.facpmanuals.com/manuals/Edwards_EST/sb4u-wiring-diagram-2011.pdf) | diagram | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/edwards_est) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-21af673a-cf72-4b10-89c9-745450ab92ab`, `facp-b2f42cf2-2ed8-4e5e-85e2-65901ed087ed`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

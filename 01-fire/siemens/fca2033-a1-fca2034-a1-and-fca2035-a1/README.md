@@ -1,0 +1,15 @@
+# Siemens — FCA2033-A1, FCA2034-A1 and FCA2035-A1
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [FCA2033-A1, FCA2034-A1 and FCA2035-A1 — Datasheet (2018, source-listed)](https://docs.facpmanuals.com/manuals/Siemens/fca2033-a1_fca2034-a1_and_fca2035-a1-datasheet-2018-rev3.pdf) | datasheet | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/siemens) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-20d08986-05a5-4f43-bbbd-3b64778c7f09`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

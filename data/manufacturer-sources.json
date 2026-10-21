@@ -68,5 +68,13 @@
     "source_url": "https://www.telealarm.com/en/downloads",
     "checked_on": "2026-10-21",
     "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
+  },
+  {
+    "brand": "FACP Manuals — all brands",
+    "title": "Complete public brand catalogue",
+    "source_url": "https://facpmanuals.com/brands",
+    "source_kind": "archive",
+    "checked_on": "2026-10-21",
+    "note": "8,519 public listings across 104 brands. Every source UUID is mapped in data/source-audits/facp-full-2026-10-21.json; no document type or non-fire listing excluded. Directory itself is not an additional document."
   }
 ]

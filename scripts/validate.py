@@ -32,7 +32,7 @@ def validate(root=ROOT):
         rid=row.get('id','')
         if rid in ids or not re.fullmatch(r'[a-z0-9-]+',rid):errors.append(f'Invalid or duplicated id {rid}')
         ids.add(rid)
-        if row.get('category')not in ['fire','security','access-control','cctv','warden-call']:errors.append(f'{rid}: invalid category')
+        if row.get('category')not in ['fire','security','access-control','cctv','warden-call','other-reference']:errors.append(f'{rid}: invalid category')
         if row.get('source_kind')not in ['manufacturer','installer','distributor','archive']:errors.append(f'{rid}: missing or invalid source provenance')
         if row.get('source_pdf_sha256')and not re.fullmatch(r'[0-9a-f]{64}',row['source_pdf_sha256']):errors.append(f'{rid}: invalid source checksum')
         if row.get('source_pdf_sha256')and not isinstance(row.get('source_pdf_bytes'),int):errors.append(f'{rid}: checksum lacks byte count')
@@ -50,6 +50,21 @@ def validate(root=ROOT):
             elif not(root/folder/'README.md').is_file():errors.append(f'{rid}: missing model folder {folder}')
         if not row.get('folders'):errors.append(f'{rid}: missing folder navigation')
     errors.extend(document_identity_errors(rows))
+    facp_paths=sorted((root/'data/source-audits').glob('facp-full-????-??-??.json'))
+    if facp_paths:
+        facp_path=facp_paths[-1]
+        audit=json.loads(facp_path.read_text());sources=audit['records'];by_id={r['id']:r for r in rows}
+        if len(sources)!=audit['source_count']or len({s['source_id']for s in sources})!=len(sources):errors.append('FACP source count or identities do not reconcile')
+        if len(audit['by_brand'])!=audit['source_brand_count']or not all(b['complete']for b in audit['by_brand']):errors.append('FACP brand inventory is incomplete')
+        if sum(b['collected_unique']for b in audit['by_brand'])!=len(sources):errors.append('FACP brand totals differ from source records')
+        mapped={s['record_id']for s in sources}
+        if len(mapped)!=audit['mapped_records']:errors.append('FACP mapped-record total differs')
+        if mapped!={r['id']for r in rows if 'facp'in r.get('source_collections',[])}:errors.append('FACP collection filter differs from source audit')
+        for source in sources:
+            row=by_id.get(source['record_id'])
+            if row is None:errors.append('FACP source has no catalogue record: '+source['source_id']);continue
+            if source['download_url']not in [row.get('download_url'),row.get('document_url'),*row.get('alternate_source_urls',[])]:errors.append('FACP PDF source was lost: '+source['source_id'])
+            if source.get('sha256')and source['sha256']!=row.get('source_pdf_sha256'):errors.append('FACP complete-file hash differs from mapped record: '+source['source_id'])
     for path in json.loads((root/'data/generated-files.json').read_text()):
         if not(root/path).is_file():errors.append(f'Missing generated file {path}')
     page=(root/'index.html').read_text();match=re.search(r'<script id="catalogue" type="application/json">(.*?)</script>',page,re.S)

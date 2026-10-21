@@ -2,13 +2,17 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-40 document records, grouped into 33 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+53 document records, grouped into 45 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
+| [5800, 5900, and 5924](5800-5900-and-5924/README.md) | 1 |
+| [5878 Wireless Wall Transmitter](5878-wireless-wall-transmitter/README.md) | 2 |
+| [6160RF](6160rf/README.md) | 1 |
+| [ADEMCO 5843](ademco-5843/README.md) | 1 |
 | [Galaxy](galaxy/README.md) | 1 |
-| [Galaxy 16 - 16+](galaxy-16-16/README.md) | 1 |
-| [Galaxy 16 16 plus](galaxy-16-16-plus/README.md) | 1 |
+| [Galaxy 16 - 16+](galaxy-16-16-plus/README.md) | 2 |
+| [Galaxy 16 16 plus](galaxy-16-16-plus/README.md) | 2 |
 | [Galaxy 2-44](galaxy-2-44/README.md) | 1 |
 | [Galaxy 348c 3144 3144C 3520 3520C](galaxy-348c-3144-3144c-3520-3520c/README.md) | 1 |
 | [Galaxy 8 18 60 500 512](galaxy-8-18-60-500-512/README.md) | 2 |
@@ -39,3 +43,11 @@
 | [Galaxy connect Resistored Roller Shutter Contact](galaxy-connect-resistored-roller-shutter-contact/README.md) | 1 |
 | [Galaxy connect Roller Shutter Contact](galaxy-connect-roller-shutter-contact/README.md) | 1 |
 | [Galaxy-Dimension-Architecture-Chart](galaxy-dimension-architecture-chart/README.md) | 1 |
+| [LYNX Touch](lynx-touch/README.md) | 1 |
+| [Tuxedo Touch](tuxedo-touch/README.md) | 1 |
+| [VISTA-128BPT and VISTA-250BPT](vista-128bpt-and-vista-250bpt/README.md) | 1 |
+| [VISTA-20P and VISTA-15P](vista-20p-and-vista-15p/README.md) | 1 |
+| [VISTA-21iP](vista-21ip/README.md) | 1 |
+| [VISTA-21iP Series](vista-21ip-series/README.md) | 1 |
+| [VISTA-21iP and VISTA-21iPSIA](vista-21ip-and-vista-21ipsia/README.md) | 1 |
+| [Vista-15P & Vista-20P](vista-15p-vista-20p/README.md) | 1 |

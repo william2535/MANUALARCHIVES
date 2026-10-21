@@ -2,10 +2,11 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-158 document records, grouped into 180 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+183 document records, grouped into 185 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
+| [16 Channel I/O Interface](16-channel-i-o-interface/README.md) | 1 |
 | [750mA Power Supply and Battery Charger](750ma-power-supply-and-battery-charger/README.md) | 1 |
 | [AMX](amx/README.md) | 2 |
 | [AMX Network Manager – Syncro AS](amx-network-manager-syncro-as/README.md) | 1 |
@@ -22,14 +23,16 @@
 | [ENK15400 01](enk15400-01/README.md) | 1 |
 | [ENS400](ens400/README.md) | 1 |
 | [EVCS Safe-Point](evcs-safe-point/README.md) | 1 |
-| [Elite](elite/README.md) | 2 |
-| [Elite RS](elite-rs/README.md) | 2 |
+| [Elite](elite/README.md) | 4 |
+| [Elite RS](elite-rs/README.md) | 3 |
+| [Elite RS and eLAN RS](elite-rs-and-elan-rs/README.md) | 1 |
 | [Elite RS-A](elite-rs-a/README.md) | 1 |
-| [Elite RS-H](elite-rs-h/README.md) | 1 |
+| [Elite RS-H](elite-rs-h/README.md) | 2 |
 | [Elite XT](elite-xt/README.md) | 2 |
 | [Elite XT disablement switch](elite-xt-disablement-switch/README.md) | 1 |
-| [Elite-A](elite-a/README.md) | 1 |
-| [Elite-H](elite-h/README.md) | 1 |
+| [Elite-A](elite-a/README.md) | 2 |
+| [Elite-H](elite-h/README.md) | 2 |
+| [Elite-RS-H](elite-rs-h/README.md) | 2 |
 | [Hold Off](hold-off/README.md) | 1 |
 | [HydroSense CP](hydrosense-cp/README.md) | 3 |
 | [HydroSense CP-R](hydrosense-cp-r/README.md) | 1 |
@@ -56,7 +59,7 @@
 | [K3000](k3000/README.md) | 1 |
 | [K3000S](k3000s/README.md) | 2 |
 | [K3200](k3200/README.md) | 1 |
-| [K4.01/ K4.01+](k4-01-k4-01/README.md) | 1 |
+| [K4.01/ K4.01+](k4-01-k4-01-plus/README.md) | 1 |
 | [K588 ancillary PCB](k588-ancillary-pcb/README.md) | 1 |
 | [K8140](k8140/README.md) | 2 |
 | [K8141](k8141/README.md) | 2 |
@@ -94,15 +97,16 @@
 | [Safe-Point EVCS](safe-point-evcs/README.md) | 1 |
 | [Sigma](sigma/README.md) | 1 |
 | [Sigma (Economy)](sigma-economy/README.md) | 1 |
-| [Sigma A-CP](sigma-a-cp/README.md) | 3 |
+| [Sigma A-CP](sigma-a-cp/README.md) | 4 |
 | [Sigma A-CP Annunciator](sigma-a-cp-annunciator/README.md) | 1 |
 | [Sigma A-Si](sigma-a-si/README.md) | 4 |
-| [Sigma A-XT](sigma-a-xt/README.md) | 3 |
+| [Sigma A-XT](sigma-a-xt/README.md) | 4 |
 | [Sigma A-XT Abort Switch](sigma-a-xt-abort-switch/README.md) | 1 |
 | [Sigma A-XT ancillary PCB](sigma-a-xt-ancillary-pcb/README.md) | 1 |
 | [Sigma A-XT status unit](sigma-a-xt-status-unit/README.md) | 1 |
 | [Sigma CP](sigma-cp/README.md) | 4 |
 | [Sigma CP (Conventional)](sigma-cp-conventional/README.md) | 1 |
+| [Sigma CP (K and T Series)](sigma-cp-k-and-t-series/README.md) | 1 |
 | [Sigma CP-A](sigma-cp-a/README.md) | 1 |
 | [Sigma CP-R](sigma-cp-r/README.md) | 1 |
 | [Sigma K1000 Series 1 Zone Economy](sigma-k1000-series-1-zone-economy/README.md) | 1 |
@@ -110,9 +114,9 @@
 | [Sigma Matrix](sigma-matrix/README.md) | 1 |
 | [Sigma Si](sigma-si/README.md) | 1 |
 | [Sigma Si Weatherproof](sigma-si-weatherproof/README.md) | 1 |
-| [Sigma XT](sigma-xt/README.md) | 7 |
+| [Sigma XT](sigma-xt/README.md) | 5 |
 | [Sigma XT Hold Off](sigma-xt-hold-off/README.md) | 1 |
-| [Sigma XT+](sigma-xt/README.md) | 7 |
+| [Sigma XT+](sigma-xt-plus/README.md) | 4 |
 | [Sigma ZSi](sigma-zsi/README.md) | 1 |
 | [Sigma ZXT](sigma-zxt/README.md) | 6 |
 | [Sigma ZXT (Installation)](sigma-zxt-installation/README.md) | 1 |
@@ -135,17 +139,17 @@
 | [Solo II Lite](solo-ii-lite/README.md) | 1 |
 | [Solo Response](solo-response/README.md) | 2 |
 | [Status Units](status-units/README.md) | 1 |
-| [Syncro](syncro/README.md) | 4 |
-| [Syncro AS](syncro-as/README.md) | 3 |
+| [Syncro](syncro/README.md) | 5 |
+| [Syncro AS](syncro-as/README.md) | 5 |
 | [Syncro AS (Addressable)](syncro-as-addressable/README.md) | 1 |
 | [Syncro AS Listec](syncro-as-listec/README.md) | 1 |
 | [Syncro ASM](syncro-asm/README.md) | 2 |
 | [Syncro Comms](syncro-comms/README.md) | 1 |
-| [Syncro Focus & Syncro Focus+](syncro-focus-syncro-focus/README.md) | 1 |
+| [Syncro Focus & Syncro Focus+](syncro-focus-syncro-focus-plus/README.md) | 1 |
 | [Syncro GUIDE](syncro-guide/README.md) | 1 |
 | [Syncro I/O](syncro-i-o/README.md) | 4 |
 | [Syncro Ident](syncro-ident/README.md) | 1 |
-| [Syncro Lite](syncro-lite/README.md) | 1 |
+| [Syncro Lite](syncro-lite/README.md) | 2 |
 | [Syncro Matrix](syncro-matrix/README.md) | 1 |
 | [Syncro Net](syncro-net/README.md) | 2 |
 | [Syncro Si](syncro-si/README.md) | 2 |
@@ -153,10 +157,10 @@
 | [Syncro View](syncro-view/README.md) | 1 |
 | [Syncro View Marine](syncro-view-marine/README.md) | 1 |
 | [Syncro XT](syncro-xt/README.md) | 3 |
-| [Syncro XT+](syncro-xt/README.md) | 3 |
+| [Syncro XT+](syncro-xt-plus/README.md) | 1 |
 | [Syncro modem module](syncro-modem-module/README.md) | 1 |
 | [TSM100-K](tsm100-k/README.md) | 1 |
-| [Taktis](taktis/README.md) | 4 |
+| [Taktis](taktis/README.md) | 6 |
 | [Taktis 4 Channel NAC Module](taktis-4-channel-nac-module/README.md) | 1 |
 | [Taktis 8 Channel Conventional Zone Module](taktis-8-channel-conventional-zone-module/README.md) | 1 |
 | [Taktis 8 Channel Relay Panel Module](taktis-8-channel-relay-panel-module/README.md) | 1 |
@@ -175,11 +179,12 @@
 | [W911100W8](w911100w8/README.md) | 1 |
 | [W911110W8](w911110w8/README.md) | 1 |
 | [W911113W8](w911113w8/README.md) | 1 |
-| [XT+ (UL)](xt-ul/README.md) | 1 |
-| [XT+ Releasing Unit](xt-releasing-unit/README.md) | 6 |
-| [eMatrix](ematrix/README.md) | 1 |
+| [XT+](xt-plus/README.md) | 3 |
+| [XT+ (UL)](xt-plus-ul/README.md) | 1 |
+| [XT+ Releasing Unit](xt-plus-releasing-unit/README.md) | 6 |
+| [eMatrix](ematrix/README.md) | 2 |
 | [eNet](enet/README.md) | 1 |
-| [eView](eview/README.md) | 1 |
+| [eView](eview/README.md) | 2 |
 | [iNS DNP-R-2F/FC-K](ins-dnp-r-2f-fc-k/README.md) | 1 |
 | [iNS DNX-A-2R-K](ins-dnx-a-2r-k/README.md) | 1 |
 | [iNS DNX-A-2R-K & DNP-R-2F/FC-K](ins-dnx-a-2r-k-dnp-r-2f-fc-k/README.md) | 1 |

@@ -1,3 +1,21 @@
+# Project status
+
+## Complete FACP collection — 21 October 2026
+
+All **8,519 public FACP listings across 104 source brands** are now represented in the archive, with **8,519 successful complete-PDF downloads**. The collection includes manuals, older editions, datasheets, catalogue pages, brochures and non-fire references. Every source UUID, detail page and PDF URL maps to a catalogue record; nothing from the public brand inventory was excluded.
+
+The update adds **8,507 records** and links **12 existing records**, preserving all **3,555 earlier IDs, titles, model associations and original URLs**. The full archive now has **12,062 records across 174 brands**, **11,820 direct PDF references** and **8,874 complete-file catalogue checks**. Source checks and catalogue evidence counts differ when an existing manufacturer record is retained and its FACP mirror is separately checked.
+
+The importer reconciled 428 primary listing pages and 17 supplemental title-search pages. Equal-title pagination had omitted 11 documents; those were recovered before import. The source sitemap includes one renamed URL that redirects to a collected entry and omits two current listing URLs. Exact reconciliation is recorded in `data/source-audits/facp-inventory-reconciliation-2026-10-21.json`.
+
+Select **Collection → FACP Manuals** in the offline browser, or use `python3 scripts/download.py --collection facp`. A new building-controls/other-references category retains non-fire material. Multi-purpose documents retain each source type; plus variants have separate navigation folders. The downloader accepts the collection's large scanned manuals. The public repository contains links and metadata, while downloaded PDFs are packaged separately for private offline use.
+
+All source PDFs have SHA-256, actual byte count, header/EOF and Poppler page-count evidence. FACP's listed size differs from delivered bytes for 8,377 records; the catalogue uses the measured size, retaining the source-listed value in the audit. A repeat download sample returned the same measured hash and size. Source-listed years are not verified editions, and referenced component lists are not treated as primary compatible models.
+
+The British Standards register remains at **147 checked references**. The earlier non-FACP link barriers remain explicit: three Kentec listings, four CDVI viewers and ten failed PDF retrievals. This import is complete against FACP's dated public brand inventory, not every manufacturer publication in existence. The native phone application remains separate from the catalogue and offline download tools.
+
+Validation: 45 Python tests, catalogue/source reconciliation, preservation checks, offline browser logic and Git whitespace checks. No real-device app test is claimed.
+
 # Project checkpoint
 
 Repository: https://github.com/william2535/MANUALARCHIVES

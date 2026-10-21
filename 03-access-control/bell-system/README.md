@@ -6,6 +6,6 @@
 
 | Model / family | Documents |
 |---|---:|
-| [+ VRK](vrk/README.md) | 1 |
-| [900 + VRK](900-vrk/README.md) | 1 |
+| [+ VRK](plus-vrk/README.md) | 1 |
+| [900 + VRK](900-plus-vrk/README.md) | 1 |
 | [Manual BS1 1 Way (PD-097 Iss 3B)](manual-bs1-1-way-pd-097-iss-3b/README.md) | 1 |

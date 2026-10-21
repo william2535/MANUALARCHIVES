@@ -5,9 +5,9 @@ from pathlib import Path
 from app_data import build_manifest, build_gap_audit, download_info
 from standards_data import standards_errors, render_standards_markdown
 ROOT=Path(__file__).resolve().parents[1]
-CATEGORIES={'fire':('01-fire','Fire'),'security':('02-security','Security / intruder'),'access-control':('03-access-control','Access control / door entry'),'cctv':('04-cctv','CCTV'),'warden-call':('06-warden-call','Warden call / telecare / nurse call')}
+CATEGORIES={'fire':('01-fire','Fire'),'security':('02-security','Security / intruder'),'access-control':('03-access-control','Access control / door entry'),'cctv':('04-cctv','CCTV'),'warden-call':('06-warden-call','Warden call / telecare / nurse call'),'other-reference':('07-other-references','Building controls / other references')}
 def slug(value):
-    value=unicodedata.normalize('NFKD',value).encode('ascii','ignore').decode().lower()
+    value=unicodedata.normalize('NFKD',value).encode('ascii','ignore').decode().lower().replace('+',' plus ')
     return re.sub(r'[^a-z0-9]+','-',value).strip('-')[:100]or 'unspecified'
 def md(value):return str(value or 'Not recorded').replace('|','\\|').replace('\n',' ').replace('[','\\[').replace(']','\\]')
 def main():
@@ -23,9 +23,13 @@ def main():
         row['folders']=[f"{CATEGORIES[row['category']][0]}/{slug(row['brand'])}/{slug(m)}"for m in row['models']]
         for model,folder in zip(row['models'],row['folders']):
             folders[folder].append(row);brands[row['category']][row['brand']].add((model,folder))
-    (ROOT/'data/catalogue.json').write_text(json.dumps(catalogue,ensure_ascii=False,indent=2)+'\n')
+    # One record per line keeps a large source collection compact and diffable.
+    def record_json(data):
+        header={k:v for k,v in data.items() if k!='records'}
+        return json.dumps(header,ensure_ascii=False,separators=(',',':'))[:-1]+',"records":[\n'+',\n'.join(json.dumps(r,ensure_ascii=False,separators=(',',':'))for r in data['records'])+'\n]}'
+    (ROOT/'data/catalogue.json').write_text(record_json(catalogue)+'\n')
     manifest=build_manifest(catalogue);gap_audit=build_gap_audit(catalogue)
-    write('data/app-manifest.json',json.dumps(manifest,ensure_ascii=False,indent=2))
+    write('data/app-manifest.json',record_json(manifest))
     write('data/gap-audit.json',json.dumps(gap_audit,ensure_ascii=False,indent=2))
     for folder,items in folders.items():
         first=items[0];model=next(m for m,f in zip(first['models'],first['folders'])if f==folder)
@@ -36,7 +40,7 @@ def main():
         lines+=['','Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.','', 'Record IDs: '+', '.join('`'+r['id']+'`'for r in items), '', 'PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).']
         write(folder+'/README.md','\n'.join(lines))
     for category,(directory,label)in CATEGORIES.items():
-        scope=('Grouped living warden call, at-home telecare and related nurse-call documents. These are distinct system types; use the exact model and document. Standalone rescue-assistance systems remain under fire. See [social alarm standards](../05-british-standards/README.md#warden-call-and-social-alarms).'if category=='warden-call'else'Door entry belongs under access control.')
+        scope=('Grouped living warden call, at-home telecare and related nurse-call documents. These are distinct system types; use the exact model and document. Standalone rescue-assistance systems remain under fire. See [social alarm standards](../05-british-standards/README.md#warden-call-and-social-alarms).'if category=='warden-call'else 'Building controls, HVAC and supporting technical references retained from the complete FACP collection. Category placement is a navigation aid, not a certification of system applicability.'if category=='other-reference'else'Door entry belongs under access control.')
         lines=[f'# {label}','','[Archive](../README.md)', '',f'{counts[category]} document records. {scope}','', '| Brand | Document records | Model / family folders |','|---|---:|---:|']
         for brand,models in sorted(brands[category].items()):
             n=sum(r['category']==category and r['brand']==brand for r in records)
@@ -55,6 +59,20 @@ def main():
     section=['','## British Standards updates and revisions','',f'**{len(standards["records"])} checked references across {len(standards["categories"])} groups**, covering fire, security, access control, CCTV, social alarms and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked {standards["checked_on"]}.','','[Browse the standards section](05-british-standards/README.md) · [Search standards offline](index.html#standards) · [App data](data/standards.json)','','The register identifies gaps explicitly; it is not a complete history of every BS amendment. Full licensed standard texts are obtained from the publisher. The archive stores metadata and original short summaries.']
     position=readme.index('## Search and app data')-1
     readme[position:position]=section
+    facp_paths=sorted((ROOT/'data/source-audits').glob('facp-full-????-??-??.json'))
+    if facp_paths:
+        facp_path=facp_paths[-1]
+        facp=json.loads(facp_path.read_text())
+        facp_link=facp_path.relative_to(ROOT).as_posix()
+        position=readme.index('## Search and app data')-1
+        readme[position:position]=['','## Complete FACP source collection','',f'All **{facp["source_count"]:,} public listings across {facp["source_brand_count"]} FACP brands** were reconciled against the full brand inventory on {facp["checked_on"]}. No document type or non-fire listing was excluded. Exact duplicates and existing records share a catalogue entry while every source listing retains its own audit mapping.','', f'[Collection and brand totals](FACP_COLLECTION.md) · [Exact source-to-record audit]({facp_link})','', 'Select **Collection → FACP Manuals** in the offline browser, or download the collection with:','','```bash','python3 scripts/download.py --collection facp --list','python3 scripts/download.py --collection facp','```','', 'This selection includes fire, security, care-call and other references. Add `--category fire` to select the fire section. Source-listed years and titles are retained; the import does not certify the latest edition or UK applicability.']
+        complete=facp['download_status_counts'].get('complete-file',0)
+        source_doc=['# FACP Manuals — complete source collection','', '[Archive](README.md) · [Search catalogue](index.html) · [Source website](https://facpmanuals.com/brands)','',f'Checked **{facp["checked_on"]}**: **{facp["source_count"]:,} source listings across {facp["source_brand_count"]} brands**, mapped to **{facp["mapped_records"]:,} catalogue records**. **{complete:,} source PDFs have complete-file checks**. No listing, document type, language or non-fire source was excluded.','',f'The import read {facp["listing_pages"]} brand pages and {facp.get("supplemental_pages",0)} supplemental title-search pages. Equal-title pagination repeated some entries and omitted siblings; every brand was reconciled by unique source ID against its published total.','', '## Why the counts were different','', 'The earlier archive had 3,555 total records, including 971 under fire. Its FACP import contained only the 11 Cornell/Jeron documents from the care/rescue pass. FACP lists manuals, datasheets, catalogue pages, brochures and older editions across many additional US and legacy brands. This expansion imports its entire public brand catalogue.','', 'Counts are source listings and catalogue references, not a claim that every item is an installation manual or a distinct technical publication. Exact byte matches may share a catalogue entry; every FACP UUID, title, detail page and PDF URL is retained in the audit. Existing catalogue IDs and model associations are preserved.','', '## Browse or download','', 'Select **Collection → FACP Manuals** in `index.html`. The category filter includes fire, security, access control, CCTV, care-call and building-controls/other references. Categories are navigation aids; check the original document for applicability.','','```bash','python3 scripts/download.py --collection facp --list','python3 scripts/download.py --collection facp','python3 scripts/download.py --collection facp --category fire --brand Notifier','```','', 'The whole collection occupies many GB. Download selected brands if your phone has limited space. The public Git repository contains the catalogue, provenance, checksums and source download links; it does not mirror PDF binaries. Private ZIP volumes can be prepared from the verified download cache using `scripts/package_facp.py`.','', '## Brand reconciliation','', '| FACP brand | Source listings | Unique catalogue records | Complete-file checks |','|---|---:|---:|---:|']
+        for brand in facp['by_brand']:
+            entries=[r for r in facp['records']if r['brand_slug']==brand['brand_slug']]
+            source_doc.append(f'| [{md(brand["brand"])}](https://facpmanuals.com/manuals/{brand["brand_slug"]}) | {len(entries):,} | {len({r["record_id"]for r in entries}):,} | {sum(r["download_status"]=="complete-file"for r in entries):,} |')
+        source_doc+=['','## Evidence and limits','',f'[Every source listing and its mapped record]({facp_link}) · [Inventory/sitemap reconciliation](data/source-audits/facp-inventory-reconciliation-2026-10-21.json)','', 'Complete-file checks mean the PDF was downloaded, hashed, checked for its header/EOF and parsed for page count. They do not establish the latest issue, UK applicability, verified language, firmware compatibility or redistribution rights. FACP source-listed years remain labelled as such. Its referenced-model lists are not promoted into primary model applicability. This is a dated snapshot, not automatic monitoring.']
+        write('FACP_COLLECTION.md','\n'.join(source_doc))
     write('README.md','\n'.join(readme))
     write('05-british-standards/README.md',render_standards_markdown(standards))
     coverage=['# Coverage and outstanding work','',f'Collection date: {catalogue["generated_on"]}. Counts are catalogue records, not downloaded files or a claim of completeness.','','## Brands','','| Brand | Records | Direct PDF links |','|---|---:|---:|']
@@ -83,6 +101,8 @@ def main():
     browser_records=[{k:r[k]for k in ['id','category','brand','models','title','document_type','document_number','revision_hint','availability','source_url','document_url','download_url','folders','source_kind','model_basis']}for r in records]
     for browser_row,row in zip(browser_records,records):
         browser_row['download']=download_info(row)
+        browser_row['source_collections']=row.get('source_collections',[])
+        if row.get('document_types'):browser_row['document_types']=row['document_types']
         if row.get('duplicate_of'):browser_row['duplicate_of']=row['duplicate_of']
     template=(ROOT/'scripts/index-template.html').read_text()
     template=template.replace('__STANDARDS_DATA__',json.dumps(standards,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__STANDARDS_SCRIPT__',(ROOT/'scripts/standards-browser.js').read_text())

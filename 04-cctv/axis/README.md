@@ -70,8 +70,8 @@
 | [AXIS D1110 Video Decoder 4K](axis-d1110-video-decoder-4k/README.md) | 1 |
 | [AXIS D3110 Connectivity Hub](axis-d3110-connectivity-hub/README.md) | 1 |
 | [AXIS D3110 Mk II](axis-d3110-mk-ii/README.md) | 1 |
-| [AXIS D8208-R Industrial PoE++ Switch](axis-d8208-r-industrial-poe-switch/README.md) | 1 |
-| [AXIS D8248 Managed PoE++ Switch](axis-d8248-managed-poe-switch/README.md) | 1 |
+| [AXIS D8208-R Industrial PoE++ Switch](axis-d8208-r-industrial-poe-plus-plus-switch/README.md) | 1 |
+| [AXIS D8248 Managed PoE++ Switch](axis-d8248-managed-poe-plus-plus-switch/README.md) | 1 |
 | [AXIS D8308​ Fiber Aggregation Switch](axis-d8308-fiber-aggregation-switch/README.md) | 1 |
 | [AXIS Data Insights](axis-data-insights/README.md) | 1 |
 | [AXIS Demographic Identifier](axis-demographic-identifier/README.md) | 1 |
@@ -471,9 +471,9 @@
 | [AXIS T6112 Mk II Audio and I/O Interface](axis-t6112-mk-ii-audio-and-i-o-interface/README.md) | 1 |
 | [AXIS T8504-E Outdoor PoE Switch](axis-t8504-e-outdoor-poe-switch/README.md) | 1 |
 | [AXIS T8504-R Industrial PoE Switch](axis-t8504-r-industrial-poe-switch/README.md) | 1 |
-| [AXIS T8508 PoE+ Network Switch](axis-t8508-poe-network-switch/README.md) | 1 |
-| [AXIS T8516 PoE+ Network Switch](axis-t8516-poe-network-switch/README.md) | 1 |
-| [AXIS T8524 PoE+ Network Switch](axis-t8524-poe-network-switch/README.md) | 1 |
+| [AXIS T8508 PoE+ Network Switch](axis-t8508-poe-plus-network-switch/README.md) | 1 |
+| [AXIS T8516 PoE+ Network Switch](axis-t8516-poe-plus-network-switch/README.md) | 1 |
+| [AXIS T8524 PoE+ Network Switch](axis-t8524-poe-plus-network-switch/README.md) | 1 |
 | [AXIS T8705 Video Decoder](axis-t8705-video-decoder/README.md) | 1 |
 | [AXIS TA1101-B Wiegand to OSDP Converter](axis-ta1101-b-wiegand-to-osdp-converter/README.md) | 1 |
 | [AXIS TA1202 Enclosure with Power Unit](axis-ta1202-enclosure-with-power-unit/README.md) | 1 |

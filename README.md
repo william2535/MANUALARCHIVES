@@ -2,7 +2,7 @@
 
 Fire, security, access control, CCTV, warden call, telecare and nurse-call manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**3,555 document records · 92 brands · 3,313 direct PDF links · 0 PDF files mirrored**
+**12,062 document records · 174 brands · 11,820 direct PDF links · 0 PDF files mirrored**
 
 Catalogue build date: 2026-10-21. A check date does not mean a document is the latest revision.
 
@@ -10,11 +10,12 @@ Catalogue build date: 2026-10-21. A check date does not mean a document is the l
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 971 |
-| [Security / intruder](02-security/README.md) | 617 |
-| [Access control / door entry](03-access-control/README.md) | 924 |
-| [CCTV](04-cctv/README.md) | 923 |
-| [Warden call / telecare / nurse call](06-warden-call/README.md) | 120 |
+| [Fire](01-fire/README.md) | 8,686 |
+| [Security / intruder](02-security/README.md) | 1,073 |
+| [Access control / door entry](03-access-control/README.md) | 948 |
+| [CCTV](04-cctv/README.md) | 973 |
+| [Warden call / telecare / nurse call](06-warden-call/README.md) | 121 |
+| [Building controls / other references](07-other-references/README.md) | 261 |
 
 Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 
@@ -26,6 +27,21 @@ Each category contains **brand → model / product family → document** navigat
 
 The register identifies gaps explicitly; it is not a complete history of every BS amendment. Full licensed standard texts are obtained from the publisher. The archive stores metadata and original short summaries.
 
+## Complete FACP source collection
+
+All **8,519 public listings across 104 FACP brands** were reconciled against the full brand inventory on 2026-10-21. No document type or non-fire listing was excluded. Exact duplicates and existing records share a catalogue entry while every source listing retains its own audit mapping.
+
+[Collection and brand totals](FACP_COLLECTION.md) · [Exact source-to-record audit](data/source-audits/facp-full-2026-10-21.json)
+
+Select **Collection → FACP Manuals** in the offline browser, or download the collection with:
+
+```bash
+python3 scripts/download.py --collection facp --list
+python3 scripts/download.py --collection facp
+```
+
+This selection includes fire, security, care-call and other references. Add `--category fire` to select the fire section. Source-listed years and titles are retained; the import does not certify the latest edition or UK applicability.
+
 ## Search and app data
 
 - Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening source documents requires a connection until you download them.
@@ -36,7 +52,7 @@ The register identifies gaps explicitly; it is not a complete history of every B
 
 [`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
 
-Current evidence: **367 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+Current evidence: **8,874 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
 
 See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
 

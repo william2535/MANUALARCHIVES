@@ -1,0 +1,15 @@
+# Notifier — SFP-2402
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [SFP-2402 — Datasheet (2011, source-listed)](https://docs.facpmanuals.com/manuals/Notifier/sfp-2402-datasheet-2011.pdf) | datasheet | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/notifier) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-74d2a0f5-398d-46a2-9143-1206dd318c5f`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

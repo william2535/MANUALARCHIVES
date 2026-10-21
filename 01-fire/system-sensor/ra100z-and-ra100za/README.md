@@ -1,0 +1,15 @@
+# System Sensor — RA100Z and RA100ZA
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [RA100Z and RA100ZA — Installation (2016, source-listed)](https://docs.facpmanuals.com/manuals/System_Sensor/ra100z_and_ra100za-installation-2016-rev008.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/system_sensor) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-bb2a05d8-a0c1-4c54-a1e0-1f969c607ab9`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

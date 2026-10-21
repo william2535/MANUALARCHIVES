@@ -50,7 +50,7 @@ def build_manifest(catalogue):
     keys = ['id', 'category', 'brand', 'models', 'title', 'document_type',
             'document_number', 'revision_hint', 'revision_basis', 'verified_revision',
             'language', 'region', 'source_kind', 'source_url', 'source_checked',
-            'model_basis', 'retrieval_note']
+            'model_basis', 'retrieval_note', 'source_collections', 'document_types']
     records = [{**{k: row.get(k) for k in keys}, 'download': download_info(row),
                 **({'duplicate_of': row['duplicate_of']} if 'duplicate_of' in row else {})}
                for row in sorted(catalogue['records'], key=lambda row: row['id'])]

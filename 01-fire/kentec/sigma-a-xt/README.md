@@ -8,10 +8,11 @@ Source titles and model associations are navigation aids. Some legacy model name
 |---|---|---|---|---|---|
 | [Sigma A-XT / Elite XT — Control panel wiring diagram](https://kentec.co.uk/wp-content/uploads/2024/02/Man-1147-Sigma-A-XT-wiring-diagram_08.00.pdf) | diagram | Man-1147 | E08.00 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Sigma A-XT / Elite XT — Releasing control panel operating instructions](https://kentec.co.uk/wp-content/uploads/2018/08/man-1146.pdf) | user-guide | Man-1146 | E01.09 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma A-XT — Installation, Operations (2017, source-listed)](https://docs.facpmanuals.com/manuals/Kentec/sigma_a-xt-installation-2017.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/kentec) |
 | [Sigma A-XT — Releasing control panel installation and operation manual](https://kentec.co.uk/wp-content/uploads/2022/12/Man-1145-Sigma-A-XT-operating-and-installation-manual_06.00.pdf) | installation | Man-1145 | E06.00 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `kentec-b881ae752a6c`, `kentec-08007b0c58f6`, `kentec-4e903b476dbc`
+Record IDs: `kentec-b881ae752a6c`, `kentec-08007b0c58f6`, `kentec-4e903b476dbc`, `facp-a6b181b1-e8ee-4813-99fa-c16bd2673420`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

@@ -1,0 +1,15 @@
+# Ademco — 402
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [402 — Troubleshooting Guide (1980, source-listed)](https://docs.facpmanuals.com/manuals/Ademco/402-troubleshooting-guide-1980.pdf) | troubleshooting | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/ademco) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-807fc6dd-9616-4bc9-a7e0-1af6ef25e97a`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

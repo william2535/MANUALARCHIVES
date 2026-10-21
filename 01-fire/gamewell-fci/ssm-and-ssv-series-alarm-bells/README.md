@@ -1,0 +1,15 @@
+# Gamewell FCI — SSM and SSV Series Alarm Bells
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [SSM and SSV Series Alarm Bells — Datasheet (2007, source-listed)](https://docs.facpmanuals.com/manuals/Gamewell_FCI/ssm-ssv_series_alarm_bells-datasheet-2007.pdf) | datasheet | Not recorded | Not recorded | pdf-indexed | [Archive](https://facpmanuals.com/manuals/gamewell_fci) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `facp-e2f2f278-ab46-4eae-9fa3-58a81b204981`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

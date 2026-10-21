@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-923 document records. Door entry belongs under access control.
+973 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -14,9 +14,11 @@
 | [Baxall](baxall/README.md) | 12 | 12 |
 | [Bosch](bosch/README.md) | 4 | 5 |
 | [Comelit](comelit/README.md) | 39 | 44 |
+| [DITEK](ditek/README.md) | 9 | 9 |
 | [Dahua](dahua/README.md) | 18 | 21 |
 | [Dedicated Micros](dedicated-micros/README.md) | 13 | 12 |
 | [FLIR](flir/README.md) | 2 | 2 |
+| [GE Security](ge-security/README.md) | 41 | 33 |
 | [GJD](gjd/README.md) | 3 | 5 |
 | [Genie](genie/README.md) | 1 | 1 |
 | [Hikvision](hikvision/README.md) | 65 | 490 |
