@@ -1,5 +1,13 @@
 # Project status
 
+## Publication verified — 21 October 2026
+
+The complete FACP update is published on GitHub main in commit `b4ef8578a4a326acafe96875936d534f34e863a5`. The remote tree exactly matches the validated local tree `3cadc90b432a43ff031be3bc76aa3fc8ffa38871`; all 3,555 earlier record IDs remain preserved. Publication resumed from the saved upload checkpoint and included removal of 46 obsolete generated paths whose documents had moved to corrected navigation folders.
+
+All **31 independent offline ZIP volumes** were saved successfully, together with `FACP-Download-Index.html` and `FACP-Download-Volumes.json`: **8,519 PDFs**, **12,497,463,177 ZIP bytes** (about 12.5 GB). Every expected volume exists, matches its recorded size and has a successful saved-file result. The per-volume manifest retains SHA-256 checksums. These PDF packs are delivered separately; the public Git repository contains the catalogue, source links and download tools.
+
+Final checks passed: all **45 Python tests**, catalogue/generated-index consistency, offline browser logic and Git whitespace checks. This checkpoint completes the full FACP inventory publication and offline-pack delivery. It does not claim deployment of the separate phone app or a real-device offline-storage test.
+
 ## Complete FACP collection — 21 October 2026
 
 All **8,519 public FACP listings across 104 source brands** are now represented in the archive, with **8,519 successful complete-PDF downloads**. The collection includes manuals, older editions, datasheets, catalogue pages, brochures and non-fire references. Every source UUID, detail page and PDF URL maps to a catalogue record; nothing from the public brand inventory was excluded.
