@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [TGS-08 – SENSORTEC IO Device Compatibility](https://nittan.co.uk/wp-content/uploads/2025/11/TGS-08-SENSORTEC-IO-Device-Compatibility-Iss-2.pdf) | application-note | TGS-08 | Not recorded | retrieval-failed | [Manufacturer](https://nittan.co.uk/technical-guidance-sheets-2/) |
+| [TGS-08 – SENSORTEC IO Device Compatibility](https://nittan.co.uk/wp-content/uploads/2025/11/TGS-08-SENSORTEC-IO-Device-Compatibility-Iss-2.pdf) | application-note | TGS-08 | Not recorded | pdf-indexed | [Manufacturer](https://nittan.co.uk/technical-guidance-sheets-2/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

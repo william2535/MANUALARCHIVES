@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Nice Toonakit 1 manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20Toonakit%201%20manual.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Nice Toonakit 1 manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20Toonakit%201%20manual.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [BF562-3 24V 3A Boxed PSU Instructions – DFU0056230](https://c-tec.com/info/instruction-manuals/) | installation | DFU0056230 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [BF562-3 24V 3A Boxed PSU Instructions – DFU0056230](https://c-tec.com/download?wpdmdl=12654) | installation | DFU0056230 | Rev 9 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

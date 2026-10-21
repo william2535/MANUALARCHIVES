@@ -1,0 +1,413 @@
+{
+  "checked_on": "2026-10-21",
+  "baseline_commit": "59467f3dca2918cd190e16936fe153c9fc919733",
+  "baseline_records": 3329,
+  "added": [
+    {
+      "id": "c-tec-1af7a0436a48",
+      "document_number": "DFU0056012",
+      "listed_document_number": "DFU0056012",
+      "verified_revision": "Rev 3",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12716",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-6565d05f08ed",
+      "document_number": "DFU0056024",
+      "listed_document_number": "DFU0056024",
+      "verified_revision": "Rev 3",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12713",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-6a4c0bf5798e",
+      "document_number": "DFU0056201",
+      "listed_document_number": "DFU0056201",
+      "verified_revision": "Rev 3",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40353",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-5f168f82fd64",
+      "document_number": "DFU0056235",
+      "listed_document_number": "DFU0056235",
+      "verified_revision": "Rev 3",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12709",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-352fe9e4d180",
+      "document_number": "DFU0056255",
+      "listed_document_number": "DFU0056255",
+      "verified_revision": "Rev 3",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12712",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-29a9e76ab460",
+      "document_number": "DFU0007420",
+      "listed_document_number": "DFU0007420",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "download_url": "https://c-tec.com/download?wpdmdl=46097",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-05ee2d4c5d36",
+      "document_number": "APN0000803",
+      "listed_document_number": "APN0000803",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "download_url": "https://c-tec.com/download?wpdmdl=46107",
+      "page_count": 6
+    },
+    {
+      "id": "c-tec-e41a5bbcd820",
+      "document_number": "DFU0056040",
+      "listed_document_number": "DFU0056040",
+      "verified_revision": "Rev 2",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40351",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-7fc85470592c",
+      "document_number": "DFU0056050",
+      "listed_document_number": "DFU0056050",
+      "verified_revision": "Rev 2",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40352",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-ad73baf20e15",
+      "document_number": "DFU0003621",
+      "listed_document_number": "DFU0003621",
+      "verified_revision": "Rev 7",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40349",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-22f0564991cf",
+      "document_number": "DFU0003615",
+      "listed_document_number": "DFU0003615",
+      "verified_revision": "Rev 2",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40348",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-2fde6d2b5c1f",
+      "document_number": "DFU0362001",
+      "listed_document_number": "DFU0362001",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40350",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-b8e21262ff34",
+      "document_number": "DFU0000322",
+      "listed_document_number": "DFU0000322",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12966",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-24d565baf846",
+      "document_number": "DCP0001483",
+      "listed_document_number": "DCP0001483",
+      "verified_revision": "Rev 4",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40367",
+      "page_count": 32
+    },
+    {
+      "id": "c-tec-ba9e8acd01e7",
+      "document_number": "DAU0359000",
+      "listed_document_number": "DAU0359000",
+      "verified_revision": "Rev 4",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12243",
+      "page_count": 4
+    },
+    {
+      "id": "c-tec-7cde36f66aec",
+      "document_number": "DAU0359003",
+      "listed_document_number": "DAU0359003",
+      "verified_revision": "Rev 2",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12114",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-858d582d0e2a",
+      "document_number": "DAU0302000",
+      "listed_document_number": "DAU0302000",
+      "verified_revision": "Rev 4",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12131",
+      "page_count": 3
+    },
+    {
+      "id": "c-tec-2312ba5389e7",
+      "document_number": "DCM0003819",
+      "listed_document_number": "DCM0003819",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12132",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-a6cdae4685f3",
+      "document_number": "DAU0000301",
+      "listed_document_number": "DAU0000301",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=38762",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-b30cce06e390",
+      "document_number": "DML0501400",
+      "listed_document_number": "DML0501400",
+      "verified_revision": "Rev 4",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12234",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-4a00039a17a4",
+      "document_number": "DAU0423000",
+      "listed_document_number": "DAU0423000",
+      "verified_revision": "Rev 2",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40366",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-da7f727e8075",
+      "document_number": "DAU7210000",
+      "listed_document_number": "DAU7210000",
+      "verified_revision": "Rev 3",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40358",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-068c3a4362af",
+      "document_number": "DCP0001518",
+      "listed_document_number": "DNU8024200",
+      "verified_revision": "Rev 2",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12233",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-c17f32c97fa9",
+      "document_number": "DAU0000090",
+      "listed_document_number": "DAU0000090",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=40365",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-af0c3e057bd3",
+      "document_number": "DCP0002072",
+      "listed_document_number": "DCP0002072",
+      "verified_revision": null,
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12256",
+      "page_count": 1
+    }
+  ],
+  "resolved_existing": [
+    {
+      "id": "c-tec-bd75d4ab6877",
+      "document_number": "DFU0056210",
+      "listed_document_number": "DFU0056210",
+      "verified_revision": "Rev 9",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12356",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-a37b8ce3ddf1",
+      "document_number": "DFU0056230",
+      "listed_document_number": "DFU0056230",
+      "verified_revision": "Rev 9",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12654",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-e0d19c45109b",
+      "document_number": "DFU0056250",
+      "listed_document_number": "DFU0056250",
+      "verified_revision": "Rev 9",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12656",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-f1324d0b14a6",
+      "document_number": "DFU0423000",
+      "listed_document_number": "DFU0423000",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12707",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-1c2c602cb28b",
+      "document_number": "DAU0000098",
+      "listed_document_number": "DAU000098",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12946",
+      "page_count": 3
+    },
+    {
+      "id": "c-tec-192b58bedf94",
+      "document_number": "DAU000099",
+      "listed_document_number": "DAU000099",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12944",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-a309eea20fe3",
+      "document_number": "DAU0000100",
+      "listed_document_number": "DAU0000100",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12948",
+      "page_count": 1
+    },
+    {
+      "id": "c-tec-232499eefc01",
+      "document_number": "DFU5010000",
+      "listed_document_number": "DFU5010000",
+      "verified_revision": "Rev 5",
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12792",
+      "page_count": 48
+    },
+    {
+      "id": "c-tec-e69ec3776192",
+      "document_number": "DFU4540000",
+      "listed_document_number": "DFU4540000",
+      "verified_revision": "Rev 8",
+      "source_url": "https://c-tec.com/info/instruction-manuals/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12120",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-c532be17005e",
+      "document_number": "DFU4300007",
+      "listed_document_number": "DFU4300007",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/instruction-manuals/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12152",
+      "page_count": 4
+    },
+    {
+      "id": "c-tec-5e2b093e3237",
+      "document_number": "DFU4460000",
+      "listed_document_number": "DFU4460000",
+      "verified_revision": "Rev 6",
+      "source_url": "https://c-tec.com/info/instruction-manuals/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12265",
+      "page_count": 4
+    },
+    {
+      "id": "c-tec-524c022063c2",
+      "document_number": "DFU4500007",
+      "listed_document_number": "DFU4500007",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/instruction-manuals/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12153",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-8d786cebd782",
+      "document_number": "DFU0000741",
+      "listed_document_number": "DFU0000741",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "download_url": "https://c-tec.com/download?wpdmdl=22254",
+      "page_count": 2
+    },
+    {
+      "id": "c-tec-4bcb52423846",
+      "document_number": "DFU4500008",
+      "listed_document_number": "DFU4500008",
+      "verified_revision": "Rev 1",
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "download_url": "https://c-tec.com/download?wpdmdl=12703",
+      "page_count": 1
+    }
+  ],
+  "metadata_conflicts": [
+    {
+      "id": "c-tec-192b58bedf94",
+      "details": [
+        {
+          "field": "document_number",
+          "listing": "DAU000099",
+          "printed": "DAU0000098",
+          "note": "Application Note 0012.0 is titled Wiring to an ECU-16 Panel using a Junction Box, but its page headings repeat the identifier from the replacement-panel application note. Keep these documents separate."
+        }
+      ]
+    },
+    {
+      "id": "c-tec-068c3a4362af",
+      "details": [
+        {
+          "field": "document_number",
+          "listing": "DNU8024200",
+          "printed": "DCP0001518",
+          "note": "Both identify the FiTT SigTEL line tester in the source listing and retrieved document; printed number is recorded, listing number retained as an alias."
+        }
+      ]
+    },
+    {
+      "id": "c-tec-af0c3e057bd3",
+      "details": [
+        {
+          "field": "revision",
+          "header": "Rev 1 (13.10.09)",
+          "footer": "Rev 0 (05/10/01)",
+          "note": "Conflicting markings on the same one-page SigTEL strobe PCB document; no single verified revision is assigned."
+        }
+      ]
+    }
+  ],
+  "verification_note": "Retrieval-service PDF page counts, document identities and printed issue markings checked. No new local complete-file checksum or byte count is claimed.",
+  "result_records": 3354,
+  "recovered_failed_retrievals": [
+    {
+      "id": "c-tec-f1f33890ad6a",
+      "document_number": "DFU2200510",
+      "verified_revision": "Rev 1",
+      "page_count": 36,
+      "download_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/XFP%201%20or%202%20loop%2032%20Zone%20fire%20panel%20manual.pdf"
+    },
+    {
+      "id": "c-tec-44b03d254ee3",
+      "document_number": "DFU1200510",
+      "verified_revision": "Rev 1",
+      "page_count": 36,
+      "download_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/XFP%20single%20loop%2016%20zone%20fire%20panel%20manual200510%20Rev1.pdf"
+    }
+  ]
+}

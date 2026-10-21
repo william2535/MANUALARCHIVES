@@ -1,18 +1,20 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-21",
-  "catalogue_sha256": "54519be680c1b3887db14d37f250d9dfc13b8745036ac456763382e87ec5ad0e",
+  "catalogue_sha256": "7cc6317b280a66842443f395b760edef3ccecc05faffc3b067bccdf1d5caa087",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 3329,
+  "record_count": 3354,
   "gap_counts": {
-    "complete-file-check-needed": 2869,
-    "document-number-unrecorded": 2224,
-    "download-url-unresolved": 91,
-    "language-unverified": 3146,
+    "complete-file-check-needed": 2908,
+    "document-number-unrecorded": 2222,
+    "download-url-unresolved": 77,
+    "language-unverified": 3130,
     "model-applicability-review-needed": 586,
-    "region-unverified": 3309,
-    "retrieval-failed": 312,
-    "revision-review-needed": 3203,
+    "possible-duplicate-review-needed": 1,
+    "region-unverified": 3334,
+    "retrieval-failed": 38,
+    "revision-review-needed": 3187,
+    "source-metadata-conflict": 3,
     "viewer-without-direct-pdf": 4,
     "web-manual-without-direct-pdf": 235
   },
@@ -501,37 +503,34 @@
     },
     {
       "brand": "C-TEC",
-      "records": 141,
+      "records": 166,
       "categories": [
         "fire"
       ],
       "document_types": {
-        "application-note": 19,
+        "application-note": 21,
         "datasheet": 3,
         "diagram": 9,
-        "installation": 64,
-        "programming": 2,
+        "installation": 87,
+        "programming": 1,
         "quick-start": 9,
         "reference": 15,
-        "user-guide": 20
+        "user-guide": 21
       },
       "download_status": {
         "complete-file": 3,
         "file-hash": 23,
         "listed": 6,
-        "pdf-indexed": 93,
-        "retrieval-failed": 2,
-        "source-page": 14
+        "pdf-indexed": 134
       },
       "gap_counts": {
-        "complete-file-check-needed": 124,
-        "document-number-unrecorded": 30,
-        "download-url-unresolved": 14,
-        "language-unverified": 135,
+        "complete-file-check-needed": 163,
+        "document-number-unrecorded": 28,
+        "language-unverified": 119,
         "model-applicability-review-needed": 25,
-        "region-unverified": 141,
-        "retrieval-failed": 2,
-        "revision-review-needed": 135
+        "region-unverified": 166,
+        "revision-review-needed": 119,
+        "source-metadata-conflict": 3
       }
     },
     {
@@ -713,7 +712,8 @@
       },
       "download_status": {
         "listed": 3,
-        "retrieval-failed": 17
+        "pdf-indexed": 14,
+        "retrieval-failed": 3
       },
       "gap_counts": {
         "complete-file-check-needed": 20,
@@ -721,7 +721,7 @@
         "language-unverified": 20,
         "model-applicability-review-needed": 17,
         "region-unverified": 20,
-        "retrieval-failed": 17,
+        "retrieval-failed": 3,
         "revision-review-needed": 20
       }
     },
@@ -783,7 +783,7 @@
       },
       "download_status": {
         "listed": 43,
-        "retrieval-failed": 1
+        "pdf-indexed": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 44,
@@ -791,7 +791,6 @@
         "language-unverified": 44,
         "model-applicability-review-needed": 1,
         "region-unverified": 44,
-        "retrieval-failed": 1,
         "revision-review-needed": 44
       }
     },
@@ -1061,6 +1060,7 @@
         "document-number-unrecorded": 6,
         "download-url-unresolved": 76,
         "language-unverified": 131,
+        "possible-duplicate-review-needed": 1,
         "region-unverified": 150,
         "retrieval-failed": 3,
         "revision-review-needed": 132
@@ -1144,7 +1144,7 @@
       },
       "download_status": {
         "file-hash": 6,
-        "retrieval-failed": 4
+        "pdf-indexed": 4
       },
       "gap_counts": {
         "complete-file-check-needed": 10,
@@ -1152,7 +1152,6 @@
         "language-unverified": 10,
         "model-applicability-review-needed": 10,
         "region-unverified": 10,
-        "retrieval-failed": 4,
         "revision-review-needed": 10
       }
     },
@@ -1169,7 +1168,8 @@
         "user-guide": 23
       },
       "download_status": {
-        "retrieval-failed": 89
+        "pdf-indexed": 88,
+        "retrieval-failed": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 89,
@@ -1177,7 +1177,7 @@
         "language-unverified": 89,
         "model-applicability-review-needed": 89,
         "region-unverified": 89,
-        "retrieval-failed": 89,
+        "retrieval-failed": 1,
         "revision-review-needed": 89
       }
     },
@@ -1214,7 +1214,7 @@
         "reference": 7
       },
       "download_status": {
-        "retrieval-failed": 8
+        "pdf-indexed": 8
       },
       "gap_counts": {
         "complete-file-check-needed": 8,
@@ -1222,7 +1222,6 @@
         "language-unverified": 8,
         "model-applicability-review-needed": 8,
         "region-unverified": 8,
-        "retrieval-failed": 8,
         "revision-review-needed": 8
       }
     },
@@ -1237,7 +1236,8 @@
         "reference": 15
       },
       "download_status": {
-        "retrieval-failed": 16
+        "pdf-indexed": 14,
+        "retrieval-failed": 2
       },
       "gap_counts": {
         "complete-file-check-needed": 16,
@@ -1245,7 +1245,7 @@
         "language-unverified": 16,
         "model-applicability-review-needed": 16,
         "region-unverified": 16,
-        "retrieval-failed": 16,
+        "retrieval-failed": 2,
         "revision-review-needed": 16
       }
     },
@@ -1262,15 +1262,15 @@
         "user-guide": 1
       },
       "download_status": {
-        "pdf-indexed": 79,
-        "retrieval-failed": 3
+        "pdf-indexed": 80,
+        "retrieval-failed": 2
       },
       "gap_counts": {
         "complete-file-check-needed": 82,
         "document-number-unrecorded": 48,
         "language-unverified": 40,
         "region-unverified": 82,
-        "retrieval-failed": 3,
+        "retrieval-failed": 2,
         "revision-review-needed": 82
       }
     },
@@ -1284,7 +1284,7 @@
         "reference": 4
       },
       "download_status": {
-        "retrieval-failed": 4
+        "pdf-indexed": 4
       },
       "gap_counts": {
         "complete-file-check-needed": 4,
@@ -1292,7 +1292,6 @@
         "language-unverified": 4,
         "model-applicability-review-needed": 4,
         "region-unverified": 4,
-        "retrieval-failed": 4,
         "revision-review-needed": 4
       }
     },
@@ -1333,7 +1332,8 @@
       },
       "download_status": {
         "listed": 5,
-        "retrieval-failed": 6
+        "pdf-indexed": 5,
+        "retrieval-failed": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 11,
@@ -1341,7 +1341,7 @@
         "language-unverified": 11,
         "model-applicability-review-needed": 6,
         "region-unverified": 11,
-        "retrieval-failed": 6,
+        "retrieval-failed": 1,
         "revision-review-needed": 11
       }
     },
@@ -1362,8 +1362,8 @@
       },
       "download_status": {
         "listed": 233,
-        "pdf-indexed": 81,
-        "retrieval-failed": 84
+        "pdf-indexed": 153,
+        "retrieval-failed": 12
       },
       "gap_counts": {
         "complete-file-check-needed": 398,
@@ -1371,7 +1371,7 @@
         "language-unverified": 398,
         "model-applicability-review-needed": 81,
         "region-unverified": 390,
-        "retrieval-failed": 84,
+        "retrieval-failed": 12,
         "revision-review-needed": 398
       }
     },
@@ -1385,7 +1385,7 @@
         "reference": 14
       },
       "download_status": {
-        "retrieval-failed": 14
+        "pdf-indexed": 14
       },
       "gap_counts": {
         "complete-file-check-needed": 14,
@@ -1393,7 +1393,6 @@
         "language-unverified": 14,
         "model-applicability-review-needed": 14,
         "region-unverified": 14,
-        "retrieval-failed": 14,
         "revision-review-needed": 14
       }
     },
@@ -1433,7 +1432,8 @@
       },
       "download_status": {
         "file-hash": 1,
-        "retrieval-failed": 6,
+        "pdf-indexed": 3,
+        "retrieval-failed": 3,
         "source-page": 2
       },
       "gap_counts": {
@@ -1442,7 +1442,7 @@
         "language-unverified": 9,
         "model-applicability-review-needed": 7,
         "region-unverified": 9,
-        "retrieval-failed": 6,
+        "retrieval-failed": 3,
         "revision-review-needed": 9,
         "web-manual-without-direct-pdf": 2
       }
@@ -1504,7 +1504,7 @@
         "user-guide": 1
       },
       "download_status": {
-        "retrieval-failed": 1
+        "pdf-indexed": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 1,
@@ -1512,7 +1512,6 @@
         "language-unverified": 1,
         "model-applicability-review-needed": 1,
         "region-unverified": 1,
-        "retrieval-failed": 1,
         "revision-review-needed": 1
       }
     },
@@ -1548,7 +1547,7 @@
         "reference": 1
       },
       "download_status": {
-        "retrieval-failed": 1
+        "pdf-indexed": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 1,
@@ -1556,7 +1555,6 @@
         "language-unverified": 1,
         "model-applicability-review-needed": 1,
         "region-unverified": 1,
-        "retrieval-failed": 1,
         "revision-review-needed": 1
       }
     },
@@ -1570,7 +1568,7 @@
         "reference": 5
       },
       "download_status": {
-        "retrieval-failed": 5
+        "pdf-indexed": 5
       },
       "gap_counts": {
         "complete-file-check-needed": 5,
@@ -1578,7 +1576,6 @@
         "language-unverified": 5,
         "model-applicability-review-needed": 5,
         "region-unverified": 5,
-        "retrieval-failed": 5,
         "revision-review-needed": 5
       }
     },
@@ -1597,8 +1594,7 @@
       },
       "download_status": {
         "complete-file": 13,
-        "pdf-indexed": 14,
-        "retrieval-failed": 3
+        "pdf-indexed": 17
       },
       "gap_counts": {
         "complete-file-check-needed": 17,
@@ -1606,7 +1602,6 @@
         "language-unverified": 17,
         "model-applicability-review-needed": 3,
         "region-unverified": 30,
-        "retrieval-failed": 3,
         "revision-review-needed": 18
       }
     },
@@ -1627,7 +1622,8 @@
       },
       "download_status": {
         "listed": 97,
-        "retrieval-failed": 18
+        "pdf-indexed": 15,
+        "retrieval-failed": 3
       },
       "gap_counts": {
         "complete-file-check-needed": 115,
@@ -1635,7 +1631,7 @@
         "language-unverified": 115,
         "model-applicability-review-needed": 18,
         "region-unverified": 115,
-        "retrieval-failed": 18,
+        "retrieval-failed": 3,
         "revision-review-needed": 115
       }
     },
@@ -1651,7 +1647,8 @@
         "user-guide": 1
       },
       "download_status": {
-        "retrieval-failed": 11
+        "pdf-indexed": 10,
+        "retrieval-failed": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 11,
@@ -1659,7 +1656,7 @@
         "language-unverified": 11,
         "model-applicability-review-needed": 11,
         "region-unverified": 11,
-        "retrieval-failed": 11,
+        "retrieval-failed": 1,
         "revision-review-needed": 11
       }
     },
@@ -1679,7 +1676,8 @@
       },
       "download_status": {
         "listed": 68,
-        "retrieval-failed": 5
+        "pdf-indexed": 3,
+        "retrieval-failed": 2
       },
       "gap_counts": {
         "complete-file-check-needed": 73,
@@ -1687,7 +1685,7 @@
         "language-unverified": 73,
         "model-applicability-review-needed": 5,
         "region-unverified": 73,
-        "retrieval-failed": 5,
+        "retrieval-failed": 2,
         "revision-review-needed": 73
       }
     },
@@ -1704,7 +1702,8 @@
         "user-guide": 3
       },
       "download_status": {
-        "retrieval-failed": 9
+        "pdf-indexed": 6,
+        "retrieval-failed": 3
       },
       "gap_counts": {
         "complete-file-check-needed": 9,
@@ -1712,7 +1711,7 @@
         "language-unverified": 9,
         "model-applicability-review-needed": 9,
         "region-unverified": 9,
-        "retrieval-failed": 9,
+        "retrieval-failed": 3,
         "revision-review-needed": 9
       }
     },
@@ -16608,6 +16607,33 @@
       ]
     },
     {
+      "id": "c-tec-05ee2d4c5d36",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "c-tec-068c3a4362af",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "document_number",
+          "listing": "DNU8024200",
+          "printed": "DCP0001518",
+          "note": "Both identify the FiTT SigTEL line tester in the source listing and retrieved document; printed number is recorded, listing number retained as an alias."
+        }
+      ]
+    },
+    {
       "id": "c-tec-06d40997cb68",
       "brand": "C-TEC",
       "category": "fire",
@@ -16691,10 +16717,17 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
-        "revision-review-needed"
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "document_number",
+          "listing": "DAU000099",
+          "printed": "DAU0000098",
+          "note": "Application Note 0012.0 is titled Wiring to an ECU-16 Panel using a Junction Box, but its page headings repeat the identifier from the replacement-panel application note. Keep these documents separate."
+        }
       ]
     },
     {
@@ -16720,14 +16753,21 @@
       ]
     },
     {
+      "id": "c-tec-1af7a0436a48",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-1c2c602cb28b",
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -16753,6 +16793,15 @@
       ]
     },
     {
+      "id": "c-tec-22f0564991cf",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-230caaeb3974",
       "brand": "C-TEC",
       "category": "fire",
@@ -16764,14 +16813,30 @@
       ]
     },
     {
+      "id": "c-tec-2312ba5389e7",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-232499eefc01",
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "c-tec-24d565baf846",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -16783,6 +16848,15 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-29a9e76ab460",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -16831,6 +16905,15 @@
       ]
     },
     {
+      "id": "c-tec-2fde6d2b5c1f",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-311c3fbb6b75",
       "brand": "C-TEC",
       "category": "fire",
@@ -16850,6 +16933,15 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-352fe9e4d180",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -16934,12 +17026,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
-        "language-unverified",
         "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
         "model-applicability-review-needed"
       ]
     },
@@ -16968,6 +17056,15 @@
       ]
     },
     {
+      "id": "c-tec-4a00039a17a4",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-4b1267f3fefc",
       "brand": "C-TEC",
       "category": "fire",
@@ -16985,10 +17082,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17054,10 +17149,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17088,10 +17181,17 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "c-tec-5f168f82fd64",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17146,6 +17246,15 @@
       ]
     },
     {
+      "id": "c-tec-6565d05f08ed",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-68f5ea5ef10c",
       "brand": "C-TEC",
       "category": "fire",
@@ -17154,6 +17263,15 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-6a4c0bf5798e",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17290,6 +17408,15 @@
       ]
     },
     {
+      "id": "c-tec-7cde36f66aec",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-7d740ee2c8d7",
       "brand": "C-TEC",
       "category": "fire",
@@ -17320,6 +17447,24 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-7fc85470592c",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "c-tec-858d582d0e2a",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17373,10 +17518,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17520,10 +17663,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17531,10 +17672,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17573,6 +17712,15 @@
       ]
     },
     {
+      "id": "c-tec-a6cdae4685f3",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-a893aa69a8c7",
       "brand": "C-TEC",
       "category": "fire",
@@ -17603,6 +17751,15 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-ad73baf20e15",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17643,6 +17800,24 @@
       ]
     },
     {
+      "id": "c-tec-af0c3e057bd3",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "revision",
+          "header": "Rev 1 (13.10.09)",
+          "footer": "Rev 0 (05/10/01)",
+          "note": "Conflicting markings on the same one-page SigTEL strobe PCB document; no single verified revision is assigned."
+        }
+      ]
+    },
+    {
       "id": "c-tec-b03be75d8eb7",
       "brand": "C-TEC",
       "category": "fire",
@@ -17651,6 +17826,15 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-b30cce06e390",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17706,6 +17890,15 @@
       ]
     },
     {
+      "id": "c-tec-b8e21262ff34",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-b94696a38ffe",
       "brand": "C-TEC",
       "category": "fire",
@@ -17726,6 +17919,15 @@
         "region-unverified",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-ba9e8acd01e7",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17769,10 +17971,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17811,6 +18011,15 @@
       ]
     },
     {
+      "id": "c-tec-c17f32c97fa9",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-c2005a795c22",
       "brand": "C-TEC",
       "category": "fire",
@@ -17826,10 +18035,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17872,6 +18079,15 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-da7f727e8075",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17927,10 +18143,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -17967,6 +18181,15 @@
       ]
     },
     {
+      "id": "c-tec-e41a5bbcd820",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-e495d2c3dfda",
       "brand": "C-TEC",
       "category": "fire",
@@ -17993,10 +18216,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -18087,10 +18308,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -18098,12 +18317,8 @@
       "brand": "C-TEC",
       "category": "fire",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
-        "language-unverified",
         "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
         "model-applicability-review-needed"
       ]
     },
@@ -20755,7 +20970,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20783,7 +20997,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20797,7 +21010,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20811,7 +21023,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20825,7 +21036,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20863,7 +21073,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20877,7 +21086,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20903,7 +21111,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20917,7 +21124,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20931,7 +21137,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20945,7 +21150,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20959,7 +21163,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -20987,7 +21190,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -21001,7 +21203,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -21568,7 +21769,6 @@
       "brand": "Fike",
       "category": "fire",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -25859,8 +26059,10 @@
         "download-url-unresolved",
         "language-unverified",
         "region-unverified",
-        "revision-review-needed"
-      ]
+        "revision-review-needed",
+        "possible-duplicate-review-needed"
+      ],
+      "possible_duplicate_of": "kentec-4a121ba05955"
     },
     {
       "id": "kentec-c5d528024dee",
@@ -26315,7 +26517,6 @@
       "brand": "Menvier",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26329,7 +26530,6 @@
       "brand": "Menvier",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26343,7 +26543,6 @@
       "brand": "Menvier",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26370,7 +26569,6 @@
       "brand": "Menvier",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26410,7 +26608,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26424,7 +26621,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26452,7 +26648,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26466,7 +26661,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26480,7 +26674,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26494,7 +26687,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26508,7 +26700,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26522,7 +26713,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26536,7 +26726,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26550,7 +26739,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26564,7 +26752,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26578,7 +26765,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26592,7 +26778,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26606,7 +26791,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26620,7 +26804,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26634,7 +26817,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26648,7 +26830,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26662,7 +26843,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26676,7 +26856,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26690,7 +26869,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26704,7 +26882,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26718,7 +26895,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26732,7 +26908,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26746,7 +26921,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26760,7 +26934,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26774,7 +26947,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26788,7 +26960,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26802,7 +26973,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26816,7 +26986,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26830,7 +26999,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26844,7 +27012,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26858,7 +27025,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26872,7 +27038,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26886,7 +27051,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26900,7 +27064,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26914,7 +27077,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26928,7 +27090,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26942,7 +27103,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26956,7 +27116,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26970,7 +27129,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26984,7 +27142,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -26998,7 +27155,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27012,7 +27168,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27026,7 +27181,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27040,7 +27194,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27054,7 +27207,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27068,7 +27220,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27082,7 +27233,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27096,7 +27246,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27110,7 +27259,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27124,7 +27272,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27138,7 +27285,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27152,7 +27298,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27166,7 +27311,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27180,7 +27324,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27194,7 +27337,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27208,7 +27350,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27222,7 +27363,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27236,7 +27376,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27250,7 +27389,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27264,7 +27402,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27278,7 +27415,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27292,7 +27428,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27306,7 +27441,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27320,7 +27454,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27334,7 +27467,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27348,7 +27480,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27362,7 +27493,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27376,7 +27506,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27390,7 +27519,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27404,7 +27532,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27418,7 +27545,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27432,7 +27558,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27446,7 +27571,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27460,7 +27584,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27474,7 +27597,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27488,7 +27610,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27502,7 +27623,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27516,7 +27636,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27530,7 +27649,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27544,7 +27662,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27558,7 +27675,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27572,7 +27688,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27586,7 +27701,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27600,7 +27714,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27614,7 +27727,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27628,7 +27740,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27642,7 +27753,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27740,7 +27850,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27754,7 +27863,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27768,7 +27876,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27782,7 +27889,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27796,7 +27902,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27810,7 +27915,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27824,7 +27928,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27852,7 +27955,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27866,7 +27968,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27880,7 +27981,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27894,7 +27994,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27908,7 +28007,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27922,7 +28020,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -27950,7 +28047,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -28009,7 +28105,6 @@
       "brand": "Nittan",
       "category": "fire",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -28875,7 +28970,6 @@
       "brand": "Nortek",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -28889,7 +28983,6 @@
       "brand": "Nortek",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -28903,7 +28996,6 @@
       "brand": "Nortek",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -28917,7 +29009,6 @@
       "brand": "Nortek",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29016,7 +29107,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29030,7 +29120,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29044,7 +29133,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29058,7 +29146,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29072,7 +29159,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29086,7 +29172,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29100,7 +29185,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29114,7 +29198,6 @@
       "brand": "NVT",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29128,7 +29211,6 @@
       "brand": "Orisec",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29142,7 +29224,6 @@
       "brand": "Orisec",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29206,7 +29287,6 @@
       "brand": "Orisec",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29244,7 +29324,6 @@
       "brand": "Orisec",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29258,7 +29337,6 @@
       "brand": "Orisec",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29272,7 +29350,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29462,7 +29539,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29476,7 +29552,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29512,7 +29587,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29625,7 +29699,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29726,7 +29799,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29740,7 +29812,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29754,7 +29825,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29790,7 +29860,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29815,7 +29884,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29840,7 +29908,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29898,7 +29965,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29923,7 +29989,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29959,7 +30024,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -29973,7 +30037,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30275,7 +30338,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30311,7 +30373,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30325,7 +30386,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30350,7 +30410,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30375,7 +30434,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30422,7 +30480,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30458,7 +30515,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30604,7 +30660,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30618,7 +30673,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30774,7 +30828,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30799,7 +30852,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30860,7 +30912,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30962,7 +31013,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -30976,7 +31026,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31012,7 +31061,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31037,7 +31085,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31193,7 +31240,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31331,7 +31377,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31359,7 +31404,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31563,7 +31607,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31599,7 +31642,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31612,7 +31654,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31882,7 +31923,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31929,7 +31969,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31954,7 +31993,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31979,7 +32017,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -31993,7 +32030,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32095,7 +32131,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32208,7 +32243,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32288,7 +32322,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32302,7 +32335,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32382,7 +32414,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32396,7 +32427,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32553,7 +32583,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32611,7 +32640,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32625,7 +32653,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32693,7 +32720,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32707,7 +32733,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32743,7 +32768,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32790,7 +32814,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32814,7 +32837,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32883,7 +32905,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -32985,7 +33006,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33021,7 +33041,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33191,7 +33210,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33239,7 +33257,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33297,7 +33314,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33322,7 +33338,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33424,7 +33439,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33438,7 +33452,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33463,7 +33476,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33499,7 +33511,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33513,7 +33524,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33560,7 +33570,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33607,7 +33616,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33745,7 +33753,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33806,7 +33813,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33886,7 +33892,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33900,7 +33905,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33914,7 +33918,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33928,7 +33931,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33942,7 +33944,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33956,7 +33957,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33970,7 +33970,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33984,7 +33983,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -33998,7 +33996,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34012,7 +34009,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34026,7 +34022,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34040,7 +34035,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34054,7 +34048,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34068,7 +34061,6 @@
       "brand": "Philips",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34211,7 +34203,6 @@
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34225,7 +34216,6 @@
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -34265,7 +34255,6 @@
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -37889,7 +37878,6 @@
       "brand": "Samsung",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38041,7 +38029,6 @@
       "brand": "SmokeCloak",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38055,7 +38042,6 @@
       "brand": "System Q",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38069,7 +38055,6 @@
       "brand": "System Q",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38083,7 +38068,6 @@
       "brand": "System Q",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38097,7 +38081,6 @@
       "brand": "System Q",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38111,7 +38094,6 @@
       "brand": "System Q",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38198,7 +38180,6 @@
       "brand": "TDSi",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38280,7 +38261,6 @@
       "brand": "TDSi",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38327,7 +38307,6 @@
       "brand": "TDSi",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38426,7 +38405,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38512,7 +38490,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38571,7 +38548,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38585,7 +38561,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38633,7 +38608,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38658,7 +38632,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38672,7 +38645,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38766,7 +38738,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38827,7 +38798,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -38999,7 +38969,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39025,7 +38994,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39152,7 +39120,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39260,7 +39227,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39627,7 +39593,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39736,7 +39701,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39798,7 +39762,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39812,7 +39775,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39826,7 +39788,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39840,7 +39801,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39854,7 +39814,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39868,7 +39827,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39882,7 +39840,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39896,7 +39853,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39910,7 +39866,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -39924,7 +39879,6 @@
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40687,7 +40641,6 @@
       "brand": "Videx",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40713,7 +40666,6 @@
       "brand": "Videx",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40763,7 +40715,6 @@
       "brand": "Videx",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40813,7 +40764,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40827,7 +40777,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40841,7 +40790,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40855,7 +40803,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40911,7 +40858,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -40925,7 +40871,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
@@ -66440,6 +66385,94 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "BF322",
+      "record_ids": [
+        "c-tec-b8e21262ff34"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF359/1",
+      "record_ids": [
+        "c-tec-ba9e8acd01e7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF359/3D",
+      "record_ids": [
+        "c-tec-7cde36f66aec"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF359/3M",
+      "record_ids": [
+        "c-tec-7cde36f66aec"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF359/3S",
+      "record_ids": [
+        "c-tec-7cde36f66aec"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF362-1",
+      "record_ids": [
+        "c-tec-ad73baf20e15"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF362-1/C",
+      "record_ids": [
+        "c-tec-2fde6d2b5c1f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF362-3",
+      "record_ids": [
+        "c-tec-22f0564991cf"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "BF366 ISOLATION FIRE RELAY",
       "record_ids": [
         "c-tec-513924f497ae"
@@ -66467,7 +66500,7 @@
         "c-tec-f1324d0b14a6"
       ],
       "document_types": [
-        "programming"
+        "installation"
       ]
     },
     {
@@ -66476,6 +66509,28 @@
       "model": "BF560-12",
       "record_ids": [
         "c-tec-3ffc1944b788"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF560-12/C",
+      "record_ids": [
+        "c-tec-e41a5bbcd820"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF560-12/E",
+      "record_ids": [
+        "c-tec-1af7a0436a48"
       ],
       "document_types": [
         "installation"
@@ -66495,9 +66550,42 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "BF560-24/C",
+      "record_ids": [
+        "c-tec-7fc85470592c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF560-24/E",
+      "record_ids": [
+        "c-tec-6565d05f08ed"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "BF562-1",
       "record_ids": [
         "c-tec-bd75d4ab6877"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF562-1/E",
+      "record_ids": [
+        "c-tec-6a4c0bf5798e"
       ],
       "document_types": [
         "installation"
@@ -66517,9 +66605,31 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "BF562-3/E",
+      "record_ids": [
+        "c-tec-5f168f82fd64"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "BF562-5",
       "record_ids": [
         "c-tec-e0d19c45109b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "BF562-5/E",
+      "record_ids": [
+        "c-tec-352fe9e4d180"
       ],
       "document_types": [
         "installation"
@@ -66567,6 +66677,28 @@
       ],
       "document_types": [
         "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "CA450A/SR",
+      "record_ids": [
+        "c-tec-4bcb52423846"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "CA450A/SW",
+      "record_ids": [
+        "c-tec-4bcb52423846"
+      ],
+      "document_types": [
+        "diagram"
       ]
     },
     {
@@ -66688,7 +66820,20 @@
         "c-tec-8d786cebd782"
       ],
       "document_types": [
-        "reference"
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "CA742",
+      "record_ids": [
+        "c-tec-05ee2d4c5d36",
+        "c-tec-29a9e76ab460"
+      ],
+      "document_types": [
+        "application-note",
+        "installation"
       ]
     },
     {
@@ -66733,6 +66878,17 @@
       "document_types": [
         "diagram",
         "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "CAST ZFP",
+      "record_ids": [
+        "c-tec-05ee2d4c5d36"
+      ],
+      "document_types": [
+        "application-note"
       ]
     },
     {
@@ -66822,6 +66978,50 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "Discovery base voice sounders / VADs",
+      "record_ids": [
+        "c-tec-e69ec3776192"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "Discovery compact sounders",
+      "record_ids": [
+        "c-tec-524c022063c2"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "Discovery high-output sounders",
+      "record_ids": [
+        "c-tec-c532be17005e"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "Discovery high-output voice sounders / VADs",
+      "record_ids": [
+        "c-tec-5e2b093e3237"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "EACIE",
       "record_ids": [
         "c-tec-35a10028f0e3",
@@ -66837,11 +67037,15 @@
       "brand": "C-TEC",
       "model": "ECU-16",
       "record_ids": [
+        "c-tec-192b58bedf94",
+        "c-tec-1c2c602cb28b",
         "c-tec-648aedfe0ad2",
         "c-tec-6b3b7e57c111",
+        "c-tec-a309eea20fe3",
         "c-tec-c78ad5aeaedb"
       ],
       "document_types": [
+        "application-note",
         "installation",
         "quick-start",
         "user-guide"
@@ -66869,9 +67073,11 @@
       "record_ids": [
         "c-tec-648aedfe0ad2",
         "c-tec-6b3b7e57c111",
+        "c-tec-a309eea20fe3",
         "c-tec-c78ad5aeaedb"
       ],
       "document_types": [
+        "application-note",
         "installation",
         "quick-start",
         "user-guide"
@@ -66882,11 +67088,14 @@
       "brand": "C-TEC",
       "model": "ECU-8",
       "record_ids": [
+        "c-tec-1c2c602cb28b",
         "c-tec-648aedfe0ad2",
         "c-tec-6b3b7e57c111",
+        "c-tec-a309eea20fe3",
         "c-tec-c78ad5aeaedb"
       ],
       "document_types": [
+        "application-note",
         "installation",
         "quick-start",
         "user-guide"
@@ -66910,6 +67119,28 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "ECU-8S",
+      "record_ids": [
+        "c-tec-1c2c602cb28b"
+      ],
+      "document_types": [
+        "application-note"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "ECU-PTT",
+      "record_ids": [
+        "c-tec-a309eea20fe3"
+      ],
+      "document_types": [
+        "application-note"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "ECU4/8/16",
       "record_ids": [
         "c-tec-648aedfe0ad2",
@@ -66920,6 +67151,160 @@
         "installation",
         "quick-start",
         "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "ECU721",
+      "record_ids": [
+        "c-tec-da7f727e8075"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "ECU722",
+      "record_ids": [
+        "c-tec-da7f727e8075"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "ECU723",
+      "record_ids": [
+        "c-tec-da7f727e8075"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC301/JP",
+      "record_ids": [
+        "c-tec-b30cce06e390"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC301RLK",
+      "record_ids": [
+        "c-tec-2312ba5389e7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC301RPO",
+      "record_ids": [
+        "c-tec-2312ba5389e7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC302F",
+      "record_ids": [
+        "c-tec-858d582d0e2a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC302GF",
+      "record_ids": [
+        "c-tec-858d582d0e2a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC302GS",
+      "record_ids": [
+        "c-tec-858d582d0e2a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC302RLK",
+      "record_ids": [
+        "c-tec-a6cdae4685f3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC302RPO",
+      "record_ids": [
+        "c-tec-a6cdae4685f3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC302S",
+      "record_ids": [
+        "c-tec-858d582d0e2a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC401/PH",
+      "record_ids": [
+        "c-tec-b30cce06e390"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "EVC423",
+      "record_ids": [
+        "c-tec-4a00039a17a4"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -66958,6 +67343,17 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "FiTT SigTEL line tester",
+      "record_ids": [
+        "c-tec-068c3a4362af"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "Hush-Pro",
       "record_ids": [
         "c-tec-19b934a64107",
@@ -66984,6 +67380,39 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "SSM-12",
+      "record_ids": [
+        "c-tec-af0c3e057bd3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "SigTEL",
+      "record_ids": [
+        "c-tec-c17f32c97fa9"
+      ],
+      "document_types": [
+        "application-note"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "SigTEL 16–128 line",
+      "record_ids": [
+        "c-tec-24d565baf846"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -67024,6 +67453,17 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "THS1-E",
+      "record_ids": [
+        "c-tec-af0c3e057bd3"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -67151,6 +67591,17 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "XFP501E/CA",
+      "record_ids": [
+        "c-tec-232499eefc01"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {

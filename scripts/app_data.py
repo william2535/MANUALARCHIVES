@@ -87,6 +87,10 @@ def record_gaps(row):
         gaps.append('revision-review-needed')
     if re.search(r'filename|not.*verified', row.get('model_basis', ''), re.I):
         gaps.append('model-applicability-review-needed')
+    if row.get('metadata_conflicts'):
+        gaps.append('source-metadata-conflict')
+    if row.get('possible_duplicate_of'):
+        gaps.append('possible-duplicate-review-needed')
     return gaps
 
 
@@ -96,7 +100,8 @@ def build_gap_audit(catalogue):
     for row in sorted(rows, key=lambda r: r['id']):
         gaps = record_gaps(row)
         if gaps:
-            flagged.append({'id': row['id'], 'brand': row['brand'], 'category': row['category'], 'gaps': gaps})
+            flagged.append({'id': row['id'], 'brand': row['brand'], 'category': row['category'], 'gaps': gaps,
+                            **{k: row[k] for k in ['metadata_conflicts', 'possible_duplicate_of'] if row.get(k)}})
         brand = brands.setdefault(row['brand'], {'records': 0, 'categories': set(),
                                                'document_types': collections.Counter(),
                                                'download_status': collections.Counter(),

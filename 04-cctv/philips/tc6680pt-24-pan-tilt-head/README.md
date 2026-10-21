@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Philips TC6680PT-24 Pan - Tilt Head](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Philips%20TC6680PT-24%20Pan%20-%20Tilt%20Head.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Philips TC6680PT-24 Pan - Tilt Head](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Philips%20TC6680PT-24%20Pan%20-%20Tilt%20Head.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

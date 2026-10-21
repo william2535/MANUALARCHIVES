@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [BF423 Configurator Instruction – DFU0423000](https://c-tec.com/info/instruction-manuals/) | programming | DFU0423000 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [BF423 Configurator Instruction – DFU0423000](https://c-tec.com/download?wpdmdl=12707) | installation | DFU0423000 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

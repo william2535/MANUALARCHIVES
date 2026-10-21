@@ -6,9 +6,9 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [App Note – How to fit a PTT handset to a new-style ECU Controller – DAU0000100](https://c-tec.com/info/instruction-manuals/) | application-note | DAU0000100 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [App Note – How to replace an ECU-8S with an ECU-16 – DAU000098](https://c-tec.com/info/instruction-manuals/) | application-note | DAU000098 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [App Note – How to wire to an ECU/16 using a Junction Box – DAU000099](https://c-tec.com/info/instruction-manuals/) | application-note | DAU000099 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [App Note – How to fit a PTT handset to a new-style ECU Controller – DAU0000100](https://c-tec.com/download?wpdmdl=12948) | application-note | DAU0000100 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [App Note – How to replace an ECU-8S with an ECU-16 – DAU000098](https://c-tec.com/download?wpdmdl=12946) | application-note | DAU0000098 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [App Note – How to wire to an ECU/16 using a Junction Box – DAU000099](https://c-tec.com/download?wpdmdl=12944) | application-note | DAU000099 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

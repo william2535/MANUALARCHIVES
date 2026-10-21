@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Zone Vu CBR-510 (petards) D](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20CBR-510%20%28petards%29%20D.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu CBR-510 (petards) D](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20CBR-510%20%28petards%29%20D.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

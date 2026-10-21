@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Texecom Ricochet Monitor Help Files](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20%20Ricochet%20Monitor%20Help%20Files.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Texecom Ricochet Monitor Help Files](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20%20Ricochet%20Monitor%20Help%20Files.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

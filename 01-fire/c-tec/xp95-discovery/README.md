@@ -8,14 +8,14 @@ Source titles and model associations are navigation aids. Some legacy model name
 |---|---|---|---|---|---|
 | [XP95/Discovery Base Sounder VAD Instructions – DFU4310000](https://c-tec.com/download?wpdmdl=12077) | installation | DFU4310000 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XP95/Discovery Base Sounders Polar Diagram – DFU4310007](https://c-tec.com/download?wpdmdl=12151) | diagram | DFU4310007 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [XP95/Discovery Base Voice Sounder VAD Instructions – DFU4540000](https://c-tec.com/info/instruction-manuals/) | installation | DFU4540000 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [XP95/Discovery Base Voice Sounder VAD Instructions – DFU4540000](https://c-tec.com/download?wpdmdl=12120) | installation | DFU4540000 | Rev 8 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XP95/Discovery Compact Sounder VAD Instructions – DFU4500000](https://c-tec.com/download?wpdmdl=12119) | installation | DFU4500000 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [XP95/Discovery Compact Sounders Polar Diagram – DFU4500007](https://c-tec.com/info/instruction-manuals/) | diagram | DFU4500007 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [XP95/Discovery Compact Sounders Polar Diagram – DFU4500007](https://c-tec.com/download?wpdmdl=12153) | diagram | DFU4500007 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XP95/Discovery Compact Voice Sounder VAD Instructions – DFU4500001](https://c-tec.com/download?wpdmdl=42113) | installation | DFU4500001 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XP95/Discovery Hi-Output Sounder VAD IP55 Instructions – DFU4300010](https://c-tec.com/download?wpdmdl=38405) | installation | DFU4300010 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XP95/Discovery Hi-Output Sounder VAD Instructions – DFU4300000](https://c-tec.com/download?wpdmdl=12118) | installation | DFU4300000 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [XP95/Discovery Hi-Output Sounders Polar Diagram – DFU4300007](https://c-tec.com/info/instruction-manuals/) | diagram | DFU4300007 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [XP95/Discovery Hi-Output Voice Sounder VAD Instructions – DFU4460000](https://c-tec.com/info/instruction-manuals/) | installation | DFU4460000 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [XP95/Discovery Hi-Output Sounders Polar Diagram – DFU4300007](https://c-tec.com/download?wpdmdl=12152) | diagram | DFU4300007 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [XP95/Discovery Hi-Output Voice Sounder VAD Instructions – DFU4460000](https://c-tec.com/download?wpdmdl=12265) | installation | DFU4460000 | Rev 6 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

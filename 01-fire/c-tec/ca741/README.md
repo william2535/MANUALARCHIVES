@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [CA741 CAST Flood Sensor – DFU0000741](https://c-tec.com/info/instruction-manuals/) | reference | DFU0000741 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [CA741 CAST Flood Sensor – DFU0000741](https://c-tec.com/download?wpdmdl=22254) | installation | DFU0000741 | Rev 1 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

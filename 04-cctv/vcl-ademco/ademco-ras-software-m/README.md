@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [VCL - Ademco RAS Software m](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20RAS%20Software%20m.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [VCL - Ademco RAS Software m](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20RAS%20Software%20m.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Texecom Veritas 8, R8, 8 compact install manuals](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%208%2C%20R8%2C%208%20compact%20install%20manuals.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Texecom Veritas 8, R8, 8 compact install manuals](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%208%2C%20R8%2C%208%20compact%20install%20manuals.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [XFP single loop 16 zone fire panel manual200510 Rev1](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/XFP%20single%20loop%2016%20zone%20fire%20panel%20manual200510%20Rev1.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [XFP single loop 16 zone fire panel manual200510 Rev1](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/XFP%20single%20loop%2016%20zone%20fire%20panel%20manual200510%20Rev1.pdf) | reference | DFU1200510 | Rev 1 | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

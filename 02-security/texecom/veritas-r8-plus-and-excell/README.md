@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Texecom Veritas R8 Plus and Excell installation manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%20R8%20Plus%20and%20Excell%20installation%20manual.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Texecom Veritas R8 Plus and Excell installation manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%20R8%20Plus%20and%20Excell%20installation%20manual.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

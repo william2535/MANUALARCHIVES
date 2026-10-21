@@ -11,7 +11,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 | [XFP CAST 1-2 Loop 32 Zone Fire Panel Engineers Manual – DFU5010020](https://c-tec.com/download?wpdmdl=12854) | installation | DFU5010020 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XFP CAST Fire Panel Users Manual – DFU5020000](https://c-tec.com/download?wpdmdl=12794) | user-guide | DFU5020000 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 | [XFP CAST Quick Start Programming Guide – DFU5020010](https://c-tec.com/download?wpdmdl=12796) | quick-start | DFU5020010 | Not recorded | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
-| [XFP CAST Single Loop 16 Zone Fire Panel Engineers Manual – DFU5010000](https://c-tec.com/info/instruction-manuals/) | installation | DFU5010000 | Not recorded | source-listing | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
+| [XFP CAST Single Loop 16 Zone Fire Panel Engineers Manual – DFU5010000](https://c-tec.com/download?wpdmdl=12792) | installation | DFU5010000 | Rev 5 | pdf-indexed | [Manufacturer](https://c-tec.com/info/instruction-manuals/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

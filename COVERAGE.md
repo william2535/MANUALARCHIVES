@@ -27,7 +27,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | Beninca | 6 | 6 |
 | Borg Locks | 1 | 1 |
 | Bosch | 50 | 50 |
-| C-TEC | 141 | 127 |
+| C-TEC | 166 | 166 |
 | CAME / BPT | 21 | 21 |
 | CDVI | 6 | 2 |
 | Comelit | 156 | 156 |
@@ -85,24 +85,24 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
 | online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 811 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
+| pdf-indexed | 1124 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
 | pdf-link-listed | 1876 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
-| retrieval-failed | 312 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
-| source-listing | 91 | Document title listed by manufacturer; a usable direct download is still unresolved. |
+| retrieval-failed | 38 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
+| source-listing | 77 | Document title listed by manufacturer; a usable direct download is still unresolved. |
 
 ## Document types
 
 | Type | Records |
 |---|---:|
-| application-note | 290 |
+| application-note | 292 |
 | datasheet | 34 |
 | diagram | 16 |
-| installation | 790 |
-| programming | 57 |
+| installation | 813 |
+| programming | 56 |
 | quick-start | 129 |
 | reference | 885 |
 | troubleshooting | 5 |
-| user-guide | 1123 |
+| user-guide | 1124 |
 
 ## Source provenance
 
@@ -110,7 +110,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|
 | distributor | 29 |
 | installer | 661 |
-| manufacturer | 2639 |
+| manufacturer | 2664 |
 
 Manufacturer sources are preferred. Installer and distributor copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
 
@@ -129,20 +129,22 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 - Filled the Protec 6300 installation gap with a distributor copy of 93-509-09 Issue 2 Rev 2. Added MxPro4/MxPro5 installation, networking and peripheral documents, Hochiki ESP instructions, HFP AP panel manuals, FireClass panel/device documents and Siemens FC360 tools/device references. Added nine TDSi controller, PSU and extension datasheets; these are not hardware installation manuals.
 - Resumed after publication: 45 more complete-PDF records added, reaching 3,326. TDSi UM0120 Issue 2 and FireClass FC600 installation/user manuals recovered. Added current-file Hikvision recorder/camera manuals, Dahua recorder editions, historical Salto SPACE 2.0 software manual and Siemens panel/device documentation. Identical hashes merged; four earlier records enriched. Details: data/continuation-log-2026-10-16-b.json.
 - 21 October: added 3 separate Kentec records and resolved 22 existing Kentec/C-TEC PDF listings. Original IDs, URLs and model associations retained. Retrieval-service page counts and document editions checked; no new complete-file hashes claimed. Added app download manifest, schema, exact record/model gap audit and checksum comparison in the local downloader.
+- 21 October follow-on: cross-checked four C-TEC resource libraries and the CA450A/SR document table; added 25 manuals/technical references and resolved the remaining 14 source-only C-TEC listings. Three publisher number/revision conflicts explicitly retained. See data/source-audits/c-tec-2026-10-21.json.
+- 21 October retrieval audit: recovered the two older C-TEC PDF failures, then rechecked all 310 remaining failures. 272 returned indexed PDFs; 38 remain unresolved. These are retrieval/page-count results, not new complete-file hashes or edition checks. Exact outcomes: data/source-audits/failed-retrievals-2026-10-21.json.
 
 ## Known gaps
 
 - This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.
-- Kentec and C-TEC still have unresolved entries. Their public pages returned HTTP 202 to ordinary retrieval and some indexed links failed in the retrieval service. Titles and source references remain available; download URLs were not guessed.
-- 301 legacy URL checks were blocked by the retrieval connection with HTTP 403, and one response was not a PDF. Those records are marked retrieval-failed. Their listing links remain available; they are not verified working downloads.
+- All 17 previously source-only C-TEC entries now have indexed PDF links, and both earlier C-TEC retrieval failures were recovered. Three publisher metadata conflicts are explicitly recorded. Kentec still has unresolved manufacturer listings; source links remain available and download URLs are not guessed.
+- After rechecking all previously failed records on 21 October, 38 retrievals remain unresolved: service size/type limits, HTML verification pages or inaccessible responses. These outcomes do not prove the publisher files are broken. See data/source-audits/failed-retrievals-2026-10-21.json.
 - Many legacy supplier filenames are abbreviated. Exact model variants, publication dates, firmware, language and region need review against the document. Similar unverified mirror files may still overlap; counts are records, not a guarantee of unique file contents.
 - Ajax web manuals and CDVI document viewers require a supported export or manual download before offline use. The local PDF downloader does not make those pages available offline.
-- Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch AMS and APE manuals have been added; the identified MAP 5000 URL redirects to a missing page and is explicitly marked retrieval-failed. Further intrusion and hardware manuals remain outstanding.
+- Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch AMS and APE manuals are indexed; the MAP 5000 manufacturer endpoint remains unverified because the retrieval service rejects its application/octet-stream content type and direct local requests failed upstream.
 - Protec 6100 installation/user and 6300 user manuals have been added. Apollo and Nittan now have substantial device-level coverage. Protec 6300 installation is now indexed as a historical issue. Further Advanced MxPro generations, Hochiki device variants and Honeywell families remain priorities.
 - Comelit category pages expose only a subset of larger libraries. Further pagination and product-specific downloads remain to be collected. Manufacturer brand coverage does not imply complete coverage within that brand.
 - The archive contains no third-party PDF binaries. PDFs and checksum manifests created by the downloader remain local and gitignored. No claim is made about redistribution permission or technical suitability.
 - The Apollo product-map pass attempted 525 URLs and returned 505 page records; not every product has a manual. Nine unresolved document-link associations from the Apollo/Nittan pass are retained in data/continuation-log.json. Identical URLs were merged; different URLs were not assumed to contain identical bytes.
-- The MAP 5000 manufacturer URL was rechecked and still returned a non-PDF/missing-page response; search snippets do not make it a working download. TDSi UM0120 controller instructions remain without a downloadable link on the public documentation page. Siemens FC360 full English technical manual and further FireClass panel editions remain gaps.
+- TDSi UM0120 Issue 2 and FireClass FC600 installation/user manuals are indexed. Siemens FC360 full English technical manuals from a verified source and further FireClass editions remain gaps. Bosch MAP 5000 requires a successful complete-file check.
 - Kentec historical K3000S/Syncro manuals are cross-referenced from unresolved manufacturer listings without replacing unknown/current issues. Four manufacturer/listing/download anomalies from this gap-fill are recorded in data/gap-fill-log-2026-10-16.json. Region and exact device applicability remain unverified unless explicitly recorded.
 - Phone application implementation, persistent on-device storage and real-device offline testing remain separate work; the versioned app manifest and integration contract are now available.
 
@@ -153,7 +155,6 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 | Ajax | 232 |
 | Apollo | 1 |
 | Axis | 1 |
-| C-TEC | 14 |
 | CDVI | 4 |
 | Kentec | 76 |
 | Pyronix | 2 |
@@ -183,7 +184,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Beninca**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Borg Locks**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Bosch**: [source 1](https://cdn.commerce.boschsecurity.com/public/documents/MAP_5000_Installation_Manual_enUS_45035997701400331.pdf), [source 2](https://downloadstore.boschsecurity.com/?type=AMS), [source 3](https://resources.keenfinity.tech/public/documents/Configuration_manual_Configuration_Manual_enUS_71931682187.pdf), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
-- **C-TEC**: [source 1](https://c-tec.com/info/instruction-manuals/), [source 2](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 3](https://www.srsalertfire.ie/product-info/user-manuals), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **C-TEC**: [source 1](https://c-tec.com/info/cast-devices/), [source 2](https://c-tec.com/info/instruction-manuals/), [source 3](https://c-tec.com/info/psu-resources/), [source 4](https://c-tec.com/info/sigtel-resources/), [source 5](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 6](https://www.srsalertfire.ie/product-info/user-manuals), [source 7](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **CAME / BPT**: [source 1](https://www.bptintercoms.co.uk/manuals.html), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **CDVI**: [source 1](https://www.cdvi.co.uk/our-products/a22/), [source 2](https://www.cdvi.co.uk/our-products/galeo-w/), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Comelit**: [source 1](https://pro.comelitgroup.com/en-gb/downloads/cctv/technical-sheets-5/generic-documents-1), [source 2](https://pro.comelitgroup.com/en-gb/downloads/door-entry-systems-kits-1/technical-manuals-3/audio-internal-units-1), [source 3](https://pro.comelitgroup.com/en-gb/downloads/fire-detection/technical-documents-1), [source 4](https://pro.comelitgroup.com/en-gb/downloads/intruder-alarm/technical-documents-2), [source 5](https://pro.comelitgroup.com/en-gb/downloads/vip-system-3/technical-manuals-4/generic-documents-6)
@@ -241,14 +242,16 @@ This audit covers every indexed record, with model/type coverage for every recor
 
 | Review flag | Records |
 |---|---:|
-| complete-file-check-needed | 2,869 |
-| document-number-unrecorded | 2,224 |
-| download-url-unresolved | 91 |
-| language-unverified | 3,146 |
+| complete-file-check-needed | 2,908 |
+| document-number-unrecorded | 2,222 |
+| download-url-unresolved | 77 |
+| language-unverified | 3,130 |
 | model-applicability-review-needed | 586 |
-| region-unverified | 3,309 |
-| retrieval-failed | 312 |
-| revision-review-needed | 3,203 |
+| possible-duplicate-review-needed | 1 |
+| region-unverified | 3,334 |
+| retrieval-failed | 38 |
+| revision-review-needed | 3,187 |
+| source-metadata-conflict | 3 |
 | viewer-without-direct-pdf | 4 |
 | web-manual-without-direct-pdf | 235 |
 
@@ -262,8 +265,8 @@ See [machine-readable gap audit](data/gap-audit.json) for exact record IDs, per-
 | file-hash | 271 |
 | listed | 1,603 |
 | pdf-header | 2 |
-| pdf-indexed | 681 |
-| retrieval-failed | 312 |
-| source-page | 330 |
+| pdf-indexed | 994 |
+| retrieval-failed | 38 |
+| source-page | 316 |
 
 Complete-file checks include a recorded SHA-256, size, PDF header and EOF marker. File-hash records have a checksum but lack that full validation trail. PDF-indexed means a retrieval service identified a PDF and page count; it is not a locally verified file. See [app integration](APP_INTEGRATION.md).

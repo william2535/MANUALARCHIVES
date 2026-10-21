@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Nice Mindy-A02](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20Mindy-A02.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Nice Mindy-A02](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20Mindy-A02.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

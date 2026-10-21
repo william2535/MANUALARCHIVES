@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Zone Vu ZVS-MSI Installatio](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVS-MSI%20Installatio.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Zone Vu ZVS-MSI connection](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVS-MSI%20connection.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZVS-MSI Installatio](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVS-MSI%20Installatio.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZVS-MSI connection](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVS-MSI%20connection.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

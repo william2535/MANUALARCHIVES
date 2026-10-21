@@ -6,11 +6,11 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Zone Vu Upgrading ZVR-510 F](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20Upgrading%20ZVR-510%20F.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Zone Vu ZVR-510 Drive Table](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20Drive%20Table.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Zone Vu ZVR-510 Privacy zon](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20Privacy%20zon.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Zone Vu ZVR-510 TK-C1360 Me](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20TK-C1360%20Me.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Zone Vu ZVR-510 User and Co](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20User%20and%20Co.pdf) | user-guide | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu Upgrading ZVR-510 F](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20Upgrading%20ZVR-510%20F.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZVR-510 Drive Table](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20Drive%20Table.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZVR-510 Privacy zon](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20Privacy%20zon.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZVR-510 TK-C1360 Me](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20TK-C1360%20Me.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZVR-510 User and Co](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVR-510%20User%20and%20Co.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

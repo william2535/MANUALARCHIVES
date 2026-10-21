@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Philips LTC 9418 Pan - Tilt Head (2)](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Philips%20LTC%209418%20Pan%20-%20Tilt%20Head%20%282%29.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Philips LTC 9418 Pan - Tilt Head (2)](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Philips%20LTC%209418%20Pan%20-%20Tilt%20Head%20%282%29.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

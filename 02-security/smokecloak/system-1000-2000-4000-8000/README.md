@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Smokecloak system 1000-2000-4000-8000 manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Smokecloak%20system%201000-2000-4000-8000%20manual.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Smokecloak system 1000-2000-4000-8000 manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Smokecloak%20system%201000-2000-4000-8000%20manual.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

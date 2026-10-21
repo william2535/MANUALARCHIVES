@@ -2,14 +2,14 @@
 
 [Archive](../README.md)
 
-895 document records. Door entry belongs under access control.
+920 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
 | [Advanced](advanced/README.md) | 33 | 31 |
 | [Ajax](ajax/README.md) | 39 | 39 |
 | [Apollo](apollo/README.md) | 183 | 291 |
-| [C-TEC](c-tec/README.md) | 141 | 78 |
+| [C-TEC](c-tec/README.md) | 166 | 123 |
 | [Comelit](comelit/README.md) | 37 | 35 |
 | [EMS](ems/README.md) | 2 | 2 |
 | [Eaton / Cooper](eaton-cooper/README.md) | 2 | 3 |

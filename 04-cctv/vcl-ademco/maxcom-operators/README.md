@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [VCL MaxCom Operators](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20MaxCom%20Operators.pdf) | user-guide | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [VCL MaxCom Operators](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20MaxCom%20Operators.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

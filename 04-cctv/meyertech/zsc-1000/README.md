@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Zone Vu Upgrading ZSC-1000](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20Upgrading%20ZSC-1000%20.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Zone Vu ZSC-1000 User Manua](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZSC-1000%20User%20Manua.pdf) | user-guide | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu Upgrading ZSC-1000](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20Upgrading%20ZSC-1000%20.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu ZSC-1000 User Manua](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZSC-1000%20User%20Manua.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

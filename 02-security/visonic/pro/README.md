@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Powermax Pro Installation](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Powermax%20Pro%20Installation.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Powermax Pro Installation](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Powermax%20Pro%20Installation.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

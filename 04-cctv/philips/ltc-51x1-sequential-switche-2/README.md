@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Philips LTC 51X1 sequential switche (2)](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Philips%20LTC%2051X1%20sequential%20switche%20%282%29.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Philips LTC 51X1 sequential switche (2)](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Philips%20LTC%2051X1%20sequential%20switche%20%282%29.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

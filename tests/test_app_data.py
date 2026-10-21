@@ -71,6 +71,16 @@ class AppDataTests(unittest.TestCase):
             row['source_checked'] = value
             self.assertTrue(date_errors(data))
 
+    def test_publisher_conflicts_remain_actionable_without_merging_records(self):
+        conflict={'field':'document_number','listing':'DOC1','printed':'DOC2'}
+        row=record(metadata_conflicts=[conflict],possible_duplicate_of='other-123')
+        audit=build_gap_audit({'generated_on':'2026-10-21','records':[row]})
+        item=audit['records'][0]
+        self.assertIn('source-metadata-conflict',item['gaps'])
+        self.assertIn('possible-duplicate-review-needed',item['gaps'])
+        self.assertEqual(item['metadata_conflicts'],[conflict])
+        self.assertEqual(item['possible_duplicate_of'],'other-123')
+
 
 if __name__ == '__main__':
     unittest.main()

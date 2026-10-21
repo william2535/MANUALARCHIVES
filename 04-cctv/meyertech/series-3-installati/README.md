@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Zone Vu Series 3 Installati](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20Series%203%20Installati.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Zone Vu Series 3 Installati](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20Series%203%20Installati.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

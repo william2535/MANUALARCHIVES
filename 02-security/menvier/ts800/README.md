@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Menvier TS800 User Installation Manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Menvier%20TS800%20User%20Installation%20Manual.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Menvier TS800 User Installation Manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Menvier%20TS800%20User%20Installation%20Manual.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

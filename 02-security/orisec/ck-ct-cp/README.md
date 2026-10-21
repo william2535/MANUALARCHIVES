@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Orisec CK - CT - CP Quick Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20CK%20-%20CT%20-%20CP%20Quick%20Guide.pdf) | quick-start | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [Orisec CK - CT - CP User Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20CK%20-%20CT%20-%20CP%20User%20Guide.pdf) | user-guide | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Orisec CK - CT - CP Quick Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20CK%20-%20CT%20-%20CP%20Quick%20Guide.pdf) | quick-start | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Orisec CK - CT - CP User Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20CK%20-%20CT%20-%20CP%20User%20Guide.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

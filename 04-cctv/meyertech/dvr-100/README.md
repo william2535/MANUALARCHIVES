@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Meyertech DVR-100 Installation Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Meyertech%20DVR-100%20Installation%20Guide.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Meyertech DVR-100 Installation Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Meyertech%20DVR-100%20Installation%20Guide.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

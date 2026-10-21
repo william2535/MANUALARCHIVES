@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Meyertech FUSION User Guide Issue 1-1](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Meyertech%20FUSION%20User%20Guide%20Issue%201-1.pdf) | user-guide | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Meyertech FUSION User Guide Issue 1-1](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Meyertech%20FUSION%20User%20Guide%20Issue%201-1.pdf) | user-guide | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

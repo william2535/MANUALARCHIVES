@@ -1,0 +1,663 @@
+{
+  "checked_on": "2026-10-21",
+  "scope": "Manufacturer PSU, SigTEL, XFP CAST and CAST device resource tables, plus the CA450A/SR document table. Manual/technical-reference identities checked against catalogue numbers and explicit aliases; this is not a claim to cover the entire manufacturer range or every edition.",
+  "source_urls": [
+    "https://c-tec.com/info/cast-devices/",
+    "https://c-tec.com/info/psu-resources/",
+    "https://c-tec.com/info/sigtel-resources/",
+    "https://c-tec.com/info/xfp-cast-resources/",
+    "https://c-tec.com/product/addressable-fire-systems/c-tec-cast/cast-sounders-vads/cast-compact-96dba-wall-sounder/"
+  ],
+  "listed_entries": 72,
+  "distinct_listed_document_numbers": 68,
+  "unresolved_document_numbers": [],
+  "entries": [
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF560-12 12V 2A Boxed PSU Instructions – DFU0056020",
+      "document_number": "DFU0056020",
+      "record_ids": [
+        "c-tec-3ffc1944b788"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF560-24 24V 1.5A Boxed PSU Instructions – DFU0056030",
+      "document_number": "DFU0056030",
+      "record_ids": [
+        "c-tec-a00eeac8d393"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF562-1 24V 1.5A Boxed PSU Instructions – DFU0056210",
+      "document_number": "DFU0056210",
+      "record_ids": [
+        "c-tec-bd75d4ab6877"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF562-3 24V 3A Boxed PSU Instructions – DFU0056230",
+      "document_number": "DFU0056230",
+      "record_ids": [
+        "c-tec-a37b8ce3ddf1"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF562-5 24V 5A Boxed PSU Instructions – DFU0056250",
+      "document_number": "DFU0056250",
+      "record_ids": [
+        "c-tec-e0d19c45109b"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF560-12/E Encased 12V 2A PSU Instructions – DFU0056012",
+      "document_number": "DFU0056012",
+      "record_ids": [
+        "c-tec-1af7a0436a48"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF560-24/E Encased 24V 1.5A PSU Instructions – DFU0056024",
+      "document_number": "DFU0056024",
+      "record_ids": [
+        "c-tec-6565d05f08ed"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF562-1/E Encased 24V 1.5A PSU Instructions – DFU0056201",
+      "document_number": "DFU0056201",
+      "record_ids": [
+        "c-tec-6a4c0bf5798e"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF562-3/E Encased 24V 3A PSU Instructions – DFU0056235",
+      "document_number": "DFU0056235",
+      "record_ids": [
+        "c-tec-5f168f82fd64"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF562-5/E Encased 24V 5A PSU Instructions – DFU0056255",
+      "document_number": "DFU0056255",
+      "record_ids": [
+        "c-tec-352fe9e4d180"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF560-12/C Chassis 12V 2A PSU Instructions – DFU0056040",
+      "document_number": "DFU0056040",
+      "record_ids": [
+        "c-tec-e41a5bbcd820"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF560-24/C Chassis 24V 1.5A PSU Instructions – DFU0056050",
+      "document_number": "DFU0056050",
+      "record_ids": [
+        "c-tec-7fc85470592c"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF362-1 3 Series PSU Instructions – DFU0003621",
+      "document_number": "DFU0003621",
+      "record_ids": [
+        "c-tec-ad73baf20e15"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF362-3 3 Series PSU Instructions – DFU0003615",
+      "document_number": "DFU0003615",
+      "record_ids": [
+        "c-tec-22f0564991cf"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF362-1/C 3 Series PSU Instructions – DFU0362001",
+      "document_number": "DFU0362001",
+      "record_ids": [
+        "c-tec-2fde6d2b5c1f"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF322 Temperature Sensor Instructions – DFU0000322",
+      "document_number": "DFU0000322",
+      "record_ids": [
+        "c-tec-b8e21262ff34"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/psu-resources/",
+      "title": "BF423 Configurator Instruction – DFU0423000",
+      "document_number": "DFU0423000",
+      "record_ids": [
+        "c-tec-f1324d0b14a6"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "ECU4/8/16 SigTEL Engineers Manual – DAU0000091",
+      "document_number": "DAU0000091",
+      "record_ids": [
+        "c-tec-c78ad5aeaedb"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "ECU4/8/16 SigTEL Operators Manual – DAU0000092",
+      "document_number": "DAU0000092",
+      "record_ids": [
+        "c-tec-648aedfe0ad2",
+        "c-tec-b52a482cbf7f"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "ECU4/8/16 Quick Start Guide – DAU0000093",
+      "document_number": "DAU0000093",
+      "record_ids": [
+        "c-tec-6b3b7e57c111"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "SigTEL 16 to 128 Line EVC Install Manual – DCP0001483",
+      "document_number": "DCP0001483",
+      "record_ids": [
+        "c-tec-24d565baf846"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "BF359/1 IP66 Rated Enclosure Instructions – DAU0359000",
+      "document_number": "DAU0359000",
+      "record_ids": [
+        "c-tec-ba9e8acd01e7"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "BF359/3 Glazed Stainless Steel Enclosure Instructions – DAU0359003",
+      "document_number": "DAU0359003",
+      "record_ids": [
+        "c-tec-7cde36f66aec"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "SigTEL EVC302S/F/GS/GF Type B Outstation Instructions – DAU0302000",
+      "document_number": "DAU0302000",
+      "record_ids": [
+        "c-tec-858d582d0e2a"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "SigTEL Type A Outstation Instructions (EVC301 range) – DCM0003819",
+      "document_number": "DCM0003819",
+      "record_ids": [
+        "c-tec-2312ba5389e7"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "SigTEL Type A Outstation Instructions (EVC302 range) – DAU0000301",
+      "document_number": "DAU0000301",
+      "record_ids": [
+        "c-tec-a6cdae4685f3"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "EVC401/PH & EVC301/JP Instructions – DML0501400",
+      "document_number": "DML0501400",
+      "record_ids": [
+        "c-tec-b30cce06e390"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "EVC423 EVC Configurator – DAU0423000",
+      "document_number": "DAU0423000",
+      "record_ids": [
+        "c-tec-4a00039a17a4"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "ECU721/722/723 EVC Network Comm Card – DAU7210000",
+      "document_number": "DAU7210000",
+      "record_ids": [
+        "c-tec-da7f727e8075"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "FiTT SigTEL Line Tester Instructions – DNU8024200",
+      "document_number": "DNU8024200",
+      "record_ids": [
+        "c-tec-068c3a4362af"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "EVCS Standby Battery Calculation Guide – DAU0000090",
+      "document_number": "DAU0000090",
+      "record_ids": [
+        "c-tec-c17f32c97fa9"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "SigTEL Strobe Driver Module Instructions – DCP0002072",
+      "document_number": "DCP0002072",
+      "record_ids": [
+        "c-tec-af0c3e057bd3"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "App Note – How to replace an ECU-8S with an ECU-16 – DAU000098",
+      "document_number": "DAU000098",
+      "record_ids": [
+        "c-tec-1c2c602cb28b"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "App Note – How to wire to an ECU/16 using a Junction Box – DAU000099",
+      "document_number": "DAU000099",
+      "record_ids": [
+        "c-tec-192b58bedf94"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/sigtel-resources/",
+      "title": "App Note – How to fit a PTT handset to a new-style ECU Controller – DAU0000100",
+      "document_number": "DAU0000100",
+      "record_ids": [
+        "c-tec-a309eea20fe3"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "title": "XFP CAST Single Loop 16 Zone Fire Panel Engineers Manual – DFU5010000",
+      "document_number": "DFU5010000",
+      "record_ids": [
+        "c-tec-232499eefc01"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "title": "XFP CAST 1-2 Loop 32 Zone Fire Panel Engineers Manual – DFU5010020",
+      "document_number": "DFU5010020",
+      "record_ids": [
+        "c-tec-8f8f7b76fc27"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "title": "XFP CAST Fire Panel Users Manual – DFU5020000",
+      "document_number": "DFU5020000",
+      "record_ids": [
+        "c-tec-9ff94272bfcc"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "title": "App Note – How to connect an FF502P sounder extender to an XFP CAST system – DFU5010050",
+      "document_number": "DFU5010050",
+      "record_ids": [
+        "c-tec-40778770b4ea"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "title": "App Note – How to connect intrinsically safe conventional devices to an XFP CAST System – DFU5010051",
+      "document_number": "DFU5010051",
+      "record_ids": [
+        "c-tec-7a271192baf6"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/xfp-cast-resources/",
+      "title": "App Note – How to add third-party detectors to a CAST I/O Unit via non-voltage contact wiring – DFU5010052",
+      "document_number": "DFU5010052",
+      "record_ids": [
+        "c-tec-dc870927185e"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Detector Base Wiring Instructions – DFU0002408",
+      "document_number": "DFU0002408",
+      "record_ids": [
+        "c-tec-d8b148951306"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA408R/DR Relay Base Instructions – DFU0002409",
+      "document_number": "DFU0002409",
+      "record_ids": [
+        "c-tec-06d40997cb68"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST CA402 Programmable Heat Detector – DFU4020000",
+      "document_number": "DFU4020000",
+      "record_ids": [
+        "c-tec-2e87e50967d6"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST CA414 Programmable Multi-Sensor Fire Detector – DFU4140000",
+      "document_number": "DFU4140000",
+      "record_ids": [
+        "c-tec-e495d2c3dfda"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST CA416 Optical Smoke Detector Instructions – DFU4160000",
+      "document_number": "DFU4160000",
+      "record_ids": [
+        "c-tec-5a8b44fceac5"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST CA470 Range Manual Call Points Instructions – DFU4700000",
+      "document_number": "DFU4700000",
+      "record_ids": [
+        "c-tec-6406a8f43584"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Base Sounder VAD Range Instructions – DFU4315010",
+      "document_number": "DFU4315010",
+      "record_ids": [
+        "c-tec-282f93b99372"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Base Sounders Polar Diagram – DFU4310008",
+      "document_number": "DFU4310008",
+      "record_ids": [
+        "c-tec-e262185c4954"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Base Voice Sounder VAD Instructions – DFU4545000",
+      "document_number": "DFU4545000",
+      "record_ids": [
+        "c-tec-6c9906601408"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Hi-Output Sounder VAD Instructions – DFU4305010",
+      "document_number": "DFU4305010",
+      "record_ids": [
+        "c-tec-b94696a38ffe"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Hi-Output Sounders Polar Diagram – DFU4300009",
+      "document_number": "DFU4300009",
+      "record_ids": [
+        "c-tec-99fb2628f866"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Hi-Output Voice Sounder VAD Instructions – DFU4465000",
+      "document_number": "DFU4465000",
+      "record_ids": [
+        "c-tec-1f83e424831d"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Compact Sounder Instructions – DFU4505010",
+      "document_number": "DFU4505010",
+      "record_ids": [
+        "c-tec-0748de20ddd6"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAST Compact Sounders Polar Diagram – DFU4500008",
+      "document_number": "DFU4500008",
+      "record_ids": [
+        "c-tec-4bcb52423846"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA730 CAST I/O Unit Instructions – DFU7300000",
+      "document_number": "DFU7300000",
+      "record_ids": [
+        "c-tec-95700bacc3bf"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA731 CAST Mains I/O Unit Instructions – DFU7310000",
+      "document_number": "DFU7310000",
+      "record_ids": [
+        "c-tec-7d9cf035ffd8"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA732 CAST Zone Monitor Instructions – DFU7320000",
+      "document_number": "DFU7320000",
+      "record_ids": [
+        "c-tec-0875a39b6f62"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA734 CAST Mini I/O Unit Instructions – DFU7340010",
+      "document_number": "DFU7340010",
+      "record_ids": [
+        "c-tec-aa347cfd1507"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA738 Sounder Control Module Instructions – DFU0007380",
+      "document_number": "DFU0007380",
+      "record_ids": [
+        "c-tec-d86ba916fd97"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA739 4-8 Way Sounder Controller Instructions – DFU0007390",
+      "document_number": "DFU0007390",
+      "record_ids": [
+        "c-tec-8f400efdefad"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA739 4-8 Way Sounder Controller PSU Instructions – DFU0007391",
+      "document_number": "DFU0007391",
+      "record_ids": [
+        "c-tec-e34826bda5a1"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA740 CAST 4 Way Conv Zone Convertor Instructions – DFU0000740",
+      "document_number": "DFU0000740",
+      "record_ids": [
+        "c-tec-311c3fbb6b75"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA741 CAST Flood Sensor – DFU0000741",
+      "document_number": "DFU0000741",
+      "record_ids": [
+        "c-tec-8d786cebd782"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CA742 CAST Loop Resistance Tester Instructions – DFU0007420",
+      "document_number": "DFU0007420",
+      "record_ids": [
+        "c-tec-29a9e76ab460"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "CAPROG Handheld Device Programmer/Testing Tool User Instructions – DFU4165000",
+      "document_number": "DFU4165000",
+      "record_ids": [
+        "c-tec-a41557614b1a"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "App Note – How to connect intrinsically safe conventional devices to an XFP CAST System – DFU5010051",
+      "document_number": "DFU5010051",
+      "record_ids": [
+        "c-tec-7a271192baf6"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "App Note – How to add third-party detectors to a CAST I/O Unit via non-voltage contact wiring – DFU5010052",
+      "document_number": "DFU5010052",
+      "record_ids": [
+        "c-tec-dc870927185e"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/info/cast-devices/",
+      "title": "App Note – How to calculate the CA742’s resistance trigger setting and configure the CAST ZFP Panel to work with it – APN0000803",
+      "document_number": "APN0000803",
+      "record_ids": [
+        "c-tec-05ee2d4c5d36"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/product/addressable-fire-systems/c-tec-cast/cast-sounders-vads/cast-compact-96dba-wall-sounder/",
+      "title": "XFP & ZFP CAST Addressable Fire Alarm System Brochure – DML0540100",
+      "document_number": "DML0540100",
+      "record_ids": [],
+      "status": "excluded-marketing-brochure"
+    },
+    {
+      "source_url": "https://c-tec.com/product/addressable-fire-systems/c-tec-cast/cast-sounders-vads/cast-compact-96dba-wall-sounder/",
+      "title": "CAST Compact Sounder Instructions – DFU4505010",
+      "document_number": "DFU4505010",
+      "record_ids": [
+        "c-tec-0748de20ddd6"
+      ],
+      "status": "catalogued"
+    },
+    {
+      "source_url": "https://c-tec.com/product/addressable-fire-systems/c-tec-cast/cast-sounders-vads/cast-compact-96dba-wall-sounder/",
+      "title": "CAST Compact Sounders Polar Diagram – DFU4500008",
+      "document_number": "DFU4500008",
+      "record_ids": [
+        "c-tec-4bcb52423846"
+      ],
+      "status": "catalogued"
+    }
+  ]
+}
