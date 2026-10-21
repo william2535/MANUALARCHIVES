@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-21",
-  "catalogue_sha256": "d920d90f2ef5bf3f9494bf86a8ddbb4d0ea2c57f95116450bc212bef402222d4",
+  "catalogue_sha256": "ca4e6fd80882d0b2a7dbf83f68797274c588ef46e7b5c9f514dfceec9aaca2c1",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 3431,
+  "record_count": 3555,
   "gap_counts": {
     "complete-file-check-needed": 2946,
-    "document-number-unrecorded": 2227,
+    "document-number-unrecorded": 2266,
     "download-url-unresolved": 3,
     "language-unverified": 3047,
     "model-applicability-review-needed": 579,
     "possible-duplicate-review-needed": 1,
-    "region-unverified": 3411,
+    "region-unverified": 3535,
     "retrieval-failed": 10,
-    "revision-review-needed": 3122,
-    "source-metadata-conflict": 14,
+    "revision-review-needed": 3201,
+    "source-metadata-conflict": 17,
     "viewer-without-direct-pdf": 4,
     "web-manual-without-direct-pdf": 235
   },
@@ -650,6 +650,23 @@
       }
     },
     {
+      "brand": "CSL",
+      "records": 1,
+      "categories": [
+        "warden-call"
+      ],
+      "document_types": {
+        "quick-start": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "region-unverified": 1,
+        "revision-review-needed": 1
+      }
+    },
+    {
       "brand": "Comelit",
       "records": 156,
       "categories": [
@@ -674,6 +691,29 @@
         "language-unverified": 156,
         "region-unverified": 156,
         "revision-review-needed": 156
+      }
+    },
+    {
+      "brand": "Cornell Communications",
+      "records": 10,
+      "categories": [
+        "fire",
+        "warden-call"
+      ],
+      "document_types": {
+        "datasheet": 7,
+        "diagram": 1,
+        "reference": 1,
+        "user-guide": 1
+      },
+      "download_status": {
+        "complete-file": 10
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 2,
+        "region-unverified": 10,
+        "revision-review-needed": 9,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -1158,6 +1198,23 @@
       "gap_counts": {
         "region-unverified": 1,
         "source-metadata-conflict": 1
+      }
+    },
+    {
+      "brand": "Jeron",
+      "records": 1,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "datasheet": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1
       }
     },
     {
@@ -1868,6 +1925,53 @@
       },
       "gap_counts": {
         "region-unverified": 2
+      }
+    },
+    {
+      "brand": "Tunstall",
+      "records": 28,
+      "categories": [
+        "warden-call"
+      ],
+      "document_types": {
+        "datasheet": 3,
+        "programming": 1,
+        "quick-start": 12,
+        "user-guide": 12
+      },
+      "download_status": {
+        "complete-file": 28
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 12,
+        "region-unverified": 28,
+        "revision-review-needed": 22,
+        "source-metadata-conflict": 2
+      }
+    },
+    {
+      "brand": "Tynetec",
+      "records": 84,
+      "categories": [
+        "warden-call"
+      ],
+      "document_types": {
+        "application-note": 3,
+        "datasheet": 1,
+        "diagram": 21,
+        "installation": 16,
+        "programming": 3,
+        "reference": 2,
+        "troubleshooting": 21,
+        "user-guide": 17
+      },
+      "download_status": {
+        "complete-file": 84
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 24,
+        "region-unverified": 84,
+        "revision-review-needed": 47
       }
     },
     {
@@ -20927,6 +21031,120 @@
       ]
     },
     {
+      "id": "cornell-communications-18b8abfc6dd5",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-2265ae2b0544",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-4a972687a79a",
+      "brand": "Cornell Communications",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-532f8c5555f4",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-5415086b3536",
+      "brand": "Cornell Communications",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-6dc734f31f73",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "cornell-communications-b46017654687",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-b60b9d731108",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "models",
+          "archive_title": [
+            "P-512241A",
+            "P-512243A"
+          ],
+          "pdf_heading": [
+            "P-512243A"
+          ],
+          "decision": "Catalogue only the model named in this PDF; P-512241A has a separate file."
+        }
+      ]
+    },
+    {
+      "id": "cornell-communications-b9cf8a7e6760",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "cornell-communications-d6b88acd751c",
+      "brand": "Cornell Communications",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "csl-6ac8dc8828c7",
+      "brand": "CSL",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "dahua-06a7bdf379bf",
       "brand": "Dahua",
       "category": "cctv",
@@ -25415,6 +25633,15 @@
           "document_value": "Cover says PAM-120A/340A/480A",
           "resolution": "Indexed under the cover models."
         }
+      ]
+    },
+    {
+      "id": "jeron-9c1e6b0b0006",
+      "brand": "Jeron",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
       ]
     },
     {
@@ -40470,6 +40697,1028 @@
       "category": "fire",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "tunstall-021d2a0ce8dc",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-0889762b594a",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tunstall-0df937d562c4",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "tunstall-15c600246a2a",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-1b36b2c6e153",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-1d7103b3c85f",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-1f4d5c31dcef",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-3302d754e937",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-354c1ede2ca7",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-4a793d290e0d",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tunstall-520298b7bee2",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "tunstall-524380c89621",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-64a2f3bacca0",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "document_number",
+          "cover_marks": [
+            "D6707281F",
+            "D6707281C"
+          ],
+          "body_footer": "D6707281F",
+          "decision": "Use repeated body/footer number; retain conflicting cover imprint."
+        }
+      ]
+    },
+    {
+      "id": "tunstall-6674254bb08d",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-6953f8d039fe",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-74f7bb89ddf8",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-7b5ae9a6ad34",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "tunstall-7eb166f62d26",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-97c3d30e9ab4",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "model",
+          "source_listing": "GXV3240",
+          "pdf_text": "GXV3275",
+          "decision": "Retain Communicall Vi IP family association; do not claim GXV3240 applicability."
+        }
+      ]
+    },
+    {
+      "id": "tunstall-a4becf696f78",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-b4c5f0a8a09b",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-b76b00808f8c",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-c08117ee2b9e",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-c300a4f9a750",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-c992f2bd1a4b",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-e3345fde5d0f",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-e7217a7b3c4f",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-ef413d7936f7",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "tynetec-03fc00e71da0",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-054d4911b783",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-07742f75a3d9",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-07f48a192e2a",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-0aea57173a92",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-0bbfd6f9595e",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-0bf0ff779621",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-0e6b97e2875a",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-1048e614c65e",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-10c696b8c241",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-117366e42d2d",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-118bf3aa49ad",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-1231b8a9f3ca",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-14ed3bdd2f43",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-155ca5c9e882",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-1d41e528ebf0",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-1d7ba42afbd3",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-1fb57c458485",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-22e0e2b16b61",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-34553515be0c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-37cf0e610cb6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-3a872698261c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-3a9ac63e935f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-3baaa9a59889",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-3e7fa70930dc",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-3fe75740c18e",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-415a14dd04e6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-470bfa58c1b2",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-4c3886c60688",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-4d2ce90a151a",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-4e0adaf53e15",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-4fc77ce3dec6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-5265690fcfa6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-5577e94ec5fe",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-55bc9ba952e4",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-586bb7673a2f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-632066cf3a13",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-64d96c871c44",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-6a692fe39f77",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-6ca075804469",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-6e3a2ac9c24a",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-7276a21f4991",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-76a7189ff1cc",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-76eb0da14a5f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-7b16423ee925",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-800e45fec8d1",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-8097e5c741e8",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-80b420594c02",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-84de6f4a15df",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-877c5f7a7164",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-8e48e3f81371",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-99484148e9b5",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-9c5e09a9c1b4",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-9dc8c8bfa0b7",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-a24029a6fdb6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-a78065ae8286",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-ae2b42c164c7",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-ae4c01eb4a6f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-af9eb1e6eb38",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-b6c0a68c6c6d",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-b9c2d63d6565",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-bac94438823c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-c0427d3d591c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-c067cd8ff03d",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-c1a7d173ca32",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-c3b8e36ffd4e",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-c97f6052fcd3",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-ca7d7ef642ca",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-cab04a6c3c3c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-cccbd788ab8a",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-ceeb9047ffe7",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-d9fcd2792b2d",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-dadb4e0beb94",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-dba4025c5046",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-de64fbfa50e1",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-df5d78f17e70",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-e3e280bc31ad",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-f26bfc1224a6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-f4266902dc2a",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-f5d85af18710",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-f61d47d65939",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-f974a6175446",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-fe5ee99d138b",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-ffcb2add50bd",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -69397,6 +70646,41 @@
     },
     {
       "category": "fire",
+      "brand": "Cornell Communications",
+      "model": "4200 Series rescue assistance",
+      "record_ids": [
+        "cornell-communications-5415086b3536",
+        "cornell-communications-d6b88acd751c"
+      ],
+      "document_types": [
+        "diagram",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Cornell Communications",
+      "model": "8010-281",
+      "record_ids": [
+        "cornell-communications-d6b88acd751c"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Cornell Communications",
+      "model": "A-4200 Series",
+      "record_ids": [
+        "cornell-communications-4a972687a79a"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
       "brand": "EMS",
       "model": "SmartCell Control Panel",
       "record_ids": [
@@ -71637,6 +72921,17 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Jeron",
+      "model": "Pro-Alert 450",
+      "record_ids": [
+        "jeron-9c1e6b0b0006"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -82356,6 +83651,417 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "CSL",
+      "model": "CSL Router (Advent XT2 connectivity)",
+      "record_ids": [
+        "csl-6ac8dc8828c7"
+      ],
+      "document_types": [
+        "quick-start"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "4000 Series nurse call",
+      "record_ids": [
+        "cornell-communications-532f8c5555f4",
+        "cornell-communications-b46017654687"
+      ],
+      "document_types": [
+        "datasheet",
+        "reference"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "B-5243B",
+      "record_ids": [
+        "cornell-communications-18b8abfc6dd5"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "B-5248A",
+      "record_ids": [
+        "cornell-communications-2265ae2b0544"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "P-512241A",
+      "record_ids": [
+        "cornell-communications-b9cf8a7e6760"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "P-512243A",
+      "record_ids": [
+        "cornell-communications-b60b9d731108"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "RC-400D",
+      "record_ids": [
+        "cornell-communications-6dc734f31f73"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "model": "SW-510",
+      "record_ids": [
+        "cornell-communications-b46017654687"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "CareAssist",
+      "record_ids": [
+        "tunstall-0df937d562c4",
+        "tunstall-64a2f3bacca0"
+      ],
+      "document_types": [
+        "datasheet",
+        "programming"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Communicall Connect",
+      "record_ids": [
+        "tunstall-1f4d5c31dcef",
+        "tunstall-524380c89621",
+        "tunstall-b4c5f0a8a09b",
+        "tunstall-c08117ee2b9e",
+        "tunstall-c992f2bd1a4b"
+      ],
+      "document_types": [
+        "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Communicall Digital",
+      "record_ids": [
+        "tunstall-520298b7bee2",
+        "tunstall-7b5ae9a6ad34",
+        "tunstall-b76b00808f8c"
+      ],
+      "document_types": [
+        "datasheet",
+        "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Communicall Vi",
+      "record_ids": [
+        "tunstall-7eb166f62d26",
+        "tunstall-c300a4f9a750"
+      ],
+      "document_types": [
+        "quick-start"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Communicall Vi IP",
+      "record_ids": [
+        "tunstall-0889762b594a",
+        "tunstall-1d7103b3c85f",
+        "tunstall-3302d754e937",
+        "tunstall-6674254bb08d",
+        "tunstall-74f7bb89ddf8",
+        "tunstall-97c3d30e9ab4",
+        "tunstall-ef413d7936f7"
+      ],
+      "document_types": [
+        "datasheet",
+        "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Communicall Vision",
+      "record_ids": [
+        "tunstall-15c600246a2a",
+        "tunstall-4a793d290e0d",
+        "tunstall-6953f8d039fe",
+        "tunstall-a4becf696f78",
+        "tunstall-e3345fde5d0f",
+        "tunstall-e7217a7b3c4f"
+      ],
+      "document_types": [
+        "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "ConnectCall",
+      "record_ids": [
+        "tunstall-354c1ede2ca7"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Telecare Overlay",
+      "record_ids": [
+        "tunstall-021d2a0ce8dc",
+        "tunstall-1b36b2c6e153"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Advent XT",
+      "record_ids": [
+        "tynetec-0bbfd6f9595e",
+        "tynetec-0bf0ff779621",
+        "tynetec-155ca5c9e882",
+        "tynetec-1d41e528ebf0",
+        "tynetec-1d7ba42afbd3",
+        "tynetec-22e0e2b16b61",
+        "tynetec-37cf0e610cb6",
+        "tynetec-3a872698261c",
+        "tynetec-3a9ac63e935f",
+        "tynetec-3baaa9a59889",
+        "tynetec-470bfa58c1b2",
+        "tynetec-4c3886c60688",
+        "tynetec-4e0adaf53e15",
+        "tynetec-5265690fcfa6",
+        "tynetec-55bc9ba952e4",
+        "tynetec-586bb7673a2f",
+        "tynetec-64d96c871c44",
+        "tynetec-6a692fe39f77",
+        "tynetec-6ca075804469",
+        "tynetec-76eb0da14a5f",
+        "tynetec-7b16423ee925",
+        "tynetec-84de6f4a15df",
+        "tynetec-877c5f7a7164",
+        "tynetec-8e48e3f81371",
+        "tynetec-9c5e09a9c1b4",
+        "tynetec-9dc8c8bfa0b7",
+        "tynetec-a24029a6fdb6",
+        "tynetec-ae4c01eb4a6f",
+        "tynetec-b6c0a68c6c6d",
+        "tynetec-b9c2d63d6565",
+        "tynetec-c1a7d173ca32",
+        "tynetec-c3b8e36ffd4e",
+        "tynetec-c97f6052fcd3",
+        "tynetec-ca7d7ef642ca",
+        "tynetec-cab04a6c3c3c",
+        "tynetec-ceeb9047ffe7",
+        "tynetec-d9fcd2792b2d",
+        "tynetec-df5d78f17e70",
+        "tynetec-e3e280bc31ad",
+        "tynetec-f5d85af18710",
+        "tynetec-f61d47d65939",
+        "tynetec-fe5ee99d138b",
+        "tynetec-ffcb2add50bd"
+      ],
+      "document_types": [
+        "application-note",
+        "diagram",
+        "installation",
+        "programming",
+        "troubleshooting",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Advent XT2",
+      "record_ids": [
+        "tynetec-03fc00e71da0",
+        "tynetec-07f48a192e2a",
+        "tynetec-0aea57173a92",
+        "tynetec-0e6b97e2875a",
+        "tynetec-1048e614c65e",
+        "tynetec-10c696b8c241",
+        "tynetec-117366e42d2d",
+        "tynetec-118bf3aa49ad",
+        "tynetec-1231b8a9f3ca",
+        "tynetec-14ed3bdd2f43",
+        "tynetec-3e7fa70930dc",
+        "tynetec-3fe75740c18e",
+        "tynetec-4d2ce90a151a",
+        "tynetec-4fc77ce3dec6",
+        "tynetec-5577e94ec5fe",
+        "tynetec-632066cf3a13",
+        "tynetec-7276a21f4991",
+        "tynetec-76a7189ff1cc",
+        "tynetec-8097e5c741e8",
+        "tynetec-80b420594c02",
+        "tynetec-99484148e9b5",
+        "tynetec-bac94438823c",
+        "tynetec-c0427d3d591c",
+        "tynetec-c067cd8ff03d",
+        "tynetec-cccbd788ab8a",
+        "tynetec-dba4025c5046",
+        "tynetec-de64fbfa50e1",
+        "tynetec-f26bfc1224a6",
+        "tynetec-f4266902dc2a",
+        "tynetec-f974a6175446"
+      ],
+      "document_types": [
+        "application-note",
+        "datasheet",
+        "diagram",
+        "installation",
+        "programming",
+        "reference",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Reach",
+      "record_ids": [
+        "tynetec-07742f75a3d9"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Reach / Reach Plus",
+      "record_ids": [
+        "tynetec-ae2b42c164c7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Reach IP",
+      "record_ids": [
+        "tynetec-415a14dd04e6",
+        "tynetec-800e45fec8d1",
+        "tynetec-dadb4e0beb94"
+      ],
+      "document_types": [
+        "installation",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Reach Plus",
+      "record_ids": [
+        "tynetec-054d4911b783"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Reach Plus GSM",
+      "record_ids": [
+        "tynetec-34553515be0c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Reach Ultra",
+      "record_ids": [
+        "tynetec-af9eb1e6eb38"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "Safe Call ZSA260",
+      "record_ids": [
+        "tynetec-1fb57c458485"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT350 range extender",
+      "record_ids": [
+        "tynetec-6e3a2ac9c24a"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT360 translator repeater",
+      "record_ids": [
+        "tynetec-a78065ae8286"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     }
   ]

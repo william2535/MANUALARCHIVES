@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-21",
-  "catalogue_sha256": "d920d90f2ef5bf3f9494bf86a8ddbb4d0ea2c57f95116450bc212bef402222d4",
+  "catalogue_sha256": "ca4e6fd80882d0b2a7dbf83f68797274c588ef46e7b5c9f514dfceec9aaca2c1",
   "repository_url": "https://github.com/william2535/MANUALARCHIVES",
   "distribution": "source-link-only",
-  "record_count": 3431,
+  "record_count": 3555,
   "download_status_counts": {
-    "complete-file": 243,
+    "complete-file": 367,
     "file-hash": 265,
     "listed": 1603,
     "pdf-header": 1,
@@ -56160,6 +56160,393 @@
       }
     },
     {
+      "id": "cornell-communications-18b8abfc6dd5",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "B-5243B"
+      ],
+      "title": "B-5243B power supply datasheet",
+      "document_type": "datasheet",
+      "document_number": "DB5243BC",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/b-5243b_power_supply-datasheet",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/b-5243b_power_supply-datasheet.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/b-5243b_power_supply-datasheet.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ef98447c408d699d84ad3462b31f7887c5ea816e4c7b7c2b865af5dff6b5343d",
+          "bytes": 206578,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-2265ae2b0544",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "B-5248A"
+      ],
+      "title": "B-5248A power supply datasheet",
+      "document_type": "datasheet",
+      "document_number": "DB5248AC",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/b-5248a_power_supply-datasheet",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/b-5248a_power_supply-datasheet.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/b-5248a_power_supply-datasheet.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "f46ad5099ef41974f5e464568ee7cd27f2b73b32c69d5d0e015679a99ce51a7e",
+          "bytes": 213436,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-4a972687a79a",
+      "category": "fire",
+      "brand": "Cornell Communications",
+      "models": [
+        "A-4200 Series"
+      ],
+      "title": "A-4200 Series rescue assistance annunciator datasheet",
+      "document_type": "datasheet",
+      "document_number": "DA4200C",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/a-4200_series_annunciator_panels-datasheet-2012",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/a-4200_series_annunciator_panels-datasheet-2012.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/a-4200_series_annunciator_panels-datasheet-2012.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "1dd11e402a17e2a7a1fcc0f49b9a578dd22a064440956dae1acbe24f059ca393",
+          "bytes": 403313,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-532f8c5555f4",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "4000 Series nurse call"
+      ],
+      "title": "4000 Series nurse call component selection",
+      "document_type": "reference",
+      "document_number": "D4000P-3",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/4000-series_nurse_call_systems-datasheet-d4000p-3",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/4000-series_nurse_call_systems-datasheet-d4000p-3.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/4000-series_nurse_call_systems-datasheet-d4000p-3.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "0b8550d41e9aff8b051f79260ac6d8bd0794cf8b96db062053f1330cee457790",
+          "bytes": 67064,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-5415086b3536",
+      "category": "fire",
+      "brand": "Cornell Communications",
+      "models": [
+        "4200 Series rescue assistance"
+      ],
+      "title": "4200 Series rescue assistance operating instructions",
+      "document_type": "user-guide",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/4200_series_rescue_assistance_system-operations-2010",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/4200_series_rescue_assistance_system-operations-2010.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/4200_series_rescue_assistance_system-operations-2010.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "de87ff56e0243289dafd3aaaaba818974e0d048ee4ad92104a2d8d20656b225e",
+          "bytes": 82775,
+          "page_count": 7
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-6dc734f31f73",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "RC-400D"
+      ],
+      "title": "RC-400D transmitter receiver datasheet",
+      "document_type": "datasheet",
+      "document_number": "DAURA-14",
+      "revision_hint": "081003",
+      "revision_basis": "PDF footer date/revision code; date interpretation not inferred",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "d0ea9786187e9f74ab266af891a8f66555941cce4da12543f1d7d11233c8fe4d",
+          "bytes": 917918,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-b46017654687",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "SW-510",
+        "4000 Series nurse call"
+      ],
+      "title": "SW-510 nurse-call pendant cord datasheet",
+      "document_type": "datasheet",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/sw-510_hand-held_pendant_call_cord-datasheet",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/sw-510_hand-held_pendant_call_cord-datasheet.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/sw-510_hand-held_pendant_call_cord-datasheet.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "bea09447e48ceed27415f04e0a24ca1be47ec6918359a2f1866ec1d9a405bbd1",
+          "bytes": 133508,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-b60b9d731108",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "P-512243A"
+      ],
+      "title": "P-512243A power supply datasheet",
+      "document_type": "datasheet",
+      "document_number": "DP51223AC",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/p-512241a_and_p-512243a_power_supply-datasheet",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/p-512241a_and_p-512243a_power_supply-datasheet.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/p-512241a_and_p-512243a_power_supply-datasheet.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ecbaeb8d1b9040c9bb43e5e1f0b01a11753c86d9befda2020a53b4d967b1fd7c",
+          "bytes": 210361,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-b9cf8a7e6760",
+      "category": "warden-call",
+      "brand": "Cornell Communications",
+      "models": [
+        "P-512241A"
+      ],
+      "title": "P-512241A power supply datasheet",
+      "document_type": "datasheet",
+      "document_number": "DP51221AC",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/p-512241a_power_supply-datasheet-dp51221ac",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/p-512241a_power_supply-datasheet-dp51221ac.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/p-512241a_power_supply-datasheet-dp51221ac.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ec73467f1fb4d163bdea4979229295d87ef0f79a6a9937afb83a4588155098bf",
+          "bytes": 239288,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "cornell-communications-d6b88acd751c",
+      "category": "fire",
+      "brand": "Cornell Communications",
+      "models": [
+        "4200 Series rescue assistance",
+        "8010-281"
+      ],
+      "title": "4200 Series factory wiring harness diagram",
+      "document_type": "diagram",
+      "document_number": "D4200W-E",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Independent archive copy of a US manufacturer document; UK system applicability is not established.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "2da28a796b5ea39aa4407ff794b4b41433ededab47f9cc6d19797fc7db0bd002",
+          "bytes": 2079214,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "csl-6ac8dc8828c7",
+      "category": "warden-call",
+      "brand": "CSL",
+      "models": [
+        "CSL Router (Advent XT2 connectivity)"
+      ],
+      "title": "CSL Router quick guide and instruction manual",
+      "document_type": "quick-start",
+      "document_number": "W01920",
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. CSL-authored router guide supplied by Tynetec for Advent XT2 connectivity.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/W01920-Mobile-Broadband-Router-Quick-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/W01920-Mobile-Broadband-Router-Quick-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "edeb1c9718a2065a2fed50a8ed8a5f5bc8c2b68eeb361de04ab9d7585f585943",
+          "bytes": 583831,
+          "page_count": 8
+        }
+      }
+    },
+    {
       "id": "dahua-06a7bdf379bf",
       "category": "cctv",
       "brand": "Dahua",
@@ -70321,6 +70708,41 @@
           "sha256": "78b5e957c8f6774d5375c246a08217899d5f58086a64ca004842170b399cf1b1",
           "bytes": 1500580,
           "page_count": 20
+        }
+      }
+    },
+    {
+      "id": "jeron-9c1e6b0b0006",
+      "category": "fire",
+      "brand": "Jeron",
+      "models": [
+        "Pro-Alert 450"
+      ],
+      "title": "Pro-Alert 450 rescue assistance datasheet",
+      "document_type": "datasheet",
+      "document_number": null,
+      "revision_hint": "REV01/04/07",
+      "revision_basis": "PDF footer; ambiguous numeric date retained verbatim",
+      "verified_revision": "REV01/04/07",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "archive",
+      "source_url": "https://facpmanuals.com/manuals/jeron/pro-alert_450_area_of_rescue_assistance-datasheet-2007",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer PDF product heading; downloaded from independent FACP Manuals archive.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. US ADA rescue-assistance document, separate from UK warden-call systems.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://docs.facpmanuals.com/manuals/Jeron/pro-alert_450_area_of_rescue_assistance-datasheet-2007.pdf",
+        "source_page_url": "https://docs.facpmanuals.com/manuals/Jeron/pro-alert_450_area_of_rescue_assistance-datasheet-2007.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6e19c066e5e3fcc5f56c4b947687838b7717f2827ce5a0e0547d76c9d90fe275",
+          "bytes": 596531,
+          "page_count": 2
         }
       }
     },
@@ -117834,6 +118256,3926 @@
           "sha256": "7ba874422420c1cd5cbd8728b5685a03902407930d01d17ba95ed00c9bd90d3e",
           "bytes": 2313029,
           "page_count": 16
+        }
+      }
+    },
+    {
+      "id": "tunstall-021d2a0ce8dc",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Telecare Overlay"
+      ],
+      "title": "Telecare overlay user manual",
+      "document_type": "user-guide",
+      "document_number": "D9407111A",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9407111a_telecare_overlay_user_manual.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9407111a_telecare_overlay_user_manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "122ed0198ef9b634f27e9e4f64efd23bf4ebe42c94469c0ae632aa387a0cdf9f",
+          "bytes": 107626,
+          "page_count": 5
+        }
+      }
+    },
+    {
+      "id": "tunstall-0889762b594a",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP user guide",
+      "document_type": "user-guide",
+      "document_number": "D9507044A",
+      "revision_hint": "Version 301118v9",
+      "revision_basis": "PDF cover version",
+      "verified_revision": "Version 301118v9",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507044a3_vi-ip-user-guide_301118v9_issue_final.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507044a3_vi-ip-user-guide_301118v9_issue_final.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "e9c467811d0f4c545ec8741bc79bdb599c1f983d78c0d875e15cab306a3bf9c9",
+          "bytes": 861303,
+          "page_count": 16
+        }
+      }
+    },
+    {
+      "id": "tunstall-0df937d562c4",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "CareAssist"
+      ],
+      "title": "CareAssist datasheet",
+      "document_type": "datasheet",
+      "document_number": null,
+      "revision_hint": "Version 2019_v0",
+      "revision_basis": "PDF footer version",
+      "verified_revision": "Version 2019_v0",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/careassist-datasheet.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/careassist-datasheet.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "72f66402855b842edac68a54e397e0e4f170a9c7bf61de45eefae5d642c32971",
+          "bytes": 493947,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-15c600246a2a",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vision"
+      ],
+      "title": "Intruder system communicall vision 2 user instructions",
+      "document_type": "user-guide",
+      "document_number": "D9007045A",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9007045a_intruder_system_communicall_vision_2_user_instructions.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9007045a_intruder_system_communicall_vision_2_user_instructions.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "f34346d04b0ab8de90c01a8550b32607041586067aba7f83f45b56bf1d094628",
+          "bytes": 527228,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-1b36b2c6e153",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Telecare Overlay"
+      ],
+      "title": "Telecare overlay user guide",
+      "document_type": "user-guide",
+      "document_number": "D3607108A",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d3607108a_telecare_overlay_user_guide.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d3607108a_telecare_overlay_user_guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "c0211cd071ab9a9fd9d6172b8a86153d62d5befbf54ac5b5b0187f90ba1c3196",
+          "bytes": 586446,
+          "page_count": 16
+        }
+      }
+    },
+    {
+      "id": "tunstall-1d7103b3c85f",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP manager user guide",
+      "document_type": "user-guide",
+      "document_number": "D9507043B1",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. The Atcom-labelled and PC-PBX-labelled links return byte-identical documents; PBX-specific applicability is not established by the differing link labels.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507043b1_communicall-vi-ip-manager-guide-pc-pbx-phase-2.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507043b1_communicall-vi-ip-manager-guide-pc-pbx-phase-2.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "09b1a7b0f5dfec58dded383636d7649e614dd18c596c3ee0c437ce8e4371994b",
+          "bytes": 3520534,
+          "page_count": 32
+        }
+      }
+    },
+    {
+      "id": "tunstall-1f4d5c31dcef",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Connect"
+      ],
+      "title": "Communicall connect 4button user card",
+      "document_type": "quick-start",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/4_communicall_connect_4button_user_card.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/4_communicall_connect_4button_user_card.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "432c46e17467c98760ebe09588930ce3312b82b5dba1b34330b0995cf9451f7a",
+          "bytes": 173062,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-3302d754e937",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP 2N door panel resident quick guide",
+      "document_type": "quick-start",
+      "document_number": "D9507037B",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/quick_ref_2n_door_panel_d9507037b.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/quick_ref_2n_door_panel_d9507037b.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "92ff2301efb8008e96aa5728ce3b498958f502a7355b072d9c1bade9acf9a69f",
+          "bytes": 130774,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-354c1ede2ca7",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "ConnectCall"
+      ],
+      "title": "ConnectCall user guide",
+      "document_type": "user-guide",
+      "document_number": "D9507031B",
+      "revision_hint": null,
+      "revision_basis": "manufacturer-filename; printed document number and revision not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/connectcall_user_d9507031b.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/connectcall_user_d9507031b.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "891eddbad681160d6a47c87fbd339b66f6119c237b00c0aaeb15dd9c419a0e58",
+          "bytes": 627428,
+          "page_count": 32
+        }
+      }
+    },
+    {
+      "id": "tunstall-4a793d290e0d",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vision"
+      ],
+      "title": "Communicall Vision user manual",
+      "document_type": "user-guide",
+      "document_number": "D9307003C",
+      "revision_hint": "Issue C",
+      "revision_basis": "PDF footer and revision history",
+      "verified_revision": "Issue C",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9307003c_communicall_vision_user_manual.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9307003c_communicall_vision_user_manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4915f22b49395b2281bf3c592db77d757e53d27c04d14c7ca41f655aef6691a8",
+          "bytes": 343833,
+          "page_count": 64
+        }
+      }
+    },
+    {
+      "id": "tunstall-520298b7bee2",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Digital"
+      ],
+      "title": "Communicall Digital resident quick reference",
+      "document_type": "quick-start",
+      "document_number": null,
+      "revision_hint": "Rev 10/2024",
+      "revision_basis": "PDF footer revision",
+      "verified_revision": "Rev 10/2024",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/products/warden-call-systems/communicall-digital/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/downloads/communicall-digital-quick-reference-guide/",
+        "source_page_url": "https://www.tunstall.co.uk/downloads/communicall-digital-quick-reference-guide/",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "56c887729e0ca73001e3897f7b5e66dd38126ebee04f56089c4ed0d00c206489",
+          "bytes": 200766,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-524380c89621",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Connect"
+      ],
+      "title": "Communicall connect1button user card cancel at source",
+      "document_type": "quick-start",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/5_communicall_connect1button_user_card_cancel_at_source.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/5_communicall_connect1button_user_card_cancel_at_source.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "05d57323e5e359859efa33fce7cbd40e6cb16f8e6e117529ba5571153ba84088",
+          "bytes": 152469,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-64a2f3bacca0",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "CareAssist"
+      ],
+      "title": "CareAssist programming and user guide",
+      "document_type": "programming",
+      "document_number": "D6707281F",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707281f1_careassist_programming_and_user_guide.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707281f1_careassist_programming_and_user_guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "948724ab9eb7e27257c9b77939ecc953930cbf7785cb7a7fd540dc61594b90fa",
+          "bytes": 401661,
+          "page_count": 24
+        }
+      }
+    },
+    {
+      "id": "tunstall-6674254bb08d",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP 2N door panel resident quick guide — 7-inch room unit",
+      "document_type": "quick-start",
+      "document_number": "D9507039B",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/quick_ref_2n_door_panel_7inch_d9507039b.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/quick_ref_2n_door_panel_7inch_d9507039b.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "32dbc36bb99d4d0e9303a76c8e2ea620f9e69c409e47a539f1dd7d987db28d30",
+          "bytes": 145926,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-6953f8d039fe",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vision"
+      ],
+      "title": "Communicall vision 3 button user card",
+      "document_type": "quick-start",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/1_communicall_vision_3_button_user_card.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/1_communicall_vision_3_button_user_card.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "887bf4a82c7dd505e38779ada10e19a7082c21f95b70087a4547ee08a8ff0b7b",
+          "bytes": 273372,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-74f7bb89ddf8",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP GXV3275 resident user guide",
+      "document_type": "user-guide",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Both resident files name GXV3275 in their PDF text; the publisher link labelled GXV3240 is not treated as verified GXV3240 applicability.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/comm_vi_ip_userguide_resident_gxv3275.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/comm_vi_ip_userguide_resident_gxv3275.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "927fb964d98f820d80207e846a560ef0f1b124f3a0b30c37c6bd05b477366309",
+          "bytes": 562370,
+          "page_count": 12
+        }
+      }
+    },
+    {
+      "id": "tunstall-7b5ae9a6ad34",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Digital"
+      ],
+      "title": "Communicall Digital system user guide",
+      "document_type": "user-guide",
+      "document_number": null,
+      "revision_hint": "Version 1.4",
+      "revision_basis": "PDF cover and revision table (30 July 2026)",
+      "verified_revision": "Version 1.4",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/products/warden-call-systems/communicall-digital/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/downloads/communicall-digital-user-guide/",
+        "source_page_url": "https://www.tunstall.co.uk/downloads/communicall-digital-user-guide/",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "526ab255f13361436004636b64b9ab26981d8c731e29624659d3dc12e81363bd",
+          "bytes": 2027849,
+          "page_count": 29
+        }
+      }
+    },
+    {
+      "id": "tunstall-7eb166f62d26",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi"
+      ],
+      "title": "Communicall Vi DECT manager quick reference",
+      "document_type": "quick-start",
+      "document_number": "D9507006B",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507006b_dect_managers_quick_ref.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507006b_dect_managers_quick_ref.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "c17b8811da4152162258288105b1cbdf5711aadd87afc7fbddbbe8a4b58147ea",
+          "bytes": 39100,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tunstall-97c3d30e9ab4",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP GXV3275 resident user guide (alternate publisher file)",
+      "document_type": "user-guide",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Both resident files name GXV3275 in their PDF text; the publisher link labelled GXV3240 is not treated as verified GXV3240 applicability.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/comm_vi_ip_userguide_resident_gxv3275-1.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/comm_vi_ip_userguide_resident_gxv3275-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "d86c33442501d4b32e0782a944924ddd3a206a0d2cbb971cf8f0bbfbe72e3df6",
+          "bytes": 562370,
+          "page_count": 12
+        }
+      }
+    },
+    {
+      "id": "tunstall-a4becf696f78",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vision"
+      ],
+      "title": "Communicall vision qrc",
+      "document_type": "quick-start",
+      "document_number": "D9307001A0",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9307001a0_communicall_vision_qrc.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9307001a0_communicall_vision_qrc.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "c17c9947b4d62c7bd47f2faef459fd26ddc94f746a95e50410b756cb9e430456",
+          "bytes": 25114,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-b4c5f0a8a09b",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Connect"
+      ],
+      "title": "Communicall connect1button user card",
+      "document_type": "quick-start",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/3_communicall_connect1button_user_card.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/3_communicall_connect1button_user_card.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "90380f9955a05e8613708e9699e089dbadfa085ab2b1f84382f910ed85f24852",
+          "bytes": 177475,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-b76b00808f8c",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Digital"
+      ],
+      "title": "Communicall Digital product sheet",
+      "document_type": "datasheet",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/products/warden-call-systems/communicall-digital/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/downloads/communicall-digital-datasheet/",
+        "source_page_url": "https://www.tunstall.co.uk/downloads/communicall-digital-datasheet/",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "e42818848f83d7734a8bc5b176eefd1edbe61b161e7a9e93b8651a1e9d2053a8",
+          "bytes": 285773,
+          "page_count": 4
+        }
+      }
+    },
+    {
+      "id": "tunstall-c08117ee2b9e",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Connect"
+      ],
+      "title": "Communicall connect sm user card how to call the scheme manager",
+      "document_type": "quick-start",
+      "document_number": "D9507030B",
+      "revision_hint": null,
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507030b_communicall_connect_sm_user_card-how_to_call_the_scheme_manager.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507030b_communicall_connect_sm_user_card-how_to_call_the_scheme_manager.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "3fe4417f20750df434a3445e5a3f4af73b2af92e545bf415cc0c68d1cc134a0b",
+          "bytes": 151683,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-c300a4f9a750",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi"
+      ],
+      "title": "Communicall Vi EnGenius manager quick reference",
+      "document_type": "quick-start",
+      "document_number": "D9507007B",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507007b_engenius_managers_quick_ref.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507007b_engenius_managers_quick_ref.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "dedbb19d61d45a1224358cb5fc410dedc413e3f4b00caf1fb3b189dc1c3a8414",
+          "bytes": 37932,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tunstall-c992f2bd1a4b",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Connect"
+      ],
+      "title": "Communicall Connect user guide",
+      "document_type": "user-guide",
+      "document_number": "D9507020F",
+      "revision_hint": null,
+      "revision_basis": "manufacturer-filename; printed document number and revision not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507020f_communicall_connect_user_guide.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9507020f_communicall_connect_user_guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "049f1fafe759e3143038830d03a71d550e1a45ad503e66eb3477341db61b2cae",
+          "bytes": 1361951,
+          "page_count": 50
+        }
+      }
+    },
+    {
+      "id": "tunstall-e3345fde5d0f",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vision"
+      ],
+      "title": "Communicall vision no button user card",
+      "document_type": "quick-start",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/2_communicall_vision_no_button_user_card.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/2_communicall_vision_no_button_user_card.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6c3148bf14e6d5387d530dcb6e0fc089c7d855cf3396efac5d177b73053fded2",
+          "bytes": 175961,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tunstall-e7217a7b3c4f",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vision"
+      ],
+      "title": "Communicall Vision speech module",
+      "document_type": "user-guide",
+      "document_number": "D9307005A1",
+      "revision_hint": null,
+      "revision_basis": "PDF document-number imprint; separate revision not established",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9307005a1_communicall_vison_speech_module.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9307005a1_communicall_vison_speech_module.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "7aff6ddf056c34324fa8db4df61cb32d12ab0d048c1963bb22d80a96904e649d",
+          "bytes": 22075,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tunstall-ef413d7936f7",
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "models": [
+        "Communicall Vi IP"
+      ],
+      "title": "Communicall Vi IP datasheet",
+      "document_type": "datasheet",
+      "document_number": null,
+      "revision_hint": "Version v10318",
+      "revision_basis": "PDF footer version; upload filename year is not the printed version",
+      "verified_revision": "Version v10318",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/communicall-vi-ip-datasheet-2021.pdf",
+        "source_page_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/communicall-vi-ip-datasheet-2021.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ca32c28f5b76d9e4a2e09d4764d0ea8a8f4e50b0ea247e1d4dd6336e7b591473",
+          "bytes": 261887,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tynetec-03fc00e71da0",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0804",
+      "revision_hint": "Issue 17",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 17",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/09/FM0804-17-Advent-XT2-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2025/09/FM0804-17-Advent-XT2-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "be062f48dd01bfa89ad6035d23613e7fc7917bc1cec5503500fc648300fc2b98",
+          "bytes": 3466107,
+          "page_count": 63
+        }
+      }
+    },
+    {
+      "id": "tynetec-054d4911b783",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach Plus"
+      ],
+      "title": "Reach Plus User Installation Guide",
+      "document_type": "installation",
+      "document_number": "FM0662",
+      "revision_hint": "Issue ue",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue ue",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0662-E-Reach-Plus-User-Installation-Guide-2.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0662-E-Reach-Plus-User-Installation-Guide-2.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "e40a6dc73052427fc4412d7046afbe7d6158bd4ba5eb4dd12bb26f880ecf8989",
+          "bytes": 3640684,
+          "page_count": 40
+        }
+      }
+    },
+    {
+      "id": "tynetec-07742f75a3d9",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach"
+      ],
+      "title": "Reach User Installation Guide",
+      "document_type": "installation",
+      "document_number": "FM0621",
+      "revision_hint": "F",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0621-F-Reach-User-Installation-Guide-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0621-F-Reach-User-Installation-Guide-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ddb9bbbe0bcf3b867445395882578053c359169c90cde91d944b6eced6550663",
+          "bytes": 2704617,
+          "page_count": 28
+        }
+      }
+    },
+    {
+      "id": "tynetec-07f48a192e2a",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 manager display panel user manual",
+      "document_type": "user-guide",
+      "document_number": "FM0817",
+      "revision_hint": "Revision 6",
+      "revision_basis": "PDF cover and revision imprint",
+      "verified_revision": "Revision 6",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2026/01/FM0817-6-Managers-Panel-User-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2026/01/FM0817-6-Managers-Panel-User-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "508a418676e279f449f791422721778e4889a3d38a5cdf56b7a429e5b7a623c6",
+          "bytes": 2875178,
+          "page_count": 36
+        }
+      }
+    },
+    {
+      "id": "tynetec-0aea57173a92",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent xt ZXT290 Combined Intercom User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0856",
+      "revision_hint": "Issue A",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue A",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0856-A-Advent-xt-ZXT290-Combined-Intercom-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0856-A-Advent-xt-ZXT290-Combined-Intercom-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "553882be6468b7a97638ebfed0507029eb5c9452294a4d4d763f5c7f658dbad7",
+          "bytes": 501676,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-0bbfd6f9595e",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Mobile NOT dialling into system",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Mobile-NOT-dialling-into-system-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Mobile-NOT-dialling-into-system-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "0133ddb27918f80c1fce3f1f9b392ffcad8d69baa359c99e54d4f5cf5a9347a2",
+          "bytes": 929155,
+          "page_count": 4
+        }
+      }
+    },
+    {
+      "id": "tynetec-0bf0ff779621",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt CSL DualCom SafeLink Wiring Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0296",
+      "revision_hint": "B",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0296_B-Advent_xt_CSL_DualCom_SafeLink_Wiring_Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0296_B-Advent_xt_CSL_DualCom_SafeLink_Wiring_Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "525b12f9eb59dd9ad9e9d96ff0e829263edca6e12923a87493b1fcc06fc096ec",
+          "bytes": 42351,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-0e6b97e2875a",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Telephone User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0852",
+      "revision_hint": "Issue B",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue B",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0852-B-Advent-XT2-Telephone-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0852-B-Advent-XT2-Telephone-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "03827232a422f2f7757989d1e6aeefb3b50cff2588c95c4bdd77b0b7c1a5ee53",
+          "bytes": 493780,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tynetec-1048e614c65e",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 User Manual ascom",
+      "document_type": "user-guide",
+      "document_number": "FM0857",
+      "revision_hint": "Issue 6",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 6",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/10/FM0857-6-Advent-XT2-User-Manual-ascom.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/10/FM0857-6-Advent-XT2-User-Manual-ascom.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4705f392d7712f1dfc8fe64365a8cfcf6f4148a1e405883329cee6ded6adc2ae",
+          "bytes": 799613,
+          "page_count": 24
+        }
+      }
+    },
+    {
+      "id": "tynetec-10c696b8c241",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0297",
+      "revision_hint": "B",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/WD0297_B-Advent-XT2-Block-Diagram.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/WD0297_B-Advent-XT2-Block-Diagram.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4471869c3ba3ec8dd1c61506a2c84b9d5d4a13c0c186bf28eb0f00d5cf62ff66",
+          "bytes": 424776,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-117366e42d2d",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Spectralink IP DECT Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0814",
+      "revision_hint": "Issue 4",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 4",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0814-4-Advent-XT2-Spectralink-IP-DECT-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0814-4-Advent-XT2-Spectralink-IP-DECT-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "3f179a04ebcd02caed8e66b6e20d877c5acf668dc5d500a2512f46fe94c48566",
+          "bytes": 1723882,
+          "page_count": 48
+        }
+      }
+    },
+    {
+      "id": "tynetec-118bf3aa49ad",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Spectralink IP DECT Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0814",
+      "revision_hint": "Issue 6",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 6",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/02/FM0814-6-Advent-XT2-Spectralink-IP-DECT-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2025/02/FM0814-6-Advent-XT2-Spectralink-IP-DECT-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6790150b5de3d3d2c22eb9112b6556be7fee615dc9404eab15173072fadcd96c",
+          "bytes": 1351443,
+          "page_count": 38
+        }
+      }
+    },
+    {
+      "id": "tynetec-1231b8a9f3ca",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent xt Lift Callpoint General Arrangement",
+      "document_type": "diagram",
+      "document_number": "ZXT260",
+      "revision_hint": "GA",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT260_GA-Advent_xt_Lift-Callpoint_General_Arrangement-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT260_GA-Advent_xt_Lift-Callpoint_General_Arrangement-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "7989fd901dfa87862846243ae04e3839013cc37a2fa9b1d4f8b60cd43852cfb5",
+          "bytes": 206374,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-14ed3bdd2f43",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Intercom User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0818",
+      "revision_hint": "Issue B",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue B",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0818-B-Advent-XT2-Intercom-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0818-B-Advent-XT2-Intercom-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "545b0a53620078292f3cd4e153d654940c4690f671f73e450bc0e7dbb2ba8983",
+          "bytes": 151235,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-155ca5c9e882",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — DE Comb WCall Audio Issues on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-Comb-WCall-Audio-Issues-on-XT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-Comb-WCall-Audio-Issues-on-XT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "d2f4278581c807fa34cfa89642cd856cab5258ffcfdc891541580ddca71fd032",
+          "bytes": 1373017,
+          "page_count": 8
+        }
+      }
+    },
+    {
+      "id": "tynetec-1d41e528ebf0",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Pendant allocation NOT working on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Pendant-allocation-NOT-working-on-XT-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Pendant-allocation-NOT-working-on-XT-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6d41903f4a1a8208df2199638502095e709d0f3ee9de5bc9260e0398ede16afe",
+          "bytes": 873050,
+          "page_count": 5
+        }
+      }
+    },
+    {
+      "id": "tynetec-1d7ba42afbd3",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0273",
+      "revision_hint": "M",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0273_M-Advent_XT_Block_Diagram.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0273_M-Advent_XT_Block_Diagram.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "1d64e52e1d4b2f49092a02f62d9eb69e5b1e36f53818793f1068b080fc4d1fb3",
+          "bytes": 118263,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-1fb57c458485",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Safe Call ZSA260"
+      ],
+      "title": "Safe Call telephone isolation guide",
+      "document_type": "reference",
+      "document_number": "FM0590",
+      "revision_hint": "Issue C",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue C",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0590-C-Safe-Call-Reach-Plus-At-Home-Alarm.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0590-C-Safe-Call-Reach-Plus-At-Home-Alarm.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "72a218d3b393988f2e1e5ffbd74ccdc3bbd01d4883fd6c859889fb54ea17c70e",
+          "bytes": 374622,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tynetec-22e0e2b16b61",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — ARC CANNOT dialling into system",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/ARC-CANNOT-dialling-into-system-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/ARC-CANNOT-dialling-into-system-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "1eea3c8c305e4c8a8f1e1f4a46952979074c2f749acd90ca702bdfab19c413ea",
+          "bytes": 930626,
+          "page_count": 4
+        }
+      }
+    },
+    {
+      "id": "tynetec-34553515be0c",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach Plus GSM"
+      ],
+      "title": "Reach Plus GSM User Installation Guide",
+      "document_type": "installation",
+      "document_number": "FM0737",
+      "revision_hint": "Issue ue",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue ue",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0737-D-Reach-Plus-GSM-User-Installation-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0737-D-Reach-Plus-GSM-User-Installation-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "b2202df51532b0985f9e31bcb3c635516fd07bf5b25e0e6f396b89382d247829",
+          "bytes": 3759310,
+          "page_count": 48
+        }
+      }
+    },
+    {
+      "id": "tynetec-37cf0e610cb6",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Managers Panel User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0665",
+      "revision_hint": "Issue D",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue D",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0665_D-Advent_xt_Managers_Panel_User_Guide-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0665_D-Advent_xt_Managers_Panel_User_Guide-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "e161134e1f8df35426ccfedc18955d0f7ee9907a8ed98ed2558fde73c73bd111",
+          "bytes": 693166,
+          "page_count": 20
+        }
+      }
+    },
+    {
+      "id": "tynetec-3a872698261c",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Firmware Upgrade Procedure",
+      "document_type": "application-note",
+      "document_number": "FM0447",
+      "revision_hint": "Issue 4",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 4",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0447_4-Advent_xt_Firmware_Upgrade_Procedure.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0447_4-Advent_xt_Firmware_Upgrade_Procedure.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "d5a84197156ba30c9c7989a5bcdecdcb75fd4a35a1eac0989156e5f9f85deb8d",
+          "bytes": 1530255,
+          "page_count": 17
+        }
+      }
+    },
+    {
+      "id": "tynetec-3a9ac63e935f",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Fire Alarm Tone NOT working on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Fire-Alarm-Tone-NOT-working-on-XT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Fire-Alarm-Tone-NOT-working-on-XT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "9afe015664e4c49149330ffa2954a9ec934efce9cf07a7031e9c29d645fb249d",
+          "bytes": 1463445,
+          "page_count": 13
+        }
+      }
+    },
+    {
+      "id": "tynetec-3baaa9a59889",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Spectralink IP DECT Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0301",
+      "revision_hint": "A",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0301-A-Spectralink-IP-DECT-Block-Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0301-A-Spectralink-IP-DECT-Block-Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4c761ff84796f5980add125edcc670898d2d7e02380a4d4ecc19069061aade83",
+          "bytes": 157352,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-3e7fa70930dc",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Ascom IP DECT Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0854",
+      "revision_hint": "Issue 4",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 4",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/11/FM0854-4-Advent-XT2-Ascom-IP-DECT-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/11/FM0854-4-Advent-XT2-Ascom-IP-DECT-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4ae130bf37bc08e9a448b4968b14df3ae5b33d0fd06bfb16a7235b831e7daf60",
+          "bytes": 1278409,
+          "page_count": 28
+        }
+      }
+    },
+    {
+      "id": "tynetec-3fe75740c18e",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Flash Programming Kit",
+      "document_type": "programming",
+      "document_number": "FM0877",
+      "revision_hint": "Issue 1",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 1",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/FM0877-1-Advent-XT2-Flash-Programming-Kit.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/FM0877-1-Advent-XT2-Flash-Programming-Kit.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "22fdfce2e2b33ad40c3f6877d20bc4a5df37341b9e128e394285225f16481b8d",
+          "bytes": 400713,
+          "page_count": 3
+        }
+      }
+    },
+    {
+      "id": "tynetec-415a14dd04e6",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach IP"
+      ],
+      "title": "Reach IP Pulse cloud management portal user guide",
+      "document_type": "user-guide",
+      "document_number": "FM0821",
+      "revision_hint": "V1.07",
+      "revision_basis": "PDF document-number and version imprint",
+      "verified_revision": "V1.07",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/07/FM0821-V1.07-Pulse-CMP-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/07/FM0821-V1.07-Pulse-CMP-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "32c62a4a86b5186ee8bcb073839050984db2f629ab3e8308a50d7673f43756ed",
+          "bytes": 1365727,
+          "page_count": 22
+        }
+      }
+    },
+    {
+      "id": "tynetec-470bfa58c1b2",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Operators GuideEngenius EP800",
+      "document_type": "user-guide",
+      "document_number": "FM0805",
+      "revision_hint": "Issue A",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue A",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0805-A-Advent-xt-Operators-GuideEngenius-EP800-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0805-A-Advent-xt-Operators-GuideEngenius-EP800-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "a0649e55ae8f77e54a65c9fecfdc33640800c4be88c2c26a4293d44d79e200f5",
+          "bytes": 2043118,
+          "page_count": 36
+        }
+      }
+    },
+    {
+      "id": "tynetec-4c3886c60688",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Door Panel General Arrangement",
+      "document_type": "diagram",
+      "document_number": "ZSD400",
+      "revision_hint": "GA",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZSD400_GA-Door_Panel_General_Arrangement-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZSD400_GA-Door_Panel_General_Arrangement-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "fa99bda924801a336a2c4f0236a408fc4a85d77a311dddc156a8107b2c4b43d2",
+          "bytes": 261147,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-4d2ce90a151a",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Spectralink IP DECT Wiring Diagrams",
+      "document_type": "diagram",
+      "document_number": "WD0303",
+      "revision_hint": "A",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2022/08/WD0303-A-Spectralink-IP-DECT-Wiring-Diagrams.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2022/08/WD0303-A-Spectralink-IP-DECT-Wiring-Diagrams.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "aa274aeb5f2fa874b4e6dcbed83878d42f9a6061a8e4935fa16a39baf96e13d1",
+          "bytes": 478955,
+          "page_count": 3
+        }
+      }
+    },
+    {
+      "id": "tynetec-4e0adaf53e15",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Windows 7 XP SLIP Compatibility Mode",
+      "document_type": "application-note",
+      "document_number": "FM0692",
+      "revision_hint": "Issue A",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue A",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0692_A-Advent_xt-Windows_7_XP_SLIP_Compatibility_Mode-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0692_A-Advent_xt-Windows_7_XP_SLIP_Compatibility_Mode-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "92fe0d19b1ded1c7b1e37800b0de3c63416cc1ba16876f12ddc8dcab7b1de15e",
+          "bytes": 2576896,
+          "page_count": 8
+        }
+      }
+    },
+    {
+      "id": "tynetec-4fc77ce3dec6",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Ascom VoWiFi Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0855",
+      "revision_hint": "Issue 3",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 3",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0855-3-Advent-XT2-Ascom-VoWiFi-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0855-3-Advent-XT2-Ascom-VoWiFi-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6296c49a08d029e0c31aadc3527d18c4d2f0ff2363c21288d3a79ce25131911b",
+          "bytes": 1538815,
+          "page_count": 33
+        }
+      }
+    },
+    {
+      "id": "tynetec-5265690fcfa6",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — DE Comb DEntry Audio Issues on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-Comb-DEntry-Audio-Issues-on-XT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-Comb-DEntry-Audio-Issues-on-XT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "0fc9bdc8aef1c63df165bd7b7388bdbb44073eac194c1c52e099982d60bae3e3",
+          "bytes": 1954548,
+          "page_count": 18
+        }
+      }
+    },
+    {
+      "id": "tynetec-5577e94ec5fe",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 User Manual Engenius",
+      "document_type": "user-guide",
+      "document_number": "FM0883",
+      "revision_hint": "Issue 2",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 2",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/10/FM0883-2-Advent-XT2-User-Manual-Engenius.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/10/FM0883-2-Advent-XT2-User-Manual-Engenius.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "196bdcc48369134ded0d708eb985b15adfe52b9255f9af187283bbfdd1b25fc4",
+          "bytes": 809048,
+          "page_count": 23
+        }
+      }
+    },
+    {
+      "id": "tynetec-55bc9ba952e4",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT Operators Manual ascom",
+      "document_type": "user-guide",
+      "document_number": "FM0420",
+      "revision_hint": "Issue N1",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue N1",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/05/FM0420-N1-Advent-XT-Operators-Manual-ascom.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/05/FM0420-N1-Advent-XT-Operators-Manual-ascom.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "72831403289d937b209dc77cd64c0dfa0cf20dc5225b3b89ecb98e36455c7a67",
+          "bytes": 1156413,
+          "page_count": 38
+        }
+      }
+    },
+    {
+      "id": "tynetec-586bb7673a2f",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — All Call NOT working on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/All-Call-NOT-working-on-XT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/All-Call-NOT-working-on-XT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "b716a27e81bc6cf9ea59fec0a7bbc31e8b944f6c6287bd21e00c1dd26c7ee2b6",
+          "bytes": 1404337,
+          "page_count": 14
+        }
+      }
+    },
+    {
+      "id": "tynetec-632066cf3a13",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 2nd PA Amp Wiring Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0298",
+      "revision_hint": "2",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0298-2-Advent-XT2-2nd-PA-Amp-Wiring-Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0298-2-Advent-XT2-2nd-PA-Amp-Wiring-Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "36973010f7bf2b875d1b2dcdcfd5e2cfe08a057e22b1c8cc8d1b167b19a50498",
+          "bytes": 92206,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-64d96c871c44",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — No Ready prompt on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/No-Ready-prompt-on-XT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/No-Ready-prompt-on-XT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "2c3d7e504f5ebe91fcbcbeb5fc123b3b91dd19a46ee1b6191df1e13a87f10daf",
+          "bytes": 925262,
+          "page_count": 3
+        }
+      }
+    },
+    {
+      "id": "tynetec-6a692fe39f77",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Manager Button on DPanel NOT calling",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Manager-Button-on-DPanel-NOT-calling-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Manager-Button-on-DPanel-NOT-calling-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "3666a85813f9c12c0263e48c77ab3bc839a0c14e4d3fa700f7f445b7a23ebc93",
+          "bytes": 1127024,
+          "page_count": 6
+        }
+      }
+    },
+    {
+      "id": "tynetec-6ca075804469",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — DECT or Desk HSet NOT ringing",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DECT-or-Desk-HSet-NOT-ringing.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DECT-or-Desk-HSet-NOT-ringing.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "dfee89152a0f038bedb8e456f7dad70cf6a50810fea32105ce2e769757e118ac",
+          "bytes": 922532,
+          "page_count": 3
+        }
+      }
+    },
+    {
+      "id": "tynetec-6e3a2ac9c24a",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "ZXT350 range extender"
+      ],
+      "title": "169 MHz range extender instructions",
+      "document_type": "user-guide",
+      "document_number": "FM0727",
+      "revision_hint": "Issue D",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue D",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0727_D-169MHz_Range_Extender.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0727_D-169MHz_Range_Extender.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "70b4ab7aac6352c016fcaa010b9bdf8bf40605abd8cb1eca8bad03075bff653c",
+          "bytes": 1199614,
+          "page_count": 4
+        }
+      }
+    },
+    {
+      "id": "tynetec-7276a21f4991",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Digital Connectivity",
+      "document_type": "application-note",
+      "document_number": "FM0903",
+      "revision_hint": "Issue 3",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 3",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/10/FM0903-3-Advent-XT2-Digital-Connectivity-.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/10/FM0903-3-Advent-XT2-Digital-Connectivity-.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "c9bf5cce93483f4597f875e1fc0779542358f741215f8306ba788fbc6fa1413a",
+          "bytes": 689280,
+          "page_count": 10
+        }
+      }
+    },
+    {
+      "id": "tynetec-76a7189ff1cc",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 User Manual S33 Spectralink",
+      "document_type": "user-guide",
+      "document_number": "FM0816",
+      "revision_hint": "Issue 12",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 12",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/02/FM0816-12-Advent-XT2-User-Manual-S33-Spectralink.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2025/02/FM0816-12-Advent-XT2-User-Manual-S33-Spectralink.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ac1208a91b1319565e5a32af7b3bd547e6f1b2d5917fc37b86df4e8723d8386d",
+          "bytes": 807905,
+          "page_count": 24
+        }
+      }
+    },
+    {
+      "id": "tynetec-76eb0da14a5f",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — DE Comb Res Handsets NOT calling",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-Comb-Res-Handsets-NOT-calling.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-Comb-Res-Handsets-NOT-calling.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "43088f07d4313bd4f867288c80d665bebb252b0995a7cd17cc2c8cf54123dc57",
+          "bytes": 1517009,
+          "page_count": 14
+        }
+      }
+    },
+    {
+      "id": "tynetec-7b16423ee925",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Std WCall Audio Issues on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Std-WCall-Audio-Issues-on-XT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Std-WCall-Audio-Issues-on-XT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "9bfb04a7d71446e4f9d032c403a2509a44a904b41128bf41bac2397ad68baf20",
+          "bytes": 2318444,
+          "page_count": 13
+        }
+      }
+    },
+    {
+      "id": "tynetec-800e45fec8d1",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach IP"
+      ],
+      "title": "Reach IP User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0802",
+      "revision_hint": "V1.09",
+      "revision_basis": "PDF document-number and version imprint",
+      "verified_revision": "V1.09",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/10/FM0802-V1.09-Reach-IP-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2023/10/FM0802-V1.09-Reach-IP-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "81547c1a1b4267cb5f66f391d2163826e7925606b804408223595ea900fe5e84",
+          "bytes": 355735,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tynetec-8097e5c741e8",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Ascom VoWiFi Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0300",
+      "revision_hint": "C",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/WD0300_C-Ascom-VoWiFi-Block-Diagram.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/WD0300_C-Ascom-VoWiFi-Block-Diagram.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "edbde7129cc63f7539517a87d36dfb332b86256e13c0c9f378a5a09b9978f922",
+          "bytes": 75743,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-80b420594c02",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Spectralink IP DECT Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0301",
+      "revision_hint": "C",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/02/WD0301-C-Spectralink-IP-DECT-Block-Diagram.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2025/02/WD0301-C-Spectralink-IP-DECT-Block-Diagram.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "fcee1df72d5c940c715aaa2b7ceab65183b135bf4a90b71421da803b0c6441a4",
+          "bytes": 93334,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-84de6f4a15df",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Power Issues on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Power-Issues-on-XT-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Power-Issues-on-XT-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "99d87229d393f43b998fa8add08b46f1bf575ce60a514bcc0683b51cb6f93560",
+          "bytes": 1724146,
+          "page_count": 9
+        }
+      }
+    },
+    {
+      "id": "tynetec-877c5f7a7164",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — DE LCK REL from Handsets NOT work",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-LCK-REL-from-Handsets-NOT-work-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DE-LCK-REL-from-Handsets-NOT-work-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "87f25f3838d0d13ea20a15301978ed124e951f0370a915460656203c85808ac7",
+          "bytes": 1590360,
+          "page_count": 19
+        }
+      }
+    },
+    {
+      "id": "tynetec-8e48e3f81371",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Open Circuit Faults on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Open-Circuit-Faults-on-XT-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Open-Circuit-Faults-on-XT-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "e6c619b79eca447acfc7940beba18466505fe1b41426f44ec6b6363e4bdfb363",
+          "bytes": 1711982,
+          "page_count": 14
+        }
+      }
+    },
+    {
+      "id": "tynetec-99484148e9b5",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Specification",
+      "document_type": "datasheet",
+      "document_number": "FM0788",
+      "revision_hint": "Issue 4",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 4",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0788-4-Advent-XT2-Specification.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0788-4-Advent-XT2-Specification.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "a7ce11b01ae4ca8b10b8f22b0deac023ab20bdaa7e7edaa5e54ac8ea384aa7fc",
+          "bytes": 180634,
+          "page_count": 12
+        }
+      }
+    },
+    {
+      "id": "tynetec-9c5e09a9c1b4",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — System NOT dialling L Offsite Mobile Phone",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/System-NOT-dialling-L-Offsite-Mobile-Phone-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/System-NOT-dialling-L-Offsite-Mobile-Phone-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "a564af0c0775e13223e73024e237f267c642d8294cc5b6a6118a3bc62b6b478d",
+          "bytes": 1517003,
+          "page_count": 5
+        }
+      }
+    },
+    {
+      "id": "tynetec-9dc8c8bfa0b7",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Wiring Diagrams ascom",
+      "document_type": "diagram",
+      "document_number": "ZXT100",
+      "revision_hint": "N",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT100_N-Advent_xt_Wiring_Diagrams-ascom.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT100_N-Advent_xt_Wiring_Diagrams-ascom.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6b981de94671a11572e4f4ef54f5e94c8c1d517222d6210382ba8a5960e799c3",
+          "bytes": 1022943,
+          "page_count": 9
+        }
+      }
+    },
+    {
+      "id": "tynetec-a24029a6fdb6",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — XT NOT dialling connecting to ARC",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/XT-NOT-dialling-connecting-to-ARC-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/XT-NOT-dialling-connecting-to-ARC-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "2ff00e648aec9807bfb3771d9be125390a18ae6a1b431eb7ba159543b84c538b",
+          "bytes": 1618538,
+          "page_count": 6
+        }
+      }
+    },
+    {
+      "id": "tynetec-a78065ae8286",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "ZXT360 translator repeater"
+      ],
+      "title": "169/869 MHz translator repeater instructions",
+      "document_type": "user-guide",
+      "document_number": "FM0733",
+      "revision_hint": "Issue C",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue C",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0733_C-169_869MHz_Translator_Repeater.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0733_C-169_869MHz_Translator_Repeater.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "9bbf685d937cbf49f72e58d7960de30de766caa8959e78bf41029f10ce482cf5",
+          "bytes": 1356548,
+          "page_count": 4
+        }
+      }
+    },
+    {
+      "id": "tynetec-ae2b42c164c7",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach / Reach Plus"
+      ],
+      "title": "Reach and Reach Plus self-installation guide",
+      "document_type": "installation",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2020/05/3344-TYN-Reach-Reach-Plus-Self-Install-Guide-A4-2pp-1-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2020/05/3344-TYN-Reach-Reach-Plus-Self-Install-Guide-A4-2pp-1-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "0ca941d06371f1ac93f93a7b4603549147b5fbf3d2b920232c6325793331ce28",
+          "bytes": 788380,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tynetec-ae4c01eb4a6f",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Operators GuideEngenius EP802",
+      "document_type": "user-guide",
+      "document_number": "FM0750",
+      "revision_hint": "Issue A",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue A",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0750-A-Advent-xt-Operators-GuideEngenius-EP802-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0750-A-Advent-xt-Operators-GuideEngenius-EP802-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "35d224d07fc0ed68f900a746b9c638668e23a5e54dae6a9a94ced3d1f2b8acc6",
+          "bytes": 2160202,
+          "page_count": 34
+        }
+      }
+    },
+    {
+      "id": "tynetec-af9eb1e6eb38",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach Ultra"
+      ],
+      "title": "Reach Ultra User Installation Guide",
+      "document_type": "installation",
+      "document_number": "FM0772",
+      "revision_hint": "Issue D",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue D",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0772-D-Reach-Ultra-User-Installation-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/05/FM0772-D-Reach-Ultra-User-Installation-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "f9547e1f989b66da0424db1340e984a2ba859fdcfa90d0098a1e672421295b5f",
+          "bytes": 5011046,
+          "page_count": 52
+        }
+      }
+    },
+    {
+      "id": "tynetec-b6c0a68c6c6d",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Ascom IP DECT Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0299",
+      "revision_hint": "B",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0299-B-Ascom-IP-DECT-Block-Diagram.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0299-B-Ascom-IP-DECT-Block-Diagram.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "6fc683ef5cc7de6465fdc5994ee0b0662d204ef005bbdc9cbbb1363366259413",
+          "bytes": 61537,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-b9c2d63d6565",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Strobe Light Wiring Diagram",
+      "document_type": "diagram",
+      "document_number": "ZSL045",
+      "revision_hint": "A",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZSL045_A-Advent_xt_Strobe_Light_Wiring_Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZSL045_A-Advent_xt_Strobe_Light_Wiring_Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "e1a1791d84a40f0af474b3e07a320e47e17915dda423376358e64dafa50d68f2",
+          "bytes": 154732,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-bac94438823c",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Ascom IP DECT Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0854",
+      "revision_hint": "Issue 2",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 2",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0854-2-Advent-XT2-Ascom-IP-DECT-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0854-2-Advent-XT2-Ascom-IP-DECT-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "1e149ff93f12790e9834921a3ec1e58f7d8cb51198cc6e3221da842dafb9d2bd",
+          "bytes": 1176975,
+          "page_count": 28
+        }
+      }
+    },
+    {
+      "id": "tynetec-c0427d3d591c",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 CCU Programmer User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0880",
+      "revision_hint": "Issue 1",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 1",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/FM0880-1-Advent-XT2-CCU-Programmer-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/FM0880-1-Advent-XT2-CCU-Programmer-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "d9e26cd981e3520d8047d0bb8bab0b767c9600bfde0c4f34887b65c1d4ac1293",
+          "bytes": 407914,
+          "page_count": 4
+        }
+      }
+    },
+    {
+      "id": "tynetec-c067cd8ff03d",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Door Entry Intercom User Guide",
+      "document_type": "user-guide",
+      "document_number": "FM0819",
+      "revision_hint": "C",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2020/10/FM0819-C-Advent-XT2-Door-Entry-Intercom-User-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2020/10/FM0819-C-Advent-XT2-Door-Entry-Intercom-User-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "eae52b3cc0a62ad972a7ee81c6b6f59de7900e6a8dfd0ae407c5f7e563fb9ef7",
+          "bytes": 516342,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-c1a7d173ca32",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Ascom VoWiFi Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0300",
+      "revision_hint": "B",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0300-B-Ascom-VoWiFi-Block-Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0300-B-Ascom-VoWiFi-Block-Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "1517a52413e0e07aab95762d3a9d8eb2c71b29b2ad00cf785b669ccbc68677e1",
+          "bytes": 79012,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-c3b8e36ffd4e",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt BT Line Selector Wiring Diagram",
+      "document_type": "diagram",
+      "document_number": "ZXT330",
+      "revision_hint": "A",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT330_A-Advent_xt_BT_Line_Selector_Wiring_Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT330_A-Advent_xt_BT_Line_Selector_Wiring_Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "b715e13f3728cb65ade7dc5033f5fda7ec2907c10de421129cf81e321751dd70",
+          "bytes": 69611,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-c97f6052fcd3",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt 2 Loop PA Wiring Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0276",
+      "revision_hint": "B",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0276_B-Advent_xt_2_Loop_PA_Wiring_Diagram-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/WD0276_B-Advent_xt_2_Loop_PA_Wiring_Diagram-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "50a82247beed2efedabe1c165bdfd81465bdc99af3e4be0163daa7dd5a894b35",
+          "bytes": 271368,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-ca7d7ef642ca",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Ethernet Interface Setup Guide",
+      "document_type": "installation",
+      "document_number": "FM0552",
+      "revision_hint": "B",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0552_B-Advent_xt_Ethernet_Interface_Setup_Guide-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0552_B-Advent_xt_Ethernet_Interface_Setup_Guide-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4e04aabfe2bf3ddbdae352debf6a61db9d476f6fbd7032660fc888e5ec256478",
+          "bytes": 1836493,
+          "page_count": 7
+        }
+      }
+    },
+    {
+      "id": "tynetec-cab04a6c3c3c",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0410",
+      "revision_hint": "Issue N",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue N",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0410-N-Advent-XT-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0410-N-Advent-XT-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "5cf2e12479e9ca08a2a2fa08228749b80749d8561c1fc4a738ec22070de646a6",
+          "bytes": 2584405,
+          "page_count": 63
+        }
+      }
+    },
+    {
+      "id": "tynetec-cccbd788ab8a",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Wiring Diagrams",
+      "document_type": "diagram",
+      "document_number": "ZXT900",
+      "revision_hint": "E",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2024/01/ZXT900_E-Advent-XT2-Wiring-Diagrams.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2024/01/ZXT900_E-Advent-XT2-Wiring-Diagrams.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "85a512cba69c23fba981705acbc6ed3cbbd3104d2e3917dae680072404c5d036",
+          "bytes": 923903,
+          "page_count": 8
+        }
+      }
+    },
+    {
+      "id": "tynetec-ceeb9047ffe7",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT Wiring Diagrams",
+      "document_type": "diagram",
+      "document_number": "ZXT100",
+      "revision_hint": "M",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT100_M-Advent-XT-Wiring-Diagrams-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT100_M-Advent-XT-Wiring-Diagrams-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "ecd86a6573cf2c61c26e4ad4ef171f6f0e2bebb855dd10095daedaf9c23d5657",
+          "bytes": 1264490,
+          "page_count": 10
+        }
+      }
+    },
+    {
+      "id": "tynetec-d9fcd2792b2d",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — DECT or Desk Handsets not Ringing",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DECT-or-Desk-Handsets-not-Ringing-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/DECT-or-Desk-Handsets-not-Ringing-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "3a2c3a93f27594df539860692df38662a24d828eb50a502bc2a087c8300b1d09",
+          "bytes": 1714405,
+          "page_count": 11
+        }
+      }
+    },
+    {
+      "id": "tynetec-dadb4e0beb94",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Reach IP"
+      ],
+      "title": "Reach IP self-installation guide",
+      "document_type": "installation",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2020/05/Tynetec-Reach-IP-Self-Install-A4-2pp-Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2020/05/Tynetec-Reach-IP-Self-Install-A4-2pp-Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "3951824b9fdb3957392bce6587806e700d15cb7937e4b30dcde04c04f62a35f6",
+          "bytes": 790165,
+          "page_count": 2
+        }
+      }
+    },
+    {
+      "id": "tynetec-dba4025c5046",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Ascom IP DECT Block Diagram",
+      "document_type": "diagram",
+      "document_number": "WD0299",
+      "revision_hint": "C",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/WD0299_C-Ascom-IP-DECT-Block-Diagram.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/WD0299_C-Ascom-IP-DECT-Block-Diagram.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "254628a5b0557806192e0665242f62643743e8aa98f6cdd4e8e4cfec7e7cf487",
+          "bytes": 61814,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-de64fbfa50e1",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent xt Managers Callpoint General Arrangement",
+      "document_type": "diagram",
+      "document_number": "ZXT250",
+      "revision_hint": "GA",
+      "revision_basis": "manufacturer-filename; printed issue not verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT250_GA-Advent_xt_Managers_Callpoint_General_Arrangement-1.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/ZXT250_GA-Advent_xt_Managers_Callpoint_General_Arrangement-1.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "97ca1f2e26ef995dc26122186128f4bd14be2b8e56438b6a2275db59463d7488",
+          "bytes": 56841,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-df5d78f17e70",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — Data Issues on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Data-Issues-on-XT-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/Data-Issues-on-XT-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "cbdca55968bb24b2c87e144d2952f9ce00d58454a9e00e218157f35b13b40099",
+          "bytes": 1653807,
+          "page_count": 11
+        }
+      }
+    },
+    {
+      "id": "tynetec-e3e280bc31ad",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt SLIP Connection Setup Windows 98 XP",
+      "document_type": "installation",
+      "document_number": "FM0446",
+      "revision_hint": "Issue 2",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 2",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0446_2-Advent_xt_SLIP_Connection_Setup_Windows_98_XP.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0446_2-Advent_xt_SLIP_Connection_Setup_Windows_98_XP.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "773c73259f422d2926b43e38eccb6e6cb0c37613079493c424f75b858fab8306",
+          "bytes": 981509,
+          "page_count": 29
+        }
+      }
+    },
+    {
+      "id": "tynetec-f26bfc1224a6",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Programming Manual",
+      "document_type": "programming",
+      "document_number": "FM0815",
+      "revision_hint": "Issue 10",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 10",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2022/02/FM0815-10-Advent-XT2-Programming-Manual-.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2022/02/FM0815-10-Advent-XT2-Programming-Manual-.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "b11f6776fc0da0632516d720e3466265b44124f3661b3ef3722e4c4ef0cc445e",
+          "bytes": 1399711,
+          "page_count": 41
+        }
+      }
+    },
+    {
+      "id": "tynetec-f4266902dc2a",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 Ascom VoWiFi Installation Manual",
+      "document_type": "installation",
+      "document_number": "FM0855",
+      "revision_hint": "Issue 4",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue 4",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/FM0855-4-Advent-XT2-Ascom-VoWiFi-Installation-Manual.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/02/FM0855-4-Advent-XT2-Ascom-VoWiFi-Installation-Manual.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "99909af0defd046c6bcca5ee31a4b2080bca91e18008155d231098ed019b8d9f",
+          "bytes": 1563577,
+          "page_count": 33
+        }
+      }
+    },
+    {
+      "id": "tynetec-f5d85af18710",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — SLIP Connection NOT working on XT",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/SLIP-Connection-NOT-working-on-XT-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/SLIP-Connection-NOT-working-on-XT-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "4bf55ce0ec080dd87d7c261d8797e215ba382f72b5fc9d713ba9393cef1e6d37",
+          "bytes": 2006954,
+          "page_count": 20
+        }
+      }
+    },
+    {
+      "id": "tynetec-f61d47d65939",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Dimensions",
+      "document_type": "diagram",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/Advent_xt_Dimensions.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/Advent_xt_Dimensions.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "fb44135edbc6fe86fd344a63bfa2e99cc5b0da4471ec6d2eb228b735478d6665",
+          "bytes": 129803,
+          "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "tynetec-f974a6175446",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT2"
+      ],
+      "title": "Advent XT2 blank commissioning record",
+      "document_type": "reference",
+      "document_number": "FM0876",
+      "revision_hint": "Issue B",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue B",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue. Publisher blank form; no completed customer record is included.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2020/10/FM0876-B-Advent-XT2-Commissioning-Record.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2020/10/FM0876-B-Advent-XT2-Commissioning-Record.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "0b913a8d1c52dfcf96b3d543598c43be04b54e987348db9888c36931eba43fbc",
+          "bytes": 462143,
+          "page_count": 12
+        }
+      }
+    },
+    {
+      "id": "tynetec-fe5ee99d138b",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent xt Programming Guide",
+      "document_type": "programming",
+      "document_number": "FM0411",
+      "revision_hint": "Issue J",
+      "revision_basis": "PDF document-number and issue imprint",
+      "verified_revision": "Issue J",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0411_J-Advent_xt_Programming_Guide.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2019/05/FM0411_J-Advent_xt_Programming_Guide.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "b76fe4d03330d337bd77ce94a42f517dd3b73703bd768728722d1159e334e0c3",
+          "bytes": 1860242,
+          "page_count": 28
+        }
+      }
+    },
+    {
+      "id": "tynetec-ffcb2add50bd",
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "models": [
+        "Advent XT"
+      ],
+      "title": "Advent XT — CANNOT Access DECT Devices via IP",
+      "document_type": "troubleshooting",
+      "document_number": null,
+      "revision_hint": null,
+      "revision_basis": "not-verified",
+      "verified_revision": null,
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer resource grouping and PDF title; exact installed variant still requires review.",
+      "retrieval_note": "Complete public PDF downloaded and parsed. This is the linked edition, not a claim that it is the latest issue.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "complete-file",
+        "url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/CANNOT-Access-DECT-Devices-via-IP-SENT.pdf",
+        "source_page_url": "https://www.tynetec.co.uk/wp-content/uploads/2018/04/CANNOT-Access-DECT-Devices-via-IP-SENT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "complete-file",
+          "checked_on": "2026-10-21",
+          "sha256": "07adafaf6296ece7049e2df09f14250f7da65b673d084aa23c3a61a57ca5b571",
+          "bytes": 927159,
+          "page_count": 8
         }
       }
     },

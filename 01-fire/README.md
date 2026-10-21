@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-967 document records. Door entry belongs under access control.
+971 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -13,6 +13,7 @@
 | [Baldwin Boxall](baldwin-boxall/README.md) | 2 | 2 |
 | [C-TEC](c-tec/README.md) | 169 | 125 |
 | [Comelit](comelit/README.md) | 37 | 35 |
+| [Cornell Communications](cornell-communications/README.md) | 3 | 3 |
 | [EMS](ems/README.md) | 2 | 2 |
 | [Eaton / Cooper](eaton-cooper/README.md) | 2 | 3 |
 | [FFE](ffe/README.md) | 32 | 30 |
@@ -23,6 +24,7 @@
 | [Haes](haes/README.md) | 76 | 65 |
 | [Hochiki](hochiki/README.md) | 19 | 24 |
 | [Inter-M](inter-m/README.md) | 1 | 3 |
+| [Jeron](jeron/README.md) | 1 | 1 |
 | [Kentec](kentec/README.md) | 158 | 180 |
 | [Morley-IAS](morley-ias/README.md) | 7 | 7 |
 | [Nittan](nittan/README.md) | 82 | 72 |

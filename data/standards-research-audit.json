@@ -685,6 +685,18 @@
       "publisher_status": "Current",
       "source_url": "https://knowledge.bsigroup.com/products/expert-commentary-on-bs-en-50134-7-2017-alarm-systems-social-alarm-systems-application-guidelines",
       "decision": "not-added-outside-selected-scope-or-commentary"
+    },
+    {
+      "edition": "BS 8521-2:2020",
+      "publisher_status": "Current",
+      "source_url": "https://knowledge.bsigroup.com/products/social-alarm-systems-ip-signalling-protocols-specification-for-now-ip",
+      "decision": "included-published-record"
     }
-  ]
+  ],
+  "warden_call_followup": {
+    "checked_on": "2026-10-21",
+    "added": "BS 8521-2:2020",
+    "existing_records_regrouped": 6,
+    "note": "Existing BS EN 50134 parts and PD CLC/TS 50134-9 retain their IDs and evidence. No unverified BS 8521 analogue edition or transition date is inferred."
+  }
 }

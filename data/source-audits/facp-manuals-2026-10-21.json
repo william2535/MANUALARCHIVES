@@ -1,0 +1,156 @@
+{
+  "checked_on": "2026-10-21",
+  "source_url": "https://facpmanuals.com",
+  "source_kind": "archive",
+  "scope": "Cornell Communications and Jeron collections: 11 public PDFs, all completely downloaded and parsed. Not the whole FACP website.",
+  "tynetec_listed": false,
+  "tynetec_check": "Tynetec was absent from the retrieved public brand list; manufacturer resources used separately.",
+  "records": [
+    {
+      "record_id": "cornell-communications-532f8c5555f4",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/4000-series_nurse_call_systems-datasheet-d4000p-3",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/4000-series_nurse_call_systems-datasheet-d4000p-3.pdf",
+      "status": "added-complete-file",
+      "sha256": "0b8550d41e9aff8b051f79260ac6d8bd0794cf8b96db062053f1330cee457790",
+      "bytes": 67064,
+      "page_count": 1,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-b60b9d731108",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/p-512241a_and_p-512243a_power_supply-datasheet",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/p-512241a_and_p-512243a_power_supply-datasheet.pdf",
+      "status": "added-complete-file",
+      "sha256": "ecbaeb8d1b9040c9bb43e5e1f0b01a11753c86d9befda2020a53b4d967b1fd7c",
+      "bytes": 210361,
+      "page_count": 2,
+      "metadata_conflicts": [
+        {
+          "field": "models",
+          "archive_title": [
+            "P-512241A",
+            "P-512243A"
+          ],
+          "pdf_heading": [
+            "P-512243A"
+          ],
+          "decision": "Catalogue only the model named in this PDF; P-512241A has a separate file."
+        }
+      ]
+    },
+    {
+      "record_id": "cornell-communications-5415086b3536",
+      "brand": "Cornell Communications",
+      "category": "fire",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/4200_series_rescue_assistance_system-operations-2010",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/4200_series_rescue_assistance_system-operations-2010.pdf",
+      "status": "added-complete-file",
+      "sha256": "de87ff56e0243289dafd3aaaaba818974e0d048ee4ad92104a2d8d20656b225e",
+      "bytes": 82775,
+      "page_count": 7,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-4a972687a79a",
+      "brand": "Cornell Communications",
+      "category": "fire",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/a-4200_series_annunciator_panels-datasheet-2012",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/a-4200_series_annunciator_panels-datasheet-2012.pdf",
+      "status": "added-complete-file",
+      "sha256": "1dd11e402a17e2a7a1fcc0f49b9a578dd22a064440956dae1acbe24f059ca393",
+      "bytes": 403313,
+      "page_count": 2,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-d6b88acd751c",
+      "brand": "Cornell Communications",
+      "category": "fire",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e.pdf",
+      "status": "added-complete-file",
+      "sha256": "2da28a796b5ea39aa4407ff794b4b41433ededab47f9cc6d19797fc7db0bd002",
+      "bytes": 2079214,
+      "page_count": 1,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-2265ae2b0544",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/b-5248a_power_supply-datasheet",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/b-5248a_power_supply-datasheet.pdf",
+      "status": "added-complete-file",
+      "sha256": "f46ad5099ef41974f5e464568ee7cd27f2b73b32c69d5d0e015679a99ce51a7e",
+      "bytes": 213436,
+      "page_count": 1,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-b46017654687",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/sw-510_hand-held_pendant_call_cord-datasheet",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/sw-510_hand-held_pendant_call_cord-datasheet.pdf",
+      "status": "added-complete-file",
+      "sha256": "bea09447e48ceed27415f04e0a24ca1be47ec6918359a2f1866ec1d9a405bbd1",
+      "bytes": 133508,
+      "page_count": 1,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-6dc734f31f73",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003.pdf",
+      "status": "added-complete-file",
+      "sha256": "d0ea9786187e9f74ab266af891a8f66555941cce4da12543f1d7d11233c8fe4d",
+      "bytes": 917918,
+      "page_count": 1,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-18b8abfc6dd5",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/b-5243b_power_supply-datasheet",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/b-5243b_power_supply-datasheet.pdf",
+      "status": "added-complete-file",
+      "sha256": "ef98447c408d699d84ad3462b31f7887c5ea816e4c7b7c2b865af5dff6b5343d",
+      "bytes": 206578,
+      "page_count": 1,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "cornell-communications-b9cf8a7e6760",
+      "brand": "Cornell Communications",
+      "category": "warden-call",
+      "source_url": "https://facpmanuals.com/manuals/cornell_communications/p-512241a_power_supply-datasheet-dp51221ac",
+      "url": "https://docs.facpmanuals.com/manuals/Cornell_Communications/p-512241a_power_supply-datasheet-dp51221ac.pdf",
+      "status": "added-complete-file",
+      "sha256": "ec73467f1fb4d163bdea4979229295d87ef0f79a6a9937afb83a4588155098bf",
+      "bytes": 239288,
+      "page_count": 2,
+      "metadata_conflicts": []
+    },
+    {
+      "record_id": "jeron-9c1e6b0b0006",
+      "brand": "Jeron",
+      "category": "fire",
+      "source_url": "https://facpmanuals.com/manuals/jeron/pro-alert_450_area_of_rescue_assistance-datasheet-2007",
+      "url": "https://docs.facpmanuals.com/manuals/Jeron/pro-alert_450_area_of_rescue_assistance-datasheet-2007.pdf",
+      "status": "added-complete-file",
+      "sha256": "6e19c066e5e3fcc5f56c4b947687838b7717f2827ce5a0e0547d76c9d90fe275",
+      "bytes": 596531,
+      "page_count": 2,
+      "metadata_conflicts": []
+    }
+  ],
+  "metadata_correction": "The archive title labels one PSU file P-512241A and P-512243A; the actual PDF is P-512243A (DP51223AC). The P-512241A file is a separate DP51221AC document.",
+  "public_repository_distribution": "Metadata and original source links only; no third-party PDF binaries."
+}

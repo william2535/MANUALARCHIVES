@@ -2,7 +2,7 @@
 
 [Archive](../README.md) · [Search offline](../index.html#standards) · [App data](../data/standards.json)
 
-**146 checked references · 7 groups · checked 2026-10-21**
+**147 checked references · 8 groups · checked 2026-10-21**
 
 British Standards and UK-adopted EN/IEC standards relevant to this fire and security archive, including electrical and cabling, social alarms, powered entrances, sprinklers and gas suppression. Companion PD and DD technical specifications are explicitly identified. Consultation drafts have a separate watchlist.
 
@@ -153,11 +153,6 @@ British Standards and UK-adopted EN/IEC standards relevant to this fire and secu
 | [BS EN 50131-5-3:2017](https://knowledge.bsigroup.com/products/alarm-systems-intrusion-systems-requirements-for-interconnections-equipment-using-radio-frequency-techniques) | Requirements for interconnections equipment using radio frequency techniques | Current, Under Review | 2017-03-31 | None in designation |
 | [BS EN 50131-6:2017+A1:2021](https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-power-supplies-3) | Power supplies | Current | 2021-06-30 | A1:2021 |
 | [BS EN 50131-8:2019](https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-security-fog-devices) | Security fog equipment | Current | 2019-05-31 | None in designation |
-| [BS EN 50134-1:2002](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-system-requirements) | Social alarm system requirements | Current | 2002-07-03 | None in designation |
-| [BS EN 50134-2:2017](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-trigger-devices) | Social alarm trigger equipment | Current | 2018-01-31 | None in designation |
-| [BS EN 50134-3:2012](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-local-unit-and-controller) | Social alarm controllers and local units | Current | 2012-05-31 | None in designation |
-| [BS EN 50134-5:2021](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-interconnections-and-communications-1) | Social alarm communications | Current | 2021-07-31 | None in designation |
-| [BS EN 50134-7:2017](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-application-guidelines) | Social alarm service guidance | Current | 2017-02-28 | None in designation |
 | [BS EN 50136-1:2012+A1:2018](https://knowledge.bsigroup.com/products/alarm-systems-alarm-transmission-systems-and-equipment-general-requirements-for-alarm-transmission-systems) | General requirements for alarm transmission systems | Current, Under Review | 2018-11-30 | A1:2018 |
 | [BS EN 50136-2:2013+A1:2023](https://knowledge.bsigroup.com/products/alarm-systems-alarm-transmission-systems-and-equipment-requirements-for-supervised-premises-transceiver-spt-1) | Requirements for Supervised Premises Transceiver (SPT) | Current | 2023-07-31 | A1:2023 |
 | [BS EN 50136-3:2013+A1:2021](https://knowledge.bsigroup.com/products/alarm-systems-alarm-transmission-systems-and-equipment-requirements-for-receiving-centre-transceiver-rct-1) | Requirements for Receiving Centre Transceiver (RCT) | Current | 2021-05-31 | A1:2021 |
@@ -165,7 +160,6 @@ British Standards and UK-adopted EN/IEC standards relevant to this fire and secu
 | [DD CLC/TS 50131-7:2010](https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-application-guidelines-2) | Intruder alarm application guidance | Current, Under Review | 2011-08-31 | None in designation |
 | [PD 6662:2017](https://knowledge.bsigroup.com/products/scheme-for-the-application-of-european-standards-for-intrusion-and-hold-up-alarm-systems-1) | UK scheme for intruder and hold-up alarm standards | Current | 2017-08-31 | None in designation |
 | [PD 6669:2017](https://knowledge.bsigroup.com/products/guidance-for-the-provision-of-alarm-transmission-systems-ats-for-alarm-systems-in-the-uk) | UK guidance for alarm transmission systems | Current | 2017-06-30 | None in designation |
-| [PD CLC/TS 50134-9:2018](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-ip-communications-protocol) | Social alarm IP protocol | Current | 2018-09-30 | None in designation |
 
 ## Access control and door entry
 
@@ -224,6 +218,18 @@ British Standards and UK-adopted EN/IEC standards relevant to this fire and secu
 | [BS EN 50174-3:2013+A1:2017](https://knowledge.bsigroup.com/products/information-technology-cabling-installation-part-3-installation-planning-and-practices-outside-buildings) | Cabling outside buildings | Current, Under Review | 2018-03-31 | A1:2017 |
 | [BS EN 50174-4:2025](https://knowledge.bsigroup.com/products/information-technology-cabling-installation-testing-of-installed-optical-fibre-cabling) | Installed fibre cabling tests | Current | 2025-12-31 | None in designation |
 | [BS EN 50310:2016+A2:2026](https://knowledge.bsigroup.com/products/telecommunications-bonding-networks-for-buildings-and-other-structures-1) | Telecommunications bonding | Current | 2026-07-31 | A2:2026 |
+
+## Warden call and social alarms
+
+| Edition | Subject | Publisher status | BSI record date | Amendment labels |
+|---|---|---|---|---|
+| [BS EN 50134-1:2002](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-system-requirements) | Social alarm system requirements | Current | 2002-07-03 | None in designation |
+| [BS EN 50134-2:2017](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-trigger-devices) | Social alarm trigger equipment | Current | 2018-01-31 | None in designation |
+| [BS EN 50134-3:2012](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-local-unit-and-controller) | Social alarm controllers and local units | Current | 2012-05-31 | None in designation |
+| [BS EN 50134-5:2021](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-interconnections-and-communications-1) | Social alarm communications | Current | 2021-07-31 | None in designation |
+| [BS EN 50134-7:2017](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-application-guidelines) | Social alarm service guidance | Current | 2017-02-28 | None in designation |
+| [PD CLC/TS 50134-9:2018](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-ip-communications-protocol) | Social alarm IP protocol | Current | 2018-09-30 | None in designation |
+| [BS 8521-2:2020](https://knowledge.bsigroup.com/products/social-alarm-systems-ip-signalling-protocols-specification-for-now-ip) | Social alarm IP signalling: NOW-IP | Current | 2020-04-30 | None in designation |
 
 ## Revision notes and earlier records
 
@@ -596,6 +602,12 @@ Publisher-confirmed predecessor(s): CLC/TS 50134-7:2003.
 [Publisher record](https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-ip-communications-protocol) · checked 2026-10-21
 
 - Companion Published Document / technical specification, separately identified from a full British Standard.
+
+### BS 8521-2:2020
+
+[Publisher record](https://knowledge.bsigroup.com/products/social-alarm-systems-ip-signalling-protocols-specification-for-now-ip) · checked 2026-10-21
+
+- Publisher describes an IP protocol for communication between grouped-living social alarm equipment and alarm receiving centres. This is not evidence that any particular installation complies.
 
 ## Consultation draft watchlist
 

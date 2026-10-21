@@ -26,5 +26,47 @@
     "source_url": "https://www.ffeuk.com/resources",
     "checked_on": "2026-10-21",
     "note": "35 linked PDFs checked; 30 distinct complete files indexed. Byte-identical paths across Talentum product groups are alternate sources, not additional documents. This inventory does not cover every language, datasheet or certificate."
+  },
+  {
+    "brand": "Tynetec",
+    "title": "Care-system document source",
+    "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/",
+    "checked_on": "2026-10-21",
+    "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
+  },
+  {
+    "brand": "Tynetec",
+    "title": "Care-system document source",
+    "source_url": "https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/",
+    "checked_on": "2026-10-21",
+    "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
+  },
+  {
+    "brand": "Tynetec",
+    "title": "Care-system document source",
+    "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/",
+    "checked_on": "2026-10-21",
+    "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
+  },
+  {
+    "brand": "Tunstall",
+    "title": "Care-system document source",
+    "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+    "checked_on": "2026-10-21",
+    "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
+  },
+  {
+    "brand": "Tunstall",
+    "title": "Care-system document source",
+    "source_url": "https://www.tunstall.co.uk/products/warden-call-systems/communicall-digital/",
+    "checked_on": "2026-10-21",
+    "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
+  },
+  {
+    "brand": "TeleAlarm",
+    "title": "Care-system document source",
+    "source_url": "https://www.telealarm.com/en/downloads",
+    "checked_on": "2026-10-21",
+    "note": "Collection directory, not an additional document. Outcomes and remaining gaps are in the warden-call source audit."
   }
 ]

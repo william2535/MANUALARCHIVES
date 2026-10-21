@@ -1,8 +1,8 @@
 # FESS Manual Archives
 
-Fire, security, access control and CCTV manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
+Fire, security, access control, CCTV, warden call, telecare and nurse-call manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**3,431 document records · 87 brands · 3,189 direct PDF links · 0 PDF files mirrored**
+**3,555 document records · 92 brands · 3,313 direct PDF links · 0 PDF files mirrored**
 
 Catalogue build date: 2026-10-21. A check date does not mean a document is the latest revision.
 
@@ -10,16 +10,17 @@ Catalogue build date: 2026-10-21. A check date does not mean a document is the l
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 967 |
+| [Fire](01-fire/README.md) | 971 |
 | [Security / intruder](02-security/README.md) | 617 |
 | [Access control / door entry](03-access-control/README.md) | 924 |
 | [CCTV](04-cctv/README.md) | 923 |
+| [Warden call / telecare / nurse call](06-warden-call/README.md) | 120 |
 
 Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 
 ## British Standards updates and revisions
 
-**146 checked references across 7 groups**, covering fire, security, access control, CCTV and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked 2026-10-21.
+**147 checked references across 8 groups**, covering fire, security, access control, CCTV, social alarms and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked 2026-10-21.
 
 [Browse the standards section](05-british-standards/README.md) · [Search standards offline](index.html#standards) · [App data](data/standards.json)
 
@@ -35,7 +36,7 @@ The register identifies gaps explicitly; it is not a complete history of every B
 
 [`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
 
-Current evidence: **243 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+Current evidence: **367 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
 
 See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
 
@@ -58,6 +59,7 @@ python3 scripts/download.py --category fire --brand "C-TEC"
 python3 scripts/download.py --category security --brand Texecom
 python3 scripts/download.py --category access-control --brand Paxton
 python3 scripts/download.py --category cctv --brand Axis --model P3245
+python3 scripts/download.py --category warden-call --brand Tynetec
 ```
 
 Use `--limit 5` for a small first batch. `--all` selects the whole catalogue and can download many GB. `--refresh` checks the selected sources again; changed contents get a separate file, retaining old versions.
@@ -68,7 +70,7 @@ A successful download checks the file header, trailer and integrity; it does not
 
 ## What is stored here
 
-The repository stores original indexing work and links. Manufacturer sources are preferred; public installer and distributor copies are labelled separately with `source_kind`. Some legacy titles and model associations come from abbreviated filenames and need document-level review. It does **not** republish copyrighted manufacturer PDFs. Publicly accessible downloads do not themselves establish permission to redistribute. See [document rights](RIGHTS.md).
+The repository stores original indexing work and links. Manufacturer sources are preferred; public installer, distributor and independent archive copies are labelled separately with `source_kind`. Some legacy titles and model associations come from abbreviated filenames and need document-level review. It does **not** republish copyrighted manufacturer PDFs. Publicly accessible downloads do not themselves establish permission to redistribute. See [document rights](RIGHTS.md).
 
 This archive includes older editions and multiple languages. Unknown language, market or revision information stays explicitly unverified. Engineering manuals, application notes and datasheets are not interchangeable. No passwords, default-code lists, customer records or paid standards have been extracted into the catalogue.
 

@@ -92,7 +92,7 @@ def download_record(record,output,previous=None,refresh=False,opener=urllib.requ
     return {'id':record['id'],'title':record['title'],'models':record['models'],'path':target.relative_to(output).as_posix(),'downloaded_at':datetime.now(timezone.utc).isoformat(),'source_url':record['source_url'],'requested_url':url,**info,**catalogue_comparison(record,info['sha256'],info['bytes']),'result':'saved','validation':'PDF header, EOF marker, byte count and SHA-256; exact model/revision still needs human review'}
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--category',choices=['fire','security','access-control','cctv']);parser.add_argument('--brand');parser.add_argument('--model');parser.add_argument('--id')
+    parser.add_argument('--category',choices=['fire','security','access-control','cctv','warden-call']);parser.add_argument('--brand');parser.add_argument('--model');parser.add_argument('--id')
     parser.add_argument('--all',action='store_true',help='Select the whole catalogue; may download many GB')
     parser.add_argument('--limit',type=int);parser.add_argument('--list',action='store_true',help='Print matching records without downloading')
     parser.add_argument('--refresh',action='store_true',help='Fetch again and preserve a new file if source contents changed')

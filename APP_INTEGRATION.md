@@ -26,6 +26,8 @@ Use `id` as the durable bookmark and download key. Keep every `models` associati
 
 `generated_on` is the catalogue build date. Each record retains its own `source_checked` date; `download.verification.checked_on` dates the recorded file evidence. Rebuilding the feed does not recheck every source.
 
+Category values now include `warden-call` (warden call, telecare and related nurse call); source provenance includes `archive` for independent collections such as FACP Manuals. Consumers with fixed enum lists must use the updated version-1 schema and support these added values. Keep US rescue-assistance documents and UK social-alarm equipment distinguishable by the actual title, model and source; a shared archive is not evidence of interchangeability.
+
 ## Download contract
 
 `download.mode` is one of:

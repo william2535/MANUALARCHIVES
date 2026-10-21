@@ -34,7 +34,9 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | C-TEC | 169 | 169 |
 | CAME / BPT | 21 | 21 |
 | CDVI | 6 | 2 |
+| CSL | 1 | 1 |
 | Comelit | 156 | 156 |
+| Cornell Communications | 10 | 10 |
 | Dahua | 20 | 20 |
 | Dedicated Micros | 13 | 13 |
 | Digitus Biometrics | 1 | 1 |
@@ -56,6 +58,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | Honeywell | 42 | 42 |
 | Inovonics | 2 | 2 |
 | Inter-M | 1 | 1 |
+| Jeron | 1 | 1 |
 | Kentec | 166 | 163 |
 | Keyscan | 1 | 1 |
 | Kovert | 1 | 1 |
@@ -87,6 +90,8 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | TDSi | 30 | 30 |
 | Texecom | 115 | 115 |
 | The Fire Beam Company | 2 | 2 |
+| Tunstall | 28 | 28 |
+| Tynetec | 84 | 84 |
 | VCL / Ademco | 12 | 12 |
 | Ventcroft | 1 | 1 |
 | Videx | 74 | 74 |
@@ -100,7 +105,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
 | online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 1310 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
+| pdf-indexed | 1434 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
 | pdf-link-listed | 1869 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
 | retrieval-failed | 10 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
 | source-listing | 3 | Document title listed by manufacturer; a usable direct download is still unresolved. |
@@ -109,25 +114,26 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 
 | Type | Records |
 |---|---:|
-| application-note | 292 |
-| datasheet | 35 |
-| diagram | 25 |
-| installation | 890 |
-| programming | 59 |
-| quick-start | 132 |
-| reference | 819 |
-| troubleshooting | 5 |
-| user-guide | 1174 |
+| application-note | 295 |
+| datasheet | 47 |
+| diagram | 47 |
+| installation | 906 |
+| programming | 63 |
+| quick-start | 145 |
+| reference | 822 |
+| troubleshooting | 26 |
+| user-guide | 1204 |
 
 ## Source provenance
 
 | Source type | Records |
 |---|---:|
+| archive | 11 |
 | distributor | 31 |
 | installer | 700 |
-| manufacturer | 2700 |
+| manufacturer | 2813 |
 
-Manufacturer sources are preferred. Installer and distributor copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
+Manufacturer sources are preferred. Installer, distributor and independent archive copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
 
 ## This expansion
 
@@ -153,6 +159,8 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 - 21 October manufacturer follow-up: added 30 distinct FFE English user/installation guides from 35 linked files; linked byte-identical alternates. Resolved the existing Apollo XPander commissioning guide using its manufacturer PDF, PP2286/2019/Issue 13. Catalogue total: 3,431 records, 87 brands, 3,138 direct PDF links.
 - 21 October legacy Kentec review: resolved 50 of 54 remaining source-only listings to 49 distinct PDF URLs; corrected printed titles/numbers/issues and preserved both Man-1099 listing IDs with an explicit duplicate reference. Added one complete-file check for the distributor-hosted MIOU manual. Man-1494 now has a publisher-published direct URL, but retrieval still fails; three Kentec source-only listings remain.
 - 21 October follow-up: recovered Paxton ins-20603 as a complete 24-page AlarMax distributor PDF; retained its failed manufacturer URL and avoided assuming edition equivalence. All four CDVI public viewers were checked and report can_download=false. Current totals: 3,431 records, 87 brands, 3,189 direct PDF references. The one confirmed duplicate listing does not represent an additional unique PDF.
+- 21 October care-system expansion: 124 distinct complete PDFs added from 127 successful source downloads, merging three byte-identical alternate URLs. Added a warden-call category (120 records) plus four separate rescue-assistance references under fire. Tynetec 84, Tunstall 28, Cornell 10, Jeron 1 and CSL 1. All 11 Cornell/Jeron FACP downloads succeeded; one source model label was corrected against the PDF. Total: 3,555 records, 92 brands, 3,313 direct PDF references; 367 complete-file checks.
+- Created a warden-call/social-alarm standards group: six existing BS EN 50134 / PD CLC/TS records retain their IDs, and the BSI-verified BS 8521-2:2020 NOW-IP reference brings the register to 147.
 
 ## Known gaps
 
@@ -171,6 +179,7 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 - TDSi UM0120 Issue 2 and FireClass FC600 installation/user manuals are indexed. Siemens FC360 full English technical manuals from a verified source and further FireClass editions remain gaps. Bosch MAP 5000 requires a successful complete-file check.
 - Recovered Kentec legacy PDFs remain historical editions rather than assumed current issues. ECU Man-1032 and Signifire II Man-1067 have encoded cover text and unverified revision marks. Original model associations and publisher conflicts remain visible; installed model, protocol, firmware and market still require checking.
 - Phone application implementation, persistent on-device storage and real-device offline testing remain separate work; the versioned app manifest and integration contract are now available.
+- Care-system coverage is incomplete: TeleAlarm old TA74 PDF redirects to HTML; Reach IP 4G has no independently resolved guide in this pass; Aidcall, Careium, Ascom and Jontek need further collection. FACP coverage here is its 11 Cornell/Jeron care/rescue documents, not its entire fire-manual site.
 
 ## Records without direct PDF links
 
@@ -214,7 +223,9 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **C-TEC**: [source 1](https://c-tec.com/info/cast-devices/), [source 2](https://c-tec.com/info/instruction-manuals/), [source 3](https://c-tec.com/info/psu-resources/), [source 4](https://c-tec.com/info/sigtel-resources/), [source 5](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 6](https://www.srsalertfire.ie/product-info/user-manuals), [source 7](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **CAME / BPT**: [source 1](https://www.bptintercoms.co.uk/manuals.html), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **CDVI**: [source 1](https://www.cdvi.co.uk/our-products/a22/), [source 2](https://www.cdvi.co.uk/our-products/galeo-w/), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **CSL**: [source 1](https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/)
 - **Comelit**: [source 1](https://pro.comelitgroup.com/en-gb/downloads/cctv/technical-sheets-5/generic-documents-1), [source 2](https://pro.comelitgroup.com/en-gb/downloads/door-entry-systems-kits-1/technical-manuals-3/audio-internal-units-1), [source 3](https://pro.comelitgroup.com/en-gb/downloads/fire-detection/technical-documents-1), [source 4](https://pro.comelitgroup.com/en-gb/downloads/intruder-alarm/technical-documents-2), [source 5](https://pro.comelitgroup.com/en-gb/downloads/vip-system-3/technical-manuals-4/generic-documents-6)
+- **Cornell Communications**: [source 1](https://facpmanuals.com/manuals/cornell_communications/4000-series_nurse_call_systems-datasheet-d4000p-3), [source 2](https://facpmanuals.com/manuals/cornell_communications/4200_series_rescue_assistance_system-operations-2010), [source 3](https://facpmanuals.com/manuals/cornell_communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e), [source 4](https://facpmanuals.com/manuals/cornell_communications/a-4200_series_annunciator_panels-datasheet-2012), [source 5](https://facpmanuals.com/manuals/cornell_communications/b-5243b_power_supply-datasheet), [source 6](https://facpmanuals.com/manuals/cornell_communications/b-5248a_power_supply-datasheet), [source 7](https://facpmanuals.com/manuals/cornell_communications/p-512241a_and_p-512243a_power_supply-datasheet), [source 8](https://facpmanuals.com/manuals/cornell_communications/p-512241a_power_supply-datasheet-dp51221ac), [source 9](https://facpmanuals.com/manuals/cornell_communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003), [source 10](https://facpmanuals.com/manuals/cornell_communications/sw-510_hand-held_pendant_call_cord-datasheet)
 - **Dahua**: [source 1](https://www.dahuasecurity.com/asset/upload/product/20180524/Dahua-HDCVI-DVR-Users-Manual-V1_3_1.pdf), [source 2](https://www.dahuasecurity.com/asset/upload/product/20180525/Dahua-HDCVI-DVR-Users-Manual-V2_3_4-30.pdf), [source 3](https://www.dahuasecurity.com/asset/upload/product/20180705/Dahua-HDCVI-DVR-Users-Manual-V4_0_0-20180605_pdf1.pdf), [source 4](https://www.dahuasecurity.com/asset/upload/product/20180810/IPC-T2B40-ZS_Operation_Manual-_20171229.pdf), [source 5](https://www.dahuasecurity.com/asset/upload/product/20180904/ASC1202B-D_Users-Manual_V1_0_0_201808.pdf), [source 6](https://www.dahuasecurity.com/asset/upload/uploads/soft/20181031/Dahua-AI-Network-Video-Recorder_Users-Manual_V1.0.1-201810081.pdf), [source 7](https://www.dahuasecurity.com/asset/upload/uploads/soft/20181107/Dahua-Network-Video-Server-Users-Manual-V1.1.1.pdf), [source 8](https://www.dahuasecurity.com/asset/upload/uploads/soft/20181220/Embedded-Video-Storage-Server-%28EVS50-70-Series%29_Users-Manual_V2.1.03.pdf), [source 9](https://www.dahuasecurity.com/asset/upload/uploads/soft/20200720/Digital-VTH_Users-Manual_V1.2.0_201906063.pdf), [source 10](https://www.dahuasecurity.com/asset/upload/uploads/soft/20210511/DMSS-App_Users-Manual_V1.3.0.pdf), [source 11](https://www.dahuasecurity.com/products/Discontinued-Products/Network-Recorders/NVR2116-S3), [source 12](https://www.dahuasecurity.com/products/network-products/network-recorders/special-series/nvr4104-p-wt), [source 13](https://www.dahuasecurity.com/products/network-products/network-recorders/wizmind-series/nvr5-xi-pro/2hdd/nvr5208-8p-xi/pro), [source 14](https://www.dahuasecurity.com/uk/products/network-products/network-recorders/wizsense-series/nvr-5-ei2-series/nvr5216-ei2)
 - **Dedicated Micros**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Digitus Biometrics**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
@@ -236,6 +247,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Honeywell**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Inovonics**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Inter-M**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Jeron**: [source 1](https://facpmanuals.com/manuals/jeron/pro-alert_450_area_of_rescue_assistance-datasheet-2007)
 - **Kentec**: [source 1](https://fire.sectron.com/manuals/en/Kentec/adressable/), [source 2](https://kentec.co.uk/product/lockdown-notification-system/), [source 3](https://kentec.co.uk/product/sigma-xtplus/), [source 4](https://kentec.co.uk/product/sigma-zsi/), [source 5](https://kentec.co.uk/resources/product-resources/), [source 6](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/), [source 7](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 8](https://www.product-manuals.online/Syncro_AS/)
 - **Keyscan**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Kovert**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
@@ -267,6 +279,8 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **TDSi**: [source 1](https://tdsi.co.uk/products/excel4-controller/), [source 2](https://tdsi.co.uk/products/sologarde/), [source 3](https://tdsi.co.uk/technical-guides/), [source 4](https://www.tdsi.co.uk/technical-guides/), [source 5](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Texecom**: [source 1](https://www.texe.com/help-and-support/product-support/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **The Fire Beam Company**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Tunstall**: [source 1](https://www.tunstall.co.uk/archive-product-information/), [source 2](https://www.tunstall.co.uk/products/warden-call-systems/communicall-digital/)
+- **Tynetec**: [source 1](https://www.tynetec.co.uk/on-demand/technical-support/advent-xt/), [source 2](https://www.tynetec.co.uk/on-demand/technical-support/advent-xt2/), [source 3](https://www.tynetec.co.uk/on-demand/user-guides/at-home-alarms/)
 - **VCL / Ademco**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Ventcroft**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Videx**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php), [source 2](https://www.videxuk.com/downloads/application-notes/), [source 3](https://www.videxuk.com/downloads/manuals/), [source 4](https://www.videxuk.com/downloads/quick-guides/)
@@ -281,15 +295,15 @@ This audit covers every indexed record, with model/type coverage for every recor
 | Review flag | Records |
 |---|---:|
 | complete-file-check-needed | 2,946 |
-| document-number-unrecorded | 2,227 |
+| document-number-unrecorded | 2,266 |
 | download-url-unresolved | 3 |
 | language-unverified | 3,047 |
 | model-applicability-review-needed | 579 |
 | possible-duplicate-review-needed | 1 |
-| region-unverified | 3,411 |
+| region-unverified | 3,535 |
 | retrieval-failed | 10 |
-| revision-review-needed | 3,122 |
-| source-metadata-conflict | 14 |
+| revision-review-needed | 3,201 |
+| source-metadata-conflict | 17 |
 | viewer-without-direct-pdf | 4 |
 | web-manual-without-direct-pdf | 235 |
 
@@ -299,7 +313,7 @@ See [machine-readable gap audit](data/gap-audit.json) for exact record IDs, per-
 
 | Evidence / status | Records |
 |---|---:|
-| complete-file | 243 |
+| complete-file | 367 |
 | file-hash | 265 |
 | listed | 1,603 |
 | pdf-header | 1 |

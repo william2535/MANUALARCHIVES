@@ -4,9 +4,23 @@ Repository: https://github.com/william2535/MANUALARCHIVES
 
 ## Goal
 
-Build a comprehensive manual archive for a professional offline onsite guide, ordered by fire / security / access control / CCTV, then brand, model/family and document type. Keep continuing useful collection work without repeatedly asking for confirmation.
+Build a comprehensive manual archive for a professional offline onsite guide, ordered by fire / security / access control / CCTV / warden call and telecare, then brand, model/family and document type. Keep continuing useful collection work without repeatedly asking for confirmation.
 
-## Latest completed continuation — 21 October 2026
+## Latest completed continuation — warden call and FACP downloads, 21 October 2026
+
+Added **124 distinct, fully downloaded PDFs**, taking the archive to **3,555 records, 92 brands and 3,313 direct PDF references**. The new warden call / telecare / nurse-call category contains 120 records; four rescue-assistance references remain separately under fire. New records: Tynetec 84, Tunstall 28, Cornell Communications 10, Jeron 1 and CSL 1.
+
+All 11 Cornell/Jeron documents on the checked FACP pages downloaded successfully. Tynetec was absent from the checked FACP brand list, so Advent XT, XT2 and Reach-family documents came from Tynetec's own public libraries. Tunstall grouped-living resources include Communicall Digital version 1.4 (printed 30 July 2026), Connect, Vision, Vi IP and related guides. Three byte-identical alternate URLs were merged. Distinct legacy files and unresolved issue marks remain explicit. A mislabelled Cornell PSU listing was corrected against its actual PDF heading; Tunstall PBX/model/cover conflicts are retained.
+
+The public repository contains metadata and source links. Separate download packs contain the retrieved PDFs with filenames and checksums. The app feed records **367 complete-file checks** and does not claim these files are saved on a phone.
+
+The standards register has **147 references across eight groups**, including a dedicated social-alarm group with six existing BS EN 50134 / PD CLC/TS references and newly checked BS 8521-2:2020. Full licensed standard texts and complete revision histories are not included.
+
+Scope limits: FACP collection covered Cornell/Jeron care and rescue documents, not the whole site. TeleAlarm's old TA74 PDF now redirects to an HTML download centre and was not added as a working PDF. Reach IP 4G, Aidcall, Careium, Ascom and Jontek remain documented research gaps. Existing Kentec/CDVI and ten earlier PDF retrieval barriers are unchanged. See `data/source-audits/warden-call-2026-10-21.json` and `data/source-audits/facp-manuals-2026-10-21.json`.
+
+Validation: catalogue/generated-data consistency, Python unit tests and offline browser logic are checked for this update. No real-device offline test or full JSON Schema runtime validation is claimed.
+
+## Earlier continuation — 21 October 2026
 
 The archive has **3,431 manual/reference records across 87 brands and 3,189 direct PDF references**. This continuation resolves **50 previously source-only Kentec listings to 49 distinct PDF URLs**, corrects document titles/numbers and records readable printed issues. The Man-1099 duplicate keeps both stable IDs; an explicit `duplicate_of` reference makes the downloader save one copy, including when selected through the older ID. Counts are catalogue references, not a guarantee of unique file contents.
 

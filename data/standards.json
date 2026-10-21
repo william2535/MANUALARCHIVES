@@ -9,7 +9,8 @@
     "security": "Intruder alarms and monitoring",
     "access-control": "Access control and door entry",
     "cctv": "CCTV and video",
-    "electrical": "Electrical and cabling"
+    "electrical": "Electrical and cabling",
+    "warden-call": "Warden call and social alarms"
   },
   "coverage": {
     "complete": false,
@@ -3759,7 +3760,7 @@
       "standard": "BS EN 50134-1",
       "edition": "BS EN 50134-1:2002",
       "title": "Social alarm system requirements",
-      "category": "security",
+      "category": "warden-call",
       "status": "current",
       "under_review": false,
       "publisher_status": "Current",
@@ -3785,7 +3786,7 @@
       "standard": "BS EN 50134-2",
       "edition": "BS EN 50134-2:2017",
       "title": "Social alarm trigger equipment",
-      "category": "security",
+      "category": "warden-call",
       "status": "current",
       "under_review": false,
       "publisher_status": "Current",
@@ -3820,7 +3821,7 @@
       "standard": "BS EN 50134-3",
       "edition": "BS EN 50134-3:2012",
       "title": "Social alarm controllers and local units",
-      "category": "security",
+      "category": "warden-call",
       "status": "current",
       "under_review": false,
       "publisher_status": "Current",
@@ -3846,7 +3847,7 @@
       "standard": "BS EN 50134-5",
       "edition": "BS EN 50134-5:2021",
       "title": "Social alarm communications",
-      "category": "security",
+      "category": "warden-call",
       "status": "current",
       "under_review": false,
       "publisher_status": "Current",
@@ -3881,7 +3882,7 @@
       "standard": "BS EN 50134-7",
       "edition": "BS EN 50134-7:2017",
       "title": "Social alarm service guidance",
-      "category": "security",
+      "category": "warden-call",
       "status": "current",
       "under_review": false,
       "publisher_status": "Current",
@@ -4108,7 +4109,7 @@
       "standard": "PD CLC/TS 50134-9",
       "edition": "PD CLC/TS 50134-9:2018",
       "title": "Social alarm IP protocol",
-      "category": "security",
+      "category": "warden-call",
       "status": "current",
       "under_review": false,
       "publisher_status": "Current",
@@ -4127,6 +4128,34 @@
       "transition": null,
       "notes": [
         "Companion Published Document / technical specification, separately identified from a full British Standard."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-8521-2-2020",
+      "standard": "BS 8521-2",
+      "edition": "BS 8521-2:2020",
+      "title": "Social alarm IP signalling: NOW-IP",
+      "category": "warden-call",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2020-04-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/social-alarm-systems-ip-signalling-protocols-specification-for-now-ip",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/social-alarm-systems-ip-signalling-protocols-specification-for-now-ip"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "Publisher describes an IP protocol for communication between grouped-living social alarm equipment and alarm receiving centres. This is not evidence that any particular installation complies."
       ],
       "history_complete": false,
       "access": "publisher-link-only"

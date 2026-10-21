@@ -1840,7 +1840,9 @@
     "Remaining Apollo and Nittan product pages and unresolved links",
     "Siemens FC360 full English technical manual and FS20/FS720 panel manuals",
     "Salto current SPACE/KS online platform guides and newer publicly downloadable software manuals; SPACE 2.0 historical user manual is now indexed.",
-    "Kentec: 22 source-only records resolved; 54 remain without a direct PDF, including publisher-link/number conflicts for Man-1200, Man-1453 and Man-1252. Continue legacy panel and remaining iNS manuals. C-TEC still has three publisher metadata conflicts to review."
+    "Kentec: three source-only legacy listings and Man-1494 failed download remain; see the Kentec legacy audit. C-TEC retains three explicit publisher metadata conflicts.",
+    "Care systems: TeleAlarm replacement download links, Tynetec Reach IP 4G guide, Aidcall, Careium, Ascom and Jontek document-level coverage.",
+    "FACP Manuals: this pass covered Cornell and Jeron only; remaining fire/security collections need edition and duplicate review before import."
   ],
   "continuation_log": "data/continuation-log.json",
   "gap_fill_log": "data/gap-fill-log-2026-10-16.json",
@@ -1854,7 +1856,9 @@
     "data/source-audits/kentec-2026-10-21.json",
     "data/source-audits/kentec-legacy-2026-10-21.json",
     "data/source-audits/paxton-20603-recovery-2026-10-21.json",
-    "data/source-audits/cdvi-viewers-2026-10-21.json"
+    "data/source-audits/cdvi-viewers-2026-10-21.json",
+    "data/source-audits/warden-call-2026-10-21.json",
+    "data/source-audits/facp-manuals-2026-10-21.json"
   ],
   "continuation_log_kentec": "data/continuation-log-2026-10-21-kentec.json",
   "continuation_log_supplier_audit": {
@@ -1896,5 +1900,16 @@
     "audit": "data/source-audits/paxton-20603-recovery-2026-10-21.json",
     "record_id": "paxton-8f037f4d2888",
     "note": "Complete 24-page distributor copy; inaccessible manufacturer source preserved, no latest-edition equivalence claim."
+  },
+  "continuation_log_warden_call": {
+    "checked_on": "2026-10-21",
+    "added": 124,
+    "total_records": 3555,
+    "new_category_records": 120,
+    "rescue_assistance_records": 4,
+    "complete_source_downloads": 127,
+    "exact_duplicate_urls_merged": 3,
+    "standards_records": 147,
+    "audit": "data/source-audits/warden-call-2026-10-21.json"
   }
 }
