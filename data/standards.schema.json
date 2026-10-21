@@ -1,0 +1,265 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/william2535/MANUALARCHIVES/main/data/standards.schema.json",
+  "title": "British Standards register, version 1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "checked_on",
+    "title",
+    "categories",
+    "coverage",
+    "records"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "checked_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "title": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "complete",
+        "scope",
+        "limits",
+        "remaining_checks"
+      ],
+      "properties": {
+        "complete": {
+          "const": false
+        },
+        "scope": {
+          "type": "string"
+        },
+        "limits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "remaining_checks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "records": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "standard",
+          "edition",
+          "title",
+          "category",
+          "status",
+          "under_review",
+          "publisher_status",
+          "publisher_record_date",
+          "source_checked",
+          "source_url",
+          "source_urls",
+          "amendments_in_designation",
+          "update_kind",
+          "change_summary",
+          "summary_basis",
+          "supersedes",
+          "earlier_records",
+          "transition",
+          "notes",
+          "history_complete",
+          "access"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "standard": {
+            "type": "string"
+          },
+          "edition": {
+            "type": "string",
+            "pattern": "^(BS(?: EN)?(?: IEC)?|PD) \\d+(?:-\\d+)*:\\d{4}(?:\\+A\\d+:\\d{4})*$"
+          },
+          "title": {
+            "type": "string"
+          },
+          "category": {
+            "enum": [
+              "fire",
+              "fire-safety",
+              "emergency-lighting",
+              "security",
+              "access-control",
+              "cctv",
+              "electrical"
+            ]
+          },
+          "status": {
+            "enum": [
+              "current",
+              "withdrawn"
+            ]
+          },
+          "under_review": {
+            "type": "boolean"
+          },
+          "publisher_status": {
+            "type": "string"
+          },
+          "publisher_record_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "source_checked": {
+            "type": "string",
+            "format": "date"
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "source_urls": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https://"
+            }
+          },
+          "amendments_in_designation": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^A\\d+:\\d{4}$"
+            }
+          },
+          "update_kind": {
+            "enum": [
+              "amendment",
+              "full-revision",
+              "published-edition",
+              "edition-recorded"
+            ]
+          },
+          "change_summary": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "summary_basis": {
+            "enum": [
+              "publisher-public-summary",
+              "edition-metadata-only"
+            ]
+          },
+          "supersedes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "earlier_records": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "edition",
+                "publisher_status",
+                "source_url",
+                "note"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "edition": {
+                  "type": "string"
+                },
+                "publisher_status": {
+                  "type": "string"
+                },
+                "source_url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://"
+                },
+                "note": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "transition": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "required": [
+              "ends_on",
+              "previous_edition",
+              "source_url",
+              "note"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "ends_on": {
+                "type": "string",
+                "format": "date"
+              },
+              "previous_edition": {
+                "type": "string"
+              },
+              "source_url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          },
+          "notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "history_complete": {
+            "const": false
+          },
+          "access": {
+            "const": "publisher-link-only"
+          }
+        }
+      }
+    }
+  }
+}

@@ -5,6 +5,7 @@ from datetime import date
 from pathlib import Path,PurePosixPath
 from urllib.parse import urlparse
 from app_data import build_manifest, build_gap_audit
+from standards_data import standards_errors, render_standards_markdown
 ROOT=Path(__file__).resolve().parents[1]
 def date_errors(data):
     errors=[]
@@ -57,6 +58,12 @@ def validate(root=ROOT):
     embedded=json.loads(match.group(1))if match else []
     if {r['id']for r in embedded}!=ids:errors.append('Browser index differs from catalogue')
     errors.extend(date_errors(data))
+    standards=json.loads((root/'data/standards.json').read_text())
+    errors.extend(standards_errors(standards))
+    embedded_standards=re.search(r'<script id="standards-data" type="application/json">(.*?)</script>',page,re.S)
+    if not embedded_standards or json.loads(embedded_standards.group(1))!=standards:errors.append('Browser standards register differs from source')
+    standard_doc=root/'05-british-standards/README.md'
+    if not standard_doc.is_file()or standard_doc.read_text()!=render_standards_markdown(standards).rstrip()+'\n':errors.append('Standards navigation is missing or stale')
     for filename,expected in [('app-manifest.json',build_manifest(data)),('gap-audit.json',build_gap_audit(data))]:
         path=root/'data'/filename
         if not path.is_file()or json.loads(path.read_text())!=expected:errors.append(f'{filename}: missing or stale generated data')

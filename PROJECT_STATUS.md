@@ -6,7 +6,17 @@ Repository: https://github.com/william2535/MANUALARCHIVES
 
 Build a comprehensive manual archive for a professional offline onsite guide, ordered by fire / security / access control / CCTV, then brand, model/family and document type. Keep continuing useful collection work without repeatedly asking for confirmation.
 
-## Latest checkpoint — 21 October 2026
+## Latest addition — British Standards, 21 October 2026
+
+The new `05-british-standards/README.md` section and `index.html#standards` browser view contain **93 checked references across seven subjects**, **20 amended designations**, **11 public revision summaries** and **15 earlier publisher records**. Sources are BSI public product records and the IET's own BS 7671 update/transition information. `data/standards.json` is the independent phone-app feed, with `data/standards.schema.json` and integration notes.
+
+Recent entries include BS 5839-1:2025, BS 5266-1:2025, BS EN 50131-3:2026, BS EN IEC 62676-4:2025, BS EN IEC 62676-6:2026 and BS 7671:2018+A4:2026. The IET-confirmed 15 October 2026 A2/A3 transition end is recorded separately from publication dates. The section also includes relevant EN/IEC adoptions and clearly labelled PD 6662/6669 companion documents. Licensed standard PDFs are not mirrored or queued by the manual downloader.
+
+Coverage remains explicitly partial: this is not every British Standard or a complete amendment/corrigendum history. Detailed revision summaries are present only where public publisher evidence was checked. BSI record dates are preserved even where they differ from edition years. Earlier pages that still report current status remain visible; withdrawal or coexistence deadlines are not inferred. `coverage.remaining_checks` lists remaining families and histories.
+
+Validation: all **26 Python tests** passed, along with catalogue/standards consistency and offline JavaScript UI logic checks for deep links, search, filters, pagination, empty results, transition evidence and preservation of the manuals view. The existing **3,362 manuals, 72 brands and 3,068 direct PDF links** remain unchanged. A real-browser/mobile visual check could not run because this environment has no browser executable; real-device and native-phone-storage testing remain outstanding. The register is a manually checked snapshot, with no automatic monitoring.
+
+## Previous checkpoint — 21 October 2026
 
 The archive contains **3,362 records across 72 brands and 3,068 direct PDF links**. This continuation adds **eight documents** (seven Kentec lockdown-device guides and the correctly identified Sigma ZSi DS145 datasheet), resolves **22 existing source-only Kentec entries**, and enriches the existing Syncro networking manual. All earlier record IDs, model associations, source URLs, download URLs and complete-file evidence are retained.
 

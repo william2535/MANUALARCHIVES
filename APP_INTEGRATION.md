@@ -10,6 +10,8 @@ The archive supplies the catalogue and original download sources. A phone app ca
 | [app-manifest.schema.json](data/app-manifest.schema.json) | JSON Schema for manifest version 1 |
 | [catalogue.json](data/catalogue.json) | Full research record, provenance and alternate sources |
 | [gap-audit.json](data/gap-audit.json) | Every indexed record's review flags, brand counts and model/type coverage |
+| [standards.json](data/standards.json) | Independent British Standards register, revision notes and publisher links |
+| [standards.schema.json](data/standards.schema.json) | JSON Schema for standards register version 1 |
 | [research-backlog.json](data/research-backlog.json) | Further source discovery and known missing families |
 
 Live manifest URL:
@@ -66,3 +68,15 @@ For a native phone app, use persistent file storage with an explicit PDF viewer 
 Platform references: [Apple background downloads](https://developer.apple.com/documentation/foundation/downloading-files-in-the-background), [Android app-specific storage](https://developer.android.com/training/data-storage/app-specific), [browser CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS), [browser storage quotas and eviction](https://developer.mozilla.org/en-US/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria).
 
 The catalogue links to publisher files; it does not host or license those PDFs. Keep source notices and follow [RIGHTS.md](RIGHTS.md) when downloading or proposing a mirrored archive.
+
+## British Standards register
+
+`data/standards.json` is an independent version-1 feed. Keep it separately from downloadable manufacturer manuals. Its `records` have edition-specific stable IDs, a `standard` family key, an exact `edition`, category, publisher status, source-check date, official source URLs and optional public change summaries. Titles are short subject labels, not necessarily the full formal title.
+
+`publisher_record_date` is exactly the date displayed on the cited BSI record, or `null` if not established. It may be a corrected issue/product date, and can differ from the edition or amendment year. Never turn it into an effective date. `under_review` is independent of `current`/`withdrawn`. `amendments_in_designation` records only explicit A-labels; an empty array is not proof of no amendments or corrigenda. `summary_basis` distinguishes public revision summaries from edition metadata alone.
+
+`earlier_records` preserves the status displayed by the earlier source. BSI can list both earlier and later records as current; do not infer withdrawal. `supersedes` contains only publisher-confirmed predecessors. `transition` is null unless a separately sourced deadline is known. The current register records the IET's 15 October 2026 transition end for BS 7671 A2/A3. Evaluate dates against the feed's check date before showing past/future wording.
+
+Cache the register and search it offline. Keep bookmarks keyed by edition ID, and retain earlier editions when adding revisions. Show the source-check date beside status and keep `coverage.complete` and `history_complete` visible to consumers. This is a manually checked snapshot, not an automatic update service or a complete historical register. Pending families and histories are listed in `coverage.remaining_checks`.
+
+Every entry has `access: publisher-link-only`. Open the official publisher page for licensed access; never queue it as a manufacturer PDF download. A metadata update must not imply a standard is saved on the phone. The IET requires links to its updates page rather than direct update-PDF links. Full standard texts are not mirrored by this archive.

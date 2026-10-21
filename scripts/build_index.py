@@ -3,6 +3,7 @@
 import collections,html,json,re,unicodedata
 from pathlib import Path
 from app_data import build_manifest, build_gap_audit, download_info
+from standards_data import standards_errors, render_standards_markdown
 ROOT=Path(__file__).resolve().parents[1]
 CATEGORIES={'fire':('01-fire','Fire'),'security':('02-security','Security / intruder'),'access-control':('03-access-control','Access control / door entry'),'cctv':('04-cctv','CCTV')}
 def slug(value):
@@ -11,6 +12,9 @@ def slug(value):
 def md(value):return str(value or 'Not recorded').replace('|','\\|').replace('\n',' ').replace('[','\\[').replace(']','\\]')
 def main():
     catalogue=json.loads((ROOT/'data/catalogue.json').read_text());records=catalogue['records'];generated=[]
+    standards=json.loads((ROOT/'data/standards.json').read_text())
+    problems=standards_errors(standards)
+    if problems:raise ValueError('\n'.join(problems))
     previous=json.loads((ROOT/'data/generated-files.json').read_text())if(ROOT/'data/generated-files.json').exists()else []
     def write(path,text):
         target=ROOT/path;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(text.rstrip()+'\n');generated.append(path)
@@ -46,7 +50,11 @@ def main():
     app_lines=['','## Phone app foundation','','[`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.','',f'Current evidence: **{manifest["download_status_counts"].get("complete-file",0):,} complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.','', 'See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.','','[`data/gap-audit.json`](data/gap-audit.json) audits every record and model association, with review flags and counts by brand. It is regenerated with the catalogue.']
     readme[readme.index('## Offline downloads')-1:readme.index('## Offline downloads')-1]=app_lines
     readme=[line.replace('Source collection date:', 'Catalogue build date:') for line in readme]
+    section=['','## British Standards updates and revisions','',f'**{len(standards["records"])} checked references across {len(standards["categories"])} groups**, covering fire, security, access control, CCTV and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked {standards["checked_on"]}.','','[Browse the standards section](05-british-standards/README.md) · [Search standards offline](index.html#standards) · [App data](data/standards.json)','','The register identifies gaps explicitly; it is not a complete history of every BS amendment. Full licensed standard texts are obtained from the publisher. The archive stores metadata and original short summaries.']
+    position=readme.index('## Search and app data')-1
+    readme[position:position]=section
     write('README.md','\n'.join(readme))
+    write('05-british-standards/README.md',render_standards_markdown(standards))
     coverage=['# Coverage and outstanding work','',f'Collection date: {catalogue["generated_on"]}. Counts are catalogue records, not downloaded files or a claim of completeness.','','## Brands','','| Brand | Records | Direct PDF links |','|---|---:|---:|']
     for brand,n in sorted(brand_counts.items()):coverage.append(f'| {brand} | {n} | {sum(r["brand"]==brand and bool(r.get("download_url"))for r in records)} |')
     coverage+=['','## Availability','','| Status | Records | Meaning |','|---|---:|---|']
@@ -73,6 +81,7 @@ def main():
     browser_records=[{k:r[k]for k in ['id','category','brand','models','title','document_type','document_number','revision_hint','availability','source_url','document_url','download_url','folders','source_kind','model_basis']}for r in records]
     for browser_row,row in zip(browser_records,records):browser_row['download']=download_info(row)
     template=(ROOT/'scripts/index-template.html').read_text()
+    template=template.replace('__STANDARDS_DATA__',json.dumps(standards,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__STANDARDS_SCRIPT__',(ROOT/'scripts/standards-browser.js').read_text())
     write('index.html',template.replace('__CATALOGUE_DATA__',json.dumps(browser_records,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__COUNT__',f'{len(records):,}').replace('__DATE__',catalogue['generated_on']))
     write('data/generated-files.json',json.dumps(sorted(generated),indent=2))
     for old in set(previous)-set(generated):

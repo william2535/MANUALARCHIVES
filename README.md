@@ -17,6 +17,14 @@ Catalogue build date: 2026-10-21. A check date does not mean a document is the l
 
 Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 
+## British Standards updates and revisions
+
+**93 checked references across 7 groups**, covering fire, security, access control, CCTV and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked 2026-10-21.
+
+[Browse the standards section](05-british-standards/README.md) · [Search standards offline](index.html#standards) · [App data](data/standards.json)
+
+The register identifies gaps explicitly; it is not a complete history of every BS amendment. Full licensed standard texts are obtained from the publisher. The archive stores metadata and original short summaries.
+
 ## Search and app data
 
 - Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening source documents requires a connection until you download them.
