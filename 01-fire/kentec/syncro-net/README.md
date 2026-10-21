@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1058 Syncro Net](https://kentec.co.uk/wp-content/uploads/2018/08/man-1058.pdf) | reference | Man-1058 | Not recorded | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1383 Syncro Net](https://kentec.co.uk/wp-content/uploads/2018/08/man-1383.pdf) | reference | Man-1383 | Not recorded | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro — Networking manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1058.pdf) | installation | Man-1058 | Issue 06 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

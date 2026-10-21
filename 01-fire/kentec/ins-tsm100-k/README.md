@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1493 iNS TSM100-K User Manual](https://kentec.co.uk/resources/product-resources/) | user-guide | Man-1493 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1527 iNS TSM100-K QSG](https://kentec.co.uk/resources/product-resources/) | quick-start | Man-1527 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [iNS TSM100-K — Transient suppression module user manual](https://kentec.co.uk/wp-content/uploads/2020/07/Man-1493-iNS-TSM100-K-Transient-Supression-Module-User-Manual-Rev.02.pdf) | user-guide | Man-1493 | Rev.02 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

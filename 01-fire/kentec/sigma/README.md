@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1048 Sigma](https://kentec.co.uk/resources/product-resources/) | reference | Man-1048 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma K1000 1/2/4/6-zone panels — Operation and maintenance manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1048.pdf) | installation | Man-1048 | Issue 05 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

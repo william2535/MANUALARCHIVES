@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-920 document records. Door entry belongs under access control.
+921 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -19,7 +19,7 @@
 | [Global Fire Equipment](global-fire-equipment/README.md) | 4 | 4 |
 | [Haes](haes/README.md) | 76 | 65 |
 | [Hochiki](hochiki/README.md) | 19 | 24 |
-| [Kentec](kentec/README.md) | 157 | 121 |
+| [Kentec](kentec/README.md) | 158 | 159 |
 | [Morley-IAS](morley-ias/README.md) | 7 | 7 |
 | [Nittan](nittan/README.md) | 82 | 72 |
 | [Notifier](notifier/README.md) | 7 | 7 |

@@ -7,7 +7,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
 | [Man-1494 iNS RIM100E-K / RIM100M-3-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1494 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1528 iNS RIM100E-K / RIM100M-3-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1528 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [iNS RIM100E-K / RIM100M-3-K — Quick start guide](https://kentec.co.uk/wp-content/uploads/2020/07/Man-1528-iNS-RIM-Interface-Modules-008009-Quick-Start-Guide-Rev.01.pdf) | quick-start | Man-1528 | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1040 PSU & Battery](https://kentec.co.uk/resources/product-resources/) | reference | Man-1040 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [750mA power supply and battery charger — Installation, commissioning and operating manual](https://kentec.co.uk/wp-content/uploads/2018/07/Man-1040-PSU-Battery_06.pdf) | installation | Man-1040 | Issue 06 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

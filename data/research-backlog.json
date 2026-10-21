@@ -73,27 +73,6 @@
       "source_url": "https://ajax.systems/support/manuals/superior-nvr-h2daip/"
     },
     {
-      "id": "ajax-c01c75376cc8",
-      "brand": "Ajax",
-      "title": "How to configure ONVIF connection for Ajax video devices",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/onvif/"
-    },
-    {
-      "id": "ajax-7568f513802b",
-      "brand": "Ajax",
-      "title": "How to create and configure a video scenario in the Ajax system",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/videoscenarios/"
-    },
-    {
-      "id": "ajax-2fb798d2b644",
-      "brand": "Ajax",
-      "title": "BulletCam user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/bulletcam/"
-    },
-    {
       "id": "ajax-64b4c25ebaed",
       "brand": "Ajax",
       "title": "BulletCam HL user manual",
@@ -108,11 +87,11 @@
       "source_url": "https://ajax.systems/support/manuals/bulletcam-hlvf/"
     },
     {
-      "id": "ajax-882608e0473d",
+      "id": "ajax-2fb798d2b644",
       "brand": "Ajax",
-      "title": "DomeCam Mini user manual",
+      "title": "BulletCam user manual",
       "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/domecam-mini/"
+      "source_url": "https://ajax.systems/support/manuals/bulletcam/"
     },
     {
       "id": "ajax-941d0acf8e3f",
@@ -122,11 +101,32 @@
       "source_url": "https://ajax.systems/support/manuals/domecam-mini-hl/"
     },
     {
+      "id": "ajax-882608e0473d",
+      "brand": "Ajax",
+      "title": "DomeCam Mini user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/domecam-mini/"
+    },
+    {
       "id": "ajax-ba1e5bf6e25e",
       "brand": "Ajax",
       "title": "DoorBell user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/doorbell/"
+    },
+    {
+      "id": "ajax-c01c75376cc8",
+      "brand": "Ajax",
+      "title": "How to configure ONVIF connection for Ajax video devices",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/onvif/"
+    },
+    {
+      "id": "ajax-7568f513802b",
+      "brand": "Ajax",
+      "title": "How to create and configure a video scenario in the Ajax system",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/videoscenarios/"
     },
     {
       "id": "ajax-ee143197a131",
@@ -136,13 +136,6 @@
       "source_url": "https://ajax.systems/support/manuals/indoorcam/"
     },
     {
-      "id": "ajax-556bcc75560b",
-      "brand": "Ajax",
-      "title": "NVR user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/nvr/"
-    },
-    {
       "id": "ajax-cefdb300d00c",
       "brand": "Ajax",
       "title": "NVR H series device user manual",
@@ -150,11 +143,11 @@
       "source_url": "https://ajax.systems/support/manuals/nvr-h/"
     },
     {
-      "id": "ajax-1d2b577edd37",
+      "id": "ajax-556bcc75560b",
       "brand": "Ajax",
-      "title": "TurretCam user manual",
+      "title": "NVR user manual",
       "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/turretcam/"
+      "source_url": "https://ajax.systems/support/manuals/nvr/"
     },
     {
       "id": "ajax-32a77b387449",
@@ -162,6 +155,13 @@
       "title": "TurretCam HL user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/turretcam-hl/"
+    },
+    {
+      "id": "ajax-1d2b577edd37",
+      "brand": "Ajax",
+      "title": "TurretCam user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/turretcam/"
     },
     {
       "id": "axis-ced9cb28fc4a",
@@ -465,170 +465,16 @@
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-07e5b1afdff7",
+      "id": "kentec-06af97e58210",
       "brand": "Kentec",
-      "title": "Man-1205 Elite",
+      "title": "Man-1034 Signifire",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-60e4e2070323",
+      "id": "kentec-bb94887b4920",
       "brand": "Kentec",
-      "title": "Man-1206 Elite",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-10d7f8b6bfb8",
-      "brand": "Kentec",
-      "title": "Man-1200 Elite RS-A",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-c5d528024dee",
-      "brand": "Kentec",
-      "title": "Man-1199 Elite-A",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-24a1ad2740fe",
-      "brand": "Kentec",
-      "title": "Man-1216 Elite-H",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-5959b1d15956",
-      "brand": "Kentec",
-      "title": "Man-1083 Hold Off",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-07eb8f5458c5",
-      "brand": "Kentec",
-      "title": "Man-1132 HydroSense CP-R",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-d06859911ab7",
-      "brand": "Kentec",
-      "title": "Man-1572 iNS DNP-R-2F/FC-K",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-953ad828aa6a",
-      "brand": "Kentec",
-      "title": "Man-1491 iNS DNX-A-2R-K",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-d69068711932",
-      "brand": "Kentec",
-      "title": "Man-1529 iNS DNX-A-2R-K & DNP-R-2F/FC-K",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-5e0f7dfc0f55",
-      "brand": "Kentec",
-      "title": "Man-1492 iNS DNX-R-2F/FC-K",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-4d0c115c1f49",
-      "brand": "Kentec",
-      "title": "Man-1494 iNS RIM100E-K / RIM100M-3-K",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-0552d6eb9d4f",
-      "brand": "Kentec",
-      "title": "Man-1528 iNS RIM100E-K / RIM100M-3-K",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-93294c124417",
-      "brand": "Kentec",
-      "title": "Man-1493 iNS TSM100-K User Manual",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-e007ce3a1e65",
-      "brand": "Kentec",
-      "title": "Man-1527 iNS TSM100-K QSG",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-cf7bc7da1f6b",
-      "brand": "Kentec",
-      "title": "HA-06-465 Install Instructions",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-c10bc4906121",
-      "brand": "Kentec",
-      "title": "HA-06-484Install Instructions",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-eac92e3a1396",
-      "brand": "Kentec",
-      "title": "Man-1046 K2.01",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-bbef8c448c29",
-      "brand": "Kentec",
-      "title": "Man-1050 K3000",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-dc72e2b70ccf",
-      "brand": "Kentec",
-      "title": "Man-1049 K3200",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-451d1221e616",
-      "brand": "Kentec",
-      "title": "Man-1045 K4.01/ K4.01+",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-8d0050f536ab",
-      "brand": "Kentec",
-      "title": "Man-113 LIOU",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-99b846bf6d01",
-      "brand": "Kentec",
-      "title": "Man-1041 Microsense II",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-3093ce5a5998",
-      "brand": "Kentec",
-      "title": "Man-1060 MIOU",
+      "title": "Man-1037 Signifire",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
@@ -640,37 +486,86 @@
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-fcd372bbfc52",
+      "id": "kentec-99b846bf6d01",
       "brand": "Kentec",
-      "title": "Man-1128 PSU",
+      "title": "Man-1041 Microsense II",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-78c4a3e92850",
+      "id": "kentec-bd26ca74c109",
       "brand": "Kentec",
-      "title": "Man-1223 PSU",
+      "title": "Man-1044 Status Units",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-86f5052c1d60",
+      "id": "kentec-451d1221e616",
       "brand": "Kentec",
-      "title": "Man-1225 PSU",
+      "title": "Man-1045 K4.01/ K4.01+",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-36f6cdac560c",
+      "id": "kentec-eac92e3a1396",
       "brand": "Kentec",
-      "title": "Man-1040 PSU & Battery",
+      "title": "Man-1046 K2.01",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-c3bfe302c4b2",
+      "id": "kentec-dc72e2b70ccf",
       "brand": "Kentec",
-      "title": "Man-1038 S400 PSU",
+      "title": "Man-1049 K3200",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-bbef8c448c29",
+      "brand": "Kentec",
+      "title": "Man-1050 K3000",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-579029878abe",
+      "brand": "Kentec",
+      "title": "Man-1052 Solo Response",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-c1bfc1bb8813",
+      "brand": "Kentec",
+      "title": "Man-1053 Solo (Apollo)",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-be1af1c20d35",
+      "brand": "Kentec",
+      "title": "Man-1054 Solo (Hochiki)",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-3093ce5a5998",
+      "brand": "Kentec",
+      "title": "Man-1060 MIOU",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-79b9e32dfc2b",
+      "brand": "Kentec",
+      "title": "Man-1061 Solo II",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-af961766045a",
+      "brand": "Kentec",
+      "title": "Man-1062 Syncro Lite",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
@@ -682,9 +577,58 @@
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
+      "id": "kentec-e2d68c942c86",
+      "brand": "Kentec",
+      "title": "Man-1064 Solo Response",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-3d9bf7fca5e6",
+      "brand": "Kentec",
+      "title": "Man-1065 Solo II Lite",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-4e580068ce6c",
+      "brand": "Kentec",
+      "title": "Man-1067 Signifire II",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-dc4533578423",
+      "brand": "Kentec",
+      "title": "Man-1068 Syncro Comms",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-4f1709f3eabf",
+      "brand": "Kentec",
+      "title": "Man-1071 Solex 2",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
       "id": "kentec-d7cedc193659",
       "brand": "Kentec",
       "title": "Man-1072 SB.02",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-bd8936356752",
+      "brand": "Kentec",
+      "title": "Man-1081 Syncro Focus & Syncro Focus+",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-5959b1d15956",
+      "brand": "Kentec",
+      "title": "Man-1083 Hold Off",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
@@ -696,16 +640,86 @@
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-5f15c8279837",
+      "id": "kentec-a25790bc2332",
       "brand": "Kentec",
-      "title": "Man-1048 Sigma",
+      "title": "Man-1089 Sigma Si",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-8c639b20ff54",
+      "id": "kentec-5fa7053b016d",
       "brand": "Kentec",
-      "title": "Man-1047 Sigma (Economy)",
+      "title": "Man-1090 Syncro XT (Main)",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-f3ebcdaf7f43",
+      "brand": "Kentec",
+      "title": "Man-1092M Syncro View Marine",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-92d6f0a5ae19",
+      "brand": "Kentec",
+      "title": "Man-1095 Sigma XT",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-330d870ec4de",
+      "brand": "Kentec",
+      "title": "Man-1099 Syncro Si",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-ec0d55303ccf",
+      "brand": "Kentec",
+      "title": "Man-1099 Syncro Si and hold off manual",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-6655748b3b7e",
+      "brand": "Kentec",
+      "title": "Man-1125 VDR Interface",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-4a68f079c0fb",
+      "brand": "Kentec",
+      "title": "Man-1127 Sigma Matrix",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-fcd372bbfc52",
+      "brand": "Kentec",
+      "title": "Man-1128 PSU",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-8d0050f536ab",
+      "brand": "Kentec",
+      "title": "Man-113 LIOU",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-07eb8f5458c5",
+      "brand": "Kentec",
+      "title": "Man-1132 HydroSense CP-R",
+      "availability": "source-listing",
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
+    },
+    {
+      "id": "kentec-315ab95f24b7",
+      "brand": "Kentec",
+      "title": "Man-1133 Syncro XT (User)",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
@@ -731,65 +745,44 @@
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-c306c1924523",
+      "id": "kentec-c5d528024dee",
       "brand": "Kentec",
-      "title": "Man-1151 Sigma A-Si",
+      "title": "Man-1199 Elite-A",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-4e903b476dbc",
+      "id": "kentec-10d7f8b6bfb8",
       "brand": "Kentec",
-      "title": "Man-1145 Sigma A-XT",
+      "title": "Man-1200 Elite RS-A",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-08007b0c58f6",
+      "id": "kentec-07e5b1afdff7",
       "brand": "Kentec",
-      "title": "Man-1146 Sigma A-XT",
+      "title": "Man-1205 Elite",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-b881ae752a6c",
+      "id": "kentec-60e4e2070323",
       "brand": "Kentec",
-      "title": "Man-1147 Sigma A-XT",
+      "title": "Man-1206 Elite",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-171d3e03bc91",
+      "id": "kentec-24a1ad2740fe",
       "brand": "Kentec",
-      "title": "Man-1138 Sigma CP-A",
+      "title": "Man-1216 Elite-H",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-922756f21680",
+      "id": "kentec-c459d2b51602",
       "brand": "Kentec",
-      "title": "Man-1093 Sigma CP-R",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-4a68f079c0fb",
-      "brand": "Kentec",
-      "title": "Man-1127 Sigma Matrix",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-a25790bc2332",
-      "brand": "Kentec",
-      "title": "Man-1089 Sigma Si",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-92d6f0a5ae19",
-      "brand": "Kentec",
-      "title": "Man-1095 Sigma XT",
+      "title": "Man-1252 XT+ Releasing Unit Installation Manual",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
@@ -808,170 +801,30 @@
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-06af97e58210",
+      "id": "kentec-5e0f7dfc0f55",
       "brand": "Kentec",
-      "title": "Man-1034 Signifire",
+      "title": "Man-1492 iNS DNX-R-2F/FC-K",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-bb94887b4920",
+      "id": "kentec-4d0c115c1f49",
       "brand": "Kentec",
-      "title": "Man-1037 Signifire",
+      "title": "Man-1494 iNS RIM100E-K / RIM100M-3-K",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-4e580068ce6c",
+      "id": "kentec-e007ce3a1e65",
       "brand": "Kentec",
-      "title": "Man-1067 Signifire II",
+      "title": "Man-1527 iNS TSM100-K QSG",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "kentec-4f1709f3eabf",
+      "id": "kentec-d06859911ab7",
       "brand": "Kentec",
-      "title": "Man-1071 Solex 2",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-c1bfc1bb8813",
-      "brand": "Kentec",
-      "title": "Man-1053 Solo (Apollo)",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-be1af1c20d35",
-      "brand": "Kentec",
-      "title": "Man-1054 Solo (Hochiki)",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-79b9e32dfc2b",
-      "brand": "Kentec",
-      "title": "Man-1061 Solo II",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-3d9bf7fca5e6",
-      "brand": "Kentec",
-      "title": "Man-1065 Solo II Lite",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-579029878abe",
-      "brand": "Kentec",
-      "title": "Man-1052 Solo Response",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-e2d68c942c86",
-      "brand": "Kentec",
-      "title": "Man-1064 Solo Response",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-bd26ca74c109",
-      "brand": "Kentec",
-      "title": "Man-1044 Status Units",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-724b56a14295",
-      "brand": "Kentec",
-      "title": "Man-1055 Syncro (Main)",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-2a8e55fe4ae2",
-      "brand": "Kentec",
-      "title": "Man-1057 Syncro (User)",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-dc4533578423",
-      "brand": "Kentec",
-      "title": "Man-1068 Syncro Comms",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-bd8936356752",
-      "brand": "Kentec",
-      "title": "Man-1081 Syncro Focus & Syncro Focus+",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-af961766045a",
-      "brand": "Kentec",
-      "title": "Man-1062 Syncro Lite",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-330d870ec4de",
-      "brand": "Kentec",
-      "title": "Man-1099 Syncro Si",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-ec0d55303ccf",
-      "brand": "Kentec",
-      "title": "Man-1099 Syncro Si and hold off manual",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-f3ebcdaf7f43",
-      "brand": "Kentec",
-      "title": "Man-1092M Syncro View Marine",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-5fa7053b016d",
-      "brand": "Kentec",
-      "title": "Man-1090 Syncro XT (Main)",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-315ab95f24b7",
-      "brand": "Kentec",
-      "title": "Man-1133 Syncro XT (User)",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-fe3a1b497fb1",
-      "brand": "Kentec",
-      "title": "HA-06-465A Technical Bulletin",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-6655748b3b7e",
-      "brand": "Kentec",
-      "title": "Man-1125 VDR Interface",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
-    },
-    {
-      "id": "kentec-c459d2b51602",
-      "brand": "Kentec",
-      "title": "Man-1252 XT+ Releasing Unit Installation Manual",
+      "title": "Man-1572 iNS DNP-R-2F/FC-K",
       "availability": "source-listing",
       "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
@@ -1109,11 +962,11 @@
       "source_url": "https://ajax.systems/support/manuals/ajax-superior-spacecontrol-jeweller/"
     },
     {
-      "id": "ajax-31be31be361c",
+      "id": "ajax-def9761deded",
       "brand": "Ajax",
-      "title": "How to create and configure a scenario in the Ajax system",
+      "title": "Ajax Translator PRO user manual",
       "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/scenarios/"
+      "source_url": "https://ajax.systems/support/manuals/ajax-translator-pro/"
     },
     {
       "id": "ajax-deb36e29c72b",
@@ -1121,13 +974,6 @@
       "title": "Ajax Translator user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/translator/"
-    },
-    {
-      "id": "ajax-def9761deded",
-      "brand": "Ajax",
-      "title": "Ajax Translator PRO user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/ajax-translator-pro/"
     },
     {
       "id": "ajax-ca6f62a04547",
@@ -1179,13 +1025,6 @@
       "source_url": "https://ajax.systems/support/manuals/cabletrunk/"
     },
     {
-      "id": "ajax-aa5febd2a0ed",
-      "brand": "Ajax",
-      "title": "Case user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/case-fibra/"
-    },
-    {
       "id": "ajax-fba30a121683",
       "brand": "Ajax",
       "title": "Case E (395) user manual",
@@ -1193,11 +1032,11 @@
       "source_url": "https://ajax.systems/support/manuals/case-e-395/"
     },
     {
-      "id": "ajax-af0b7d4e7c33",
+      "id": "ajax-aa5febd2a0ed",
       "brand": "Ajax",
-      "title": "CombiProtect user manual",
+      "title": "Case user manual",
       "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/combiprotect/"
+      "source_url": "https://ajax.systems/support/manuals/case-fibra/"
     },
     {
       "id": "ajax-d2ba0e7ecaa8",
@@ -1205,6 +1044,13 @@
       "title": "CombiProtect U Jeweller user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/combiprotect-u-jeweller/"
+    },
+    {
+      "id": "ajax-af0b7d4e7c33",
+      "brand": "Ajax",
+      "title": "CombiProtect user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/combiprotect/"
     },
     {
       "id": "ajax-7ad08e717373",
@@ -1235,13 +1081,6 @@
       "source_url": "https://ajax.systems/support/manuals/curtaincam-outdoor-highmount-phod-jeweller/"
     },
     {
-      "id": "ajax-31ec417c87c3",
-      "brand": "Ajax",
-      "title": "DoorProtect user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/doorprotect/"
-    },
-    {
       "id": "ajax-40eecea8594e",
       "brand": "Ajax",
       "title": "DoorProtect Outdoor Jeweller",
@@ -1268,6 +1107,13 @@
       "title": "DoorProtect U Jeweller user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/doorprotect-u-jeweller/"
+    },
+    {
+      "id": "ajax-31ec417c87c3",
+      "brand": "Ajax",
+      "title": "DoorProtect user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/doorprotect/"
     },
     {
       "id": "ajax-fc6af93c2679",
@@ -1298,18 +1144,18 @@
       "source_url": "https://ajax.systems/support/manuals/glandbox/"
     },
     {
-      "id": "ajax-f9691d9be788",
-      "brand": "Ajax",
-      "title": "GlassProtect User manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/glassprotect/"
-    },
-    {
       "id": "ajax-4c4f2b426839",
       "brand": "Ajax",
       "title": "GlassProtect U Jeweller user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/glassprotect-u-jeweller/"
+    },
+    {
+      "id": "ajax-f9691d9be788",
+      "brand": "Ajax",
+      "title": "GlassProtect User manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/glassprotect/"
     },
     {
       "id": "ajax-5d2fa14fb8ca",
@@ -1324,6 +1170,13 @@
       "title": "HomeSiren U Jeweller user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/homesiren-u-jeweller/"
+    },
+    {
+      "id": "ajax-31be31be361c",
+      "brand": "Ajax",
+      "title": "How to create and configure a scenario in the Ajax system",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/scenarios/"
     },
     {
       "id": "ajax-da72f91090f5",
@@ -1403,13 +1256,6 @@
       "source_url": "https://ajax.systems/support/manuals/junctionbox/"
     },
     {
-      "id": "ajax-dcbc06d69d4c",
-      "brand": "Ajax",
-      "title": "KeyPad user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/keypad/"
-    },
-    {
       "id": "ajax-7cd7f1af9990",
       "brand": "Ajax",
       "title": "KeyPad Outdoor Jeweller user manual",
@@ -1429,6 +1275,13 @@
       "title": "KeyPad TouchScreen Jeweller user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/keypad-touchscreen/"
+    },
+    {
+      "id": "ajax-dcbc06d69d4c",
+      "brand": "Ajax",
+      "title": "KeyPad user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/keypad/"
     },
     {
       "id": "ajax-7250524d42f6",
@@ -1522,13 +1375,6 @@
       "source_url": "https://ajax.systems/support/manuals/motioncam/"
     },
     {
-      "id": "ajax-d6b88746a50b",
-      "brand": "Ajax",
-      "title": "MotionCam Outdoor user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/motioncam-outdoor/"
-    },
-    {
       "id": "ajax-9cc6461f359d",
       "brand": "Ajax",
       "title": "MotionCam Outdoor (PhOD) Jeweller user manual",
@@ -1541,6 +1387,13 @@
       "title": "MotionCam Outdoor HighMount (PhOD) Jeweller user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/motioncam-outdoor-highmount-phod/"
+    },
+    {
+      "id": "ajax-d6b88746a50b",
+      "brand": "Ajax",
+      "title": "MotionCam Outdoor user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/motioncam-outdoor/"
     },
     {
       "id": "ajax-d2764445486a",
@@ -2054,13 +1907,6 @@
       "source_url": "https://ajax.systems/support/manuals/superior-multirelay-fibra/"
     },
     {
-      "id": "ajax-02ce6f3e74ac",
-      "brand": "Ajax",
-      "title": "Superior MultiTransmitter Fibra user manual",
-      "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/superior-multitransmitter-fibra/"
-    },
-    {
       "id": "ajax-46a578ca5cef",
       "brand": "Ajax",
       "title": "Superior MultiTransmitter Fibra (without casing) user manual",
@@ -2068,11 +1914,11 @@
       "source_url": "https://ajax.systems/support/manuals/superior-multitransmitter-fibra-without-casing/"
     },
     {
-      "id": "ajax-5d9ebb4e560a",
+      "id": "ajax-02ce6f3e74ac",
       "brand": "Ajax",
-      "title": "Superior MultiTransmitter G3 Jeweller user manual",
+      "title": "Superior MultiTransmitter Fibra user manual",
       "availability": "online-manual",
-      "source_url": "https://ajax.systems/support/manuals/superior-multitransmitter-g3-jeweller/"
+      "source_url": "https://ajax.systems/support/manuals/superior-multitransmitter-fibra/"
     },
     {
       "id": "ajax-de80219a83f5",
@@ -2080,6 +1926,13 @@
       "title": "Superior MultiTransmitter G3 Jeweller (without casing) user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/superior-multitransmitter-g3-jeweller-without-casing/"
+    },
+    {
+      "id": "ajax-5d9ebb4e560a",
+      "brand": "Ajax",
+      "title": "Superior MultiTransmitter G3 Jeweller user manual",
+      "availability": "online-manual",
+      "source_url": "https://ajax.systems/support/manuals/superior-multitransmitter-g3-jeweller/"
     },
     {
       "id": "ajax-6f84c7446c8b",
@@ -2192,13 +2045,6 @@
       "title": "WallSwitch user manual",
       "availability": "online-manual",
       "source_url": "https://ajax.systems/support/manuals/wallswitch/"
-    },
-    {
-      "id": "kentec-97928c183eda",
-      "brand": "Kentec",
-      "title": "Man-1615 Wireless Lockdown Notification System",
-      "availability": "source-listing",
-      "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
       "id": "pyronix-cd2bb4df7d89",
@@ -2982,7 +2828,7 @@
     "Remaining Apollo and Nittan product pages and unresolved links",
     "Siemens FC360 full English technical manual and FS20/FS720 panel manuals",
     "Salto current SPACE/KS online platform guides and newer publicly downloadable software manuals; SPACE 2.0 historical user manual is now indexed.",
-    "Remaining Kentec legacy links. All 17 previously source-only C-TEC listings now have indexed PDF URLs; the two older installer-hosted C-TEC failures were also recovered through the retrieval service. Three publisher metadata conflicts remain for review."
+    "Kentec: 22 source-only records resolved; 54 remain without a direct PDF, including publisher-link/number conflicts for Man-1200, Man-1453 and Man-1252. Continue legacy panel and remaining iNS manuals. C-TEC still has three publisher metadata conflicts to review."
   ],
   "continuation_log": "data/continuation-log.json",
   "gap_fill_log": "data/gap-fill-log-2026-10-16.json",
@@ -2992,6 +2838,8 @@
   "continuation_log_c_tec": "data/continuation-log-2026-10-21-c-tec.json",
   "source_inventory_audits": [
     "data/source-audits/c-tec-2026-10-21.json",
-    "data/source-audits/failed-retrievals-2026-10-21.json"
-  ]
+    "data/source-audits/failed-retrievals-2026-10-21.json",
+    "data/source-audits/kentec-2026-10-21.json"
+  ],
+  "continuation_log_kentec": "data/continuation-log-2026-10-21-kentec.json"
 }

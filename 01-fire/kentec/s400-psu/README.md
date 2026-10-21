@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1038 S400 PSU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1038 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [ENS400 / ENK15400 01 — Power supply installation, commissioning and operating manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1038.pdf) | installation | Man-1038 | Issue 16 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

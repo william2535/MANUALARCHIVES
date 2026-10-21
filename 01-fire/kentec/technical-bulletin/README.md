@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [HA-06-465A Technical Bulletin](https://kentec.co.uk/resources/product-resources/) | reference | Not recorded | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [K-System UL addressable detectors — Maintenance technical bulletin](https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-465A-Intelligent-Addressable-Detector-Technical-Bulletin-Kentec-8-25.pdf) | reference | HA-06-465A | Rev 08/25 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

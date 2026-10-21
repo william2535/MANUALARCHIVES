@@ -6,9 +6,19 @@ Repository: https://github.com/william2535/MANUALARCHIVES
 
 Build a comprehensive manual archive for a professional offline onsite guide, ordered by fire / security / access control / CCTV, then brand, model/family and document type. Keep continuing useful collection work without repeatedly asking for confirmation.
 
-## Saved progress — 21 October 2026
+## Latest checkpoint — 21 October 2026
 
-The archive now contains **3,354 records across 72 brands and 3,038 direct PDF links**. The prepared 309 records were already published. The phone-app data foundation and first October 21 batch are published in `59467f3dca2918cd190e16936fe153c9fc919733`; its fetched tree matched the local checkpoint.
+The archive contains **3,362 records across 72 brands and 3,068 direct PDF links**. This continuation adds **eight documents** (seven Kentec lockdown-device guides and the correctly identified Sigma ZSi DS145 datasheet), resolves **22 existing source-only Kentec entries**, and enriches the existing Syncro networking manual. All earlier record IDs, model associations, source URLs, download URLs and complete-file evidence are retained.
+
+The batch checks manufacturer product pages and the actual PDF titles, printed revisions and page counts. It records **three publisher link/number conflicts**: Man-1200 currently links to a PNG cover; a Man-1453 product-page link supplies DS145; and a Man-1252 link supplies the already indexed MAN-1252KE. These are flagged rather than presented as resolved manual downloads. The original Man-1453 manual and unqualified Man-1252 listing still need review. See `data/continuation-log-2026-10-21-kentec.json` and `data/source-audits/kentec-2026-10-21.json`.
+
+There are now **294 records without direct PDF links**, including **54 Kentec entries**. The previous 38 unresolved PDF retrievals remain separate. No new local byte counts or checksums are claimed: this batch has retrieval-service PDF evidence. The browser index, brand/model navigation, phone-app feed and gap audit were rebuilt; catalogue validation and **all 18 tests passed**. The native phone app and persistent phone storage still need implementation and device testing.
+
+Publication: the earlier C-TEC/retrieval-audit batch is on GitHub main as `f5d2af911495fe039eac9508e11f6916f124cc8b`. This Kentec continuation is prepared from that head for publication; check main's history before repeating any work.
+
+## Earlier checkpoint — 21 October 2026
+
+At this earlier checkpoint the archive contained **3,354 records across 72 brands and 3,038 direct PDF links**. The prepared 309 records were already published. The phone-app data foundation and first October 21 batch are published in `59467f3dca2918cd190e16936fe153c9fc919733`; its fetched tree matched the local checkpoint.
 
 The next batch adds **25 C-TEC manuals/technical references**, resolves all **14 remaining source-only C-TEC entries**, and recovers both older C-TEC failed downloads. Five manufacturer resource tables were inventoried, covering 72 listed entries; three publisher document-number/revision conflicts remain explicit. See `data/continuation-log-2026-10-21-c-tec.json` and `data/source-audits/c-tec-2026-10-21.json`.
 

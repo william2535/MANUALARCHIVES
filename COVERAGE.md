@@ -49,7 +49,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | Hochiki | 19 | 19 |
 | Honeywell | 41 | 41 |
 | Inovonics | 2 | 2 |
-| Kentec | 158 | 82 |
+| Kentec | 166 | 112 |
 | Keyscan | 1 | 1 |
 | Luminite | 2 | 2 |
 | Luxrite | 1 | 1 |
@@ -85,24 +85,24 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
 | online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 1124 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
+| pdf-indexed | 1154 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
 | pdf-link-listed | 1876 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
 | retrieval-failed | 38 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
-| source-listing | 77 | Document title listed by manufacturer; a usable direct download is still unresolved. |
+| source-listing | 55 | Document title listed by manufacturer; a usable direct download is still unresolved. |
 
 ## Document types
 
 | Type | Records |
 |---|---:|
 | application-note | 292 |
-| datasheet | 34 |
-| diagram | 16 |
-| installation | 813 |
-| programming | 56 |
-| quick-start | 129 |
-| reference | 885 |
+| datasheet | 35 |
+| diagram | 18 |
+| installation | 830 |
+| programming | 57 |
+| quick-start | 131 |
+| reference | 867 |
 | troubleshooting | 5 |
-| user-guide | 1124 |
+| user-guide | 1127 |
 
 ## Source provenance
 
@@ -110,7 +110,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|
 | distributor | 29 |
 | installer | 661 |
-| manufacturer | 2664 |
+| manufacturer | 2672 |
 
 Manufacturer sources are preferred. Installer and distributor copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
 
@@ -131,11 +131,12 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 - 21 October: added 3 separate Kentec records and resolved 22 existing Kentec/C-TEC PDF listings. Original IDs, URLs and model associations retained. Retrieval-service page counts and document editions checked; no new complete-file hashes claimed. Added app download manifest, schema, exact record/model gap audit and checksum comparison in the local downloader.
 - 21 October follow-on: cross-checked four C-TEC resource libraries and the CA450A/SR document table; added 25 manuals/technical references and resolved the remaining 14 source-only C-TEC listings. Three publisher number/revision conflicts explicitly retained. See data/source-audits/c-tec-2026-10-21.json.
 - 21 October retrieval audit: recovered the two older C-TEC PDF failures, then rechecked all 310 remaining failures. 272 returned indexed PDFs; 38 remain unresolved. These are retrieval/page-count results, not new complete-file hashes or edition checks. Exact outcomes: data/source-audits/failed-retrievals-2026-10-21.json.
+- 21 October Kentec product-page pass: resolved 22 source-only records, added seven lockdown-device guides and the correctly identified DS145 datasheet, and enriched the existing Syncro networking manual. All original IDs, models and source/download URLs retained. Three publisher link/number conflicts explicitly recorded. No new complete-file hashes claimed. See data/source-audits/kentec-2026-10-21.json.
 
 ## Known gaps
 
 - This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.
-- All 17 previously source-only C-TEC entries now have indexed PDF links, and both earlier C-TEC retrieval failures were recovered. Three publisher metadata conflicts are explicitly recorded. Kentec still has unresolved manufacturer listings; source links remain available and download URLs are not guessed.
+- All 17 previously source-only C-TEC entries now have indexed PDF links, and both earlier C-TEC retrieval failures were recovered. Three publisher metadata conflicts are explicitly recorded. Kentec has 54 remaining entries without direct PDF links after 22 more were resolved. Three publisher link/number conflicts are recorded; source links remain available and download URLs are not guessed.
 - After rechecking all previously failed records on 21 October, 38 retrievals remain unresolved: service size/type limits, HTML verification pages or inaccessible responses. These outcomes do not prove the publisher files are broken. See data/source-audits/failed-retrievals-2026-10-21.json.
 - Many legacy supplier filenames are abbreviated. Exact model variants, publication dates, firmware, language and region need review against the document. Similar unverified mirror files may still overlap; counts are records, not a guarantee of unique file contents.
 - Ajax web manuals and CDVI document viewers require a supported export or manual download before offline use. The local PDF downloader does not make those pages available offline.
@@ -156,7 +157,7 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 | Apollo | 1 |
 | Axis | 1 |
 | CDVI | 4 |
-| Kentec | 76 |
+| Kentec | 54 |
 | Pyronix | 2 |
 
 The full queue is in [data/research-backlog.json](data/research-backlog.json). These counts include valid web manuals as well as unresolved listings; they are not all broken links.
@@ -206,7 +207,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Hochiki**: [source 1](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/), [source 2](https://www.hochikiasiapacific.com/acc-en), [source 3](https://www.hochikiasiapacific.com/acd-en), [source 4](https://www.hochikiasiapacific.com/atj-en), [source 5](https://www.hochikiasiapacific.com/chq-ari), [source 6](https://www.hochikiasiapacific.com/chq-dim2-sci), [source 7](https://www.hochikiasiapacific.com/chq-drc2-sci), [source 8](https://www.hochikiasiapacific.com/storage/product_resources/Installation%20Manual/1412140-00%20Installation%20Instructions%2001.pdf%20%28aln-en%29.pdf), [source 9](https://www.hochikiasiapacific.com/storage/product_resources/Installation%20Manual/1433750-00%20Installation%20Instructions%2001.pdf%20%28chq-drc2-sci%29.pdf), [source 10](https://www.hochikiasiapacific.com/storage/product_resources/Installation%20Manual/1460010-00%20Installation%20Instructions%2001.pdf%20%28chq-ab%29.pdf), [source 11](https://www.hochikiasiapacific.com/ybn-r/3), [source 12](https://www.hochikiaustralia.com/media/uploads/documentdownloads/CHQ-CB_Installation_Instructions.pdf), [source 13](https://www.hochikiaustralia.com/media/uploads/documentdownloads/esp_FIREbeam_Installation_Manual_-_ISS2_-_DEC11.pdf), [source 14](https://www.hochikieurope.com/literature), [source 15](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Honeywell**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Inovonics**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
-- **Kentec**: [source 1](https://kentec.co.uk/product/sigma-xtplus/), [source 2](https://kentec.co.uk/resources/product-resources/), [source 3](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/), [source 4](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 5](https://www.product-manuals.online/Syncro_AS/)
+- **Kentec**: [source 1](https://kentec.co.uk/product/lockdown-notification-system/), [source 2](https://kentec.co.uk/product/sigma-xtplus/), [source 3](https://kentec.co.uk/product/sigma-zsi/), [source 4](https://kentec.co.uk/resources/product-resources/), [source 5](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/), [source 6](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 7](https://www.product-manuals.online/Syncro_AS/)
 - **Keyscan**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Luminite**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Luxrite**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
@@ -242,16 +243,16 @@ This audit covers every indexed record, with model/type coverage for every recor
 
 | Review flag | Records |
 |---|---:|
-| complete-file-check-needed | 2,908 |
-| document-number-unrecorded | 2,222 |
-| download-url-unresolved | 77 |
-| language-unverified | 3,130 |
+| complete-file-check-needed | 2,938 |
+| document-number-unrecorded | 2,219 |
+| download-url-unresolved | 55 |
+| language-unverified | 3,107 |
 | model-applicability-review-needed | 586 |
 | possible-duplicate-review-needed | 1 |
-| region-unverified | 3,334 |
+| region-unverified | 3,342 |
 | retrieval-failed | 38 |
-| revision-review-needed | 3,187 |
-| source-metadata-conflict | 3 |
+| revision-review-needed | 3,164 |
+| source-metadata-conflict | 6 |
 | viewer-without-direct-pdf | 4 |
 | web-manual-without-direct-pdf | 235 |
 
@@ -265,8 +266,8 @@ See [machine-readable gap audit](data/gap-audit.json) for exact record IDs, per-
 | file-hash | 271 |
 | listed | 1,603 |
 | pdf-header | 2 |
-| pdf-indexed | 994 |
+| pdf-indexed | 1,024 |
 | retrieval-failed | 38 |
-| source-page | 316 |
+| source-page | 294 |
 
 Complete-file checks include a recorded SHA-256, size, PDF header and EOF marker. File-hash records have a checksum but lack that full validation trail. PDF-indexed means a retrieval service identified a PDF and page count; it is not a locally verified file. See [app integration](APP_INTEGRATION.md).

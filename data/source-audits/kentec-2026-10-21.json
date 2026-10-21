@@ -1,0 +1,716 @@
+{
+  "checked_on": "2026-10-21",
+  "brand": "Kentec",
+  "scope": "Targeted checks of manufacturer product pages and source-only manual entries. Not a complete inventory of every Kentec publication.",
+  "verification_note": "PDF parsing, page counts, document identity and printed editions checked through the retrieval service. No new complete-file hashes, byte counts or device-local downloads are claimed.",
+  "checked_source_pages": [
+    "https://kentec.co.uk/product/elite-rs/",
+    "https://kentec.co.uk/product/ins-passive-optic-network-module/",
+    "https://kentec.co.uk/product/k-system-ulwired-fire-detection/",
+    "https://kentec.co.uk/product/lockdown-notification-system/",
+    "https://kentec.co.uk/product/power-supplies-and-battery-chargers/",
+    "https://kentec.co.uk/product/remote-interface-modules/",
+    "https://kentec.co.uk/product/sigma-a-xt/",
+    "https://kentec.co.uk/product/sigma-cp-a/",
+    "https://kentec.co.uk/product/sigma-cp-r/",
+    "https://kentec.co.uk/product/sigma-zsi/",
+    "https://kentec.co.uk/product/transient-suppression-module/",
+    "https://kentec.co.uk/product/ul-10-25-amp-power-supply/",
+    "https://kentec.co.uk/product/xt-releasing-unit/",
+    "https://kentec.co.uk/resources/product-resources/",
+    "https://www.product-manuals.online/Syncro_AS/"
+  ],
+  "resolved_existing": [
+    {
+      "id": "kentec-c3bfe302c4b2",
+      "document_number": "Man-1038",
+      "verified_revision": "Issue 16",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1038.pdf",
+      "page_count": 11,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-36f6cdac560c",
+      "document_number": "Man-1040",
+      "verified_revision": "Issue 06",
+      "source_url": "https://kentec.co.uk/product/power-supplies-and-battery-chargers/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/07/Man-1040-PSU-Battery_06.pdf",
+      "page_count": 4,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-8c639b20ff54",
+      "document_number": "Man-1047",
+      "verified_revision": "Issue 03",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1047.pdf",
+      "page_count": 8,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-5f15c8279837",
+      "document_number": "Man-1048",
+      "verified_revision": "Issue 05",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1048.pdf",
+      "page_count": 11,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-724b56a14295",
+      "document_number": "Man-1055",
+      "verified_revision": "Issue 26",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1055.pdf",
+      "page_count": 38,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-2a8e55fe4ae2",
+      "document_number": "Man-1057",
+      "verified_revision": "Issue 09",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1057.pdf",
+      "page_count": 8,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-922756f21680",
+      "document_number": "Man-1093",
+      "verified_revision": "Issue 06",
+      "source_url": "https://kentec.co.uk/product/sigma-cp-r/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1093.pdf",
+      "page_count": 14,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-171d3e03bc91",
+      "document_number": "Man-1138",
+      "verified_revision": "Issue 08",
+      "source_url": "https://kentec.co.uk/product/sigma-cp-a/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1138.pdf",
+      "page_count": 22,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-4e903b476dbc",
+      "document_number": "Man-1145",
+      "verified_revision": "E06.00",
+      "source_url": "https://kentec.co.uk/product/sigma-a-xt/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/12/Man-1145-Sigma-A-XT-operating-and-installation-manual_06.00.pdf",
+      "page_count": 166,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-08007b0c58f6",
+      "document_number": "Man-1146",
+      "verified_revision": "E01.09",
+      "source_url": "https://kentec.co.uk/product/sigma-a-xt/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1146.pdf",
+      "page_count": 8,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-b881ae752a6c",
+      "document_number": "Man-1147",
+      "verified_revision": "E08.00",
+      "source_url": "https://kentec.co.uk/product/sigma-a-xt/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2024/02/Man-1147-Sigma-A-XT-wiring-diagram_08.00.pdf",
+      "page_count": 20,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-c306c1924523",
+      "document_number": "Man-1151",
+      "verified_revision": "E01.02",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1151.pdf",
+      "page_count": 1,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-78c4a3e92850",
+      "document_number": "Man-1223",
+      "verified_revision": "Issue 01.07",
+      "source_url": "https://kentec.co.uk/product/ul-10-25-amp-power-supply/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1223.pdf",
+      "page_count": 67,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-86f5052c1d60",
+      "document_number": "Man-1225",
+      "verified_revision": "E01.00",
+      "source_url": "https://kentec.co.uk/product/ul-10-25-amp-power-supply/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1225.pdf",
+      "page_count": 6,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-953ad828aa6a",
+      "document_number": "Man-1491",
+      "verified_revision": "Rev.02",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1491-INS-DNX-A-2R-K-RS485-Intelligent-Network-Analyser-User-Manual-Rev.02.pdf",
+      "page_count": 35,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-93294c124417",
+      "document_number": "Man-1493",
+      "verified_revision": "Rev.02",
+      "source_url": "https://kentec.co.uk/product/transient-suppression-module/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1493-iNS-TSM100-K-Transient-Supression-Module-User-Manual-Rev.02.pdf",
+      "page_count": 22,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-0552d6eb9d4f",
+      "document_number": "Man-1528",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/remote-interface-modules/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1528-iNS-RIM-Interface-Modules-008009-Quick-Start-Guide-Rev.01.pdf",
+      "page_count": 6,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-d69068711932",
+      "document_number": "Man-1529",
+      "verified_revision": "Rev.02",
+      "source_url": "https://kentec.co.uk/product/ins-passive-optic-network-module/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/08/Man-1529-iNS-DNX-Network-Analyser-Quick-Start-Guide-Rev.02.pdf",
+      "page_count": 7,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-97928c183eda",
+      "document_number": "Man-1615",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/Man-1615-Wireless-Lockdown-Notification-System-IOM-Rev.01.pdf",
+      "page_count": 58,
+      "category": "security"
+    },
+    {
+      "id": "kentec-fe3a1b497fb1",
+      "document_number": "HA-06-465A",
+      "verified_revision": "Rev 08/25",
+      "source_url": "https://kentec.co.uk/product/k-system-ulwired-fire-detection/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-465A-Intelligent-Addressable-Detector-Technical-Bulletin-Kentec-8-25.pdf",
+      "page_count": 5,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-cf7bc7da1f6b",
+      "document_number": "HA-06-465",
+      "verified_revision": "Rev 09/24",
+      "source_url": "https://kentec.co.uk/product/k-system-ulwired-fire-detection/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2025/09/HA-06-465-Install-Instr.-Intelligent-Addressable-Base-s-Kentec-9-24.pdf",
+      "page_count": 2,
+      "category": "fire"
+    },
+    {
+      "id": "kentec-c10bc4906121",
+      "document_number": "HA-06-484",
+      "verified_revision": "11/24",
+      "source_url": "https://kentec.co.uk/product/k-system-ulwired-fire-detection/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-484-INSTAL-INSTR-CONVENTIONAL-DET.pdf",
+      "page_count": 2,
+      "category": "fire"
+    }
+  ],
+  "added": [
+    {
+      "id": "kentec-21e396c89177",
+      "document_number": "STFV.425238.037-LD-D5",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425238.037-LD-D5-LD-WL8-OV.pdf",
+      "page_count": 2,
+      "category": "security"
+    },
+    {
+      "id": "kentec-ebf5c0acef08",
+      "document_number": "STFV.425238.037-LD-UM",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425238.037-LD-UM-LD-WL8-OV.pdf",
+      "page_count": 7,
+      "category": "security"
+    },
+    {
+      "id": "kentec-110868bb5462",
+      "document_number": "STFV.425551.070-LD-UM",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425551.070-LD-UM-LD-WL8-TRH.pdf",
+      "page_count": 24,
+      "category": "security"
+    },
+    {
+      "id": "kentec-7930002195d8",
+      "document_number": "STFV.425113.007-LD-UM",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425113.007-LD-UM-LD-WL8-IN.pdf",
+      "page_count": 6,
+      "category": "security"
+    },
+    {
+      "id": "kentec-556f6a41b447",
+      "document_number": "STFV.425419.005-01-LD-UM",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425419.005-01-LD-UM-LD-WL8-OUT-FS.pdf",
+      "page_count": 7,
+      "category": "security"
+    },
+    {
+      "id": "kentec-76e3511b101e",
+      "document_number": "STFV.425419.005-LD-UM",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425419.005-LD-UM-LD-WL8-OUT.pdf",
+      "page_count": 7,
+      "category": "security"
+    },
+    {
+      "id": "kentec-9ee1cdb2ed7e",
+      "document_number": "STFV.425551.030-LD-UM",
+      "verified_revision": "Rev.01",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425551.030-LD-UM-LD-WL8-EXP.pdf",
+      "page_count": 7,
+      "category": "security"
+    },
+    {
+      "id": "kentec-84ac1a0ffd9d",
+      "document_number": "DS145",
+      "verified_revision": "Rev.03",
+      "source_url": "https://kentec.co.uk/product/sigma-zsi/",
+      "download_url": "https://kentec.co.uk/wp-content/uploads/2022/02/DS145-Sigma-ZXT-Si-Datasheet-Rev.03.pdf",
+      "page_count": 2,
+      "category": "fire"
+    }
+  ],
+  "metadata_conflicts": [
+    {
+      "id": "kentec-10d7f8b6bfb8",
+      "source_url": "https://kentec.co.uk/product/elite-rs/",
+      "field": "download_target",
+      "listing": "Man-1200 Elite RS-A installation manual",
+      "observed": "https://kentec.co.uk/wp-content/uploads/2018/08/Man-1200-Elite-RS-Installation-Operation-Manual-Apollo-Protocol-03.13-Front-Cover.png",
+      "note": "Publisher product-page download leads to a PNG cover image, not a PDF manual."
+    },
+    {
+      "id": "kentec-5461f6476a76",
+      "source_url": "https://kentec.co.uk/product/sigma-zsi/",
+      "field": "document_number",
+      "listing": "Man-1453",
+      "printed": "DS145",
+      "note": "The Sigma ZSi product-page manual link points to a two-page datasheet. DS145 is indexed separately; the Man-1453 product manual remains unresolved."
+    },
+    {
+      "id": "kentec-c459d2b51602",
+      "source_url": "https://kentec.co.uk/product/xt-releasing-unit/",
+      "field": "document_number",
+      "listing": "Man-1252",
+      "printed": "MAN-1252KE",
+      "note": "The product-page link resolves to the already indexed MAN-1252KE Version 1.00. The unqualified historical Man-1252 listing is retained pending identity review."
+    }
+  ],
+  "same_edition_alternate": {
+    "record_id": "kentec-d90c17977bf2",
+    "download_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1058.pdf",
+    "alternate_url": "https://www.product-manuals.online/Syncro_AS/Man-1058%20Syncro%20Networking%20Manual%20Rev%2006.pdf",
+    "printed_revision": "Issue 06",
+    "byte_identity_checked": false
+  },
+  "already_indexed_confirmed": [
+    "kentec-eade9dbedd32",
+    "kentec-3464b141139d",
+    "kentec-07035556506d",
+    "kentec-4a121ba05955"
+  ],
+  "remaining_without_direct_pdf": [
+    {
+      "id": "kentec-a33940f2af38",
+      "title": "Man-1027 E2000000 Series",
+      "document_number": "Man-1027",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-b4141e7c5d17",
+      "title": "Man-1032 ECU",
+      "document_number": "Man-1032",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-06af97e58210",
+      "title": "Man-1034 Signifire",
+      "document_number": "Man-1034",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-bb94887b4920",
+      "title": "Man-1037 Signifire",
+      "document_number": "Man-1037",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-9a459aa470eb",
+      "title": "Man-1039 PSU",
+      "document_number": "Man-1039",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-99b846bf6d01",
+      "title": "Man-1041 Microsense II",
+      "document_number": "Man-1041",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-bd26ca74c109",
+      "title": "Man-1044 Status Units",
+      "document_number": "Man-1044",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-451d1221e616",
+      "title": "Man-1045 K4.01/ K4.01+",
+      "document_number": "Man-1045",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-eac92e3a1396",
+      "title": "Man-1046 K2.01",
+      "document_number": "Man-1046",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-dc72e2b70ccf",
+      "title": "Man-1049 K3200",
+      "document_number": "Man-1049",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-bbef8c448c29",
+      "title": "Man-1050 K3000",
+      "document_number": "Man-1050",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-579029878abe",
+      "title": "Man-1052 Solo Response",
+      "document_number": "Man-1052",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-c1bfc1bb8813",
+      "title": "Man-1053 Solo (Apollo)",
+      "document_number": "Man-1053",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-be1af1c20d35",
+      "title": "Man-1054 Solo (Hochiki)",
+      "document_number": "Man-1054",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-3093ce5a5998",
+      "title": "Man-1060 MIOU",
+      "document_number": "Man-1060",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-79b9e32dfc2b",
+      "title": "Man-1061 Solo II",
+      "document_number": "Man-1061",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-af961766045a",
+      "title": "Man-1062 Syncro Lite",
+      "document_number": "Man-1062",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-8e41813f41a4",
+      "title": "Man-1063 S405 PSU",
+      "document_number": "Man-1063",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-e2d68c942c86",
+      "title": "Man-1064 Solo Response",
+      "document_number": "Man-1064",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-3d9bf7fca5e6",
+      "title": "Man-1065 Solo II Lite",
+      "document_number": "Man-1065",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-4e580068ce6c",
+      "title": "Man-1067 Signifire II",
+      "document_number": "Man-1067",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-dc4533578423",
+      "title": "Man-1068 Syncro Comms",
+      "document_number": "Man-1068",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-4f1709f3eabf",
+      "title": "Man-1071 Solex 2",
+      "document_number": "Man-1071",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-d7cedc193659",
+      "title": "Man-1072 SB.02",
+      "document_number": "Man-1072",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-bd8936356752",
+      "title": "Man-1081 Syncro Focus & Syncro Focus+",
+      "document_number": "Man-1081",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-5959b1d15956",
+      "title": "Man-1083 Hold Off",
+      "document_number": "Man-1083",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-dfbfae1ecb9b",
+      "title": "Man-1084 SB.04",
+      "document_number": "Man-1084",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-a25790bc2332",
+      "title": "Man-1089 Sigma Si",
+      "document_number": "Man-1089",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-5fa7053b016d",
+      "title": "Man-1090 Syncro XT (Main)",
+      "document_number": "Man-1090",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-f3ebcdaf7f43",
+      "title": "Man-1092M Syncro View Marine",
+      "document_number": "Man-1092M",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-92d6f0a5ae19",
+      "title": "Man-1095 Sigma XT",
+      "document_number": "Man-1095",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-330d870ec4de",
+      "title": "Man-1099 Syncro Si",
+      "document_number": "Man-1099",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-ec0d55303ccf",
+      "title": "Man-1099 Syncro Si and hold off manual",
+      "document_number": "Man-1099",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-6655748b3b7e",
+      "title": "Man-1125 VDR Interface",
+      "document_number": "Man-1125",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-4a68f079c0fb",
+      "title": "Man-1127 Sigma Matrix",
+      "document_number": "Man-1127",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-fcd372bbfc52",
+      "title": "Man-1128 PSU",
+      "document_number": "Man-1128",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-8d0050f536ab",
+      "title": "Man-113 LIOU",
+      "document_number": "Man-113",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-07eb8f5458c5",
+      "title": "Man-1132 HydroSense CP-R",
+      "document_number": "Man-1132",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-315ab95f24b7",
+      "title": "Man-1133 Syncro XT (User)",
+      "document_number": "Man-1133",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-79661f04df20",
+      "title": "Man-1148 Sigma A-Si",
+      "document_number": "Man-1148",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-ec414e8db85e",
+      "title": "Man-1149 Sigma A-Si",
+      "document_number": "Man-1149",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-891c27010ff9",
+      "title": "Man-1150 Sigma A-Si",
+      "document_number": "Man-1150",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-c5d528024dee",
+      "title": "Man-1199 Elite-A",
+      "document_number": "Man-1199",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-10d7f8b6bfb8",
+      "title": "Man-1200 Elite RS-A",
+      "document_number": "Man-1200",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "publisher-link-conflict"
+    },
+    {
+      "id": "kentec-07e5b1afdff7",
+      "title": "Man-1205 Elite",
+      "document_number": "Man-1205",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-60e4e2070323",
+      "title": "Man-1206 Elite",
+      "document_number": "Man-1206",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-24a1ad2740fe",
+      "title": "Man-1216 Elite-H",
+      "document_number": "Man-1216",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-c459d2b51602",
+      "title": "Man-1252 XT+ Releasing Unit Installation Manual",
+      "document_number": "Man-1252",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "publisher-link-conflict"
+    },
+    {
+      "id": "kentec-a19446f80d83",
+      "title": "Man-1452HU Sigma ZXT (Operation Manual HUNGARIAN)",
+      "document_number": "Man-1452HU",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-5461f6476a76",
+      "title": "Man-1453 Sigma ZXT Si (Product)",
+      "document_number": "Man-1453",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "publisher-link-conflict"
+    },
+    {
+      "id": "kentec-5e0f7dfc0f55",
+      "title": "Man-1492 iNS DNX-R-2F/FC-K",
+      "document_number": "Man-1492",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-4d0c115c1f49",
+      "title": "Man-1494 iNS RIM100E-K / RIM100M-3-K",
+      "document_number": "Man-1494",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-e007ce3a1e65",
+      "title": "Man-1527 iNS TSM100-K QSG",
+      "document_number": "Man-1527",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    },
+    {
+      "id": "kentec-d06859911ab7",
+      "title": "Man-1572 iNS DNP-R-2F/FC-K",
+      "document_number": "Man-1572",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "review_status": "needs-further-research"
+    }
+  ]
+}

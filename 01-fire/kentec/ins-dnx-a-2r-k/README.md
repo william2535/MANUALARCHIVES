@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1491 iNS DNX-A-2R-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1491 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [iNS DNX-A-2R-K — RS485 network analyser user manual](https://kentec.co.uk/wp-content/uploads/2020/08/Man-1491-INS-DNX-A-2R-K-RS485-Intelligent-Network-Analyser-User-Manual-Rev.02.pdf) | user-guide | Man-1491 | Rev.02 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

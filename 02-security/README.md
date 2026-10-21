@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-606 document records. Door entry belongs under access control.
+613 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -18,7 +18,7 @@
 | [GJD](gjd/README.md) | 10 | 7 |
 | [Honeywell](honeywell/README.md) | 40 | 33 |
 | [Inovonics](inovonics/README.md) | 2 | 2 |
-| [Kentec](kentec/README.md) | 1 | 1 |
+| [Kentec](kentec/README.md) | 8 | 7 |
 | [Luminite](luminite/README.md) | 2 | 2 |
 | [Menvier](menvier/README.md) | 10 | 8 |
 | [Nortek](nortek/README.md) | 4 | 4 |

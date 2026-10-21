@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-21",
-  "catalogue_sha256": "7cc6317b280a66842443f395b760edef3ccecc05faffc3b067bccdf1d5caa087",
+  "catalogue_sha256": "cf92fca9ca62d981ff075e62465f5a82f0c217154e22a76fcb621576f14db3f4",
   "repository_url": "https://github.com/william2535/MANUALARCHIVES",
   "distribution": "source-link-only",
-  "record_count": 3354,
+  "record_count": 3362,
   "download_status_counts": {
     "complete-file": 130,
     "file-hash": 271,
     "listed": 1603,
     "pdf-header": 2,
-    "pdf-indexed": 994,
+    "pdf-indexed": 1024,
     "retrieval-failed": 38,
-    "source-page": 316
+    "source-page": 294
   },
   "records": [
     {
@@ -68556,33 +68556,35 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "iNS RIM100E-K / RIM100M-3-K"
+        "iNS RIM100E-K / RIM100M-3-K",
+        "RIM100E-K",
+        "RIM100M-3-K"
       ],
-      "title": "Man-1528 iNS RIM100E-K / RIM100M-3-K",
-      "document_type": "reference",
+      "title": "iNS RIM100E-K / RIM100M-3-K — Quick start guide",
+      "document_type": "quick-start",
       "document_number": "Man-1528",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1528-iNS-RIM-Interface-Modules-008009-Quick-Start-Guide-Rev.01.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1528-iNS-RIM-Interface-Modules-008009-Quick-Start-Guide-Rev.01.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 6
         }
       }
     },
@@ -68734,33 +68736,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma A-XT"
+        "Sigma A-XT",
+        "Elite XT"
       ],
-      "title": "Man-1146 Sigma A-XT",
-      "document_type": "reference",
+      "title": "Sigma A-XT / Elite XT — Releasing control panel operating instructions",
+      "document_type": "user-guide",
       "document_number": "Man-1146",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "E01.09",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "E01.09",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1146.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1146.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 8
         }
       }
     },
@@ -68851,9 +68854,9 @@
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
+      "source_checked": "2026-10-21",
       "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "retrieval_note": "Product-page link checked on 2026-10-21 and returned a cover image. The PDF download remains unresolved; no URL guessed.",
       "download": {
         "mode": "source-page",
         "status": "source-page",
@@ -68866,6 +68869,41 @@
           "sha256": null,
           "bytes": null,
           "page_count": null
+        }
+      }
+    },
+    {
+      "id": "kentec-110868bb5462",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-TRH"
+      ],
+      "title": "LD-WL8-TRH — Lockdown wireless translator manual",
+      "document_type": "installation",
+      "document_number": "STFV.425551.070-LD-UM",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425551.070-LD-UM-LD-WL8-TRH.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425551.070-LD-UM-LD-WL8-TRH.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 24
         }
       }
     },
@@ -69049,33 +69087,36 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma CP-A"
+        "Sigma CP-A",
+        "KA11020M2",
+        "KA11040M2",
+        "KA11080M2"
       ],
-      "title": "Man-1138 Sigma CP-A",
-      "document_type": "reference",
+      "title": "Sigma CP-A — AlarmSense control panel installation and operation manual",
+      "document_type": "installation",
       "document_number": "Man-1138",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 08",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 08",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1138.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1138.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 22
         }
       }
     },
@@ -69146,6 +69187,41 @@
           "sha256": null,
           "bytes": null,
           "page_count": 1
+        }
+      }
+    },
+    {
+      "id": "kentec-21e396c89177",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-OV"
+      ],
+      "title": "LD-WL8-OV — Voice message programming guide",
+      "document_type": "programming",
+      "document_number": "STFV.425238.037-LD-D5",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425238.037-LD-D5-LD-WL8-OV.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425238.037-LD-D5-LD-WL8-OV.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 2
         }
       }
     },
@@ -69366,31 +69442,31 @@
       "models": [
         "Syncro"
       ],
-      "title": "Man-1057 Syncro (User)",
+      "title": "Syncro — Multi-loop fire control panel user manual",
       "document_type": "user-guide",
       "document_number": "Man-1057",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 09",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 09",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1057.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1057.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 8
         }
       }
     },
@@ -69714,33 +69790,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "PSU & Battery"
+        "PSU & Battery",
+        "750mA Power Supply and Battery Charger"
       ],
-      "title": "Man-1040 PSU & Battery",
-      "document_type": "reference",
+      "title": "750mA power supply and battery charger — Installation, commissioning and operating manual",
+      "document_type": "installation",
       "document_number": "Man-1040",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 06",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 06",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/07/Man-1040-PSU-Battery_06.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/07/Man-1040-PSU-Battery_06.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 4
         }
       }
     },
@@ -70352,33 +70429,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma A-XT"
+        "Sigma A-XT",
+        "K1810 Series"
       ],
-      "title": "Man-1145 Sigma A-XT",
-      "document_type": "reference",
+      "title": "Sigma A-XT — Releasing control panel installation and operation manual",
+      "document_type": "installation",
       "document_number": "Man-1145",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "E06.00",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "E06.00",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2022/12/Man-1145-Sigma-A-XT-operating-and-installation-manual_06.00.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2022/12/Man-1145-Sigma-A-XT-operating-and-installation-manual_06.00.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 166
         }
       }
     },
@@ -70505,9 +70583,9 @@
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
+      "source_checked": "2026-10-21",
       "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "retrieval_note": "The product page supplies DS145 instead of the listed Man-1453. A separately cited historical /manuals/man-1453.pdf endpoint was inaccessible through the retrieval service. Neither outcome establishes that the manual is unavailable elsewhere.",
       "download": {
         "mode": "source-page",
         "status": "source-page",
@@ -70520,6 +70598,41 @@
           "sha256": null,
           "bytes": null,
           "page_count": null
+        }
+      }
+    },
+    {
+      "id": "kentec-556f6a41b447",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-OUT-FS"
+      ],
+      "title": "LD-WL8-OUT-FS — Lockdown fail-safe output module manual",
+      "document_type": "installation",
+      "document_number": "STFV.425419.005-01-LD-UM",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425419.005-01-LD-UM-LD-WL8-OUT-FS.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425419.005-01-LD-UM-LD-WL8-OUT-FS.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 7
         }
       }
     },
@@ -70668,33 +70781,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma"
+        "Sigma",
+        "Sigma K1000 Series 1, 2, 4 and 6 Zone"
       ],
-      "title": "Man-1048 Sigma",
-      "document_type": "reference",
+      "title": "Sigma K1000 1/2/4/6-zone panels — Operation and maintenance manual",
+      "document_type": "installation",
       "document_number": "Man-1048",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 05",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 05",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1048.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1048.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 11
         }
       }
     },
@@ -70950,31 +71064,31 @@
       "models": [
         "Syncro"
       ],
-      "title": "Man-1055 Syncro (Main)",
-      "document_type": "reference",
+      "title": "Syncro — Multi-loop fire control panel product manual",
+      "document_type": "installation",
       "document_number": "Man-1055",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 26",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 26",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1055.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1055.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 38
         }
       }
     },
@@ -71014,37 +71128,109 @@
       }
     },
     {
+      "id": "kentec-76e3511b101e",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-OUT"
+      ],
+      "title": "LD-WL8-OUT — Lockdown wireless output module manual",
+      "document_type": "installation",
+      "document_number": "STFV.425419.005-LD-UM",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425419.005-LD-UM-LD-WL8-OUT.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425419.005-LD-UM-LD-WL8-OUT.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 7
+        }
+      }
+    },
+    {
       "id": "kentec-78c4a3e92850",
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "PSU"
+        "PSU",
+        "K8140",
+        "K8141"
       ],
-      "title": "Man-1223 PSU",
-      "document_type": "reference",
+      "title": "K8140 / K8141 — Power supply installation, commissioning and operating manual",
+      "document_type": "installation",
       "document_number": "Man-1223",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 01.07",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 01.07",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1223.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1223.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 67
+        }
+      }
+    },
+    {
+      "id": "kentec-7930002195d8",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-IN"
+      ],
+      "title": "LD-WL8-IN — Lockdown wireless input module manual",
+      "document_type": "installation",
+      "document_number": "STFV.425113.007-LD-UM",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425113.007-LD-UM-LD-WL8-IN.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425113.007-LD-UM-LD-WL8-IN.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 6
         }
       }
     },
@@ -71259,6 +71445,41 @@
       }
     },
     {
+      "id": "kentec-84ac1a0ffd9d",
+      "category": "fire",
+      "brand": "Kentec",
+      "models": [
+        "Sigma ZSi"
+      ],
+      "title": "Sigma ZSi — Extinguishant status indicator datasheet",
+      "document_type": "datasheet",
+      "document_number": "DS145",
+      "revision_hint": "Rev.03",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.03",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/sigma-zsi/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2022/02/DS145-Sigma-ZXT-Si-Datasheet-Rev.03.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2022/02/DS145-Sigma-ZXT-Si-Datasheet-Rev.03.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 2
+        }
+      }
+    },
+    {
       "id": "kentec-84e1c4033963",
       "category": "fire",
       "brand": "Kentec",
@@ -71369,33 +71590,35 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "PSU"
+        "PSU",
+        "K8140",
+        "K8141"
       ],
-      "title": "Man-1225 PSU",
-      "document_type": "reference",
+      "title": "K8140 / K8141 — 10.25A power supply operating instructions",
+      "document_type": "user-guide",
       "document_number": "Man-1225",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "E01.00",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "E01.00",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1225.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1225.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 6
         }
       }
     },
@@ -71544,33 +71767,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma (Economy)"
+        "Sigma (Economy)",
+        "Sigma K1000 Series 1 Zone Economy"
       ],
-      "title": "Man-1047 Sigma (Economy)",
-      "document_type": "reference",
+      "title": "Sigma K1000 one-zone economy panel — Operation and maintenance manual",
+      "document_type": "installation",
       "document_number": "Man-1047",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 03",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 03",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1047.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1047.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 8
         }
       }
     },
@@ -71685,33 +71909,39 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma CP-R"
+        "Sigma CP-R",
+        "K01020M2",
+        "K01040M2",
+        "K01080M2",
+        "E01020L2",
+        "E01040L2",
+        "E01080L2"
       ],
-      "title": "Man-1093 Sigma CP-R",
-      "document_type": "reference",
+      "title": "Sigma CP-R — Repeater operation and maintenance manual",
+      "document_type": "installation",
       "document_number": "Man-1093",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 06",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 06",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1093.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1093.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 14
         }
       }
     },
@@ -71755,33 +71985,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "iNS TSM100-K"
+        "iNS TSM100-K",
+        "TSM100-K"
       ],
-      "title": "Man-1493 iNS TSM100-K User Manual",
+      "title": "iNS TSM100-K — Transient suppression module user manual",
       "document_type": "user-guide",
       "document_number": "Man-1493",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.02",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.02",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1493-iNS-TSM100-K-Transient-Supression-Module-User-Manual-Rev.02.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1493-iNS-TSM100-K-Transient-Supression-Module-User-Manual-Rev.02.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 22
         }
       }
     },
@@ -71825,33 +72056,34 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "iNS DNX-A-2R-K"
+        "iNS DNX-A-2R-K",
+        "DNX-A-2R-K"
       ],
-      "title": "Man-1491 iNS DNX-A-2R-K",
-      "document_type": "reference",
+      "title": "iNS DNX-A-2R-K — RS485 network analyser user manual",
+      "document_type": "user-guide",
       "document_number": "Man-1491",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.02",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.02",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1491-INS-DNX-A-2R-K-RS485-Intelligent-Network-Analyser-User-Manual-Rev.02.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1491-INS-DNX-A-2R-K-RS485-Intelligent-Network-Analyser-User-Manual-Rev.02.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 35
         }
       }
     },
@@ -71897,31 +72129,31 @@
       "models": [
         "Wireless Lockdown Notification System"
       ],
-      "title": "Man-1615 Wireless Lockdown Notification System",
-      "document_type": "reference",
+      "title": "Wireless Lockdown Notification System — Installation and operation manual",
+      "document_type": "installation",
       "document_number": "Man-1615",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/Man-1615-Wireless-Lockdown-Notification-System-IOM-Rev.01.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/Man-1615-Wireless-Lockdown-Notification-System-IOM-Rev.01.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 58
         }
       }
     },
@@ -72062,6 +72294,41 @@
           "sha256": null,
           "bytes": null,
           "page_count": 17
+        }
+      }
+    },
+    {
+      "id": "kentec-9ee1cdb2ed7e",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-EXP"
+      ],
+      "title": "LD-WL8-EXP — Lockdown wireless expander manual",
+      "document_type": "installation",
+      "document_number": "STFV.425551.030-LD-UM",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425551.030-LD-UM-LD-WL8-EXP.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425551.030-LD-UM-LD-WL8-EXP.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 7
         }
       }
     },
@@ -72420,33 +72687,36 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma A-XT"
+        "Sigma A-XT",
+        "Elite XT",
+        "K1810 Series",
+        "VF1810 Series"
       ],
-      "title": "Man-1147 Sigma A-XT",
-      "document_type": "reference",
+      "title": "Sigma A-XT / Elite XT — Control panel wiring diagram",
+      "document_type": "diagram",
       "document_number": "Man-1147",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "E08.00",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "E08.00",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2024/02/Man-1147-Sigma-A-XT-wiring-diagram_08.00.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2024/02/Man-1147-Sigma-A-XT-wiring-diagram_08.00.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 20
         }
       }
     },
@@ -72665,33 +72935,39 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Install Instructions"
+        "Install Instructions",
+        "KSU-BASE-4-CV",
+        "KSU-BASE-6-CV",
+        "KSU-OPT-7-CV",
+        "KSU-MULTI-7-CV",
+        "KSU-HEAT-135F-CV",
+        "KSU-HEAT-190F-CV"
       ],
-      "title": "HA-06-484Install Instructions",
+      "title": "K-System UL conventional detectors and bases — Installation instructions",
       "document_type": "installation",
-      "document_number": null,
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "document_number": "HA-06-484",
+      "revision_hint": "11/24",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "11/24",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-484-INSTAL-INSTR-CONVENTIONAL-DET.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-484-INSTAL-INSTR-CONVENTIONAL-DET.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 2
         }
       }
     },
@@ -72735,33 +73011,35 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Sigma A-Si"
+        "Sigma A-Si",
+        "Sigma A-XT Abort Switch",
+        "K1823 Series"
       ],
-      "title": "Man-1151 Sigma A-Si",
-      "document_type": "reference",
+      "title": "Sigma A-XT K1823 abort switch — Wiring diagram",
+      "document_type": "diagram",
       "document_number": "Man-1151",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "E01.02",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "E01.02",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1151.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1151.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 1
         }
       }
     },
@@ -72770,33 +73048,35 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "S400 PSU"
+        "S400 PSU",
+        "ENS400",
+        "ENK15400 01"
       ],
-      "title": "Man-1038 S400 PSU",
-      "document_type": "reference",
+      "title": "ENS400 / ENK15400 01 — Power supply installation, commissioning and operating manual",
+      "document_type": "installation",
       "document_number": "Man-1038",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 16",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 16",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1038.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1038.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 11
         }
       }
     },
@@ -72817,9 +73097,9 @@
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
+      "source_checked": "2026-10-21",
       "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "retrieval_note": "Product link opened: MAN-1252KE Version 1.00, December 2018, 54 pages. Already indexed as kentec-4a121ba05955. Historical listing retained without a second download URL or invented equivalence.",
       "download": {
         "mode": "source-page",
         "status": "source-page",
@@ -73017,33 +73297,38 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Install Instructions"
+        "Install Instructions",
+        "KSU-BASE-47",
+        "KSU-BASE-67",
+        "KSU-OPT-7",
+        "KSU-MULTI-7",
+        "KSU-HEAT"
       ],
-      "title": "HA-06-465 Install Instructions",
+      "title": "K-System UL addressable detectors and bases — Installation and maintenance instructions",
       "document_type": "installation",
-      "document_number": null,
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "document_number": "HA-06-465",
+      "revision_hint": "Rev 09/24",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev 09/24",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2025/09/HA-06-465-Install-Instr.-Intelligent-Addressable-Base-s-Kentec-9-24.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2025/09/HA-06-465-Install-Instr.-Intelligent-Addressable-Base-s-Kentec-9-24.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 2
         }
       }
     },
@@ -73192,33 +73477,35 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "iNS DNX-A-2R-K & DNP-R-2F/FC-K"
+        "iNS DNX-A-2R-K & DNP-R-2F/FC-K",
+        "DNX-A-2R-K",
+        "DNP-R-2F/FC-K"
       ],
-      "title": "Man-1529 iNS DNX-A-2R-K & DNP-R-2F/FC-K",
-      "document_type": "reference",
+      "title": "iNS DNX-A-2R-K / DNP-R-2F/FC-K — Quick start guide",
+      "document_type": "quick-start",
       "document_number": "Man-1529",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Rev.02",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.02",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2022/08/Man-1529-iNS-DNX-Network-Analyser-Quick-Start-Guide-Rev.02.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2022/08/Man-1529-iNS-DNX-Network-Analyser-Quick-Start-Guide-Rev.02.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 7
         }
       }
     },
@@ -73262,21 +73549,22 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Syncro Net"
+        "Syncro Net",
+        "Syncro"
       ],
-      "title": "Man-1058 Syncro Net",
-      "document_type": "reference",
+      "title": "Syncro — Networking manual",
+      "document_type": "installation",
       "document_number": "Man-1058",
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "revision_hint": "Issue 06",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Issue 06",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim. The manufacturer-linked alternate endpoint has the same printed issue and page count; byte identity was not checked.",
       "download": {
         "mode": "direct-pdf",
         "status": "pdf-indexed",
@@ -73285,7 +73573,7 @@
         "resolver": null,
         "verification": {
           "level": "pdf-indexed",
-          "checked_on": "2026-10-16",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
           "page_count": 12
@@ -73679,6 +73967,41 @@
       }
     },
     {
+      "id": "kentec-ebf5c0acef08",
+      "category": "security",
+      "brand": "Kentec",
+      "models": [
+        "LD-WL8-OV"
+      ],
+      "title": "LD-WL8-OV — Lockdown voice annunciator and VAD manual",
+      "document_type": "installation",
+      "document_number": "STFV.425238.037-LD-UM",
+      "revision_hint": "Rev.01",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev.01",
+      "language": "en",
+      "region": "not-verified",
+      "source_kind": "manufacturer",
+      "source_url": "https://kentec.co.uk/product/lockdown-notification-system/",
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
+      "download": {
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425238.037-LD-UM-LD-WL8-OV.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2026/02/STFV.425238.037-LD-UM-LD-WL8-OV.pdf",
+        "resolver": null,
+        "verification": {
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
+          "sha256": null,
+          "bytes": null,
+          "page_count": 7
+        }
+      }
+    },
+    {
       "id": "kentec-ec0d55303ccf",
       "category": "fire",
       "brand": "Kentec",
@@ -73963,33 +74286,36 @@
       "category": "fire",
       "brand": "Kentec",
       "models": [
-        "Technical Bulletin"
+        "Technical Bulletin",
+        "KSU-OPT-7",
+        "KSU-MULTI-7",
+        "KSU-HEAT"
       ],
-      "title": "HA-06-465A Technical Bulletin",
+      "title": "K-System UL addressable detectors — Maintenance technical bulletin",
       "document_type": "reference",
-      "document_number": null,
-      "revision_hint": null,
-      "revision_basis": null,
-      "verified_revision": null,
-      "language": "not-verified",
+      "document_number": "HA-06-465A",
+      "revision_hint": "Rev 08/25",
+      "revision_basis": "Printed cover or footer issue checked in the PDF text; no current-edition claim.",
+      "verified_revision": "Rev 08/25",
+      "language": "en",
       "region": "not-verified",
       "source_kind": "manufacturer",
       "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "source_checked": "2026-10-16",
-      "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
-      "retrieval_note": null,
+      "source_checked": "2026-10-21",
+      "model_basis": "Manufacturer product-page association and PDF title/applicable-model text checked; earlier model associations retained.",
+      "retrieval_note": "PDF opened and parsed through the retrieval service. Title, printed edition and page count checked. Local complete-file integrity, byte count and checksum were not checked. No current-edition claim.",
       "download": {
-        "mode": "source-page",
-        "status": "source-page",
-        "url": null,
-        "source_page_url": "https://kentec.co.uk/resources/product-resources/",
+        "mode": "direct-pdf",
+        "status": "pdf-indexed",
+        "url": "https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-465A-Intelligent-Addressable-Detector-Technical-Bulletin-Kentec-8-25.pdf",
+        "source_page_url": "https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-465A-Intelligent-Addressable-Detector-Technical-Bulletin-Kentec-8-25.pdf",
         "resolver": null,
         "verification": {
-          "level": "unverified",
-          "checked_on": null,
+          "level": "pdf-indexed",
+          "checked_on": "2026-10-21",
           "sha256": null,
           "bytes": null,
-          "page_count": null
+          "page_count": 5
         }
       }
     },

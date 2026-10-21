@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [HA-06-465 Install Instructions](https://kentec.co.uk/resources/product-resources/) | installation | Not recorded | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [HA-06-484Install Instructions](https://kentec.co.uk/resources/product-resources/) | installation | Not recorded | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [K-System UL addressable detectors and bases — Installation and maintenance instructions](https://kentec.co.uk/wp-content/uploads/2025/09/HA-06-465-Install-Instr.-Intelligent-Addressable-Base-s-Kentec-9-24.pdf) | installation | HA-06-465 | Rev 09/24 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [K-System UL conventional detectors and bases — Installation instructions](https://kentec.co.uk/wp-content/uploads/2025/10/HA-06-484-INSTAL-INSTR-CONVENTIONAL-DET.pdf) | installation | HA-06-484 | 11/24 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,9 +6,9 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1145 Sigma A-XT](https://kentec.co.uk/resources/product-resources/) | reference | Man-1145 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1146 Sigma A-XT](https://kentec.co.uk/resources/product-resources/) | reference | Man-1146 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1147 Sigma A-XT](https://kentec.co.uk/resources/product-resources/) | reference | Man-1147 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma A-XT / Elite XT — Control panel wiring diagram](https://kentec.co.uk/wp-content/uploads/2024/02/Man-1147-Sigma-A-XT-wiring-diagram_08.00.pdf) | diagram | Man-1147 | E08.00 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma A-XT / Elite XT — Releasing control panel operating instructions](https://kentec.co.uk/wp-content/uploads/2018/08/man-1146.pdf) | user-guide | Man-1146 | E01.09 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma A-XT — Releasing control panel installation and operation manual](https://kentec.co.uk/wp-content/uploads/2022/12/Man-1145-Sigma-A-XT-operating-and-installation-manual_06.00.pdf) | installation | Man-1145 | E06.00 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
