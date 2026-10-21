@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1054 Solo (Hochiki)](https://kentec.co.uk/resources/product-resources/) | reference | Man-1054 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Solo Hochiki ESP — Panel installation, commissioning and operation](https://kentec.co.uk/wp-content/uploads/2018/08/man-1054.pdf) | installation | Man-1054 | Issue 03 (June 1999) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

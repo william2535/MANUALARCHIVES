@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1216 Elite-H](https://kentec.co.uk/resources/product-resources/) | reference | Man-1216 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Elite-H — Installation and operation manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1216.pdf) | installation | Man-1216 | Issue E02.13 (January 2015) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

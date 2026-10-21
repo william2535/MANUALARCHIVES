@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1452HU Sigma ZXT (Operation Manual HUNGARIAN)](https://kentec.co.uk/resources/product-resources/) | user-guide | Man-1452HU | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma ZXT — Operating manual (Hungarian)](https://kentec.co.uk/wp-content/uploads/2024/09/Man-1452HU-Sigma-ZXT-Operation-Manual-HUNGARIAN-Rev.01.pdf) | user-guide | Man-1452HU | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Sigma ZXT — Operation manual](https://kentec.co.uk/wp-content/uploads/2022/02/Man-1452EN-Sigma-ZXT-Operation-Manual-Rev.03.pdf) | user-guide | Man-1452EN | Rev.03 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.

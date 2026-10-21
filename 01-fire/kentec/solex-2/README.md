@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1071 Solex 2](https://kentec.co.uk/resources/product-resources/) | reference | Man-1071 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Solex 2 — Panel installation, commissioning and operation](https://kentec.co.uk/wp-content/uploads/2018/08/man-1071.pdf) | installation | Man-1071 | Issue 03 (February 2009) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

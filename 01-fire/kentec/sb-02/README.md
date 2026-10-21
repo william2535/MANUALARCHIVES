@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1072 SB.02](https://kentec.co.uk/resources/product-resources/) | reference | Man-1072 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [SB.02 — Bell/sounder booster internal wiring](https://kentec.co.uk/wp-content/uploads/2018/08/man-1072.pdf) | diagram | Man-1072 | Drawing revision 03 (3 January 2012) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

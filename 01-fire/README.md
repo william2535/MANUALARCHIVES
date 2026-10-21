@@ -23,7 +23,7 @@
 | [Haes](haes/README.md) | 76 | 65 |
 | [Hochiki](hochiki/README.md) | 19 | 24 |
 | [Inter-M](inter-m/README.md) | 1 | 3 |
-| [Kentec](kentec/README.md) | 158 | 159 |
+| [Kentec](kentec/README.md) | 158 | 180 |
 | [Morley-IAS](morley-ias/README.md) | 7 | 7 |
 | [Nittan](nittan/README.md) | 82 | 72 |
 | [Notifier](notifier/README.md) | 7 | 7 |

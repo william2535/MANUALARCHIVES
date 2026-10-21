@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1083 Hold Off](https://kentec.co.uk/resources/product-resources/) | reference | Man-1083 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma XT — Extinguishant hold-off unit connections](https://kentec.co.uk/wp-content/uploads/2018/08/man-1083-1.pdf) | diagram | Man-1083 | Issue 05 (2016) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1068 Syncro Comms](https://kentec.co.uk/resources/product-resources/) | reference | Man-1068 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro — Modem module installation and commissioning](https://kentec.co.uk/wp-content/uploads/2018/08/man-1068.pdf) | installation | Man-1068 | Issue 04 (June 2013) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

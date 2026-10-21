@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1572 iNS DNP-R-2F/FC-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1572 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [iNS DNP-R-2F/FC-K — Fibre/RS485 converter user manual](https://kentec.co.uk/wp-content/uploads/2022/08/Man-1572-iNS-DNP-R-2F-FC-K-Passive-Dual-Port-Optic-Fibre-RS485-Medium-Converter-Manual-Rev.01.pdf) | user-guide | Man-1572 | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

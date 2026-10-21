@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-21",
-  "catalogue_sha256": "c1320f46a515fc703466933ed3bbdd1e5691b2e485ee8c7ac5e8e5d71c769553",
+  "catalogue_sha256": "d920d90f2ef5bf3f9494bf86a8ddbb4d0ea2c57f95116450bc212bef402222d4",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
   "record_count": 3431,
   "gap_counts": {
-    "complete-file-check-needed": 2897,
+    "complete-file-check-needed": 2946,
     "document-number-unrecorded": 2227,
-    "download-url-unresolved": 54,
-    "language-unverified": 3097,
+    "download-url-unresolved": 3,
+    "language-unverified": 3047,
     "model-applicability-review-needed": 579,
     "possible-duplicate-review-needed": 1,
     "region-unverified": 3411,
     "retrieval-failed": 10,
-    "revision-review-needed": 3171,
-    "source-metadata-conflict": 10,
+    "revision-review-needed": 3122,
+    "source-metadata-conflict": 14,
     "viewer-without-direct-pdf": 4,
     "web-manual-without-direct-pdf": 235
   },
@@ -1170,30 +1170,30 @@
       "document_types": {
         "application-note": 2,
         "datasheet": 1,
-        "diagram": 3,
-        "installation": 40,
+        "diagram": 10,
+        "installation": 58,
         "programming": 2,
         "quick-start": 8,
-        "reference": 88,
-        "user-guide": 22
+        "reference": 42,
+        "user-guide": 43
       },
       "download_status": {
-        "complete-file": 4,
+        "complete-file": 5,
         "listed": 10,
-        "pdf-indexed": 95,
-        "retrieval-failed": 3,
-        "source-page": 54
+        "pdf-indexed": 144,
+        "retrieval-failed": 4,
+        "source-page": 3
       },
       "gap_counts": {
-        "complete-file-check-needed": 108,
+        "complete-file-check-needed": 158,
         "document-number-unrecorded": 3,
-        "download-url-unresolved": 54,
-        "language-unverified": 108,
+        "download-url-unresolved": 3,
+        "language-unverified": 59,
         "possible-duplicate-review-needed": 1,
         "region-unverified": 158,
-        "retrieval-failed": 3,
-        "revision-review-needed": 109,
-        "source-metadata-conflict": 3
+        "retrieval-failed": 4,
+        "revision-review-needed": 61,
+        "source-metadata-conflict": 7
       }
     },
     {
@@ -1536,26 +1536,26 @@
       ],
       "document_types": {
         "application-note": 227,
-        "installation": 11,
+        "installation": 12,
         "programming": 1,
         "quick-start": 6,
-        "reference": 151,
+        "reference": 150,
         "user-guide": 2
       },
       "download_status": {
-        "complete-file": 9,
+        "complete-file": 10,
         "listed": 233,
         "pdf-indexed": 153,
-        "retrieval-failed": 3
+        "retrieval-failed": 2
       },
       "gap_counts": {
-        "complete-file-check-needed": 389,
+        "complete-file-check-needed": 388,
         "document-number-unrecorded": 79,
-        "language-unverified": 398,
+        "language-unverified": 397,
         "model-applicability-review-needed": 81,
         "region-unverified": 390,
-        "retrieval-failed": 3,
-        "revision-review-needed": 398
+        "retrieval-failed": 2,
+        "revision-review-needed": 397
       }
     },
     {
@@ -25459,10 +25459,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25478,10 +25476,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25489,10 +25485,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25532,10 +25526,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
-        "revision-review-needed",
         "source-metadata-conflict"
       ],
       "metadata_conflicts": [
@@ -25543,7 +25535,8 @@
           "field": "download_target",
           "listing": "Man-1200 Elite RS-A installation manual",
           "observed": "https://kentec.co.uk/wp-content/uploads/2018/08/Man-1200-Elite-RS-Installation-Operation-Manual-Apollo-Protocol-03.13-Front-Cover.png",
-          "note": "Publisher product-page download leads to a PNG cover image, not a PDF manual."
+          "note": "Publisher product-page download leads to a PNG cover image, not a PDF manual.",
+          "resolution": "Separate manufacturer legacy PDF found and parsed: Man-1200 Issue 01.06 / E01.06, August 2013. The originally observed product-page image link is retained as historical evidence."
         }
       ]
     },
@@ -25654,10 +25647,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25734,10 +25725,7 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -25745,10 +25733,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25767,10 +25753,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25818,10 +25802,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25879,10 +25861,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25940,10 +25920,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -25960,7 +25938,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
+        "retrieval-failed",
+        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
@@ -25982,8 +25961,7 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
         "revision-review-needed"
       ]
@@ -26002,10 +25980,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26062,10 +26038,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26073,10 +26047,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26095,10 +26067,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26115,10 +26085,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26126,10 +26094,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26148,10 +26114,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26238,10 +26202,17 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
-        "revision-review-needed"
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "model/title",
+          "listing": "Man-1148 Sigma A-Si",
+          "printed": "Elite XT — VF1832 disablement switch wiring",
+          "note": "Generic Sigma A-Si listing retained as a navigation association; title now describes the accessory actually identified by the PDF."
+        }
       ]
     },
     {
@@ -26249,10 +26220,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26376,10 +26345,17 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
-        "revision-review-needed"
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "model/title",
+          "listing": "Man-1150 Sigma A-Si",
+          "printed": "Sigma A-XT — K1822 ancillary PCB wiring",
+          "note": "Generic Sigma A-Si listing retained as a navigation association; title now describes the accessory actually identified by the PDF."
+        }
       ]
     },
     {
@@ -26408,10 +26384,17 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
-        "revision-review-needed"
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "document_number",
+          "listing": "Man-113",
+          "printed": "Man-1113",
+          "note": "Manufacturer resource heading omits a digit; its description and the PDF both identify Man-1113. Corrected from the PDF while preserving the record ID."
+        }
       ]
     },
     {
@@ -26428,10 +26411,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26448,10 +26429,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26519,10 +26498,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26530,10 +26507,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26572,9 +26547,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26582,10 +26556,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26593,10 +26565,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26614,10 +26584,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26647,8 +26615,7 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
         "revision-review-needed"
       ]
@@ -26686,10 +26653,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26697,10 +26662,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26708,10 +26671,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26719,10 +26680,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26730,10 +26689,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26750,10 +26707,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26801,10 +26756,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26876,10 +26829,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26916,10 +26867,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26936,10 +26885,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26947,10 +26894,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -26969,10 +26914,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -27002,10 +26945,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -27024,10 +26965,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -27062,21 +27001,27 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
-      ]
+        "complete-file-check-needed",
+        "region-unverified"
+      ],
+      "duplicate_of": "kentec-330d870ec4de"
     },
     {
       "id": "kentec-ec414e8db85e",
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
+        "complete-file-check-needed",
         "region-unverified",
-        "revision-review-needed"
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "model/title",
+          "listing": "Man-1149 Sigma A-Si",
+          "printed": "Sigma A-XT — K1821 status unit wiring",
+          "note": "Generic Sigma A-Si listing retained as a navigation association; title now describes the accessory actually identified by the PDF."
+        }
       ]
     },
     {
@@ -27114,10 +27059,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -27136,10 +27079,8 @@
       "brand": "Kentec",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "revision-review-needed"
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -32503,17 +32444,6 @@
         "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
-        "revision-review-needed"
-      ]
-    },
-    {
-      "id": "paxton-8f037f4d2888",
-      "brand": "Paxton",
-      "category": "access-control",
-      "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
-        "language-unverified",
         "revision-review-needed"
       ]
     },
@@ -44325,9 +44255,11 @@
       "brand": "Paxton",
       "model": "Net2 Plus",
       "record_ids": [
-        "paxton-41b5fa808475"
+        "paxton-41b5fa808475",
+        "paxton-8f037f4d2888"
       ],
       "document_types": [
+        "installation",
         "reference"
       ]
     },
@@ -44339,7 +44271,7 @@
         "paxton-8f037f4d2888"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -71756,12 +71688,25 @@
     {
       "category": "fire",
       "brand": "Kentec",
+      "model": "B3420",
+      "record_ids": [
+        "kentec-07eb8f5458c5"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
       "model": "DNP-R-2F/FC-K",
       "record_ids": [
+        "kentec-d06859911ab7",
         "kentec-d69068711932"
       ],
       "document_types": [
-        "quick-start"
+        "quick-start",
+        "user-guide"
       ]
     },
     {
@@ -71774,6 +71719,17 @@
       ],
       "document_types": [
         "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "DNX-R-2F/FC-K",
+      "record_ids": [
+        "kentec-5e0f7dfc0f55"
+      ],
+      "document_types": [
         "user-guide"
       ]
     },
@@ -71818,7 +71774,7 @@
         "kentec-a33940f2af38"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -71829,7 +71785,7 @@
         "kentec-b4141e7c5d17"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -71874,7 +71830,8 @@
         "kentec-60e4e2070323"
       ],
       "document_types": [
-        "reference"
+        "diagram",
+        "user-guide"
       ]
     },
     {
@@ -71897,7 +71854,7 @@
         "kentec-10d7f8b6bfb8"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -71927,12 +71884,23 @@
     {
       "category": "fire",
       "brand": "Kentec",
+      "model": "Elite XT disablement switch",
+      "record_ids": [
+        "kentec-79661f04df20"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
       "model": "Elite-A",
       "record_ids": [
         "kentec-c5d528024dee"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -71943,7 +71911,7 @@
         "kentec-24a1ad2740fe"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -71954,7 +71922,7 @@
         "kentec-5959b1d15956"
       ],
       "document_types": [
-        "reference"
+        "diagram"
       ]
     },
     {
@@ -71979,7 +71947,18 @@
         "kentec-07eb8f5458c5"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "HydroSense E2000000",
+      "record_ids": [
+        "kentec-a33940f2af38"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     },
     {
@@ -72133,6 +72112,28 @@
     {
       "category": "fire",
       "brand": "Kentec",
+      "model": "K1821",
+      "record_ids": [
+        "kentec-ec414e8db85e"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "K1822",
+      "record_ids": [
+        "kentec-891c27010ff9"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
       "model": "K1823 Series",
       "record_ids": [
         "kentec-c306c1924523"
@@ -72149,7 +72150,18 @@
         "kentec-eac92e3a1396"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "K25000",
+      "record_ids": [
+        "kentec-fcd372bbfc52"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -72171,7 +72183,7 @@
         "kentec-bbef8c448c29"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72179,7 +72191,8 @@
       "brand": "Kentec",
       "model": "K3000S",
       "record_ids": [
-        "kentec-255e67f17108"
+        "kentec-255e67f17108",
+        "kentec-bbef8c448c29"
       ],
       "document_types": [
         "installation"
@@ -72193,7 +72206,7 @@
         "kentec-dc72e2b70ccf"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -72204,7 +72217,18 @@
         "kentec-451d1221e616"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "K588 ancillary PCB",
+      "record_ids": [
+        "kentec-92d6f0a5ae19"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     },
     {
@@ -72236,6 +72260,17 @@
     {
       "category": "fire",
       "brand": "Kentec",
+      "model": "K91000M10",
+      "record_ids": [
+        "kentec-5959b1d15956"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
       "model": "KA11020M2",
       "record_ids": [
         "kentec-171d3e03bc91"
@@ -72261,6 +72296,28 @@
       "model": "KA11080M2",
       "record_ids": [
         "kentec-171d3e03bc91"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "KB91000M10",
+      "record_ids": [
+        "kentec-5959b1d15956"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "KD25000",
+      "record_ids": [
+        "kentec-fcd372bbfc52"
       ],
       "document_types": [
         "installation"
@@ -72412,7 +72469,7 @@
         "kentec-8d0050f536ab"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -72423,7 +72480,7 @@
         "kentec-3093ce5a5998"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -72434,7 +72491,7 @@
         "kentec-99b846bf6d01"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -72450,7 +72507,6 @@
       ],
       "document_types": [
         "installation",
-        "reference",
         "user-guide"
       ]
     },
@@ -72506,7 +72562,18 @@
         "kentec-8e41813f41a4"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "S737 VDR interface",
+      "record_ids": [
+        "kentec-6655748b3b7e"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -72517,7 +72584,7 @@
         "kentec-d7cedc193659"
       ],
       "document_types": [
-        "reference"
+        "diagram"
       ]
     },
     {
@@ -72528,7 +72595,7 @@
         "kentec-dfbfae1ecb9b"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72610,8 +72677,7 @@
         "kentec-ec414e8db85e"
       ],
       "document_types": [
-        "diagram",
-        "reference"
+        "diagram"
       ]
     },
     {
@@ -72635,6 +72701,28 @@
       "model": "Sigma A-XT Abort Switch",
       "record_ids": [
         "kentec-c306c1924523"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Sigma A-XT ancillary PCB",
+      "record_ids": [
+        "kentec-891c27010ff9"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Sigma A-XT status unit",
+      "record_ids": [
+        "kentec-ec414e8db85e"
       ],
       "document_types": [
         "diagram"
@@ -72718,7 +72806,7 @@
         "kentec-4a68f079c0fb"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -72729,7 +72817,7 @@
         "kentec-a25790bc2332"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -72756,6 +72844,17 @@
       "document_types": [
         "reference",
         "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Sigma XT Hold Off",
+      "record_ids": [
+        "kentec-5959b1d15956"
+      ],
+      "document_types": [
+        "diagram"
       ]
     },
     {
@@ -72792,6 +72891,7 @@
         "kentec-503ac2414e28",
         "kentec-85adc10c400e",
         "kentec-8d211ee554b1",
+        "kentec-a19446f80d83",
         "kentec-eaceaec80486"
       ],
       "document_types": [
@@ -72886,7 +72986,8 @@
         "kentec-bb94887b4920"
       ],
       "document_types": [
-        "reference"
+        "installation",
+        "user-guide"
       ]
     },
     {
@@ -72897,7 +72998,18 @@
         "kentec-4e580068ce6c"
       ],
       "document_types": [
-        "reference"
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Signifire programmable I/O",
+      "record_ids": [
+        "kentec-bb94887b4920"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     },
     {
@@ -72908,7 +73020,7 @@
         "kentec-4f1709f3eabf"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72919,7 +73031,7 @@
         "kentec-c1bfc1bb8813"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72930,7 +73042,40 @@
         "kentec-be1af1c20d35"
       ],
       "document_types": [
-        "reference"
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Solo 2",
+      "record_ids": [
+        "kentec-79b9e32dfc2b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Solo 2 Lite",
+      "record_ids": [
+        "kentec-3d9bf7fca5e6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Solo 2 Response",
+      "record_ids": [
+        "kentec-e2d68c942c86"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -72941,7 +73086,7 @@
         "kentec-79b9e32dfc2b"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72952,7 +73097,7 @@
         "kentec-3d9bf7fca5e6"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72964,7 +73109,7 @@
         "kentec-e2d68c942c86"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -72975,7 +73120,7 @@
         "kentec-bd26ca74c109"
       ],
       "document_types": [
-        "reference"
+        "diagram"
       ]
     },
     {
@@ -73050,7 +73195,7 @@
         "kentec-dc4533578423"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -73061,7 +73206,7 @@
         "kentec-bd8936356752"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -73108,7 +73253,7 @@
         "kentec-af961766045a"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -73140,7 +73285,8 @@
       "brand": "Kentec",
       "model": "Syncro Si",
       "record_ids": [
-        "kentec-330d870ec4de"
+        "kentec-330d870ec4de",
+        "kentec-ec0d55303ccf"
       ],
       "document_types": [
         "reference"
@@ -73151,6 +73297,7 @@
       "brand": "Kentec",
       "model": "Syncro Si and hold off",
       "record_ids": [
+        "kentec-330d870ec4de",
         "kentec-ec0d55303ccf"
       ],
       "document_types": [
@@ -73176,7 +73323,7 @@
         "kentec-f3ebcdaf7f43"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -73188,7 +73335,6 @@
         "kentec-5fa7053b016d"
       ],
       "document_types": [
-        "reference",
         "user-guide"
       ]
     },
@@ -73201,6 +73347,17 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "Syncro modem module",
+      "record_ids": [
+        "kentec-dc4533578423"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -73349,7 +73506,7 @@
         "kentec-6655748b3b7e"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -73358,6 +73515,17 @@
       "model": "VF1810 Series",
       "record_ids": [
         "kentec-b881ae752a6c"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Kentec",
+      "model": "VF1832",
+      "record_ids": [
+        "kentec-79661f04df20"
       ],
       "document_types": [
         "diagram"
@@ -73490,7 +73658,7 @@
         "kentec-d06859911ab7"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {
@@ -73523,7 +73691,7 @@
         "kentec-5e0f7dfc0f55"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
       ]
     },
     {

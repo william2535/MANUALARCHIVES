@@ -37,4 +37,8 @@ location.hash='#manuals';events.hashchange();
 assert.equal(el('manual-panel').hidden,false);
 assert.equal(el('standards-panel').hidden,true);
 assert.equal(el('nav-manuals').attrs['aria-current'],'page');
+change('search','Man-1099');
+assert.match(el('count').textContent,/2 records/);
+assert.match(el('results').innerHTML,/Duplicate listing/);
+assert.match(el('results').innerHTML,/Revision \/ issue: Issue 04/);
 console.log('Offline UI logic passed: deep links, section switching, manual preservation, standards search, category/status filters, pagination, empty results and transition evidence.');

@@ -56,7 +56,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | Honeywell | 42 | 42 |
 | Inovonics | 2 | 2 |
 | Inter-M | 1 | 1 |
-| Kentec | 166 | 112 |
+| Kentec | 166 | 163 |
 | Keyscan | 1 | 1 |
 | Kovert | 1 | 1 |
 | Luminite | 2 | 2 |
@@ -100,10 +100,10 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
 | online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 1259 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
+| pdf-indexed | 1310 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
 | pdf-link-listed | 1869 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
 | retrieval-failed | 10 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
-| source-listing | 54 | Document title listed by manufacturer; a usable direct download is still unresolved. |
+| source-listing | 3 | Document title listed by manufacturer; a usable direct download is still unresolved. |
 
 ## Document types
 
@@ -111,21 +111,21 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|
 | application-note | 292 |
 | datasheet | 35 |
-| diagram | 18 |
-| installation | 871 |
+| diagram | 25 |
+| installation | 890 |
 | programming | 59 |
 | quick-start | 132 |
-| reference | 866 |
+| reference | 819 |
 | troubleshooting | 5 |
-| user-guide | 1153 |
+| user-guide | 1174 |
 
 ## Source provenance
 
 | Source type | Records |
 |---|---:|
-| distributor | 29 |
+| distributor | 31 |
 | installer | 700 |
-| manufacturer | 2702 |
+| manufacturer | 2700 |
 
 Manufacturer sources are preferred. Installer and distributor copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
 
@@ -151,23 +151,25 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 - 21 October supplier review: all 67 unclassified candidates examined; 39 new manuals, ten enriched existing records, nine duplicate source links, one rejected misleading file and eight individually explained unresolved candidates. The complete audit is data/supplier-candidate-audit.json.
 - 21 October complete-file retries: recovered 28 of the 38 outstanding retrieval failures. Checks include SHA-256, byte count, PDF header/trailer and Poppler parsing. Ten failures remain individually identified.
 - 21 October manufacturer follow-up: added 30 distinct FFE English user/installation guides from 35 linked files; linked byte-identical alternates. Resolved the existing Apollo XPander commissioning guide using its manufacturer PDF, PP2286/2019/Issue 13. Catalogue total: 3,431 records, 87 brands, 3,138 direct PDF links.
+- 21 October legacy Kentec review: resolved 50 of 54 remaining source-only listings to 49 distinct PDF URLs; corrected printed titles/numbers/issues and preserved both Man-1099 listing IDs with an explicit duplicate reference. Added one complete-file check for the distributor-hosted MIOU manual. Man-1494 now has a publisher-published direct URL, but retrieval still fails; three Kentec source-only listings remain.
+- 21 October follow-up: recovered Paxton ins-20603 as a complete 24-page AlarMax distributor PDF; retained its failed manufacturer URL and avoided assuming edition equivalence. All four CDVI public viewers were checked and report can_download=false. Current totals: 3,431 records, 87 brands, 3,189 direct PDF references. The one confirmed duplicate listing does not represent an additional unique PDF.
 
 ## Known gaps
 
 - This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.
 - Eight supplier candidates remain unclassified after review: an invalid PDF, unbranded manuals and customer-specific scans. The misleading Abacus search-text file is rejected. Each decision and next requirement is recorded in the supplier audit.
-- 54 Kentec listings and four CDVI viewers still lack a verified direct PDF; 235 other records are valid online manuals. Apollo XPander is now resolved. British Standards amendment histories and formal coexistence dates remain incomplete where public publisher evidence is insufficient.
-- All 17 previously source-only C-TEC entries now have indexed PDF links, and both earlier C-TEC retrieval failures were recovered. Three publisher metadata conflicts are explicitly recorded. Kentec has 54 remaining entries without direct PDF links after 22 more were resolved. Three publisher link/number conflicts are recorded; source links remain available and download URLs are not guessed.
-- Ten PDF retrievals remain unsuccessful after complete-file retries: access-denied/service-unavailable responses, a non-PDF response and an incomplete file. See data/source-audits/retrieval-retries-2026-10-21.json. These checks do not prove every source is permanently broken.
+- Three Kentec listings and four CDVI public viewers still lack direct PDF links; 235 other records are valid online manuals. The four viewers report download disabled in their capability metadata. British Standards histories and formal coexistence dates remain incomplete where public publisher evidence is insufficient.
+- All previously source-only C-TEC entries have indexed PDF links. Three C-TEC publisher metadata conflicts remain explicit. Kentec historical Man-1252 identity, the actual Man-1453 manual and Man-1527 direct PDF remain unresolved; Man-1494 has a published link but failed retrieval. Exact Kentec outcomes are in data/source-audits/kentec-legacy-2026-10-21.json.
+- Ten listed PDF downloads remain unsuccessful in this environment: nine previous failures plus newly identified Kentec Man-1494. Paxton ins-20603 now uses a complete distributor alternative. Access/service failures, retrieval-service file-size limits and incomplete/non-PDF responses remain distinct; none proves permanent publisher unavailability.
 - Many legacy supplier filenames are abbreviated. Exact model variants, publication dates, firmware, language and region need review against the document. Similar unverified mirror files may still overlap; counts are records, not a guarantee of unique file contents.
-- Ajax web manuals and CDVI document viewers require a supported export or manual download before offline use. The local PDF downloader does not make those pages available offline.
+- Ajax web manuals require a supported export before offline use. The four CDVI viewer sessions report download disabled; their viewer links remain available, but no restricted download endpoint is supplied. The local downloader does not save these web pages offline.
 - Hikvision and Dahua coverage remains partial, especially newer recorder families, region-specific models and firmware editions. Bosch AMS and APE manuals are indexed; the MAP 5000 installation, quick-operation and user download endpoints currently return non-PDF responses; the manufacturer product listing alone does not establish working downloads.
 - Protec 6100 installation/user and 6300 user manuals have been added. Apollo and Nittan now have substantial device-level coverage. Protec 6300 installation is now indexed as a historical issue. Further Advanced MxPro generations, Hochiki device variants and Honeywell families remain priorities.
 - Comelit category pages expose only a subset of larger libraries. Further pagination and product-specific downloads remain to be collected. Manufacturer brand coverage does not imply complete coverage within that brand.
 - The archive contains no third-party PDF binaries. PDFs and checksum manifests created by the downloader remain local and gitignored. No claim is made about redistribution permission or technical suitability.
 - The Apollo product-map pass attempted 525 URLs and returned 505 page records; not every product has a manual. Nine unresolved document-link associations from the Apollo/Nittan pass are retained in data/continuation-log.json. Identical URLs were merged; different URLs were not assumed to contain identical bytes.
 - TDSi UM0120 Issue 2 and FireClass FC600 installation/user manuals are indexed. Siemens FC360 full English technical manuals from a verified source and further FireClass editions remain gaps. Bosch MAP 5000 requires a successful complete-file check.
-- Kentec historical K3000S/Syncro manuals are cross-referenced from unresolved manufacturer listings without replacing unknown/current issues. Four manufacturer/listing/download anomalies from this gap-fill are recorded in data/gap-fill-log-2026-10-16.json. Region and exact device applicability remain unverified unless explicitly recorded.
+- Recovered Kentec legacy PDFs remain historical editions rather than assumed current issues. ECU Man-1032 and Signifire II Man-1067 have encoded cover text and unverified revision marks. Original model associations and publisher conflicts remain visible; installed model, protocol, firmware and market still require checking.
 - Phone application implementation, persistent on-device storage and real-device offline testing remain separate work; the versioned app manifest and integration contract are now available.
 
 ## Records without direct PDF links
@@ -177,7 +179,7 @@ Manufacturer sources are preferred. Installer and distributor copies are explici
 | Ajax | 232 |
 | Axis | 1 |
 | CDVI | 4 |
-| Kentec | 54 |
+| Kentec | 3 |
 | Pyronix | 2 |
 
 The full queue is in [data/research-backlog.json](data/research-backlog.json). These counts include valid web manuals as well as unresolved listings; they are not all broken links.
@@ -234,7 +236,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Honeywell**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Inovonics**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Inter-M**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
-- **Kentec**: [source 1](https://kentec.co.uk/product/lockdown-notification-system/), [source 2](https://kentec.co.uk/product/sigma-xtplus/), [source 3](https://kentec.co.uk/product/sigma-zsi/), [source 4](https://kentec.co.uk/resources/product-resources/), [source 5](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/), [source 6](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 7](https://www.product-manuals.online/Syncro_AS/)
+- **Kentec**: [source 1](https://fire.sectron.com/manuals/en/Kentec/adressable/), [source 2](https://kentec.co.uk/product/lockdown-notification-system/), [source 3](https://kentec.co.uk/product/sigma-xtplus/), [source 4](https://kentec.co.uk/product/sigma-zsi/), [source 5](https://kentec.co.uk/resources/product-resources/), [source 6](https://trinityfireandsecurity.com/resources/user-and-operating-manuals/), [source 7](https://www.libertysystems.co.uk/Fire-Alarm-User-Manuals), [source 8](https://www.product-manuals.online/Syncro_AS/)
 - **Keyscan**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Kovert**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Luminite**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
@@ -250,7 +252,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Notifier**: [source 1](https://www.plpfire.co.uk/support/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Orisec**: [source 1](https://www.arrowesecuritysystems.co.uk/technical-support/orisec-user-manuals/), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **PAS Sound Engineering**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
-- **Paxton**: [source 1](https://www.paxton-access.com/install-paxton/resources/application-notes/), [source 2](https://www.paxton-access.com/install-paxton/resources/instructions/), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
+- **Paxton**: [source 1](https://www.alarmax.com/customer/docs/skudocs/ins-20603.pdf), [source 2](https://www.paxton-access.com/install-paxton/resources/application-notes/), [source 3](https://www.paxton-access.com/install-paxton/resources/instructions/), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Philips**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Protec**: [source 1](https://www.acornfiresecurity.com/index.php?filename=6100-Installation.pdf&route=extension%2Fmodule%2Fdocument%2Fdownload), [source 2](https://www.acornfiresecurity.com/protec/protec-6300-fire-alarm-control-panel), [source 3](https://www.acornfiresecurity.com/protec/protec-algo-tec-6500-fire-alarm-control-panel-1-4-loop?page=18), [source 4](https://www.protec.co.uk/wp-content/uploads/2020/03/6300-6500-Upgrade-1.pdf), [source 5](https://www.specifiedby.com/protec-fire-detection-plc/6100-single-loop-fire-alarm-panel/protec-fire-detection-plc_6100-single-loop-fire-alarm-panel_operations_7_e513ed53-3447-47ca-a80f-6d287acf6f45.pdf), [source 6](https://www.specifiedby.com/protec-fire-detection-plc/6300-fire-alarm-control-panel/protec-fire-detection-plc_6300-fire-alarm-control-panel_operations_3_cdf519ed-962c-4021-a949-14865e13a0c5.pdf)
 - **Pyronix**: [source 1](https://www.support.pyronix.com/uk/product/enforcer-v11/documentation/enforcer-v11-extended-user-guide), [source 2](https://www.support.pyronix.com/uk/product/homecontrol2-0/documentation/homecontrol2-0-user-guide-2), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
@@ -278,16 +280,16 @@ This audit covers every indexed record, with model/type coverage for every recor
 
 | Review flag | Records |
 |---|---:|
-| complete-file-check-needed | 2,897 |
+| complete-file-check-needed | 2,946 |
 | document-number-unrecorded | 2,227 |
-| download-url-unresolved | 54 |
-| language-unverified | 3,097 |
+| download-url-unresolved | 3 |
+| language-unverified | 3,047 |
 | model-applicability-review-needed | 579 |
 | possible-duplicate-review-needed | 1 |
 | region-unverified | 3,411 |
 | retrieval-failed | 10 |
-| revision-review-needed | 3,171 |
-| source-metadata-conflict | 10 |
+| revision-review-needed | 3,122 |
+| source-metadata-conflict | 14 |
 | viewer-without-direct-pdf | 4 |
 | web-manual-without-direct-pdf | 235 |
 
@@ -297,12 +299,12 @@ See [machine-readable gap audit](data/gap-audit.json) for exact record IDs, per-
 
 | Evidence / status | Records |
 |---|---:|
-| complete-file | 241 |
+| complete-file | 243 |
 | file-hash | 265 |
 | listed | 1,603 |
 | pdf-header | 1 |
-| pdf-indexed | 1,018 |
+| pdf-indexed | 1,067 |
 | retrieval-failed | 10 |
-| source-page | 293 |
+| source-page | 242 |
 
 Complete-file checks include a recorded SHA-256, size, PDF header and EOF marker. File-hash records have a checksum but lack that full validation trail. PDF-indexed means a retrieval service identified a PDF and page count; it is not a locally verified file. See [app integration](APP_INTEGRATION.md).

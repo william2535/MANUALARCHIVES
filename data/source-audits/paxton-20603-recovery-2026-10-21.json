@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-10-21",
+  "record_id": "paxton-8f037f4d2888",
+  "old": {
+    "id": "paxton-8f037f4d2888",
+    "category": "access-control",
+    "brand": "Paxton",
+    "models": [
+      "Net2 Plus and Power supplies UL"
+    ],
+    "model_basis": "Manufacturer title or product association; check exact applicability in the document.",
+    "title": "ins-20603 – Net2 Plus and Power supplies UL",
+    "document_type": "reference",
+    "document_number": "ins-20603",
+    "revision_hint": null,
+    "revision_basis": null,
+    "language": "not-verified",
+    "region": "UL-marked / verify market",
+    "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/",
+    "document_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf",
+    "download_url": "https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf",
+    "availability": "retrieval-failed",
+    "page_count": null,
+    "source_checked": "2026-10-21",
+    "retrieval_note": "Latest complete-file retry failed: HTTP Error 403: Forbidden Prior evidence and source links retained.",
+    "manufacturer_section": "Net2",
+    "distribution": "source-link-only",
+    "local_pdf": null,
+    "folders": [
+      "03-access-control/paxton/net2-plus-and-power-supplies-ul"
+    ],
+    "source_kind": "manufacturer",
+    "retrieval_history": [
+      {
+        "checked_on": "2026-10-16",
+        "availability": "retrieval-failed",
+        "note": null
+      },
+      {
+        "checked_on": "2026-10-21",
+        "availability": "retrieval-failed",
+        "note": "Complete-file retry: HTTP Error 403: Forbidden"
+      }
+    ],
+    "last_retrieval_attempt": {
+      "checked_on": "2026-10-21",
+      "method": "retrieval-service open",
+      "result": "retrieval-service-size-limit",
+      "detail": "Failed to fetch https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf: (400) Content length is too large: 17999887"
+    }
+  },
+  "new_document_url": "https://www.alarmax.com/customer/docs/skudocs/ins-20603.pdf",
+  "new_source_kind": "distributor",
+  "page_count": 24,
+  "sha256": "038907bf815ab4ff19fb41119021b6b0b373a022f7a7101c876e080d7ca6e208",
+  "bytes": 4177488,
+  "printed_imprint": "1.0.3 — 01/29/2014",
+  "limits": "Public distributor copy is identified and intact; its bytes and edition are not assumed equivalent to the inaccessible manufacturer download."
+}

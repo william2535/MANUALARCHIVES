@@ -1,0 +1,1013 @@
+{
+  "checked_on": "2026-10-21",
+  "scope": "All 54 Kentec records without direct PDFs at commit 6bbcfc2. Historical editions resolved from actual PDF content, without assuming the newest edition.",
+  "baseline_commit": "6bbcfc2eca37de1cc81f18ab0eeb10102c7c0647",
+  "original_source_listings": 54,
+  "resolved_record_count": 50,
+  "distinct_resolved_pdf_urls": 49,
+  "complete_file_checks": 1,
+  "confirmed_duplicates": [
+    {
+      "id": "kentec-ec0d55303ccf",
+      "duplicate_of": "kentec-330d870ec4de",
+      "reason": "Both source listings identify Man-1099 and resolve to the same manufacturer PDF."
+    }
+  ],
+  "resolved": [
+    {
+      "id": "kentec-a33940f2af38",
+      "document_number": "Man-1027",
+      "title": "HydroSense E2000000 — Water detection panel operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1027.pdf",
+      "page_count": 12,
+      "verified_revision": "Issue 07",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1027 E2000000 Series",
+        "document_number": "Man-1027",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-b4141e7c5d17",
+      "document_number": "Man-1032",
+      "title": "ECU — Extinguishant control unit operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1032.pdf",
+      "page_count": 15,
+      "verified_revision": null,
+      "printed_issue_date": null,
+      "previous": {
+        "title": "Man-1032 ECU",
+        "document_number": "Man-1032",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-06af97e58210",
+      "document_number": "Man-1034",
+      "title": "Signifire — Multi-loop panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1034.pdf",
+      "page_count": 39,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "February 1999",
+      "previous": {
+        "title": "Man-1034 Signifire",
+        "document_number": "Man-1034",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-bb94887b4920",
+      "document_number": "Man-1037",
+      "title": "Signifire — Programmable I/O unit operating instructions",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1037.pdf",
+      "page_count": 5,
+      "verified_revision": "Issue 01",
+      "printed_issue_date": "January 1998",
+      "previous": {
+        "title": "Man-1037 Signifire",
+        "document_number": "Man-1037",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-9a459aa470eb",
+      "document_number": "Man-1039",
+      "title": "Power supplies and battery chargers — Installation and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1039.pdf",
+      "page_count": 4,
+      "verified_revision": "Issue 06",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1039 PSU",
+        "document_number": "Man-1039",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-99b846bf6d01",
+      "document_number": "Man-1041",
+      "title": "Microsense II — Operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1041.pdf",
+      "page_count": 7,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "March 2006",
+      "previous": {
+        "title": "Man-1041 Microsense II",
+        "document_number": "Man-1041",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-bd26ca74c109",
+      "document_number": "Man-1044",
+      "title": "Extinguishant status units — Connections",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1044.pdf",
+      "page_count": 4,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "April 2008",
+      "previous": {
+        "title": "Man-1044 Status Units",
+        "document_number": "Man-1044",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-451d1221e616",
+      "document_number": "Man-1045",
+      "title": "K4.01 / K4.01+ — Multi-area extinguishant panel operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1045.pdf",
+      "page_count": 20,
+      "verified_revision": "Issue 06",
+      "printed_issue_date": "January 2004",
+      "previous": {
+        "title": "Man-1045 K4.01/ K4.01+",
+        "document_number": "Man-1045",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-eac92e3a1396",
+      "document_number": "Man-1046",
+      "title": "K2.01 — Extinguishant panel operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1046.pdf",
+      "page_count": 19,
+      "verified_revision": "Issue 05",
+      "printed_issue_date": "March 2001",
+      "previous": {
+        "title": "Man-1046 K2.01",
+        "document_number": "Man-1046",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-dc72e2b70ccf",
+      "document_number": "Man-1049",
+      "title": "K3200 — Repeater operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1049.pdf",
+      "page_count": 4,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1049 K3200",
+        "document_number": "Man-1049",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-bbef8c448c29",
+      "document_number": "Man-1050",
+      "title": "K3000S — Fire panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1050.pdf",
+      "page_count": 14,
+      "verified_revision": "Issue 10",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1050 K3000",
+        "document_number": "Man-1050",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-579029878abe",
+      "document_number": "Man-1052",
+      "title": "Solo Response — Repeater installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1052.pdf",
+      "page_count": 7,
+      "verified_revision": "Issue 02",
+      "printed_issue_date": "November 1998",
+      "previous": {
+        "title": "Man-1052 Solo Response",
+        "document_number": "Man-1052",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-c1bfc1bb8813",
+      "document_number": "Man-1053",
+      "title": "Solo Apollo — Panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1053.pdf",
+      "page_count": 33,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "June 1999",
+      "previous": {
+        "title": "Man-1053 Solo (Apollo)",
+        "document_number": "Man-1053",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-be1af1c20d35",
+      "document_number": "Man-1054",
+      "title": "Solo Hochiki ESP — Panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1054.pdf",
+      "page_count": 35,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "June 1999",
+      "previous": {
+        "title": "Man-1054 Solo (Hochiki)",
+        "document_number": "Man-1054",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-3093ce5a5998",
+      "document_number": "Man-1060",
+      "title": "MIOU — Multi input/output unit user manual",
+      "document_url": "https://fire.sectron.com/manuals/en/Kentec/adressable/MIOU.pdf",
+      "page_count": 8,
+      "verified_revision": "Issue 06",
+      "printed_issue_date": "October 2009",
+      "previous": {
+        "title": "Man-1060 MIOU",
+        "document_number": "Man-1060",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "complete-file"
+    },
+    {
+      "id": "kentec-79b9e32dfc2b",
+      "document_number": "Man-1061",
+      "title": "Solo 2 — Panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1061.pdf",
+      "page_count": 32,
+      "verified_revision": "Issue 01",
+      "printed_issue_date": "March 2001",
+      "previous": {
+        "title": "Man-1061 Solo II",
+        "document_number": "Man-1061",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-af961766045a",
+      "document_number": "Man-1062",
+      "title": "Syncro Lite — Two-loop panel operating manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1062.pdf",
+      "page_count": 28,
+      "verified_revision": "Issue 02",
+      "printed_issue_date": "May 2004",
+      "previous": {
+        "title": "Man-1062 Syncro Lite",
+        "document_number": "Man-1062",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-8e41813f41a4",
+      "document_number": "Man-1063",
+      "title": "S405 — 2.5A power supply user manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1063.pdf",
+      "page_count": 7,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1063 S405 PSU",
+        "document_number": "Man-1063",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-e2d68c942c86",
+      "document_number": "Man-1064",
+      "title": "Solo 2 Response — Repeater installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1064.pdf",
+      "page_count": 7,
+      "verified_revision": "Issue 01",
+      "printed_issue_date": "July 2002",
+      "previous": {
+        "title": "Man-1064 Solo Response",
+        "document_number": "Man-1064",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-3d9bf7fca5e6",
+      "document_number": "Man-1065",
+      "title": "Solo 2 Lite — Panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1065.pdf",
+      "page_count": 26,
+      "verified_revision": "Issue 02",
+      "printed_issue_date": "May 2006",
+      "previous": {
+        "title": "Man-1065 Solo II Lite",
+        "document_number": "Man-1065",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-4e580068ce6c",
+      "document_number": "Man-1067",
+      "title": "Signifire II — Multi-loop panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1067.pdf",
+      "page_count": 44,
+      "verified_revision": null,
+      "printed_issue_date": null,
+      "previous": {
+        "title": "Man-1067 Signifire II",
+        "document_number": "Man-1067",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-dc4533578423",
+      "document_number": "Man-1068",
+      "title": "Syncro — Modem module installation and commissioning",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1068.pdf",
+      "page_count": 8,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1068 Syncro Comms",
+        "document_number": "Man-1068",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-4f1709f3eabf",
+      "document_number": "Man-1071",
+      "title": "Solex 2 — Panel installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1071.pdf",
+      "page_count": 43,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "February 2009",
+      "previous": {
+        "title": "Man-1071 Solex 2",
+        "document_number": "Man-1071",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-d7cedc193659",
+      "document_number": "Man-1072",
+      "title": "SB.02 — Bell/sounder booster internal wiring",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1072.pdf",
+      "page_count": 1,
+      "verified_revision": "Drawing revision 03",
+      "printed_issue_date": "3 January 2012",
+      "previous": {
+        "title": "Man-1072 SB.02",
+        "document_number": "Man-1072",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-bd8936356752",
+      "document_number": "Man-1081",
+      "title": "Syncro Focus / Focus+ — Network repeater operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1081.pdf",
+      "page_count": 13,
+      "verified_revision": "Issue 05",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1081 Syncro Focus & Syncro Focus+",
+        "document_number": "Man-1081",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-5959b1d15956",
+      "document_number": "Man-1083",
+      "title": "Sigma XT — Extinguishant hold-off unit connections",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1083-1.pdf",
+      "page_count": 1,
+      "verified_revision": "Issue 05",
+      "printed_issue_date": "2016",
+      "previous": {
+        "title": "Man-1083 Hold Off",
+        "document_number": "Man-1083",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-dfbfae1ecb9b",
+      "document_number": "Man-1084",
+      "title": "SB.04 — Four-way sounder card instructions",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1084.pdf",
+      "page_count": 3,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1084 SB.04",
+        "document_number": "Man-1084",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-a25790bc2332",
+      "document_number": "Man-1089",
+      "title": "Sigma Si — Extinguishant status unit operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2024/02/Man-1089-SigmaSi-Status-Unit_09.pdf",
+      "page_count": 13,
+      "verified_revision": "Issue 09",
+      "printed_issue_date": "October 2018",
+      "previous": {
+        "title": "Man-1089 Sigma Si",
+        "document_number": "Man-1089",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-5fa7053b016d",
+      "document_number": "Man-1090",
+      "title": "Syncro XT — Two-loop extinguishant panel operating manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1090.pdf",
+      "page_count": 31,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1090 Syncro XT (Main)",
+        "document_number": "Man-1090",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-f3ebcdaf7f43",
+      "document_number": "Man-1092M",
+      "title": "Syncro View Marine — Local LCD repeater manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1092m.pdf",
+      "page_count": 13,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "May 2016",
+      "previous": {
+        "title": "Man-1092M Syncro View Marine",
+        "document_number": "Man-1092M",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-92d6f0a5ae19",
+      "document_number": "Man-1095",
+      "title": "Sigma XT — K588 ancillary PCB operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1095.pdf",
+      "page_count": 10,
+      "verified_revision": "Issue 06",
+      "printed_issue_date": "November 2016",
+      "previous": {
+        "title": "Man-1095 Sigma XT",
+        "document_number": "Man-1095",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-330d870ec4de",
+      "document_number": "Man-1099",
+      "title": "Syncro Si — Status and hold-off unit product manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1099.pdf",
+      "page_count": 6,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1099 Syncro Si",
+        "document_number": "Man-1099",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-ec0d55303ccf",
+      "document_number": "Man-1099",
+      "title": "Syncro Si — Status and hold-off unit product manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1099.pdf",
+      "page_count": 6,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1099 Syncro Si and hold off manual",
+        "document_number": "Man-1099",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-6655748b3b7e",
+      "document_number": "Man-1125",
+      "title": "Syncro ASM — S737 voyage data recorder interface instructions",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1125.pdf",
+      "page_count": 3,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1125 VDR Interface",
+        "document_number": "Man-1125",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-4a68f079c0fb",
+      "document_number": "Man-1127",
+      "title": "Sigma Matrix — Mimic system operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1127.pdf",
+      "page_count": 12,
+      "verified_revision": "Issue 04",
+      "printed_issue_date": "May 2016",
+      "previous": {
+        "title": "Man-1127 Sigma Matrix",
+        "document_number": "Man-1127",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-fcd372bbfc52",
+      "document_number": "Man-1128",
+      "title": "K25000 / KD25000 — Power supply installation, commissioning and operation",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1128.pdf",
+      "page_count": 20,
+      "verified_revision": "Issue 14",
+      "printed_issue_date": "January 2016",
+      "previous": {
+        "title": "Man-1128 PSU",
+        "document_number": "Man-1128",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-8d0050f536ab",
+      "document_number": "Man-1113",
+      "title": "LIOU — Four-way input/output unit user manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1113.pdf",
+      "page_count": 11,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-113 LIOU",
+        "document_number": "Man-113",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-07eb8f5458c5",
+      "document_number": "Man-1132",
+      "title": "HydroSense CP-R — B3420 repeater operation and maintenance",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1132.pdf",
+      "page_count": 13,
+      "verified_revision": "Issue 03",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1132 HydroSense CP-R",
+        "document_number": "Man-1132",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-315ab95f24b7",
+      "document_number": "Man-1133",
+      "title": "Syncro XT — Two-loop extinguishant panel user manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1133.pdf",
+      "page_count": 9,
+      "verified_revision": "Issue 02",
+      "printed_issue_date": "June 2013",
+      "previous": {
+        "title": "Man-1133 Syncro XT (User)",
+        "document_number": "Man-1133",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-79661f04df20",
+      "document_number": "Man-1148",
+      "title": "Elite XT — VF1832 disablement switch wiring",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1148.pdf",
+      "page_count": 1,
+      "verified_revision": "E01.02",
+      "printed_issue_date": "20 June 2013",
+      "previous": {
+        "title": "Man-1148 Sigma A-Si",
+        "document_number": "Man-1148",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-ec414e8db85e",
+      "document_number": "Man-1149",
+      "title": "Sigma A-XT — K1821 status unit wiring",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1149.pdf",
+      "page_count": 1,
+      "verified_revision": "E01.01",
+      "printed_issue_date": "18 July 2011",
+      "previous": {
+        "title": "Man-1149 Sigma A-Si",
+        "document_number": "Man-1149",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-891c27010ff9",
+      "document_number": "Man-1150",
+      "title": "Sigma A-XT — K1822 ancillary PCB wiring",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1150.pdf",
+      "page_count": 1,
+      "verified_revision": "E01.02",
+      "printed_issue_date": "August 2014",
+      "previous": {
+        "title": "Man-1150 Sigma A-Si",
+        "document_number": "Man-1150",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-c5d528024dee",
+      "document_number": "Man-1199",
+      "title": "Elite-A — Installation and operation manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2020/03/man-1199.pdf",
+      "page_count": 129,
+      "verified_revision": "Issue E03.07",
+      "printed_issue_date": "January 2018",
+      "previous": {
+        "title": "Man-1199 Elite-A",
+        "document_number": "Man-1199",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-10d7f8b6bfb8",
+      "document_number": "Man-1200",
+      "title": "Elite RS-A — Installation and operation manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1200.pdf",
+      "page_count": 157,
+      "verified_revision": "Issue 01.06 / E01.06",
+      "printed_issue_date": "August 2013",
+      "previous": {
+        "title": "Man-1200 Elite RS-A",
+        "document_number": "Man-1200",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-21",
+        "retrieval_note": "Product-page link checked on 2026-10-21 and returned a cover image. The PDF download remains unresolved; no URL guessed."
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-07e5b1afdff7",
+      "document_number": "Man-1205",
+      "title": "Elite — Operating instructions",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1205.pdf",
+      "page_count": 16,
+      "verified_revision": "Revision E06.00",
+      "printed_issue_date": "April 2014",
+      "previous": {
+        "title": "Man-1205 Elite",
+        "document_number": "Man-1205",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-60e4e2070323",
+      "document_number": "Man-1206",
+      "title": "Elite — Wiring instructions",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1206.pdf",
+      "page_count": 9,
+      "verified_revision": "Issue 01.03 / E01.03",
+      "printed_issue_date": "April 2014",
+      "previous": {
+        "title": "Man-1206 Elite",
+        "document_number": "Man-1206",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-24a1ad2740fe",
+      "document_number": "Man-1216",
+      "title": "Elite-H — Installation and operation manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2018/08/man-1216.pdf",
+      "page_count": 128,
+      "verified_revision": "Issue E02.13",
+      "printed_issue_date": "January 2015",
+      "previous": {
+        "title": "Man-1216 Elite-H",
+        "document_number": "Man-1216",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-a19446f80d83",
+      "document_number": "Man-1452HU",
+      "title": "Sigma ZXT — Operating manual (Hungarian)",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2024/09/Man-1452HU-Sigma-ZXT-Operation-Manual-HUNGARIAN-Rev.01.pdf",
+      "page_count": 21,
+      "verified_revision": "Rev.01",
+      "printed_issue_date": null,
+      "previous": {
+        "title": "Man-1452HU Sigma ZXT (Operation Manual HUNGARIAN)",
+        "document_number": "Man-1452HU",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-5e0f7dfc0f55",
+      "document_number": "Man-1492",
+      "title": "iNS DNX-R-2F/FC-K — Network analyser user manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2020/08/Man-1492-INS-DNX-R-2F-FC-K-Hybrid-RS485-and-Fibre-Network-Analyser-User-Manual-Rev.02.pdf",
+      "page_count": 42,
+      "verified_revision": "Rev.02",
+      "printed_issue_date": null,
+      "previous": {
+        "title": "Man-1492 iNS DNX-R-2F/FC-K",
+        "document_number": "Man-1492",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    },
+    {
+      "id": "kentec-d06859911ab7",
+      "document_number": "Man-1572",
+      "title": "iNS DNP-R-2F/FC-K — Fibre/RS485 converter user manual",
+      "document_url": "https://kentec.co.uk/wp-content/uploads/2022/08/Man-1572-iNS-DNP-R-2F-FC-K-Passive-Dual-Port-Optic-Fibre-RS485-Medium-Converter-Manual-Rev.01.pdf",
+      "page_count": 24,
+      "verified_revision": "Rev.01",
+      "printed_issue_date": null,
+      "previous": {
+        "title": "Man-1572 iNS DNP-R-2F/FC-K",
+        "document_number": "Man-1572",
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "source_url": "https://kentec.co.uk/resources/product-resources/",
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      },
+      "evidence": "pdf-indexed"
+    }
+  ],
+  "remaining": [
+    {
+      "id": "kentec-c459d2b51602",
+      "document_number": "Man-1252",
+      "title": "Man-1252 XT+ Releasing Unit Installation Manual",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "note": "The current product-page link supplies already indexed Man-1252KE Version 1.00. An unqualified historical Man-1252 edition is not independently established; preserve the possible-duplicate flag and source listing."
+    },
+    {
+      "id": "kentec-5461f6476a76",
+      "document_number": "Man-1453",
+      "title": "Man-1453 Sigma ZXT Si (Product)",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "note": "The product link previously supplied DS145, a separate datasheet. A distributor directory lists Man-1453-Sigma-ZXT-SI-Product-Manual-Rev.01.pdf, but retrieval timed out/returned HTTP 503; no usable primary PDF verified."
+    },
+    {
+      "id": "kentec-e007ce3a1e65",
+      "document_number": "Man-1527",
+      "title": "Man-1527 iNS TSM100-K QSG",
+      "source_url": "https://kentec.co.uk/resources/product-resources/",
+      "note": "Manufacturer resources list Man-1527. Search finds a third-party rendered 8-page Rev.01 guide, but no manufacturer/distributor PDF successfully retrieved; not substituted with the different Man-1493 user manual."
+    }
+  ],
+  "limits": [
+    "Only Man-1060 has a new complete-file checksum; other successes have retrieval-service PDF/page-count evidence.",
+    "Kentec native requests in this environment returned HTTP 503, so a successful retrieval-service parse is not proof that a particular phone can fetch the file.",
+    "ECU Man-1032 and Signifire II Man-1067 have encoded cover text; exact revisions remain unverified.",
+    "Legacy archive copies are not presented as current technical instructions or the latest manufacturer editions."
+  ],
+  "identified_but_failed": [
+    {
+      "id": "kentec-4d0c115c1f49",
+      "document_number": "Man-1494",
+      "document_url": "https://www.kentec.co.uk/manuals/man-1494.pdf",
+      "source_url": "https://kentec.co.uk/wp-content/uploads/2020/07/Man-1528-iNS-RIM-Interface-Modules-008009-Quick-Start-Guide-Rev.01.pdf",
+      "note": "Publisher quick start guide Man-1528 page 3 explicitly links to http://www.kentec.co.uk/manuals/man-1494.pdf. The secure URL returns a retrieval-service size-limit response (30,168,090 bytes reported); native retrieval returned HTTP 503. Link identified, but PDF identity, page count, complete bytes and revision remain unverified.",
+      "previous": {
+        "document_url": "https://kentec.co.uk/resources/product-resources/",
+        "download_url": null,
+        "availability": "source-listing",
+        "source_checked": "2026-10-16",
+        "retrieval_note": null
+      }
+    }
+  ]
+}

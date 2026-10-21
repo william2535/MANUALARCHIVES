@@ -6,7 +6,19 @@ Repository: https://github.com/william2535/MANUALARCHIVES
 
 Build a comprehensive manual archive for a professional offline onsite guide, ordered by fire / security / access control / CCTV, then brand, model/family and document type. Keep continuing useful collection work without repeatedly asking for confirmation.
 
-## Latest completed archive update — 21 October 2026
+## Latest completed continuation — 21 October 2026
+
+The archive has **3,431 manual/reference records across 87 brands and 3,189 direct PDF references**. This continuation resolves **50 previously source-only Kentec listings to 49 distinct PDF URLs**, corrects document titles/numbers and records readable printed issues. The Man-1099 duplicate keeps both stable IDs; an explicit `duplicate_of` reference makes the downloader save one copy, including when selected through the older ID. Counts are catalogue references, not a guarantee of unique file contents.
+
+The MIOU manual and a recovered **24-page Paxton ins-20603 distributor copy** have complete-file hashes, sizes, header/EOF and PDF-parser evidence. Other recovered Kentec files retain retrieval-service evidence without claiming complete local-file checks. Man-1494 now has its publisher-published download URL, but retrieval remains unsuccessful. All 3,431 prior IDs and model associations are preserved.
+
+The requested British Standards section remains published with **146 checked references**, 28 amended designations, 25 public revision summaries, 24 earlier publisher records and four separate consultation drafts. It is a dated, source-linked register; complete BS histories and licensed full texts are not claimed.
+
+The remaining link barriers are individually recorded: **three Kentec source-only listings**, **four CDVI public viewers reporting download disabled**, and **ten failed PDF retrievals** (nine earlier failures plus newly identified Man-1494). Another 235 entries are valid online manuals. The eight unresolved supplier candidates retain their identity/file-quality explanations. See `data/source-audits/kentec-legacy-2026-10-21.json`, `data/source-audits/paxton-20603-recovery-2026-10-21.json`, `data/source-audits/cdvi-viewers-2026-10-21.json` and the refreshed research backlog.
+
+Validation: **33 Python tests**, catalogue/generated-data consistency, offline JavaScript logic, preservation of previous IDs/models/source links and Git whitespace checks passed. The browser checks include duplicate labels and printed-issue display. No real-browser/mobile visual or persistent-phone-storage test is claimed; the native application remains separate from this archive and app feed.
+
+## Previous completed archive update — 21 October 2026
 
 The archive now contains **3,431 manual/reference records across 87 brands, with 3,138 direct PDF links**. This continuation adds **69 records** (39 reviewed supplier documents and 30 distinct manufacturer-hosted FFE guides), enriches existing records, recovers **28 of the 38 failed PDF retrievals**, and restores the manufacturer PDF for the existing Apollo XPander commissioning guide. All 3,362 earlier record IDs are preserved.
 

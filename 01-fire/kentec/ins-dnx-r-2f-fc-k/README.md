@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1492 iNS DNX-R-2F/FC-K](https://kentec.co.uk/resources/product-resources/) | reference | Man-1492 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [iNS DNX-R-2F/FC-K — Network analyser user manual](https://kentec.co.uk/wp-content/uploads/2020/08/Man-1492-INS-DNX-R-2F-FC-K-Hybrid-RS485-and-Fibre-Network-Analyser-User-Manual-Rev.02.pdf) | user-guide | Man-1492 | Rev.02 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

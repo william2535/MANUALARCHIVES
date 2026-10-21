@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1050 K3000](https://kentec.co.uk/resources/product-resources/) | reference | Man-1050 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [K3000S — Fire panel installation, commissioning and operation](https://kentec.co.uk/wp-content/uploads/2018/08/man-1050.pdf) | installation | Man-1050 | Issue 10 (June 2013) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

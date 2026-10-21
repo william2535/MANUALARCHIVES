@@ -2,7 +2,7 @@
 
 Fire, security, access control and CCTV manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**3,431 document records · 87 brands · 3,138 direct PDF links · 0 PDF files mirrored**
+**3,431 document records · 87 brands · 3,189 direct PDF links · 0 PDF files mirrored**
 
 Catalogue build date: 2026-10-21. A check date does not mean a document is the latest revision.
 
@@ -35,7 +35,7 @@ The register identifies gaps explicitly; it is not a complete history of every B
 
 [`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
 
-Current evidence: **241 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+Current evidence: **243 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
 
 See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
 

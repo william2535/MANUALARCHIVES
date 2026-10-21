@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1060 MIOU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1060 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [MIOU — Multi input/output unit user manual](https://fire.sectron.com/manuals/en/Kentec/adressable/MIOU.pdf) | user-guide | Man-1060 | Issue 06 (October 2009) | pdf-indexed | [Distributor](https://fire.sectron.com/manuals/en/Kentec/adressable/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

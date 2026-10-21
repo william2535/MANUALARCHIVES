@@ -81,6 +81,15 @@ class AppDataTests(unittest.TestCase):
         self.assertEqual(item['metadata_conflicts'],[conflict])
         self.assertEqual(item['possible_duplicate_of'],'other-123')
 
+    def test_feed_preserves_duplicate_bookmark_and_canonical_download_reference(self):
+        canonical=record()
+        alias=dict(canonical,id='older-listing',duplicate_of=canonical['id'])
+        manifest=build_manifest({'generated_on':'2026-10-21','records':[canonical,alias]})
+        rows={r['id']:r for r in manifest['records']}
+        self.assertEqual(set(rows),{canonical['id'],alias['id']})
+        self.assertEqual(rows[alias['id']]['duplicate_of'],canonical['id'])
+        self.assertNotIn('duplicate_of',rows[canonical['id']])
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -6,6 +6,7 @@ from pathlib import Path,PurePosixPath
 from urllib.parse import urlparse
 from app_data import build_manifest, build_gap_audit
 from standards_data import standards_errors, render_standards_markdown
+from record_references import document_identity_errors
 ROOT=Path(__file__).resolve().parents[1]
 def date_errors(data):
     errors=[]
@@ -25,7 +26,7 @@ def date_errors(data):
             if generated and checked and checked>generated:errors.append(f'{row["id"]}: {label} is later than catalogue build')
     return errors
 def validate(root=ROOT):
-    data=json.loads((root/'data/catalogue.json').read_text());rows=data['records'];errors=[];ids=set();identities=set()
+    data=json.loads((root/'data/catalogue.json').read_text());rows=data['records'];errors=[];ids=set()
     if data.get('schema_version')!=1:errors.append('Unexpected schema version')
     for row in rows:
         rid=row.get('id','')
@@ -43,15 +44,12 @@ def validate(root=ROOT):
             if not url and field=='download_url':continue
             p=urlparse(url or '')
             if p.scheme not in ['https','http']or not p.hostname or p.username or p.password:errors.append(f'{rid}: invalid {field}')
-        identity=row['brand']+'|'+(row.get('download_url')or row['document_url'])
-        if row['document_url']!=row['source_url']or row.get('download_url'):
-            if identity in identities:errors.append(f'{rid}: repeated document URL')
-            identities.add(identity)
         for folder in row.get('folders',[]):
             parts=PurePosixPath(folder).parts
             if len(parts)!=3 or '..'in parts or PurePosixPath(folder).is_absolute():errors.append(f'{rid}: unsafe folder')
             elif not(root/folder/'README.md').is_file():errors.append(f'{rid}: missing model folder {folder}')
         if not row.get('folders'):errors.append(f'{rid}: missing folder navigation')
+    errors.extend(document_identity_errors(rows))
     for path in json.loads((root/'data/generated-files.json').read_text()):
         if not(root/path).is_file():errors.append(f'Missing generated file {path}')
     page=(root/'index.html').read_text();match=re.search(r'<script id="catalogue" type="application/json">(.*?)</script>',page,re.S)

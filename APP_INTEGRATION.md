@@ -50,6 +50,8 @@ Use `id` as the durable bookmark and download key. Keep every `models` associati
 
 Unknown byte counts and hashes are `null`, not zero. A PDF's `page_count` is not proof that a phone has downloaded it. Source URLs can change, redirect, expire or return a challenge page. `verified_revision` is an issue actually read in a document where explicitly recorded. `revision_hint` and `revision_basis` retain the original research detail; do not label hints or unknown editions “latest”.
 
+An optional `duplicate_of` preserves an earlier record ID when two listings are confirmed to link to the same PDF. Keep both IDs usable for bookmarks, but resolve the reference before queuing or storing a download. Store one file under the canonical ID; the command-line downloader also does this, including when selecting an older ID. References are one hop only and must match the canonical record's brand, category and direct PDF URL. Missing targets, chains, cycles and conflicting known file hashes are rejected by validation. Counts remain catalogue records, so duplicate listings are not additional unique PDFs. `possible_duplicate_of` in the source catalogue is an unresolved review flag and must never be used for automatic deduplication.
+
 ## Save and open offline
 
 1. Let the user select documents or a model pack. Show known byte totals separately from files of unknown size. Provide progress, cancellation and a storage limit.

@@ -31,7 +31,7 @@
 | [Net2 Desktop Reader USB](net2-desktop-reader-usb/README.md) | 2 |
 | [Net2 Desktop Reader USB UL](net2-desktop-reader-usb-ul/README.md) | 1 |
 | [Net2 I/O](net2-i-o/README.md) | 1 |
-| [Net2 Plus](net2-plus/README.md) | 1 |
+| [Net2 Plus](net2-plus/README.md) | 2 |
 | [Net2 Plus and Power supplies UL](net2-plus-and-power-supplies-ul/README.md) | 1 |
 | [Net2 Plus in US Metal Enclosure Power supplies UL](net2-plus-in-us-metal-enclosure-power-supplies-ul/README.md) | 1 |
 | [Net2 USB/RS485 converter](net2-usb-rs485-converter/README.md) | 1 |

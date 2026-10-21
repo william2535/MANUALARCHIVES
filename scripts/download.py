@@ -9,13 +9,19 @@ from datetime import datetime,timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin,urlparse
+from record_references import canonical_record
 
 ROOT=Path(__file__).resolve().parents[1]
 MAX_BYTES=100*1024*1024
 def slug(value):return re.sub(r'[^a-z0-9]+','-',value.lower()).strip('-')[:100]or 'unspecified'
 def read_catalogue(path=ROOT/'data/catalogue.json'):return json.loads(Path(path).read_text())['records']
 def matching(records,category=None,brand=None,model=None,record_id=None):
-    return [r for r in records if (not category or r['category']==category)and(not brand or slug(r['brand'])==slug(brand))and(not model or model.casefold()in ' '.join(r['models']).casefold())and(not record_id or r['id']==record_id)]
+    records=list(records);by_id={r['id']:r for r in records};selected=[];seen=set()
+    for row in records:
+        if (category and row['category']!=category)or(brand and slug(row['brand'])!=slug(brand))or(model and model.casefold()not in ' '.join(row['models']).casefold())or(record_id and row['id']!=record_id):continue
+        canonical=canonical_record(row,by_id)
+        if canonical['id']not in seen:selected.append(canonical);seen.add(canonical['id'])
+    return selected
 def http_url(url):
     p=urlparse(url)
     if p.scheme not in ('http','https')or not p.hostname or p.username or p.password:raise ValueError('Expected a public HTTP(S) manufacturer URL')

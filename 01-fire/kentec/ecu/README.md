@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1032 ECU](https://kentec.co.uk/resources/product-resources/) | reference | Man-1032 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [ECU — Extinguishant control unit operation and maintenance](https://kentec.co.uk/wp-content/uploads/2018/08/man-1032.pdf) | user-guide | Man-1032 | Not recorded | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

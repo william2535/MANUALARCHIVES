@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1052 Solo Response](https://kentec.co.uk/resources/product-resources/) | reference | Man-1052 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1064 Solo Response](https://kentec.co.uk/resources/product-resources/) | reference | Man-1064 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Solo 2 Response — Repeater installation, commissioning and operation](https://kentec.co.uk/wp-content/uploads/2018/08/man-1064.pdf) | installation | Man-1064 | Issue 01 (July 2002) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Solo Response — Repeater installation, commissioning and operation](https://kentec.co.uk/wp-content/uploads/2018/08/man-1052.pdf) | installation | Man-1052 | Issue 02 (November 1998) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

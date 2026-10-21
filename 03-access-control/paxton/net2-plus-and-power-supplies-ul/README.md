@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [ins-20603 – Net2 Plus and Power supplies UL](https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf) | reference | ins-20603 | Not recorded | retrieval-failed | [Manufacturer](https://www.paxton-access.com/install-paxton/resources/instructions/) |
+| [Net2 Plus and power supplies — Installation instructions (ins-20603)](https://www.alarmax.com/customer/docs/skudocs/ins-20603.pdf) | installation | ins-20603 | Closing imprint 1.0.3 — 29 January 2014 | pdf-indexed | [Distributor](https://www.alarmax.com/customer/docs/skudocs/ins-20603.pdf) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

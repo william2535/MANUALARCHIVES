@@ -252,6 +252,11 @@
                 }
               }
             }
+          },
+          "duplicate_of": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "Optional stable ID of the canonical record for this same PDF. One hop only; download and store once by canonical ID."
           }
         }
       }

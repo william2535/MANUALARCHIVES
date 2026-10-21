@@ -51,7 +51,8 @@ def build_manifest(catalogue):
             'document_number', 'revision_hint', 'revision_basis', 'verified_revision',
             'language', 'region', 'source_kind', 'source_url', 'source_checked',
             'model_basis', 'retrieval_note']
-    records = [{**{k: row.get(k) for k in keys}, 'download': download_info(row)}
+    records = [{**{k: row.get(k) for k in keys}, 'download': download_info(row),
+                **({'duplicate_of': row['duplicate_of']} if 'duplicate_of' in row else {})}
                for row in sorted(catalogue['records'], key=lambda row: row['id'])]
     states = collections.Counter(r['download']['status'] for r in records)
     return {
@@ -101,7 +102,7 @@ def build_gap_audit(catalogue):
         gaps = record_gaps(row)
         if gaps:
             flagged.append({'id': row['id'], 'brand': row['brand'], 'category': row['category'], 'gaps': gaps,
-                            **{k: row[k] for k in ['metadata_conflicts', 'possible_duplicate_of'] if row.get(k)}})
+                            **{k: row[k] for k in ['metadata_conflicts', 'possible_duplicate_of', 'duplicate_of'] if row.get(k)}})
         brand = brands.setdefault(row['brand'], {'records': 0, 'categories': set(),
                                                'document_types': collections.Counter(),
                                                'download_status': collections.Counter(),

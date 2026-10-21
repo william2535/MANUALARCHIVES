@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1205 Elite](https://kentec.co.uk/resources/product-resources/) | reference | Man-1205 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1206 Elite](https://kentec.co.uk/resources/product-resources/) | reference | Man-1206 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Elite — Operating instructions](https://kentec.co.uk/wp-content/uploads/2018/08/man-1205.pdf) | user-guide | Man-1205 | Revision E06.00 (April 2014) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Elite — Wiring instructions](https://kentec.co.uk/wp-content/uploads/2018/08/man-1206.pdf) | diagram | Man-1206 | Issue 01.03 / E01.03 (April 2014) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

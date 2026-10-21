@@ -6,10 +6,10 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1148 Sigma A-Si](https://kentec.co.uk/resources/product-resources/) | reference | Man-1148 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1149 Sigma A-Si](https://kentec.co.uk/resources/product-resources/) | reference | Man-1149 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1150 Sigma A-Si](https://kentec.co.uk/resources/product-resources/) | reference | Man-1150 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Elite XT — VF1832 disablement switch wiring](https://kentec.co.uk/wp-content/uploads/2018/08/man-1148.pdf) | diagram | Man-1148 | E01.02 (20 June 2013) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Sigma A-XT K1823 abort switch — Wiring diagram](https://kentec.co.uk/wp-content/uploads/2018/08/man-1151.pdf) | diagram | Man-1151 | E01.02 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma A-XT — K1821 status unit wiring](https://kentec.co.uk/wp-content/uploads/2018/08/man-1149.pdf) | diagram | Man-1149 | E01.01 (18 July 2011) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma A-XT — K1822 ancillary PCB wiring](https://kentec.co.uk/wp-content/uploads/2018/08/man-1150.pdf) | diagram | Man-1150 | E01.02 (August 2014) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

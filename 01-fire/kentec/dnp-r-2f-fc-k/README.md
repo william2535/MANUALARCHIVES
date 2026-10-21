@@ -6,10 +6,11 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
+| [iNS DNP-R-2F/FC-K — Fibre/RS485 converter user manual](https://kentec.co.uk/wp-content/uploads/2022/08/Man-1572-iNS-DNP-R-2F-FC-K-Passive-Dual-Port-Optic-Fibre-RS485-Medium-Converter-Manual-Rev.01.pdf) | user-guide | Man-1572 | Rev.01 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [iNS DNX-A-2R-K / DNP-R-2F/FC-K — Quick start guide](https://kentec.co.uk/wp-content/uploads/2022/08/Man-1529-iNS-DNX-Network-Analyser-Quick-Start-Guide-Rev.02.pdf) | quick-start | Man-1529 | Rev.02 | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `kentec-d69068711932`
+Record IDs: `kentec-d69068711932`, `kentec-d06859911ab7`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

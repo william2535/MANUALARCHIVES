@@ -6,9 +6,9 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1090 Syncro XT (Main)](https://kentec.co.uk/resources/product-resources/) | reference | Man-1090 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
-| [Man-1133 Syncro XT (User)](https://kentec.co.uk/resources/product-resources/) | user-guide | Man-1133 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 | [Man-1197 Syncro XT+ (Main)](https://kentec.co.uk/wp-content/uploads/2020/12/Man-1197-Syncro-XT-manual_04.pdf) | reference | Man-1197 | Not recorded | pdf-link-listed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro XT — Two-loop extinguishant panel operating manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1090.pdf) | user-guide | Man-1090 | Issue 04 (June 2013) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Syncro XT — Two-loop extinguishant panel user manual](https://kentec.co.uk/wp-content/uploads/2018/08/man-1133.pdf) | user-guide | Man-1133 | Issue 02 (June 2013) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

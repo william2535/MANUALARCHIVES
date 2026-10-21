@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1127 Sigma Matrix](https://kentec.co.uk/resources/product-resources/) | reference | Man-1127 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Sigma Matrix — Mimic system operation and maintenance](https://kentec.co.uk/wp-content/uploads/2018/08/man-1127.pdf) | user-guide | Man-1127 | Issue 04 (May 2016) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

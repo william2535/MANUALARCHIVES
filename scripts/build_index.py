@@ -31,7 +31,8 @@ def main():
         first=items[0];model=next(m for m,f in zip(first['models'],first['folders'])if f==folder)
         lines=[f'# {md(first["brand"])} — {md(model)}','', '[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)','', 'Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.','', '| Document | Type | Number | Revision hint | Availability | Source |','|---|---|---|---|---|---|']
         for r in sorted(items,key=lambda x:(x['title'],x['id'])):
-            url=r.get('download_url')or r['document_url'];lines.append(f'| [{md(r["title"])}]({url}) | {r["document_type"]} | {md(r["document_number"])} | {md(r["revision_hint"])} | {r["availability"]} | [{md(r.get("source_kind", "manufacturer").title())}]({r["source_url"]}) |')
+            title=r['title']+(' (duplicate listing)'if r.get('duplicate_of')else'')
+            url=r.get('download_url')or r['document_url'];lines.append(f'| [{md(title)}]({url}) | {r["document_type"]} | {md(r["document_number"])} | {md(r["revision_hint"])} | {r["availability"]} | [{md(r.get("source_kind", "manufacturer").title())}]({r["source_url"]}) |')
         lines+=['','Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.','', 'Record IDs: '+', '.join('`'+r['id']+'`'for r in items), '', 'PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).']
         write(folder+'/README.md','\n'.join(lines))
     for category,(directory,label)in CATEGORIES.items():
@@ -79,7 +80,9 @@ def main():
     write('COVERAGE.md','\n'.join(coverage))
     # Embed only catalogue metadata; the browser does not fetch any third-party content until clicked.
     browser_records=[{k:r[k]for k in ['id','category','brand','models','title','document_type','document_number','revision_hint','availability','source_url','document_url','download_url','folders','source_kind','model_basis']}for r in records]
-    for browser_row,row in zip(browser_records,records):browser_row['download']=download_info(row)
+    for browser_row,row in zip(browser_records,records):
+        browser_row['download']=download_info(row)
+        if row.get('duplicate_of'):browser_row['duplicate_of']=row['duplicate_of']
     template=(ROOT/'scripts/index-template.html').read_text()
     template=template.replace('__STANDARDS_DATA__',json.dumps(standards,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__STANDARDS_SCRIPT__',(ROOT/'scripts/standards-browser.js').read_text())
     write('index.html',template.replace('__CATALOGUE_DATA__',json.dumps(browser_records,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__COUNT__',f'{len(records):,}').replace('__DATE__',catalogue['generated_on']))

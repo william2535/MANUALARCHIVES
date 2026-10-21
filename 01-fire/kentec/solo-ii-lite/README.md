@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Man-1065 Solo II Lite](https://kentec.co.uk/resources/product-resources/) | reference | Man-1065 | Not recorded | source-listing | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
+| [Solo 2 Lite — Panel installation, commissioning and operation](https://kentec.co.uk/wp-content/uploads/2018/08/man-1065.pdf) | installation | Man-1065 | Issue 02 (May 2006) | pdf-indexed | [Manufacturer](https://kentec.co.uk/resources/product-resources/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
