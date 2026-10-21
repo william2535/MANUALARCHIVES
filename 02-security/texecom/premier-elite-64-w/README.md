@@ -11,7 +11,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 | [Premier Elite Series Master User Guide](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/02/01102934/INS177-9_Premier_Elite_Series_Master_User_Guide-3.pdf) | user-guide | INS177 | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
 | [Premier Elite Series User Guide](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/03/31085427/INS555-5-Premier-Elite-User-Guide-LS1-1.pdf) | user-guide | INS555 | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
 | [Product-Guide-2025_Landscape-1](https://texecom-live.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/01/30144620/Product-Guide-2025_Landscape-1.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://www.texe.com/help-and-support/product-support/) |
-| [Texecom Premier Elite 64 W](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Premier%20Elite%2064%20W.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Texecom Premier Elite 64 W](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Premier%20Elite%2064%20W.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

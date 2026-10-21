@@ -52,6 +52,20 @@ class StandardsTests(unittest.TestCase):
         self.row.update(status='withdrawn', under_review=True)
         self.assertTrue(any('withdrawn record cannot' in e for e in standards_errors(self.data)))
 
+    def test_published_dd_is_separate_from_consultation_drafts(self):
+        self.assertTrue(any(r['edition'].startswith('DD CLC/TS ') for r in self.data['records']))
+        self.assertTrue(all(d['reference'].endswith(' DC') for d in self.data['draft_watchlist']))
+        self.assertEqual(standards_errors(self.data), [])
+        self.assertIn('Consultation draft watchlist', render_standards_markdown(self.data))
+
+    def test_draft_evidence_cannot_be_from_the_future(self):
+        self.data['draft_watchlist'][0]['source_checked'] = '2099-01-01'
+        self.assertTrue(any('draft evidence is later' in e for e in standards_errors(self.data)))
+
+    def test_draft_requires_publisher_source(self):
+        self.data['draft_watchlist'][0]['source_url'] = 'https://example.com/draft'
+        self.assertTrue(any('draft lacks official evidence' in e for e in standards_errors(self.data)))
+
 
 if __name__ == '__main__':
     unittest.main()

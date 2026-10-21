@@ -2,11 +2,16 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-14 document records, grouped into 14 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+17 document records, grouped into 21 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
 | [6plex multiplexer](6plex-multiplexer/README.md) | 1 |
+| [Dinion](dinion/README.md) | 1 |
+| [FlexiDome](flexidome/README.md) | 1 |
+| [LTC 0435](ltc-0435/README.md) | 1 |
+| [LTC 0455](ltc-0455/README.md) | 1 |
+| [LTC 0600](ltc-0600/README.md) | 1 |
 | [LTC 32X3 & 33X4 Auto Iris Z (2)](ltc-32x3-33x4-auto-iris-z-2/README.md) | 1 |
 | [LTC 510X sequential switche (2)](ltc-510x-sequential-switche-2/README.md) | 1 |
 | [LTC 51X1 sequential switche (2)](ltc-51x1-sequential-switche-2/README.md) | 1 |
@@ -19,4 +24,6 @@
 | [LTC0455](ltc0455/README.md) | 1 |
 | [LTC0600](ltc0600/README.md) | 1 |
 | [LTC2600 16 channel colour m (2)](ltc2600-16-channel-colour-m-2/README.md) | 1 |
+| [Phortress](phortress/README.md) | 1 |
 | [TC6680PT-24 Pan - Tilt Head](tc6680pt-24-pan-tilt-head/README.md) | 1 |
+| [VariDome](varidome/README.md) | 1 |

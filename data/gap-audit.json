@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-21",
-  "catalogue_sha256": "cf92fca9ca62d981ff075e62465f5a82f0c217154e22a76fcb621576f14db3f4",
+  "catalogue_sha256": "c1320f46a515fc703466933ed3bbdd1e5691b2e485ee8c7ac5e8e5d71c769553",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 3362,
+  "record_count": 3431,
   "gap_counts": {
-    "complete-file-check-needed": 2938,
-    "document-number-unrecorded": 2219,
-    "download-url-unresolved": 55,
-    "language-unverified": 3107,
-    "model-applicability-review-needed": 586,
+    "complete-file-check-needed": 2897,
+    "document-number-unrecorded": 2227,
+    "download-url-unresolved": 54,
+    "language-unverified": 3097,
+    "model-applicability-review-needed": 579,
     "possible-duplicate-review-needed": 1,
-    "region-unverified": 3342,
-    "retrieval-failed": 38,
-    "revision-review-needed": 3164,
-    "source-metadata-conflict": 6,
+    "region-unverified": 3411,
+    "retrieval-failed": 10,
+    "revision-review-needed": 3171,
+    "source-metadata-conflict": 10,
     "viewer-without-direct-pdf": 4,
     "web-manual-without-direct-pdf": 235
   },
@@ -108,23 +108,24 @@
     },
     {
       "brand": "ASO",
-      "records": 1,
+      "records": 2,
       "categories": [
         "access-control"
       ],
       "document_types": {
-        "reference": 1
+        "reference": 2
       },
       "download_status": {
+        "complete-file": 1,
         "file-hash": 1
       },
       "gap_counts": {
         "complete-file-check-needed": 1,
-        "document-number-unrecorded": 1,
+        "document-number-unrecorded": 2,
         "language-unverified": 1,
         "model-applicability-review-needed": 1,
-        "region-unverified": 1,
-        "revision-review-needed": 1
+        "region-unverified": 2,
+        "revision-review-needed": 2
       }
     },
     {
@@ -277,18 +278,17 @@
         "user-guide": 5
       },
       "download_status": {
+        "complete-file": 1,
         "file-hash": 7,
-        "pdf-indexed": 175,
-        "source-page": 1
+        "pdf-indexed": 175
       },
       "gap_counts": {
         "complete-file-check-needed": 182,
-        "document-number-unrecorded": 183,
-        "download-url-unresolved": 1,
-        "language-unverified": 183,
+        "document-number-unrecorded": 182,
+        "language-unverified": 182,
         "model-applicability-review-needed": 7,
         "region-unverified": 183,
-        "revision-review-needed": 183
+        "revision-review-needed": 182
       }
     },
     {
@@ -312,6 +312,42 @@
         "model-applicability-review-needed": 6,
         "region-unverified": 6,
         "revision-review-needed": 6
+      }
+    },
+    {
+      "brand": "Autoroll",
+      "records": 1,
+      "categories": [
+        "access-control"
+      ],
+      "document_types": {
+        "installation": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1,
+        "revision-review-needed": 1
+      }
+    },
+    {
+      "brand": "Avon Instrumentation Services",
+      "records": 1,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "installation": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1,
+        "revision-review-needed": 1
       }
     },
     {
@@ -357,10 +393,42 @@
       "gap_counts": {
         "complete-file-check-needed": 25,
         "document-number-unrecorded": 25,
-        "language-unverified": 25,
-        "model-applicability-review-needed": 25,
+        "language-unverified": 24,
+        "model-applicability-review-needed": 24,
         "region-unverified": 25,
-        "revision-review-needed": 25
+        "revision-review-needed": 24
+      }
+    },
+    {
+      "brand": "BFT",
+      "records": 1,
+      "categories": [
+        "access-control"
+      ],
+      "document_types": {
+        "installation": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "region-unverified": 1
+      }
+    },
+    {
+      "brand": "Baldwin Boxall",
+      "records": 2,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "user-guide": 2
+      },
+      "download_status": {
+        "complete-file": 2
+      },
+      "gap_counts": {
+        "region-unverified": 2
       }
     },
     {
@@ -472,20 +540,21 @@
     },
     {
       "brand": "Bosch",
-      "records": 50,
+      "records": 53,
       "categories": [
         "access-control",
         "cctv",
         "security"
       ],
       "document_types": {
-        "installation": 10,
+        "installation": 13,
         "programming": 11,
         "quick-start": 7,
-        "reference": 3,
-        "user-guide": 19
+        "reference": 2,
+        "user-guide": 20
       },
       "download_status": {
+        "complete-file": 3,
         "file-hash": 3,
         "listed": 45,
         "pdf-indexed": 1,
@@ -493,17 +562,17 @@
       },
       "gap_counts": {
         "complete-file-check-needed": 50,
-        "document-number-unrecorded": 50,
-        "language-unverified": 50,
-        "model-applicability-review-needed": 3,
-        "region-unverified": 50,
+        "document-number-unrecorded": 49,
+        "language-unverified": 49,
+        "model-applicability-review-needed": 2,
+        "region-unverified": 53,
         "retrieval-failed": 1,
-        "revision-review-needed": 50
+        "revision-review-needed": 49
       }
     },
     {
       "brand": "C-TEC",
-      "records": 166,
+      "records": 169,
       "categories": [
         "fire"
       ],
@@ -511,14 +580,14 @@
         "application-note": 21,
         "datasheet": 3,
         "diagram": 9,
-        "installation": 87,
+        "installation": 90,
         "programming": 1,
         "quick-start": 9,
         "reference": 15,
         "user-guide": 21
       },
       "download_status": {
-        "complete-file": 3,
+        "complete-file": 6,
         "file-hash": 23,
         "listed": 6,
         "pdf-indexed": 134
@@ -528,7 +597,7 @@
         "document-number-unrecorded": 28,
         "language-unverified": 119,
         "model-applicability-review-needed": 25,
-        "region-unverified": 166,
+        "region-unverified": 169,
         "revision-review-needed": 119,
         "source-metadata-conflict": 3
       }
@@ -565,20 +634,18 @@
         "access-control"
       ],
       "document_types": {
-        "reference": 6
+        "installation": 2,
+        "reference": 4
       },
       "download_status": {
-        "file-hash": 1,
-        "pdf-header": 1,
+        "complete-file": 2,
         "source-page": 4
       },
       "gap_counts": {
-        "complete-file-check-needed": 2,
-        "document-number-unrecorded": 6,
-        "language-unverified": 6,
-        "model-applicability-review-needed": 2,
+        "document-number-unrecorded": 4,
+        "language-unverified": 4,
         "region-unverified": 6,
-        "revision-review-needed": 6,
+        "revision-review-needed": 4,
         "viewer-without-direct-pdf": 4
       }
     },
@@ -636,24 +703,44 @@
     },
     {
       "brand": "Dedicated Micros",
-      "records": 10,
+      "records": 13,
       "categories": [
         "cctv"
       ],
       "document_types": {
-        "reference": 9,
+        "installation": 2,
+        "programming": 2,
+        "reference": 8,
         "user-guide": 1
       },
       "download_status": {
-        "file-hash": 10
+        "complete-file": 5,
+        "file-hash": 8
       },
       "gap_counts": {
-        "complete-file-check-needed": 10,
-        "document-number-unrecorded": 10,
-        "language-unverified": 10,
-        "model-applicability-review-needed": 10,
-        "region-unverified": 10,
-        "revision-review-needed": 10
+        "complete-file-check-needed": 8,
+        "document-number-unrecorded": 9,
+        "language-unverified": 9,
+        "model-applicability-review-needed": 9,
+        "region-unverified": 13,
+        "revision-review-needed": 9
+      }
+    },
+    {
+      "brand": "Digitus Biometrics",
+      "records": 1,
+      "categories": [
+        "access-control"
+      ],
+      "document_types": {
+        "installation": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1
       }
     },
     {
@@ -705,24 +792,45 @@
         "security"
       ],
       "document_types": {
-        "installation": 7,
+        "installation": 9,
         "programming": 2,
-        "reference": 4,
+        "reference": 2,
         "user-guide": 7
       },
       "download_status": {
+        "complete-file": 6,
         "listed": 3,
-        "pdf-indexed": 14,
-        "retrieval-failed": 3
+        "pdf-indexed": 11
       },
       "gap_counts": {
-        "complete-file-check-needed": 20,
-        "document-number-unrecorded": 20,
-        "language-unverified": 20,
-        "model-applicability-review-needed": 17,
+        "complete-file-check-needed": 14,
+        "document-number-unrecorded": 18,
+        "language-unverified": 18,
+        "model-applicability-review-needed": 15,
         "region-unverified": 20,
-        "retrieval-failed": 3,
-        "revision-review-needed": 20
+        "revision-review-needed": 18
+      }
+    },
+    {
+      "brand": "FFE",
+      "records": 32,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "installation": 13,
+        "reference": 4,
+        "user-guide": 15
+      },
+      "download_status": {
+        "complete-file": 32
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 2,
+        "model-applicability-review-needed": 2,
+        "region-unverified": 32,
+        "revision-review-needed": 3,
+        "source-metadata-conflict": 2
       }
     },
     {
@@ -817,25 +925,26 @@
     },
     {
       "brand": "GJD",
-      "records": 12,
+      "records": 13,
       "categories": [
         "cctv",
         "security"
       ],
       "document_types": {
-        "installation": 3,
+        "installation": 4,
         "reference": 9
       },
       "download_status": {
-        "file-hash": 12
+        "complete-file": 3,
+        "file-hash": 10
       },
       "gap_counts": {
-        "complete-file-check-needed": 12,
-        "document-number-unrecorded": 12,
+        "complete-file-check-needed": 10,
+        "document-number-unrecorded": 13,
         "language-unverified": 12,
         "model-applicability-review-needed": 12,
-        "region-unverified": 12,
-        "revision-review-needed": 12
+        "region-unverified": 13,
+        "revision-review-needed": 13
       }
     },
     {
@@ -861,25 +970,26 @@
     },
     {
       "brand": "Gent",
-      "records": 15,
+      "records": 17,
       "categories": [
         "fire"
       ],
       "document_types": {
         "application-note": 1,
-        "installation": 5,
+        "installation": 6,
         "programming": 1,
         "reference": 6,
-        "user-guide": 2
+        "user-guide": 3
       },
       "download_status": {
+        "complete-file": 2,
         "listed": 15
       },
       "gap_counts": {
         "complete-file-check-needed": 15,
         "document-number-unrecorded": 15,
         "language-unverified": 15,
-        "region-unverified": 15,
+        "region-unverified": 17,
         "revision-review-needed": 15
       }
     },
@@ -986,7 +1096,7 @@
     },
     {
       "brand": "Honeywell",
-      "records": 41,
+      "records": 42,
       "categories": [
         "cctv",
         "security"
@@ -994,21 +1104,22 @@
       "document_types": {
         "installation": 6,
         "programming": 1,
-        "quick-start": 1,
-        "reference": 24,
+        "quick-start": 2,
+        "reference": 23,
         "troubleshooting": 1,
-        "user-guide": 8
+        "user-guide": 9
       },
       "download_status": {
-        "file-hash": 41
+        "complete-file": 2,
+        "file-hash": 40
       },
       "gap_counts": {
-        "complete-file-check-needed": 41,
-        "document-number-unrecorded": 41,
-        "language-unverified": 41,
-        "model-applicability-review-needed": 41,
-        "region-unverified": 41,
-        "revision-review-needed": 41
+        "complete-file-check-needed": 40,
+        "document-number-unrecorded": 40,
+        "language-unverified": 40,
+        "model-applicability-review-needed": 40,
+        "region-unverified": 42,
+        "revision-review-needed": 40
       }
     },
     {
@@ -1030,6 +1141,23 @@
         "model-applicability-review-needed": 2,
         "region-unverified": 2,
         "revision-review-needed": 2
+      }
+    },
+    {
+      "brand": "Inter-M",
+      "records": 1,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "user-guide": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "region-unverified": 1,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -1090,6 +1218,23 @@
       }
     },
     {
+      "brand": "Kovert",
+      "records": 1,
+      "categories": [
+        "cctv"
+      ],
+      "document_types": {
+        "user-guide": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1
+      }
+    },
+    {
       "brand": "Luminite",
       "records": 2,
       "categories": [
@@ -1133,18 +1278,37 @@
       }
     },
     {
-      "brand": "Menvier",
-      "records": 10,
+      "brand": "Lynteck",
+      "records": 1,
       "categories": [
         "security"
       ],
       "document_types": {
-        "installation": 2,
+        "installation": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1,
+        "revision-review-needed": 1
+      }
+    },
+    {
+      "brand": "Menvier",
+      "records": 11,
+      "categories": [
+        "security"
+      ],
+      "document_types": {
+        "installation": 3,
         "quick-start": 1,
         "reference": 3,
         "user-guide": 4
       },
       "download_status": {
+        "complete-file": 1,
         "file-hash": 6,
         "pdf-indexed": 4
       },
@@ -1153,7 +1317,7 @@
         "document-number-unrecorded": 10,
         "language-unverified": 10,
         "model-applicability-review-needed": 10,
-        "region-unverified": 10,
+        "region-unverified": 11,
         "revision-review-needed": 10
       }
     },
@@ -1170,16 +1334,15 @@
         "user-guide": 23
       },
       "download_status": {
-        "pdf-indexed": 88,
-        "retrieval-failed": 1
+        "complete-file": 1,
+        "pdf-indexed": 88
       },
       "gap_counts": {
-        "complete-file-check-needed": 89,
+        "complete-file-check-needed": 88,
         "document-number-unrecorded": 89,
         "language-unverified": 89,
         "model-applicability-review-needed": 89,
         "region-unverified": 89,
-        "retrieval-failed": 1,
         "revision-review-needed": 89
       }
     },
@@ -1234,20 +1397,20 @@
         "access-control"
       ],
       "document_types": {
+        "installation": 1,
         "programming": 1,
-        "reference": 15
+        "reference": 14
       },
       "download_status": {
-        "pdf-indexed": 14,
-        "retrieval-failed": 2
+        "complete-file": 5,
+        "pdf-indexed": 11
       },
       "gap_counts": {
-        "complete-file-check-needed": 16,
-        "document-number-unrecorded": 16,
-        "language-unverified": 16,
-        "model-applicability-review-needed": 16,
+        "complete-file-check-needed": 11,
+        "document-number-unrecorded": 15,
+        "language-unverified": 15,
+        "model-applicability-review-needed": 15,
         "region-unverified": 16,
-        "retrieval-failed": 2,
         "revision-review-needed": 16
       }
     },
@@ -1333,18 +1496,35 @@
         "user-guide": 6
       },
       "download_status": {
+        "complete-file": 1,
         "listed": 5,
-        "pdf-indexed": 5,
-        "retrieval-failed": 1
+        "pdf-indexed": 5
       },
       "gap_counts": {
-        "complete-file-check-needed": 11,
+        "complete-file-check-needed": 10,
         "document-number-unrecorded": 11,
         "language-unverified": 11,
         "model-applicability-review-needed": 6,
         "region-unverified": 11,
-        "retrieval-failed": 1,
         "revision-review-needed": 11
+      }
+    },
+    {
+      "brand": "PAS Sound Engineering",
+      "records": 1,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "reference": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1,
+        "revision-review-needed": 1
       }
     },
     {
@@ -1363,39 +1543,42 @@
         "user-guide": 2
       },
       "download_status": {
+        "complete-file": 9,
         "listed": 233,
         "pdf-indexed": 153,
-        "retrieval-failed": 12
+        "retrieval-failed": 3
       },
       "gap_counts": {
-        "complete-file-check-needed": 398,
+        "complete-file-check-needed": 389,
         "document-number-unrecorded": 79,
         "language-unverified": 398,
         "model-applicability-review-needed": 81,
         "region-unverified": 390,
-        "retrieval-failed": 12,
+        "retrieval-failed": 3,
         "revision-review-needed": 398
       }
     },
     {
       "brand": "Philips",
-      "records": 14,
+      "records": 17,
       "categories": [
         "cctv"
       ],
       "document_types": {
-        "reference": 14
+        "installation": 2,
+        "reference": 15
       },
       "download_status": {
+        "complete-file": 3,
         "pdf-indexed": 14
       },
       "gap_counts": {
         "complete-file-check-needed": 14,
-        "document-number-unrecorded": 14,
+        "document-number-unrecorded": 16,
         "language-unverified": 14,
         "model-applicability-review-needed": 14,
-        "region-unverified": 14,
-        "revision-review-needed": 14
+        "region-unverified": 17,
+        "revision-review-needed": 17
       }
     },
     {
@@ -1433,20 +1616,37 @@
         "user-guide": 7
       },
       "download_status": {
+        "complete-file": 3,
         "file-hash": 1,
         "pdf-indexed": 3,
-        "retrieval-failed": 3,
         "source-page": 2
       },
       "gap_counts": {
-        "complete-file-check-needed": 7,
+        "complete-file-check-needed": 4,
         "document-number-unrecorded": 9,
         "language-unverified": 9,
         "model-applicability-review-needed": 7,
         "region-unverified": 9,
-        "retrieval-failed": 3,
         "revision-review-needed": 9,
         "web-manual-without-direct-pdf": 2
+      }
+    },
+    {
+      "brand": "QuikStor",
+      "records": 1,
+      "categories": [
+        "access-control"
+      ],
+      "document_types": {
+        "installation": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1,
+        "revision-review-needed": 1
       }
     },
     {
@@ -1515,6 +1715,24 @@
         "model-applicability-review-needed": 1,
         "region-unverified": 1,
         "revision-review-needed": 1
+      }
+    },
+    {
+      "brand": "Security Enclosures",
+      "records": 2,
+      "categories": [
+        "cctv"
+      ],
+      "document_types": {
+        "installation": 2
+      },
+      "download_status": {
+        "complete-file": 2
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 2,
+        "region-unverified": 2,
+        "revision-review-needed": 2
       }
     },
     {
@@ -1623,71 +1841,100 @@
         "user-guide": 15
       },
       "download_status": {
+        "complete-file": 3,
         "listed": 97,
-        "pdf-indexed": 15,
-        "retrieval-failed": 3
+        "pdf-indexed": 15
       },
       "gap_counts": {
-        "complete-file-check-needed": 115,
+        "complete-file-check-needed": 112,
         "document-number-unrecorded": 57,
         "language-unverified": 115,
         "model-applicability-review-needed": 18,
         "region-unverified": 115,
-        "retrieval-failed": 3,
         "revision-review-needed": 115
       }
     },
     {
+      "brand": "The Fire Beam Company",
+      "records": 2,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "user-guide": 2
+      },
+      "download_status": {
+        "complete-file": 2
+      },
+      "gap_counts": {
+        "region-unverified": 2
+      }
+    },
+    {
       "brand": "VCL / Ademco",
-      "records": 11,
+      "records": 12,
       "categories": [
         "cctv"
       ],
       "document_types": {
-        "installation": 3,
+        "installation": 4,
         "reference": 7,
         "user-guide": 1
       },
       "download_status": {
-        "pdf-indexed": 10,
-        "retrieval-failed": 1
+        "complete-file": 2,
+        "pdf-indexed": 10
       },
       "gap_counts": {
-        "complete-file-check-needed": 11,
-        "document-number-unrecorded": 11,
+        "complete-file-check-needed": 10,
+        "document-number-unrecorded": 12,
         "language-unverified": 11,
         "model-applicability-review-needed": 11,
-        "region-unverified": 11,
-        "retrieval-failed": 1,
-        "revision-review-needed": 11
+        "region-unverified": 12,
+        "revision-review-needed": 12
+      }
+    },
+    {
+      "brand": "Ventcroft",
+      "records": 1,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "user-guide": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "region-unverified": 1
       }
     },
     {
       "brand": "Videx",
-      "records": 73,
+      "records": 74,
       "categories": [
         "access-control"
       ],
       "document_types": {
         "application-note": 2,
         "diagram": 2,
-        "installation": 18,
+        "installation": 19,
         "quick-start": 32,
         "reference": 18,
         "user-guide": 1
       },
       "download_status": {
+        "complete-file": 3,
         "listed": 68,
-        "pdf-indexed": 3,
-        "retrieval-failed": 2
+        "pdf-indexed": 3
       },
       "gap_counts": {
-        "complete-file-check-needed": 73,
-        "document-number-unrecorded": 62,
+        "complete-file-check-needed": 71,
+        "document-number-unrecorded": 63,
         "language-unverified": 73,
         "model-applicability-review-needed": 5,
-        "region-unverified": 73,
-        "retrieval-failed": 2,
+        "region-unverified": 74,
         "revision-review-needed": 73
       }
     },
@@ -1704,17 +1951,33 @@
         "user-guide": 3
       },
       "download_status": {
-        "pdf-indexed": 6,
-        "retrieval-failed": 3
+        "complete-file": 3,
+        "pdf-indexed": 6
       },
       "gap_counts": {
-        "complete-file-check-needed": 9,
+        "complete-file-check-needed": 6,
         "document-number-unrecorded": 9,
         "language-unverified": 9,
         "model-applicability-review-needed": 9,
         "region-unverified": 9,
-        "retrieval-failed": 3,
         "revision-review-needed": 9
+      }
+    },
+    {
+      "brand": "Zeta",
+      "records": 1,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "user-guide": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "region-unverified": 1,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -7433,11 +7696,7 @@
       "brand": "Apollo",
       "category": "fire",
       "gaps": [
-        "download-url-unresolved",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -7686,6 +7945,36 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "aso-dc83505834a7",
+      "brand": "ASO",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "autoroll-a959abd191f8",
+      "brand": "Autoroll",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "avon-instrumentation-services-a4592b6ba8c2",
+      "brand": "Avon Instrumentation Services",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -15333,6 +15622,22 @@
       ]
     },
     {
+      "id": "baldwin-boxall-909cd95c22b2",
+      "brand": "Baldwin Boxall",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "baldwin-boxall-95fd3e0c1541",
+      "brand": "Baldwin Boxall",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "bandit-1b956ba40a96",
       "brand": "Bandit",
       "category": "security",
@@ -15754,11 +16059,8 @@
       "category": "cctv",
       "gaps": [
         "complete-file-check-needed",
-        "language-unverified",
         "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "document-number-unrecorded"
       ]
     },
     {
@@ -15957,6 +16259,14 @@
       ]
     },
     {
+      "id": "bft-7474b3a9603d",
+      "brand": "BFT",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "borg-locks-f71cfddba668",
       "brand": "Borg Locks",
       "category": "access-control",
@@ -16066,6 +16376,14 @@
       ]
     },
     {
+      "id": "bosch-3effb140fd3e",
+      "brand": "Bosch",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "bosch-42a131386d40",
       "brand": "Bosch",
       "category": "access-control",
@@ -16147,6 +16465,14 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "bosch-5a4c69933a94",
+      "brand": "Bosch",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -16288,11 +16614,7 @@
       "category": "cctv",
       "gaps": [
         "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -16330,6 +16652,14 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "bosch-a743ae8fb01d",
+      "brand": "Bosch",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -16943,6 +17273,14 @@
       "category": "fire",
       "gaps": [
         "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "c-tec-35371d57ca3f",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
         "region-unverified"
       ]
     },
@@ -17859,6 +18197,14 @@
       ]
     },
     {
+      "id": "c-tec-b586adf36d4e",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "c-tec-b630a8b9ab0b",
       "brand": "C-TEC",
       "category": "fire",
@@ -18059,6 +18405,14 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "c-tec-cd37ef80788c",
+      "brand": "C-TEC",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -18653,12 +19007,7 @@
       "brand": "CDVI",
       "category": "access-control",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -18690,12 +19039,7 @@
       "brand": "CDVI",
       "category": "access-control",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -20813,16 +21157,28 @@
       ]
     },
     {
+      "id": "dedicated-micros-124b55585373",
+      "brand": "Dedicated Micros",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "dedicated-micros-1af75f6c7402",
       "brand": "Dedicated Micros",
       "category": "cctv",
       "gaps": [
         "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "dedicated-micros-582753ee8f21",
+      "brand": "Dedicated Micros",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -20830,7 +21186,6 @@
       "brand": "Dedicated Micros",
       "category": "cctv",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -20908,12 +21263,19 @@
       "brand": "Dedicated Micros",
       "category": "cctv",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "dedicated-micros-ea5bdac7c3c6",
+      "brand": "Dedicated Micros",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -20927,6 +21289,15 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "digitus-biometrics-d3cf77865e6c",
+      "brand": "Digitus Biometrics",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
       ]
     },
     {
@@ -20958,8 +21329,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -20985,8 +21354,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -20999,12 +21366,7 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -21038,12 +21400,7 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -21165,7 +21522,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -21178,8 +21534,6 @@
       "brand": "Eaton / Scantronic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -21248,6 +21602,287 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "ffe-1144952ca5cb",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "ffe-1803aa731e41",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-47c2016c7dfa",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-60521debaa67",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "ffe-609daa8fe5db",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-64c2d2717edc",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-6f83c52490eb",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-71af12ffd6ed",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-7bc12fdeb0cf",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-86bde9885060",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-a0d7c22d63de",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "document_number",
+          "source_value": "0044-118",
+          "document_value": "044118",
+          "resolution": "Printed number retained; manufacturer filename uses a different format."
+        }
+      ]
+    },
+    {
+      "id": "ffe-a159a93ee04d",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-a7e41400fbe7",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-abdac365732f",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "document_number",
+          "source_value": "0044-119",
+          "document_value": "0044119",
+          "resolution": "Printed number retained; manufacturer filename uses a different format."
+        }
+      ]
+    },
+    {
+      "id": "ffe-acdd608802c7",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-afd1a2613615",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-b33e934812f0",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-be0e982e865a",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-bf314b3d1bbe",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-ce3d5c7f4528",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-d0bb64a11e4a",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-d35281d5f467",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "ffe-d64ff2745a97",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-d85e3bde4a9e",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-d94b51054619",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-da06950ac3d6",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "ffe-e0bca56e4001",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-e4ab811b4b8e",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-e5c074e60118",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-fa7ef2eb8e2b",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-fb25d1bb1cc2",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "ffe-feed928548a5",
+      "brand": "FFE",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -22059,6 +22694,22 @@
       ]
     },
     {
+      "id": "gent-c2e20b406444",
+      "brand": "Gent",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "gent-da1f16c399e3",
+      "brand": "Gent",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "gent-ea35ef5e18ee",
       "brand": "Gent",
       "category": "fire",
@@ -22101,6 +22752,16 @@
       "gaps": [
         "complete-file-check-needed",
         "language-unverified",
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "gjd-2946ac08c654",
+      "brand": "GJD",
+      "category": "cctv",
+      "gaps": [
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
@@ -22215,7 +22876,6 @@
       "brand": "GJD",
       "category": "security",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -22241,7 +22901,6 @@
       "brand": "GJD",
       "category": "security",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -24349,6 +25008,14 @@
       ]
     },
     {
+      "id": "honeywell-4f5136f7b0f1",
+      "brand": "Honeywell",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "honeywell-4ffd935674f8",
       "brand": "Honeywell",
       "category": "security",
@@ -24704,12 +25371,7 @@
       "brand": "Honeywell",
       "category": "cctv",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -24736,6 +25398,23 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "inter-m-17e9b7deb5c2",
+      "brand": "Inter-M",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "model",
+          "source_value": "Filename includes 280A",
+          "document_value": "Cover says PAM-120A/340A/480A",
+          "resolution": "Indexed under the cover models."
+        }
       ]
     },
     {
@@ -26486,6 +27165,15 @@
       ]
     },
     {
+      "id": "kovert-1208104aef89",
+      "brand": "Kovert",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
       "id": "luminite-6ddf119dd8ef",
       "brand": "Luminite",
       "category": "security",
@@ -26523,6 +27211,16 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "lynteck-5ce79fc79fa5",
+      "brand": "Lynteck",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -26643,6 +27341,14 @@
       ]
     },
     {
+      "id": "menvier-dc3866f89815",
+      "brand": "Menvier",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "menvier-e10a7abd1424",
       "brand": "Menvier",
       "category": "security",
@@ -26686,8 +27392,6 @@
       "brand": "Meyertech",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -27967,7 +28671,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -27993,8 +28696,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -28033,7 +28734,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -28046,12 +28746,8 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
         "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "revision-review-needed"
       ]
     },
     {
@@ -28085,8 +28781,6 @@
       "brand": "Nice",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -29301,8 +29995,6 @@
       "brand": "Orisec",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -29395,6 +30087,16 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "pas-sound-engineering-3a11eb10bd1b",
+      "brand": "PAS Sound Engineering",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -30178,8 +30880,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -30950,8 +31650,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -31349,8 +32047,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -31442,8 +32138,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -31612,8 +32306,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -31785,8 +32477,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -33227,8 +33917,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -33681,8 +34369,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -33851,8 +34537,6 @@
       "brand": "Paxton",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -34031,6 +34715,16 @@
       ]
     },
     {
+      "id": "philips-769400c122ca",
+      "brand": "Philips",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "philips-8726d2228988",
       "brand": "Philips",
       "category": "cctv",
@@ -34070,6 +34764,15 @@
       ]
     },
     {
+      "id": "philips-9fa035d11681",
+      "brand": "Philips",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "philips-a0496321f2da",
       "brand": "Philips",
       "category": "cctv",
@@ -34106,6 +34809,16 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "philips-e9bf8cbd7c4c",
+      "brand": "Philips",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -34202,8 +34915,6 @@
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -34216,8 +34927,6 @@
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -34293,8 +35002,6 @@
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -34313,6 +35020,16 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "quikstor-ea616a11b751",
+      "brand": "QuikStor",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -37939,6 +38656,26 @@
       ]
     },
     {
+      "id": "security-enclosures-f558a9a5f5cc",
+      "brand": "Security Enclosures",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "security-enclosures-f573fd15fd62",
+      "brand": "Security Enclosures",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "siemens-20f2be95f023",
       "brand": "Siemens",
       "category": "fire",
@@ -38470,8 +39207,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -39253,8 +39988,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -39658,8 +40391,6 @@
       "brand": "Texecom",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -39796,12 +40527,26 @@
       ]
     },
     {
+      "id": "the-fire-beam-company-261f9885d914",
+      "brand": "The Fire Beam Company",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "the-fire-beam-company-7f8db7c4abfe",
+      "brand": "The Fire Beam Company",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "vcl-ademco-055a787d2149",
       "brand": "VCL / Ademco",
       "category": "cctv",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -39901,6 +40646,16 @@
       ]
     },
     {
+      "id": "vcl-ademco-b68b5b25edc3",
+      "brand": "VCL / Ademco",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "vcl-ademco-ccf5a2e06d6e",
       "brand": "VCL / Ademco",
       "category": "cctv",
@@ -39937,6 +40692,14 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "ventcroft-7846d44dbc5b",
+      "brand": "Ventcroft",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -40220,6 +40983,15 @@
       ]
     },
     {
+      "id": "videx-4e79c67edad1",
+      "brand": "Videx",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
       "id": "videx-4e9ca387f09d",
       "brand": "Videx",
       "category": "access-control",
@@ -40379,8 +41151,6 @@
       "brand": "Videx",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -40464,8 +41234,6 @@
       "brand": "Videx",
       "category": "access-control",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -40868,8 +41636,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -40882,8 +41648,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -40896,8 +41660,6 @@
       "brand": "Visonic",
       "category": "security",
       "gaps": [
-        "retrieval-failed",
-        "complete-file-check-needed",
         "language-unverified",
         "region-unverified",
         "document-number-unrecorded",
@@ -40929,6 +41691,23 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "zeta-37840f130dee",
+      "brand": "Zeta",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        {
+          "field": "model",
+          "source_value": "Filename says ZT-30P",
+          "document_value": "Cover explicitly says ZT-500EX",
+          "resolution": "Indexed as ZT-500EX; do not use this file as a ZT-30P manual."
+        }
       ]
     },
     {
@@ -41050,6 +41829,17 @@
     },
     {
       "category": "access-control",
+      "brand": "ASO",
+      "model": "Safety edges",
+      "record_ids": [
+        "aso-dc83505834a7"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "access-control",
       "brand": "Adams Rite",
       "model": "1354",
       "record_ids": [
@@ -41101,6 +41891,17 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Autoroll",
+      "model": "AR433 PLUS",
+      "record_ids": [
+        "autoroll-a959abd191f8"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -41398,6 +42199,28 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "BFT",
+      "model": "LUX BT 2B",
+      "record_ids": [
+        "bft-7474b3a9603d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "BFT",
+      "model": "LUX G BT 2B",
+      "record_ids": [
+        "bft-7474b3a9603d"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -41937,12 +42760,89 @@
     {
       "category": "access-control",
       "brand": "CDVI",
+      "model": "DWPD102AXX",
+      "record_ids": [
+        "cdvi-4937b301bd05"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "DWPD102SXX",
+      "record_ids": [
+        "cdvi-4937b301bd05"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "DWPD102UXX",
+      "record_ids": [
+        "cdvi-4937b301bd05"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "DWPS102A",
+      "record_ids": [
+        "cdvi-4937b301bd05"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "DWPS102S",
+      "record_ids": [
+        "cdvi-4937b301bd05"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "DWPS102U",
+      "record_ids": [
+        "cdvi-4937b301bd05"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "DWS102xx",
+      "record_ids": [
+        "cdvi-bffb55c4826e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
       "model": "Digiway Plus",
       "record_ids": [
         "cdvi-4937b301bd05"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -41953,7 +42853,7 @@
         "cdvi-bffb55c4826e"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -42664,6 +43564,28 @@
     },
     {
       "category": "access-control",
+      "brand": "Digitus Biometrics",
+      "model": "db Nexus II",
+      "record_ids": [
+        "digitus-biometrics-d3cf77865e6c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Digitus Biometrics",
+      "model": "db Nexus III",
+      "record_ids": [
+        "digitus-biometrics-d3cf77865e6c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
       "brand": "Farfisa",
       "model": "Intercom keypad",
       "record_ids": [
@@ -42775,12 +43697,56 @@
     {
       "category": "access-control",
       "brand": "Nice",
+      "model": "TO4024",
+      "record_ids": [
+        "nice-82692a076b2b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Nice",
+      "model": "Toona 4",
+      "record_ids": [
+        "nice-82692a076b2b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Nice",
       "model": "Toona 4 T0424 gate ram",
       "record_ids": [
         "nice-82692a076b2b"
       ],
       "document_types": [
-        "reference"
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Nice",
+      "model": "Toona 5",
+      "record_ids": [
+        "nice-82692a076b2b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Nice",
+      "model": "Toona 7",
+      "record_ids": [
+        "nice-82692a076b2b"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -44117,6 +45083,17 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "QuikStor",
+      "model": "Guardian",
+      "record_ids": [
+        "quikstor-ea616a11b751"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -47780,6 +48757,17 @@
       ],
       "document_types": [
         "diagram"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "Videx",
+      "model": "VR4K-1",
+      "record_ids": [
+        "videx-4e79c67edad1"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -54303,6 +55291,17 @@
     {
       "category": "cctv",
       "brand": "BBV",
+      "model": "Rx450",
+      "record_ids": [
+        "bbv-70be9613a5d1"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "BBV",
       "model": "Rx550DC",
       "record_ids": [
         "bbv-57dd8d97d2a5"
@@ -54545,6 +55544,18 @@
     {
       "category": "cctv",
       "brand": "Bosch",
+      "model": "AutoDome",
+      "record_ids": [
+        "bosch-3effb140fd3e",
+        "bosch-9dcb51eeef69"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Bosch",
       "model": "BasicDome",
       "record_ids": [
         "bosch-6aa3f84a1748"
@@ -54556,12 +55567,24 @@
     {
       "category": "cctv",
       "brand": "Bosch",
+      "model": "EnviroDome",
+      "record_ids": [
+        "bosch-3effb140fd3e",
+        "bosch-9dcb51eeef69"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Bosch",
       "model": "Envirodome",
       "record_ids": [
         "bosch-9dcb51eeef69"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -55418,7 +56441,7 @@
         "dedicated-micros-1af75f6c7402"
       ],
       "document_types": [
-        "reference"
+        "installation"
       ]
     },
     {
@@ -55435,12 +56458,37 @@
     {
       "category": "cctv",
       "brand": "Dedicated Micros",
+      "model": "Dennard 2060",
+      "record_ids": [
+        "dedicated-micros-ea5bdac7c3c6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Dedicated Micros",
       "model": "Digi Sprit",
       "record_ids": [
         "dedicated-micros-7f0642d062e7"
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Dedicated Micros",
+      "model": "Digital Sprite 2",
+      "record_ids": [
+        "dedicated-micros-124b55585373",
+        "dedicated-micros-1af75f6c7402",
+        "dedicated-micros-582753ee8f21"
+      ],
+      "document_types": [
+        "installation",
+        "programming"
       ]
     },
     {
@@ -55507,6 +56555,39 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "GJD",
+      "model": "Elite",
+      "record_ids": [
+        "gjd-2946ac08c654"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "GJD",
+      "model": "GJD022",
+      "record_ids": [
+        "gjd-2946ac08c654"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "GJD",
+      "model": "GJD023",
+      "record_ids": [
+        "gjd-2946ac08c654"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -60939,12 +62020,36 @@
     {
       "category": "cctv",
       "brand": "Honeywell",
+      "model": "HRDE4X4",
+      "record_ids": [
+        "honeywell-4f5136f7b0f1",
+        "honeywell-fe7c63c2f043"
+      ],
+      "document_types": [
+        "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Honeywell",
       "model": "Honeywell HRDE4X4 DVR",
       "record_ids": [
         "honeywell-fe7c63c2f043"
       ],
       "document_types": [
-        "reference"
+        "user-guide"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Kovert",
+      "model": "VideoBridge NVS100",
+      "record_ids": [
+        "kovert-1208104aef89"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     },
     {
@@ -61906,6 +63011,61 @@
     {
       "category": "cctv",
       "brand": "Philips",
+      "model": "Dinion",
+      "record_ids": [
+        "philips-e9bf8cbd7c4c"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
+      "model": "FlexiDome",
+      "record_ids": [
+        "philips-e9bf8cbd7c4c"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
+      "model": "LTC 0435",
+      "record_ids": [
+        "philips-769400c122ca"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
+      "model": "LTC 0455",
+      "record_ids": [
+        "philips-769400c122ca"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
+      "model": "LTC 0600",
+      "record_ids": [
+        "philips-9fa035d11681"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
       "model": "LTC 32X3 & 33X4 Auto Iris Z (2)",
       "record_ids": [
         "philips-e2f2f9433e38"
@@ -62038,9 +63198,31 @@
     {
       "category": "cctv",
       "brand": "Philips",
+      "model": "Phortress",
+      "record_ids": [
+        "philips-e9bf8cbd7c4c"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
       "model": "TC6680PT-24 Pan - Tilt Head",
       "record_ids": [
         "philips-26d584d5435f"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Philips",
+      "model": "VariDome",
+      "record_ids": [
+        "philips-e9bf8cbd7c4c"
       ],
       "document_types": [
         "reference"
@@ -62055,6 +63237,50 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Security Enclosures",
+      "model": "REDWALL-WF",
+      "record_ids": [
+        "security-enclosures-f558a9a5f5cc"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Security Enclosures",
+      "model": "Videswitch",
+      "record_ids": [
+        "security-enclosures-f573fd15fd62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Security Enclosures",
+      "model": "WFR 100",
+      "record_ids": [
+        "security-enclosures-f558a9a5f5cc"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Security Enclosures",
+      "model": "WFT 100",
+      "record_ids": [
+        "security-enclosures-f558a9a5f5cc"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -62209,6 +63435,17 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "VCL / Ademco",
+      "model": "MaxCom Pro series",
+      "record_ids": [
+        "vcl-ademco-b68b5b25edc3"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -66302,6 +67539,39 @@
     },
     {
       "category": "fire",
+      "brand": "Avon Instrumentation Services",
+      "model": "SIGMA",
+      "record_ids": [
+        "avon-instrumentation-services-a4592b6ba8c2"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Baldwin Boxall",
+      "model": "BT5",
+      "record_ids": [
+        "baldwin-boxall-909cd95c22b2"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Baldwin Boxall",
+      "model": "BT8",
+      "record_ids": [
+        "baldwin-boxall-95fd3e0c1541"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
       "brand": "C-TEC",
       "model": "1 or 2 loop 32 Zone fire panel",
       "record_ids": [
@@ -67241,6 +68511,17 @@
     {
       "category": "fire",
       "brand": "C-TEC",
+      "model": "EFP1",
+      "record_ids": [
+        "c-tec-cd37ef80788c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
       "model": "EVC301/JP",
       "record_ids": [
         "c-tec-b30cce06e390"
@@ -67386,7 +68667,8 @@
       "brand": "C-TEC",
       "model": "FP Range",
       "record_ids": [
-        "c-tec-62322e9ef971"
+        "c-tec-62322e9ef971",
+        "c-tec-b586adf36d4e"
       ],
       "document_types": [
         "installation"
@@ -67421,6 +68703,17 @@
       "document_types": [
         "installation",
         "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "C-TEC",
+      "model": "MFP Range",
+      "record_ids": [
+        "c-tec-35371d57ca3f"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -68227,6 +69520,345 @@
     },
     {
       "category": "fire",
+      "brand": "FFE",
+      "model": "1000-018 detector protective cage",
+      "record_ids": [
+        "ffe-be0e982e865a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "3000-209 controller back box",
+      "record_ids": [
+        "ffe-fb25d1bb1cc2"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "3000-210 semi-flush trim plate",
+      "record_ids": [
+        "ffe-fb25d1bb1cc2"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "5000-004 long range prism kit",
+      "record_ids": [
+        "ffe-d0bb64a11e4a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "5000-011 Detector Uni-Box",
+      "record_ids": [
+        "ffe-a159a93ee04d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "5000-014 ceiling pendant mount",
+      "record_ids": [
+        "ffe-bf314b3d1bbe"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray 3000",
+      "record_ids": [
+        "ffe-afd1a2613615",
+        "ffe-be0e982e865a",
+        "ffe-e5c074e60118"
+      ],
+      "document_types": [
+        "installation",
+        "reference",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray 3000 Ex d",
+      "record_ids": [
+        "ffe-1803aa731e41"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray 3000 detector heater",
+      "record_ids": [
+        "ffe-d85e3bde4a9e"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray 5000",
+      "record_ids": [
+        "ffe-60521debaa67",
+        "ffe-be0e982e865a",
+        "ffe-ce3d5c7f4528",
+        "ffe-e0bca56e4001"
+      ],
+      "document_types": [
+        "installation",
+        "reference",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray 50R / 100R",
+      "record_ids": [
+        "ffe-da06950ac3d6"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray Hub Reflective",
+      "record_ids": [
+        "ffe-a7e41400fbe7"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray One",
+      "record_ids": [
+        "ffe-64c2d2717edc"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Fireray adjustment bracket",
+      "record_ids": [
+        "ffe-feed928548a5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "ProReact Analogue LHD and controller",
+      "record_ids": [
+        "ffe-d35281d5f467"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "ProReact DSCU-EN",
+      "record_ids": [
+        "ffe-d64ff2745a97"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "ProReact DiMM",
+      "record_ids": [
+        "ffe-71af12ffd6ed"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "ProReact Digital Fixed Temperature LHD",
+      "record_ids": [
+        "ffe-1144952ca5cb"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Sensis Azure 2000s",
+      "record_ids": [
+        "ffe-6f83c52490eb"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Sensis Azure 500s",
+      "record_ids": [
+        "ffe-b33e934812f0"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Sensis Cobalt HM",
+      "record_ids": [
+        "ffe-86bde9885060"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Sensis Indigo CSD-H",
+      "record_ids": [
+        "ffe-d94b51054619"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum 16000",
+      "record_ids": [
+        "ffe-acdd608802c7"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum 16000 Ex d",
+      "record_ids": [
+        "ffe-7bc12fdeb0cf"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum 16000 Ex i",
+      "record_ids": [
+        "ffe-fa7ef2eb8e2b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum 16000 FM",
+      "record_ids": [
+        "ffe-609daa8fe5db"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum 16000 UV/IR2 Ex d",
+      "record_ids": [
+        "ffe-e4ab811b4b8e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum TT2",
+      "record_ids": [
+        "ffe-47c2016c7dfa"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum TT2 diffuser",
+      "record_ids": [
+        "ffe-abdac365732f"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "FFE",
+      "model": "Talentum TT2 lens",
+      "record_ids": [
+        "ffe-a0d7c22d63de"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
       "brand": "Fike",
       "model": "CIE-A-200",
       "record_ids": [
@@ -68885,6 +70517,28 @@
       "model": "S-Quad",
       "record_ids": [
         "gent-0ba4cfc5de7c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Gent",
+      "model": "SenTRI",
+      "record_ids": [
+        "gent-da1f16c399e3"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Gent",
+      "model": "SenTRI ONE",
+      "record_ids": [
+        "gent-c2e20b406444"
       ],
       "document_types": [
         "installation"
@@ -70018,6 +71672,39 @@
       ],
       "document_types": [
         "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Inter-M",
+      "model": "PAM-120A",
+      "record_ids": [
+        "inter-m-17e9b7deb5c2"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Inter-M",
+      "model": "PAM-340A",
+      "record_ids": [
+        "inter-m-17e9b7deb5c2"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Inter-M",
+      "model": "PAM-480A",
+      "record_ids": [
+        "inter-m-17e9b7deb5c2"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     },
     {
@@ -72832,6 +74519,17 @@
     },
     {
       "category": "fire",
+      "brand": "PAS Sound Engineering",
+      "model": "100 V public address",
+      "record_ids": [
+        "pas-sound-engineering-3a11eb10bd1b"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
       "brand": "Protec",
       "model": "6100",
       "record_ids": [
@@ -73285,6 +74983,105 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "The Fire Beam Company",
+      "model": "Firebeam Plus",
+      "record_ids": [
+        "the-fire-beam-company-261f9885d914"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "The Fire Beam Company",
+      "model": "Firebeam Xtra",
+      "record_ids": [
+        "the-fire-beam-company-7f8db7c4abfe"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Ventcroft",
+      "model": "FireTrax Professional",
+      "record_ids": [
+        "ventcroft-7846d44dbc5b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Ventcroft",
+      "model": "VFT-P1",
+      "record_ids": [
+        "ventcroft-7846d44dbc5b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Ventcroft",
+      "model": "VFT-P2",
+      "record_ids": [
+        "ventcroft-7846d44dbc5b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Ventcroft",
+      "model": "VFT-P4",
+      "record_ids": [
+        "ventcroft-7846d44dbc5b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Ventcroft",
+      "model": "VFT-P6",
+      "record_ids": [
+        "ventcroft-7846d44dbc5b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Ventcroft",
+      "model": "VFT-P8",
+      "record_ids": [
+        "ventcroft-7846d44dbc5b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Zeta",
+      "model": "ZT-500EX",
+      "record_ids": [
+        "zeta-37840f130dee"
+      ],
+      "document_types": [
+        "user-guide"
       ]
     },
     {
@@ -76136,6 +77933,28 @@
     {
       "category": "security",
       "brand": "Bosch",
+      "model": "Abacus",
+      "record_ids": [
+        "bosch-a743ae8fb01d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Bosch",
+      "model": "Abacus LCD",
+      "record_ids": [
+        "bosch-5a4c69933a94"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Bosch",
       "model": "MAP 5000",
       "record_ids": [
         "bosch-eba38480fbe9"
@@ -76562,7 +78381,18 @@
         "eaton-scantronic-2849a87a6482"
       ],
       "document_types": [
-        "reference"
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Eaton / Scantronic",
+      "model": "706r",
+      "record_ids": [
+        "eaton-scantronic-2849a87a6482"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -76573,7 +78403,18 @@
         "eaton-scantronic-4680c2da307d"
       ],
       "document_types": [
-        "reference"
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Eaton / Scantronic",
+      "model": "762r",
+      "record_ids": [
+        "eaton-scantronic-4680c2da307d"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -77306,6 +79147,17 @@
     },
     {
       "category": "security",
+      "brand": "Lynteck",
+      "model": "Nexus 8",
+      "record_ids": [
+        "lynteck-5ce79fc79fa5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
       "brand": "Menvier",
       "model": "M Series",
       "record_ids": [
@@ -77321,6 +79173,17 @@
       "model": "M800",
       "record_ids": [
         "menvier-c4c3c2f5d83d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Menvier",
+      "model": "SD2",
+      "record_ids": [
+        "menvier-dc3866f89815"
       ],
       "document_types": [
         "installation"

@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-73 document records, grouped into 64 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+74 document records, grouped into 65 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -64,6 +64,7 @@
 | [VProx VP250](vprox-vp250/README.md) | 1 |
 | [VProx VP4000](vprox-vp4000/README.md) | 1 |
 | [VR4K](vr4k/README.md) | 1 |
+| [VR4K-1](vr4k-1/README.md) | 1 |
 | [VR4K1Manual (2)](vr4k1manual-2/README.md) | 1 |
 | [VX120-136](vx120-136/README.md) | 1 |
 | [VX2200](vx2200/README.md) | 1 |

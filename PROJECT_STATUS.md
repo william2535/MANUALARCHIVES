@@ -6,7 +6,19 @@ Repository: https://github.com/william2535/MANUALARCHIVES
 
 Build a comprehensive manual archive for a professional offline onsite guide, ordered by fire / security / access control / CCTV, then brand, model/family and document type. Keep continuing useful collection work without repeatedly asking for confirmation.
 
-## Latest addition — British Standards, 21 October 2026
+## Latest completed archive update — 21 October 2026
+
+The archive now contains **3,431 manual/reference records across 87 brands, with 3,138 direct PDF links**. This continuation adds **69 records** (39 reviewed supplier documents and 30 distinct manufacturer-hosted FFE guides), enriches existing records, recovers **28 of the 38 failed PDF retrievals**, and restores the manufacturer PDF for the existing Apollo XPander commissioning guide. All 3,362 earlier record IDs are preserved.
+
+The British Standards section now contains **146 checked references**, **28 amended designations**, **25 public revision summaries**, **24 earlier publisher records** and a separate **four-entry consultation draft watchlist**. The expansion covers additional fire detector/application, intruder, intercom, access protocol, video protocol, cabling, social alarm, gas suppression, sprinkler, extinguisher and powered-entrance references. New 2026 intercom, bonding and sprinkler editions retain the earlier publisher statuses rather than assuming withdrawal. PD/DD technical specifications are explicitly distinguished from consultation drafts.
+
+All **67 previously unclassified supplier candidates have been reviewed**: 39 new records, ten existing records enriched, nine duplicate source links retained, one misleading non-manual rejected and eight candidates left unresolved with specific identity/file-quality reasons. Of 35 checked FFE resource links, 30 contain distinct complete PDFs; the remaining five are byte-identical alternate paths. See `data/supplier-candidate-audit.json`, `data/source-audits/ffe-2026-10-21.json` and `data/source-audits/retrieval-retries-2026-10-21.json`.
+
+Validation: **29 Python tests**, catalogue/generated-data consistency, offline JavaScript UI checks, preservation of earlier IDs and Git whitespace checks passed. The UI checks exercise both sections, draft separation, search, category/status filters, pagination, empty results and transition evidence. A real-browser/mobile visual and persistent-phone-storage check has not run; this repository supplies the archive and app data, not a finished native app.
+
+Remaining source barriers are explicit: **ten failed PDF retrievals**, **54 Kentec listings and four CDVI viewers without direct PDFs**, plus the **eight reviewed supplier candidates**. Another **235 entries are valid online manuals**, not failed PDF downloads. The larger manufacturer inventory and complete British Standards histories cannot be declared exhaustive from the available public evidence. The standards register is a dated snapshot, without automatic monitoring.
+
+## Previous addition — British Standards, 21 October 2026
 
 The new `05-british-standards/README.md` section and `index.html#standards` browser view contain **93 checked references across seven subjects**, **20 amended designations**, **11 public revision summaries** and **15 earlier publisher records**. Sources are BSI public product records and the IET's own BS 7671 update/transition information. `data/standards.json` is the independent phone-app feed, with `data/standards.schema.json` and integration notes.
 

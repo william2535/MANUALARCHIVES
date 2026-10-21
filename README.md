@@ -2,7 +2,7 @@
 
 Fire, security, access control and CCTV manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**3,362 document records · 72 brands · 3,068 direct PDF links · 0 PDF files mirrored**
+**3,431 document records · 87 brands · 3,138 direct PDF links · 0 PDF files mirrored**
 
 Catalogue build date: 2026-10-21. A check date does not mean a document is the latest revision.
 
@@ -10,16 +10,16 @@ Catalogue build date: 2026-10-21. A check date does not mean a document is the l
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 921 |
-| [Security / intruder](02-security/README.md) | 613 |
-| [Access control / door entry](03-access-control/README.md) | 918 |
-| [CCTV](04-cctv/README.md) | 910 |
+| [Fire](01-fire/README.md) | 967 |
+| [Security / intruder](02-security/README.md) | 617 |
+| [Access control / door entry](03-access-control/README.md) | 924 |
+| [CCTV](04-cctv/README.md) | 923 |
 
 Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 
 ## British Standards updates and revisions
 
-**93 checked references across 7 groups**, covering fire, security, access control, CCTV and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked 2026-10-21.
+**146 checked references across 7 groups**, covering fire, security, access control, CCTV and supporting lighting/electrical references. The section includes current editions, amendment labels, public revision summaries, earlier records and confirmed transition dates. Checked 2026-10-21.
 
 [Browse the standards section](05-british-standards/README.md) · [Search standards offline](index.html#standards) · [App data](data/standards.json)
 
@@ -35,7 +35,7 @@ The register identifies gaps explicitly; it is not a complete history of every B
 
 [`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
 
-Current evidence: **130 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+Current evidence: **241 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
 
 See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
 
@@ -78,6 +78,7 @@ This archive includes older editions and multiple languages. Unknown language, m
 python3 scripts/build_index.py
 python3 scripts/validate.py
 python3 -m unittest discover -s tests -v
+node tests/test_browser.cjs
 ```
 
 See [contribution guidance](CONTRIBUTING.md).

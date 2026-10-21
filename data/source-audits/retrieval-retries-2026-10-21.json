@@ -1,0 +1,292 @@
+{
+  "checked_on": "2026-10-21",
+  "attempted": 38,
+  "successful": 28,
+  "checks": "HTTP response, PDF header and EOF, byte count, SHA-256 and Poppler pdfinfo parse. Edition/model metadata not reverified in this link-integrity pass.",
+  "items": [
+    {
+      "key": "nice-39cc6110b6b5",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20barkit%201.pdf",
+      "sha256": "cecd5ec5f63f8b68defa0fbfea2a4b03ff494329e9652b353fd46ce5ec602e20",
+      "bytes": 17208694,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20barkit%201.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "nice-f3b68bade9bd",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20MBar%20manual.pdf",
+      "sha256": "3e622f8b228b97c93b990aa5e42246adaa1dfbb6f5991db11a4f9da54f3d5e74",
+      "bytes": 17321533,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20MBar%20manual.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-8f037f4d2888",
+      "url": "https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf",
+      "result": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "paxton-aeedf61a31b5",
+      "url": "https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20606.pdf",
+      "result": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "paxton-5524a59cbee3",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20additional%20workstation.pdf",
+      "sha256": "dfa8f7eb309cbba0faa3266c177aaf14c8e1acdeb6cd0ecb35a44cc97d208aa4",
+      "bytes": 337206,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20additional%20workstation.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-7862dc547880",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20LCD%20reader.pdf",
+      "sha256": "15fbea6db52e6b86d4c57287794c7d8555ad85c948e29a148d87aa7043dccbac",
+      "bytes": 2588231,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20LCD%20reader.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-f3c1022fdf94",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20multiple%20workstations.pdf",
+      "sha256": "9b99a4711e12d96041eb11c0f913e303d798e2698ab5ab5954b1186cc53eb6a2",
+      "bytes": 504813,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20multiple%20workstations.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-8dd63676683f",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20quick%20setup%20guide.pdf",
+      "sha256": "434ee8fc8431b9971cf1fe31a2d203eeb6ea1433acb94c448012f79600ea43dc",
+      "bytes": 118222,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20quick%20setup%20guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-737e2b6db791",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net%202%20USB-RS485%20converter.pdf",
+      "sha256": "d69677f17fecc889ab41768510f795bae75999973b06e202156694969e2b5fcb",
+      "bytes": 642966,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net%202%20USB-RS485%20converter.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-7ea4361feabf",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20485%20TCP%20interface.pdf",
+      "sha256": "8dcf0d0e358f04d285595631b1dba759a5132b301ada7297444fc534858acc24",
+      "bytes": 1282891,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20485%20TCP%20interface.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-2de2774ba210",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20additional%20workstation.pdf",
+      "sha256": "dfa8f7eb309cbba0faa3266c177aaf14c8e1acdeb6cd0ecb35a44cc97d208aa4",
+      "bytes": 337206,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20additional%20workstation.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-d43d70f16866",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20Handsfree%20keyfob.pdf",
+      "sha256": "a06180b4ff242bc9276acf9c427664a178988ddcb68ed2ea304ac8d8506263de",
+      "bytes": 737783,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20Handsfree%20keyfob.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-fb959eea7de3",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20USB%20desktop%20reader.pdf",
+      "sha256": "b20720854c6eeb6c03fa7fc561c0bc765ed7dea787eda9d8f0e74c045a478a7b",
+      "bytes": 306876,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20USB%20desktop%20reader.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "videx-92e584d5abf7",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%203000%20Series.pdf",
+      "sha256": "492a2ec52021830ba6ddd306ea8caf4d475df0d7039997ce5d630eb1e16bd3d5",
+      "bytes": 701900,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%203000%20Series.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "videx-71f1a07d2fa5",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%20800%20intercom%20wiring.PDF",
+      "sha256": "3898332a093b26d96c6e885100b94ee655430c833806faac3504a4eeefdab3fe",
+      "bytes": 298675,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%20800%20intercom%20wiring.PDF",
+      "result": "complete-file"
+    },
+    {
+      "key": "luxrite-af9ea59290fa",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Luxrite%20SPro%20Plus%202%20User%20Guide.pdf",
+      "result": "failed",
+      "error": "PDF is empty, incomplete or lacks its expected trailer"
+    },
+    {
+      "key": "meyertech-038c09a8eca0",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVD-MUX-VCR%20Install.pdf",
+      "sha256": "b3942b382b004811b388457345bfe70c67a4739bd8f6d1c020c49e3ae53d7c82",
+      "bytes": 382142,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVD-MUX-VCR%20Install.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "paxton-d8626ce02000",
+      "url": "https://www.paxton-access.com/wp-content/uploads/2019/10/ins-01028.pdf",
+      "result": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "vcl-ademco-055a787d2149",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20Rapid%20Dome%20Use.pdf",
+      "sha256": "b26055d998d29cd8581154b4506fe4b75f21cf12422eee4275cbbb124aaac28b",
+      "bytes": 324262,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20Rapid%20Dome%20Use.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "kentec-8a36d5087932",
+      "url": "https://kentec.co.uk/wp-content/uploads/2020/05/Man-1154GEN-Generic-EN-Installation-Manual-Rev.04.pdf",
+      "result": "failed",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "kentec-87a95bf945ea",
+      "url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1441KE-Taktis-8-Channel-Conventional-Zone-Module-S792-Information-Guide-KENTEC-V1.00.pdf",
+      "result": "failed",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "kentec-3de714100d8b",
+      "url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1442KE-Taktis-4-Channel-NAC-Module-S793-Information-Guide-KENTEC-V1.00.pdf",
+      "result": "failed",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "nittan-46195c49fb6c",
+      "url": "https://nittan.co.uk/wp-content/uploads/2025/10/NT680-165-02-Nittan-evo-Product-Manual-3.pdf",
+      "result": "failed",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "nittan-0788ca9f043d",
+      "url": "https://nittan.co.uk/wp-content/uploads/2025/11/TGS-19-Earthing-procedures-for-Evo-Panels.pdf",
+      "result": "failed",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "key": "bosch-eba38480fbe9",
+      "url": "https://cdn.commerce.boschsecurity.com/public/documents/MAP_5000_Installation_Manual_enUS_45035997701400331.pdf",
+      "result": "failed",
+      "error": "Response is not a PDF (possibly a login or challenge page)"
+    },
+    {
+      "key": "eaton-scantronic-de36d5818888",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209651%20User%20Guide.pdf",
+      "sha256": "e0b5c495ce00d0a97e1af4d94395026f1a8c4117566428d182f2ed68d55c4de8",
+      "bytes": 204938,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209651%20User%20Guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "eaton-scantronic-105c389dba94",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209752%20Installation%20Guide.pdf",
+      "sha256": "229072efb50a5a4eece53e18189adf3ca869b0c186f7ea33eeb0404d28b2b86b",
+      "bytes": 725349,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209752%20Installation%20Guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "eaton-scantronic-270c702f8d8e",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209800%20install%20and%20user%20guide.pdf",
+      "sha256": "e2ebc0fbcd0347d954e85bf2a97f8cde581e80d900d0fb05cca16c17536be800",
+      "bytes": 249775,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209800%20install%20and%20user%20guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "orisec-806438c080d2",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20IR-100%20PIR.pdf",
+      "sha256": "9ac35d7202cf562640bafda66c97122719cfeeb4315bbf48234f5edd0e5f6d2d",
+      "bytes": 597913,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20IR-100%20PIR.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "pyronix-d915e92d5fff",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Sterling%2010%20Install.pdf",
+      "sha256": "f4ebf105d988b55793f9f654eb12c86d14813993843cfba6d3a2b3eff2e32a86",
+      "bytes": 66384176,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Sterling%2010%20Install.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "pyronix-6542b32c8f58",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20Installat.pdf",
+      "sha256": "f3398fe0b77ef1bb0f594d2a048b7b6b080621e3fdb40049a2f7c89c3450de5f",
+      "bytes": 31557758,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20Installat.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "pyronix-28c4d0a92109",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20User%20Inst.pdf",
+      "sha256": "3941c12078f6e2898a6d1eef987ee796d6860f12b287a7e4a8ec2da6b70fcbb8",
+      "bytes": 29685557,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20User%20Inst.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "texecom-ad287364e9c6",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Premier%20Elite%2064%20W.pdf",
+      "sha256": "91300953b06f99e906885285ae92b2bd61b487681a154f8ab4b1bcd2ce36d2be",
+      "bytes": 909092,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Premier%20Elite%2064%20W.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "texecom-eba0d135edbe",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%208%20Engineer%20Manaual.pdf",
+      "sha256": "89505c34f285a322438821b0a227cc6f6330e86788c520cf9e57fe42a8391418",
+      "bytes": 4176970,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%208%20Engineer%20Manaual.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "texecom-03583d7f21e3",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%20user%20guide.pdf",
+      "sha256": "50ad442c9f738d87b461482e8964b53f55cdec7d79eebefba4a2687780a58400",
+      "bytes": 580052,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%20user%20guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "visonic-aac1d0ed7f6f",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/PowerMax%20Plus%20Install%20Guide.pdf",
+      "sha256": "1d3b70cb88337e4a53f5a6d559152d4934bd06877d8849d0e668da2504afd95d",
+      "bytes": 2592446,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/PowerMax%20Plus%20Install%20Guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "visonic-a6a091e1c0e2",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Visonic%20PowerMax%20Install%20Guide.pdf",
+      "sha256": "984e862bfbad9765967c977603a3232484dec8b315ef8cf74dbcf0ad354bb813",
+      "bytes": 608537,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Visonic%20PowerMax%20Install%20Guide.pdf",
+      "result": "complete-file"
+    },
+    {
+      "key": "visonic-36875b75c6a6",
+      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Visonic%20PowerMax%20Plus%20Install%20Guide%20English.pdf",
+      "sha256": "1d3b70cb88337e4a53f5a6d559152d4934bd06877d8849d0e668da2504afd95d",
+      "bytes": 2592446,
+      "resolved_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Visonic%20PowerMax%20Plus%20Install%20Guide%20English.pdf",
+      "result": "complete-file"
+    }
+  ]
+}

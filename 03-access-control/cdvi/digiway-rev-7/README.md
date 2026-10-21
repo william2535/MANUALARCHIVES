@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [CDVI Digiway Rev 7 Manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CDVI%20Digiway%20Rev%207%20Manual.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [DWS102xx automatic door operator installation and use](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/CDVI%20Digiway%20Rev%207%20Manual.pdf) | installation | IS-WDODWML | Rev 7, 2008-05-19 | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

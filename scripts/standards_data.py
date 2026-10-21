@@ -34,7 +34,7 @@ def standards_errors(data):
             error('invalid or duplicate id ' + rid)
         ids.add(rid)
         edition = r.get('edition', '')
-        if edition in editions or not re.fullmatch(r'(BS(?: EN)?(?: IEC)?|PD) \d+(?:-\d+)*:\d{4}(?:\+A\d+:\d{4})*', edition):
+        if edition in editions or not re.fullmatch(r'(BS(?: EN)?(?: IEC)?|PD(?: CEN/TS| CLC/TS)?|DD CLC/TS) \d+(?:-\d+)*:\d{4}(?:\+A\d+:\d{4})*', edition):
             error(rid + ': duplicate/invalid published designation (drafts must not be current standards)')
         editions.add(edition)
         if r.get('standard') != edition.split(':')[0]:
@@ -78,6 +78,20 @@ def standards_errors(data):
             error(rid + ': invalid or non-publisher source')
     if not editions:
         error('empty register')
+    draft_ids = set()
+    for draft in data.get('draft_watchlist', []):
+        reference = draft.get('reference', '')
+        if not re.fullmatch(r'\d{2}/\d+ DC', reference) or reference in draft_ids:
+            error('invalid or duplicate consultation draft reference')
+        draft_ids.add(reference)
+        if not official_url(draft.get('source_url')) or not draft.get('note'):
+            error(reference + ': draft lacks official evidence or status explanation')
+        publication = parsed(draft.get('publisher_record_date'), reference + ' publisher_record_date')
+        evidence = parsed(draft.get('source_checked'), reference + ' source_checked')
+        if publication and evidence and publication > evidence:
+            error(reference + ': future draft cannot be checked as published')
+        if checked and evidence and evidence > checked:
+            error(reference + ': draft evidence is later than register check')
     return errors
 
 
@@ -117,6 +131,11 @@ def render_standards_markdown(data):
             lines += [f'- Earlier record: [{h["edition"]}]({h["source_url"]}) — publisher status: {h["publisher_status"]}. {h["note"]}']
         if len(r['source_urls']) > 1:
             lines += ['', 'Additional official sources: ' + ' · '.join(f'[source {i+1}]({url})' for i, url in enumerate(r['source_urls'][1:]))]
+        lines += ['']
+    if data.get('draft_watchlist'):
+        lines += ['## Consultation draft watchlist', '', 'These are proposals, not published replacements. A catalogue listing does not establish whether public comments remain open.', '', '| Draft reference | Subject | BSI record date |', '|---|---|---|']
+        for draft in data['draft_watchlist']:
+            lines.append(f'| [{md(draft["reference"])}]({draft["source_url"]}) | {md(draft["subject"])} | {draft["publisher_record_date"]} |')
         lines += ['']
     lines += ['## Coverage still to verify', ''] + ['- ' + x for x in data['coverage']['remaining_checks']]
     lines += ['', '## Maintenance', '', 'Edit `data/standards.json`, retaining earlier records and their evidence. Verify the exact edition on its publisher page, record the check date, and distinguish publication, amendment and withdrawal dates. Do not promote a consultation draft to a published standard or infer withdrawal from age. Run `python3 scripts/build_index.py`, `python3 scripts/validate.py` and the tests. Rebuilding does not recheck sources.', '', 'The register is a dated snapshot, with no automatic monitoring. Full standards are obtained from the publisher under its licence; the manuals downloader does not download them.']

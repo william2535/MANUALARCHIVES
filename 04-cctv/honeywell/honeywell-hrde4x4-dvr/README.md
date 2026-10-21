@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Honeywell HRDE4X4 DVR](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Honeywell%20HRDE4X4%20DVR.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [HRDE4X4 user guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Honeywell%20HRDE4X4%20DVR.pdf) | user-guide | 900.0399 | Rev 3.01, August 2008 | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

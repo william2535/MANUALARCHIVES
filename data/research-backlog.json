@@ -444,13 +444,6 @@
       "source_url": "https://ajax.systems/support/category/type4-rex-jeweller/"
     },
     {
-      "id": "apollo-e4a1e6b937c1",
-      "brand": "Apollo",
-      "title": "XPander — Commissioning & troubleshooting",
-      "availability": "source-listing",
-      "source_url": "https://apollo-fire.co.uk/system-types/xpander-range/"
-    },
-    {
       "id": "kentec-a33940f2af38",
       "brand": "Kentec",
       "title": "Man-1027 E2000000 Series",
@@ -2063,756 +2056,132 @@
   ],
   "failed_retrieval_records": [
     {
-      "id": "nice-39cc6110b6b5",
-      "brand": "Nice",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20barkit%201.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20barkit%201.pdf: (400) Content length is too large: 17208694 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Nice barkit 1",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "nice-f3b68bade9bd",
-      "brand": "Nice",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20MBar%20manual.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nice%20MBar%20manual.pdf: (400) Content length is too large: 17321533 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Nice MBar manual",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-5524a59cbee3",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20additional%20workstation.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Net2 additional workstation",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-7862dc547880",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20LCD%20reader.pdf",
-      "note": "Retrieval-service recheck remains unresolved: URL https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20LCD%20reader.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Net2 LCD reader",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-f3c1022fdf94",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20multiple%20workstations.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Net2 multiple workstations",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-8dd63676683f",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Net2%20quick%20setup%20guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved:  L1:  L2:  Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Net2 quick setup guide",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-737e2b6db791",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net%202%20USB-RS485%20converter.pdf",
-      "note": "Retrieval-service recheck remains unresolved: URL https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net%202%20USB-RS485%20converter.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Paxton Net 2 USB-RS485 converter",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-7ea4361feabf",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20485%20TCP%20interface.pdf",
-      "note": "Retrieval-service recheck remains unresolved:  L1:  L2:  Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Paxton Net2 485 TCP interface",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-2de2774ba210",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20additional%20workstation.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Paxton Net2 additional workstation",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-d43d70f16866",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20Handsfree%20keyfob.pdf",
-      "note": "Retrieval-service recheck remains unresolved:  L1:  L2:  Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Paxton Net2 Handsfree keyfob",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "paxton-fb959eea7de3",
-      "brand": "Paxton",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Paxton%20Net2%20USB%20desktop%20reader.pdf",
-      "note": "Retrieval-service recheck remains unresolved:  L1:  L2:  Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Paxton Net2 USB desktop reader",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
       "id": "paxton-8f037f4d2888",
       "brand": "Paxton",
-      "url": "https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20603.pdf: (400) Content length is too large: 17999887 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
       "title": "ins-20603 – Net2 Plus and Power supplies UL",
       "availability": "retrieval-failed",
-      "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
+      "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/"
     },
     {
       "id": "paxton-aeedf61a31b5",
       "brand": "Paxton",
-      "url": "https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20606.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.paxton-access.com/wp-content/uploads/2019/03/ins-20606.pdf: (400) Content length is too large: 17659650 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
       "title": "ins-20606 – Net2 Plus in US Metal Enclosure Power supplies UL",
       "availability": "retrieval-failed",
-      "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "videx-92e584d5abf7",
-      "brand": "Videx",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%203000%20Series.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Videx 3000 Series",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "videx-71f1a07d2fa5",
-      "brand": "Videx",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%20800%20intercom%20wiring.PDF",
-      "note": "Retrieval-service recheck remains unresolved: URL https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%20800%20intercom%20wiring.PDF is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Videx 800 intercom wiring",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
+      "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/"
     },
     {
       "id": "luxrite-af9ea59290fa",
       "brand": "Luxrite",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Luxrite%20SPro%20Plus%202%20User%20Guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved: URL https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Luxrite%20SPro%20Plus%202%20User%20Guide.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
       "title": "Luxrite SPro Plus 2 User Guide",
       "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "meyertech-038c09a8eca0",
-      "brand": "Meyertech",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVD-MUX-VCR%20Install.pdf",
-      "note": "Retrieval-service recheck remains unresolved: URL https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Zone%20Vu%20ZVD-MUX-VCR%20Install.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Zone Vu ZVD-MUX-VCR Install",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
+      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php"
     },
     {
       "id": "paxton-d8626ce02000",
       "brand": "Paxton",
-      "url": "https://www.paxton-access.com/wp-content/uploads/2019/10/ins-01028.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.paxton-access.com/wp-content/uploads/2019/10/ins-01028.pdf: (400) Content length is too large: 23942598 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
       "title": "Ins-01028 Paxton10 Video controller – 12V 4A PSU",
       "availability": "retrieval-failed",
-      "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "vcl-ademco-055a787d2149",
-      "brand": "VCL / Ademco",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20Rapid%20Dome%20Use.pdf",
-      "note": "Retrieval-service recheck remains unresolved:  L1:  L2:  Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "VCL - Ademco Rapid Dome Use",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
+      "source_url": "https://www.paxton-access.com/install-paxton/resources/instructions/"
     },
     {
       "id": "kentec-8a36d5087932",
       "brand": "Kentec",
-      "url": "https://kentec.co.uk/wp-content/uploads/2020/05/Man-1154GEN-Generic-EN-Installation-Manual-Rev.04.pdf",
-      "note": "Retrieval-service recheck remains unresolved: URL https://kentec.co.uk/wp-content/uploads/2020/05/Man-1154GEN-Generic-EN-Installation-Manual-Rev.04.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
       "title": "Man-1154GEN Taktis Installation Manual",
       "availability": "retrieval-failed",
-      "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "kentec-3de714100d8b",
-      "brand": "Kentec",
-      "url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1442KE-Taktis-4-Channel-NAC-Module-S793-Information-Guide-KENTEC-V1.00.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://kentec.co.uk/wp-content/uploads/2026/06/Man-1442KE-Taktis-4-Channel-NAC-Module-S793-Information-Guide-KENTEC-V1.00.pdf: (400) Content length is too large: 23244064 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Man-1442 Taktis 4 Channel NAC Module",
-      "availability": "retrieval-failed",
-      "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
       "id": "kentec-87a95bf945ea",
       "brand": "Kentec",
-      "url": "https://kentec.co.uk/wp-content/uploads/2026/06/Man-1441KE-Taktis-8-Channel-Conventional-Zone-Module-S792-Information-Guide-KENTEC-V1.00.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://kentec.co.uk/wp-content/uploads/2026/06/Man-1441KE-Taktis-8-Channel-Conventional-Zone-Module-S792-Information-Guide-KENTEC-V1.00.pdf: (400) Content length is too large: 32576976 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
       "title": "Man-1441 Taktis 8 Channel Conventional Zone Module",
       "availability": "retrieval-failed",
-      "source_url": "https://kentec.co.uk/resources/product-resources/",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
-      "id": "eaton-scantronic-de36d5818888",
-      "brand": "Eaton / Scantronic",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209651%20User%20Guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Scantronic 9651 User Guide",
+      "id": "kentec-3de714100d8b",
+      "brand": "Kentec",
+      "title": "Man-1442 Taktis 4 Channel NAC Module",
       "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "eaton-scantronic-105c389dba94",
-      "brand": "Eaton / Scantronic",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209752%20Installation%20Guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved:  L1:  L2:  Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Scantronic 9752 Installation Guide",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "eaton-scantronic-270c702f8d8e",
-      "brand": "Eaton / Scantronic",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209800%20install%20and%20user%20guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Scantronic 9800 install and user guide",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "orisec-806438c080d2",
-      "brand": "Orisec",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Orisec%20IR-100%20PIR.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Orisec IR-100 PIR",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "pyronix-d915e92d5fff",
-      "brand": "Pyronix",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Sterling%2010%20Install.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Sterling%2010%20Install.pdf: (400) Content length is too large: 66384176 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Pyronix Sterling 10 Install",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "pyronix-28c4d0a92109",
-      "brand": "Pyronix",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20User%20Inst.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20User%20Inst.pdf: (400) Content length is too large: 29685557 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Pyronix Vocaliser User Inst",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "pyronix-6542b32c8f58",
-      "brand": "Pyronix",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20Installat.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Pyronix%20Vocaliser%20Installat.pdf: (400) Content length is too large: 31557758 This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Pyronix Vocaliser Installat",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "retrieval-service-size-limit",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "texecom-ad287364e9c6",
-      "brand": "Texecom",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Premier%20Elite%2064%20W.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Texecom Premier Elite 64 W",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "texecom-03583d7f21e3",
-      "brand": "Texecom",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%20user%20guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Texecom Veritas user guide",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "texecom-eba0d135edbe",
-      "brand": "Texecom",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Texecom%20Veritas%208%20Engineer%20Manaual.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Texecom Veritas 8 Engineer Manaual",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "visonic-aac1d0ed7f6f",
-      "brand": "Visonic",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/PowerMax%20Plus%20Install%20Guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "PowerMax Plus Install Guide",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "visonic-a6a091e1c0e2",
-      "brand": "Visonic",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Visonic%20PowerMax%20Install%20Guide.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Visonic PowerMax Install Guide",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
-    },
-    {
-      "id": "visonic-36875b75c6a6",
-      "brand": "Visonic",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Visonic%20PowerMax%20Plus%20Install%20Guide%20English.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Please wait while your request is being verified... This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "title": "Visonic PowerMax Plus Install Guide English",
-      "availability": "retrieval-failed",
-      "source_url": "https://www.ukwatchsecurity.co.uk/engineers.php",
-      "failure_kind": "html-challenge",
-      "checked_on": "2026-10-21"
+      "source_url": "https://kentec.co.uk/resources/product-resources/"
     },
     {
       "id": "nittan-46195c49fb6c",
       "brand": "Nittan",
       "title": "EVO+5800 — NT680-165-02-Nittan-evo-Product-Manual-3",
       "availability": "retrieval-failed",
-      "source_url": "https://nittan.co.uk/products/products/panels/evo-5800/",
-      "note": "Retrieval-service recheck remains unresolved: URL https://nittan.co.uk/wp-content/uploads/2025/10/NT680-165-02-Nittan-evo-Product-Manual-3.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
+      "source_url": "https://nittan.co.uk/products/products/panels/evo-5800/"
     },
     {
       "id": "nittan-0788ca9f043d",
       "brand": "Nittan",
       "title": "TGS-19 – Earthing procedures for Evo+ Panels",
       "availability": "retrieval-failed",
-      "source_url": "https://nittan.co.uk/technical-guidance-sheets-2/",
-      "note": "Retrieval-service recheck remains unresolved: URL https://nittan.co.uk/wp-content/uploads/2025/11/TGS-19-Earthing-procedures-for-Evo-Panels.pdf is not accessible via this tool. This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "failure_kind": "retrieval-service-inaccessible",
-      "checked_on": "2026-10-21"
+      "source_url": "https://nittan.co.uk/technical-guidance-sheets-2/"
     },
     {
       "id": "bosch-eba38480fbe9",
       "brand": "Bosch",
       "title": "MAP 5000 Installation Manual — download unresolved",
       "availability": "retrieval-failed",
-      "source_url": "https://cdn.commerce.boschsecurity.com/public/documents/MAP_5000_Installation_Manual_enUS_45035997701400331.pdf",
-      "note": "Retrieval-service recheck remains unresolved: Failed to fetch https://cdn.commerce.boschsecurity.com/public/documents/MAP_5000_Installation_Manual_enUS_45035997701400331.pdf: (400) Unsupported content-type: application/octet-stream This is not proof that the publisher PDF is missing or invalid. No complete-file check was possible.",
-      "failure_kind": "retrieval-service-content-type-limit",
-      "checked_on": "2026-10-21"
+      "source_url": "https://cdn.commerce.boschsecurity.com/public/documents/MAP_5000_Installation_Manual_enUS_45035997701400331.pdf"
     }
   ],
   "unclassified_supplier_candidates": [
     {
-      "title": "Abacus 6 Engineer Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Abacus%206%20Engineer%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Abacus LCD User Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Abacus%20LCD%20User%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Alien NVS100 manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Alien%20NVS100%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "AR433- plus instructions - updated",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/AR433-%20plus%20instructions%20-%20updated.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Autodome Indoor Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Autodome%20Indoor%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "BT5-Operating-Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/BT5-Operating-Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "BT8-Operating-Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/BT8-Operating-Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "BV Rx 450 Installation Manu",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/BV%20Rx%20450%20Installation%20Manu.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Camera reference guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Camera%20reference%20guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DA Abacus Engineer Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DA%20Abacus%20Engineer%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DB Nexus Installation Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DB%20Nexus%20Installation%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Digiway Plus Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Digiway%20Plus%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Digiway Rev 7 Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Digiway%20Rev%207%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DM2060 Dome manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DM2060%20Dome%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DS2 Network Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DS2%20Network%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DS2 Networking Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DS2%20Networking%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DS2 Setup Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DS2%20Setup%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
       "title": "DS2ClassicManual",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DS2ClassicManual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "DS2NetworkingGuide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DS2NetworkingGuide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Downloaded file fails the PDF parser with invalid cross-reference entries; a usable replacement is required.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "DVR GUI1 Manual",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/DVR_GUI1%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "EFP1 fire panel install manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/EFP1%20fire%20panel%20install%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Envirodome Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Envirodome%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "F50R Fire Beam Install-English",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/F50R%20Fire%20Beam%20Install-English.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Fire Beam F5K-UserGuide-ENGLISH",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Fire%20Beam%20F5K-UserGuide-ENGLISH.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Fire Beam Plus User Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Fire%20Beam%20Plus%20User%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Fire Beam Plus User Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Fire%20Beam%20Plus%20User%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Fire Beam Xtra User Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Fire%20Beam%20Xtra%20User%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Fire Ray 50R manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Fire%20Ray%2050R%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Fireray F50R Install Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Fireray%20F50R%20Install%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "FireTrax Manual and Log Book",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/FireTrax%20Manual%20and%20Log%20Book.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "FP 2-14 zone fire panel install manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/FP%202-14%20zone%20fire%20panel%20install%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "FP fire panel install manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/FP%20fire%20panel%20install%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "FP Range 14 Zone Panel Install Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/FP%20Range%2014%20Zone%20Panel%20Install%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Generic GUI-1 DVR manual; manufacturer and supported models are not established from the document.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "Gas closer instructions with drawing",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Gas%20closer%20instructions%20with%20drawing.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Guardian Access Control System - Installation Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Guardian%20Access%20Control%20System%20-%20Installation%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Generic gas spring gate closer instructions; manufacturer and exact model remain unidentified.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "GUI1 DVR Manual",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GUI1%20DVR%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "HRDE4X4 user manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/HRDE4X4%20user%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "HRDE4X4QuickInstallV1",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/HRDE4X4QuickInstallV1.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "LTC0435 Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/LTC0435%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "LTC0455 Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/LTC0455%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "LTC0600 Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/LTC0600%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "LUX BT - 24V - SWING OPERATOR - MANUAL",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/LUX%20BT%20-%2024V%20-%20SWING%20OPERATOR%20-%20MANUAL.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Maxcom Installer Multilingual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Maxcom%20Installer%20Multilingual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "MFP 4-28 zone fire panel install manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/MFP%204-28%20zone%20fire%20panel%20install%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Nexus Engineer Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Nexus%20Engineer%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "NVS100 manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/NVS100%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Opal Elite install manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Opal%20Elite%20install%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "PAM 120 340 280A Public Address Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/PAM%20120%20340%20280A%20Public%20Address%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "PA radio receiver 762R manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/PA%20radio%20receiver%20762R%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "PA Tannoy Basic 100v system wiring guide ",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/PA%20Tannoy%20Basic%20100v%20system%20wiring%20guide%20.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Radio PA transmitter manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Radio%20PA%20transmitter%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Safety Edge Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Safety%20Edge%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "SD2 Installation manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/SD2%20Installation%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Security enclosures Videswitch Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Security%20enclosures%20Videswitch%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Security enclosures WFT100 WFR100 Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Security%20enclosures%20WFT100%20WFR100%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Sentri one fire panel user manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Sentri%20one%20fire%20panel%20user%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Sentri one fire alarm Install Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Sentri_one%20fire%20alarm%20Install%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "SIGMA Fire panel MANUAL",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/SIGMA%20Fire%20panel%20MANUAL.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "SIGMA MANUAL",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/SIGMA%20MANUAL.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Smoke Beam F5K User Guide",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Smoke%20Beam%20F5K%20User%20Guide.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Byte-identical to the generic GUI-1 candidate; manufacturer and model still unidentified.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "Speach Processing Unit Manual Part 2",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Speach%20Processing%20Unit%20Manual%20Part%202.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Customer-specific signal processing unit scan; generic product identity and suitability for the public archive are not established.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "Speach Processing Unit V2 Manual",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Speach%20Processing%20Unit%20V2%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Customer-specific signal processing unit scan; generic product identity and suitability for the public archive are not established.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "Talentum IR3 Manual",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Talentum%20IR3%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Generic 2003 flame detector booklet; exact Talentum manufacturer/model applicability is not established from the unbranded document.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     },
     {
       "title": "Talentum User Manual English",
       "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Talentum%20User%20Manual%20English.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "Toona TO4024 Toona gate closer manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Toona%20TO4024%20Toona%20gate%20closer%20manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "VR4K1Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VR4K1Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
-    },
-    {
-      "title": "ZT-30P IR Flame Detector Manual",
-      "url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/ZT-30P%20IR%20Flame%20Detector%20Manual.pdf",
-      "reason": "Manufacturer or product scope not established from listing."
+      "reason": "Byte-identical to the generic 2003 flame detector booklet; exact model applicability remains unresolved.",
+      "checked_on": "2026-10-21",
+      "review_status": "blocked-identity-or-file-quality"
     }
   ],
   "priority_brand_gaps": [
@@ -2841,5 +2210,21 @@
     "data/source-audits/failed-retrievals-2026-10-21.json",
     "data/source-audits/kentec-2026-10-21.json"
   ],
-  "continuation_log_kentec": "data/continuation-log-2026-10-21-kentec.json"
+  "continuation_log_kentec": "data/continuation-log-2026-10-21-kentec.json",
+  "continuation_log_supplier_audit": {
+    "checked_on": "2026-10-21",
+    "candidates_reviewed": 67,
+    "new_records": 39,
+    "recovered_failed_records": 28,
+    "remaining_identity_or_quality_checks": 8,
+    "evidence": "data/supplier-candidate-audit.json",
+    "notes": "Complete-file checks improve retrieval evidence only. Remaining candidates have individual reasons; a rejected misleading file is not kept in the download queue."
+  },
+  "continuation_log_ffe_apollo": {
+    "checked_on": "2026-10-21",
+    "ffe_distinct_manuals_added": 30,
+    "ffe_linked_files_checked": 35,
+    "apollo_existing_resolved": "apollo-e4a1e6b937c1",
+    "note": "All checked locally with complete-file evidence; printed document metadata reviewed. Manufacturer source rather than supplier alternative used for Apollo."
+  }
 }

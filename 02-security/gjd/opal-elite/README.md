@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [GJD Opal Elite](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GJD%20Opal%20Elite.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
-| [GJD Opal Elite install manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GJD%20Opal%20Elite%20install%20manual.pdf) | installation | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [GJD Opal Elite](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GJD%20Opal%20Elite.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [GJD Opal Elite install manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/GJD%20Opal%20Elite%20install%20manual.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

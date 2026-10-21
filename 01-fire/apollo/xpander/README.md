@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [XPander — Commissioning & troubleshooting](https://apollo-fire.co.uk/system-types/xpander-range/) | troubleshooting | Not recorded | Not recorded | source-listing | [Manufacturer](https://apollo-fire.co.uk/system-types/xpander-range/) |
+| [XPander commissioning and troubleshooting guide](https://apollo-fire.co.uk/wp-content/uploads/2025/10/pp2286-xpander-commissioning-guide.pdf) | troubleshooting | PP2286 | 2019 / Issue 13 | pdf-indexed | [Manufacturer](https://apollo-fire.co.uk/system-types/xpander-range/) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

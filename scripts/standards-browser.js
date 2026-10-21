@@ -5,6 +5,7 @@ const standardsRows=standardsData.records.map(r=>({record:r,search:normal([r.edi
 $('standards-checked').textContent=`${standardsData.records.length} checked references · ${Object.keys(standardsData.categories).length} groups · checked ${standardsData.checked_on}`;
 $('standards-category').innerHTML='<option value="">All subjects</option>'+Object.entries(standardsData.categories).map(([key,label])=>`<option value="${h(key)}">${h(label)}</option>`).join('');
 $('standards-gaps').innerHTML=standardsData.coverage.remaining_checks.map(t=>`<li>${h(t)}</li>`).join('');
+$('standards-drafts').innerHTML=(standardsData.draft_watchlist||[]).map(d=>`<li><a href="${h(d.source_url)}" target="_blank" rel="noopener noreferrer">${h(d.reference)}</a> — ${h(d.subject)} · BSI record ${h(d.publisher_record_date)}</li>`).join('');
 function standardUpdateMatch(r){
   const value=$('standards-update').value;
   return !value || (value==='recent'&&Math.max(...[...r.edition.matchAll(/:(\d{4})/g)].map(m=>Number(m[1])))>=2024)

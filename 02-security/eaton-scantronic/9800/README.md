@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Scantronic 9800 install and user guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209800%20install%20and%20user%20guide.pdf) | installation | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Scantronic 9800 install and user guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%209800%20install%20and%20user%20guide.pdf) | installation | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

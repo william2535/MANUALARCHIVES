@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [BBV Rx 450 Installation Manu](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/BBV%20Rx%20450%20Installation%20Manu.pdf) | installation | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Rx450 installation manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/BBV%20Rx%20450%20Installation%20Manu.pdf) | installation | Not recorded | Issue 1.12a, 2001-05-03; software V12 | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

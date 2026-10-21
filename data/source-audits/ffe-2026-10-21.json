@@ -1,0 +1,184 @@
+{
+  "checked_on": "2026-10-21",
+  "source_url": "https://www.ffeuk.com/resources",
+  "scope": "English user and installation guide links present in the fetched resource page; other document types and languages are outside this check.",
+  "linked_files_checked": 35,
+  "distinct_files": 30,
+  "items": [
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_One/User_Guides/0044-092_Fireray_One_User_Guide_(EN).pdf",
+      "record_id": "ffe-64c2d2717edc",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Hub_Reflective/User_Guides/0044-102_Fireray_Hub_Reflective_User_Guide_(EN).pdf",
+      "record_id": "ffe-a7e41400fbe7",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_5000/User_Guides/0044-033_Fireray_5000_User_Guide_(EN).pdf",
+      "record_id": "ffe-e0bca56e4001",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_5000/User_Guides/0044-034_Fireray_5000_User_Guide-Additional_Information_(EN).pdf",
+      "record_id": "ffe-ce3d5c7f4528",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_3000/User_Guides/0044-047_Fireray_3000_User_Guide_(EN).pdf",
+      "record_id": "ffe-afd1a2613615",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_3000/User_Guides/0044-063_Fireray_3000_User_Guide-Additional_Information_(EN).pdf",
+      "record_id": "ffe-e5c074e60118",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_3000/User_Guides/0044-064_Fireray_3000_Detector_Heater_User_Guide_(EN).pdf",
+      "record_id": "ffe-d85e3bde4a9e",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Accessories/Fireray_3000/0044-054_Fireray_Adjustment_Bracket_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-feed928548a5",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Accessories/Fireray_3000/24-0029_Fireray_Detector_Uni-Box_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-a159a93ee04d",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Accessories/Fireray_3000/24-0031_Fireray_Ceiling_Pendant_Mount_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-bf314b3d1bbe",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Accessories/Fireray_3000/24-0032_Fireray_Detector_Protective_Wire_Cage_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-be0e982e865a",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Accessories/Fireray_3000/24-0086_Fireray_3000_%20Controller_Back_Box_and_Semi-Flush_Trim_Plate_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-fb25d1bb1cc2",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_3000_Ex_d/User_Guides/0044-073_Fireray_3000_Ex-D_User_Guide_(EN).pdf",
+      "record_id": "ffe-1803aa731e41",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR2/Installation_Guides/0044-086_Talentum_16000_Flameproof_Ex-d_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-7bc12fdeb0cf",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR2/User_Guides/0044-091_Talentum_16000_User_Guide_(EN).pdf",
+      "record_id": "ffe-acdd608802c7",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR3/Installation_Guides/0044-086_Talentum_16000_Flameproof_Ex-d_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-7bc12fdeb0cf",
+      "outcome": "byte-identical-alternate"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR3/User_Guides/0044-090_Talentum_16000_FM_User_Guide_(EN).pdf",
+      "record_id": "ffe-609daa8fe5db",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR3/User_Guides/0044-091_Talentum_16000_User_Guide_(EN).pdf",
+      "record_id": "ffe-acdd608802c7",
+      "outcome": "byte-identical-alternate"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/UV-IR2/User_Guides/0044-090_Talentum_16000_FM_User_Guide_(EN).pdf",
+      "record_id": "ffe-609daa8fe5db",
+      "outcome": "byte-identical-alternate"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/UV-IR2/User_Guides/0044-091_Talentum_16000_User_Guide_(EN).pdf",
+      "record_id": "ffe-acdd608802c7",
+      "outcome": "byte-identical-alternate"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/Test_Torch/User_Guides/0044-117_Talentum_Test_Torch_User_Guide_(EN).pdf",
+      "record_id": "ffe-47c2016c7dfa",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/Test_Torch/User_Guides/0044-118_Talentum_Test_Torch_Lens_Replacement_Guide_(EN).pdf",
+      "record_id": "ffe-a0d7c22d63de",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/Test_Torch/User_Guides/0044-119_Talentum_Test_Torch_Diffuser_Replacement_Guide_(EN).pdf",
+      "record_id": "ffe-abdac365732f",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Proreact/Fixed/User_Guides/24-0474_Proreact_FAT_LHD_Cable_User_Guide_(EN).pdf",
+      "record_id": "ffe-1144952ca5cb",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Proreact/Fixed/User_Guides/24-0475_Proreact_FAT_Sensor_Control_Unit_User_Guide_(EN).pdf",
+      "record_id": "ffe-d64ff2745a97",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Proreact/Fixed/User_Guides/24-0476_Proreact_FAT_Digital_Interface_Monitor_Module_User_Guide_(EN).pdf",
+      "record_id": "ffe-71af12ffd6ed",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Proreact/Programmable/Installation_Guides/24-0487_Proreact_PAT_LHD_Cable_User_Guide_(EN).pdf",
+      "record_id": "ffe-d35281d5f467",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Sensis/Azure_500s/User_Guides/0044-147_Sensis_Azure_500s_User_Guide_(EN).pdf",
+      "record_id": "ffe-b33e934812f0",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Sensis/Azure_2000s/User_Guides/0044-148_Sensis_Azure_2000s_User_Guide_(EN).pdf",
+      "record_id": "ffe-6f83c52490eb",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR2/Installation_Guides/0044-088_Talentum_16000_Ex-i_(IS)_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-fa7ef2eb8e2b",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/IR3/Installation_Guides/0044-088_Talentum_16000_Ex-i_(IS)_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-fa7ef2eb8e2b",
+      "outcome": "byte-identical-alternate"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Talentum/16000/UV-IR2/Installation_Guides/0044-087_Talentum_Flame_Detector_UV-IR2_Ex-d_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-e4ab811b4b8e",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Fireray/Fireray_Accessories/Fireray_5000/24-0090_Fireray_Long_Range_Prism_Kit_Installation_Guide_(EN).pdf",
+      "record_id": "ffe-d0bb64a11e4a",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Sensis/Indigo_CSD-H/User_Guides/0044-154_Sensis_Indigo_User_Guide_(EN).pdf",
+      "record_id": "ffe-d94b51054619",
+      "outcome": "new-record-added"
+    },
+    {
+      "url": "https://ffeuk.com/hubfs/website/resources/Sensis/Sensis_Cobalt_HM/User_Guides/0044-153_Sensis_Cobalt_User_Guide_(EN).pdf",
+      "record_id": "ffe-86bde9885060",
+      "outcome": "new-record-added"
+    }
+  ]
+}

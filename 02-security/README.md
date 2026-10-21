@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-613 document records. Door entry belongs under access control.
+617 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -12,15 +12,16 @@
 | [Aritech](aritech/README.md) | 6 | 3 |
 | [Axis](axis/README.md) | 48 | 45 |
 | [Bandit](bandit/README.md) | 3 | 3 |
-| [Bosch](bosch/README.md) | 1 | 1 |
+| [Bosch](bosch/README.md) | 3 | 3 |
 | [Comelit](comelit/README.md) | 31 | 36 |
-| [Eaton / Scantronic](eaton-scantronic/README.md) | 20 | 16 |
+| [Eaton / Scantronic](eaton-scantronic/README.md) | 20 | 18 |
 | [GJD](gjd/README.md) | 10 | 7 |
 | [Honeywell](honeywell/README.md) | 40 | 33 |
 | [Inovonics](inovonics/README.md) | 2 | 2 |
 | [Kentec](kentec/README.md) | 8 | 7 |
 | [Luminite](luminite/README.md) | 2 | 2 |
-| [Menvier](menvier/README.md) | 10 | 8 |
+| [Lynteck](lynteck/README.md) | 1 | 1 |
+| [Menvier](menvier/README.md) | 11 | 9 |
 | [Nortek](nortek/README.md) | 4 | 4 |
 | [Orisec](orisec/README.md) | 11 | 15 |
 | [Pyronix](pyronix/README.md) | 9 | 10 |

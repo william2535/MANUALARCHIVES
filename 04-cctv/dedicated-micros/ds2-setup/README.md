@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Dedicated Micros DS2 Setup Guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Dedicated%20Micros%20DS2%20Setup%20Guide.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Digital Sprite 2 setup guide](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Dedicated%20Micros%20DS2%20Setup%20Guide.pdf) | installation | MI-I-DS2AD | M1-0 | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

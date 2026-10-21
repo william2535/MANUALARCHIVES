@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-15 document records, grouped into 12 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+17 document records, grouped into 14 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -12,6 +12,8 @@
 | [MCP-XENS-800-801-805-842-850-installation-instructions](mcp-xens-800-801-805-842-850-installation-instructions/README.md) | 1 |
 | [Nano](nano/README.md) | 1 |
 | [S-Quad](s-quad/README.md) | 1 |
+| [SenTRI](sentri/README.md) | 1 |
+| [SenTRI ONE](sentri-one/README.md) | 1 |
 | [VADS-vs-VIDS-infographic](vads-vs-vids-infographic/README.md) | 1 |
 | [Vigilon](vigilon/README.md) | 3 |
 | [Vigilon Compact](vigilon-compact/README.md) | 1 |

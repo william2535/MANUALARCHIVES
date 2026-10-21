@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [VCL - Ademco Rapid Dome Use](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20Rapid%20Dome%20Use.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [VCL - Ademco Rapid Dome Use](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/VCL%20-%20Ademco%20Rapid%20Dome%20Use.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

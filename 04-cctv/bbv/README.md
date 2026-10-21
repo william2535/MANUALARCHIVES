@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-25 document records, grouped into 26 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+25 document records, grouped into 27 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -22,6 +22,7 @@
 | [RX400P MK 2](rx400p-mk-2/README.md) | 1 |
 | [Rx 450](rx-450/README.md) | 1 |
 | [Rx10X](rx10x/README.md) | 1 |
+| [Rx450](rx450/README.md) | 1 |
 | [Rx550DC](rx550dc/README.md) | 1 |
 | [Rx551DC](rx551dc/README.md) | 1 |
 | [SDS1 Plus Serial Data S](sds1-plus-serial-data-s/README.md) | 1 |

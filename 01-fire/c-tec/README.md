@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-166 document records, grouped into 123 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+169 document records, grouped into 125 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -85,6 +85,7 @@
 | [ECU721](ecu721/README.md) | 1 |
 | [ECU722](ecu722/README.md) | 1 |
 | [ECU723](ecu723/README.md) | 1 |
+| [EFP1](efp1/README.md) | 1 |
 | [EVC301/JP](evc301-jp/README.md) | 1 |
 | [EVC301RLK](evc301rlk/README.md) | 1 |
 | [EVC301RPO](evc301rpo/README.md) | 1 |
@@ -98,9 +99,10 @@
 | [EVC423](evc423/README.md) | 1 |
 | [EVCS SigTel Compact](evcs-sigtel-compact/README.md) | 1 |
 | [FF502P 4 ZONE SOUNDER EXTENDER](ff502p-4-zone-sounder-extender/README.md) | 1 |
-| [FP Range](fp-range/README.md) | 1 |
+| [FP Range](fp-range/README.md) | 2 |
 | [FiTT SigTEL line tester](fitt-sigtel-line-tester/README.md) | 1 |
 | [Hush-Pro](hush-pro/README.md) | 9 |
+| [MFP Range](mfp-range/README.md) | 1 |
 | [RELAY CARD](relay-card/README.md) | 1 |
 | [SSM-12](ssm-12/README.md) | 1 |
 | [SigTEL](sigtel/README.md) | 1 |

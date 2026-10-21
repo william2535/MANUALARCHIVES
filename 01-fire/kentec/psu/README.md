@@ -14,6 +14,6 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
-Record IDs: `kentec-9a459aa470eb`, `kentec-fcd372bbfc52`, `kentec-cd9b384fa062`, `kentec-78c4a3e92850`, `kentec-86f5052c1d60`
+Record IDs: `kentec-cd9b384fa062`, `kentec-86f5052c1d60`, `kentec-78c4a3e92850`, `kentec-9a459aa470eb`, `kentec-fcd372bbfc52`
 
 PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Videx 3000 Series](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%203000%20Series.pdf) | reference | Not recorded | Not recorded | retrieval-failed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [Videx 3000 Series](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Videx%203000%20Series.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

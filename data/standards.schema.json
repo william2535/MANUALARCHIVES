@@ -100,7 +100,7 @@
           },
           "edition": {
             "type": "string",
-            "pattern": "^(BS(?: EN)?(?: IEC)?|PD) \\d+(?:-\\d+)*:\\d{4}(?:\\+A\\d+:\\d{4})*$"
+            "pattern": "^(BS(?: EN)?(?: IEC)?|PD(?: CEN/TS| CLC/TS)?|DD CLC/TS) \\d+(?:-\\d+)*:\\d{4}(?:\\+A\\d+:\\d{4})*$"
           },
           "title": {
             "type": "string"
@@ -257,6 +257,46 @@
           },
           "access": {
             "const": "publisher-link-only"
+          }
+        }
+      }
+    },
+    "draft_watchlist": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "reference",
+          "subject",
+          "publisher_record_date",
+          "source_checked",
+          "source_url",
+          "note"
+        ],
+        "properties": {
+          "reference": {
+            "type": "string",
+            "pattern": "^\\d{2}/\\d+ DC$"
+          },
+          "subject": {
+            "type": "string"
+          },
+          "publisher_record_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "source_checked": {
+            "type": "string",
+            "format": "date"
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "note": {
+            "type": "string"
           }
         }
       }

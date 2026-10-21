@@ -19,5 +19,12 @@
     "source_url": "https://kentec.co.uk/resources/product-resources/",
     "checked_on": "2026-10-16",
     "note": "Collection directory; excluded from document counts."
+  },
+  {
+    "brand": "FFE",
+    "title": "Manufacturer resources — English user and installation guides",
+    "source_url": "https://www.ffeuk.com/resources",
+    "checked_on": "2026-10-21",
+    "note": "35 linked PDFs checked; 30 distinct complete files indexed. Byte-identical paths across Talentum product groups are alternate sources, not additional documents. This inventory does not cover every language, datasheet or certificate."
   }
 ]

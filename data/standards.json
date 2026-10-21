@@ -13,7 +13,7 @@
   },
   "coverage": {
     "complete": false,
-    "scope": "British Standards and UK-adopted EN/IEC standards relevant to this fire and security manual archive, with supporting lighting, electrical and building-fire-safety references. PD 6662 and PD 6669 are explicitly labelled companion Published Documents.",
+    "scope": "British Standards and UK-adopted EN/IEC standards relevant to this fire and security archive, including electrical and cabling, social alarms, powered entrances, sprinklers and gas suppression. Companion PD and DD technical specifications are explicitly identified. Consultation drafts have a separate watchlist.",
     "limits": [
       "This is a checked register, not a complete catalogue of every British Standard or every historical amendment.",
       "Edition headings and publisher statuses are verified against public BSI records. Detailed changes are summarized only where the publisher supplies a public summary.",
@@ -23,11 +23,10 @@
       "Full standard texts require the publisher licence. Offline search stores this metadata and these original short summaries, not licensed standards PDFs."
     ],
     "remaining_checks": [
-      "Complete amendment, corrigendum and supersession histories from publisher history panels or licensed copies, especially EN 54 product standards.",
-      "Remaining EN 54 parts and PD CEN/TS application guides; remaining EN 50131 detector/application parts and EN 50130 environmental/EMC standards.",
-      "Remaining EN 60839 and EN 62820 application/interoperability parts; remaining EN 62676 protocol parts.",
-      "Supporting structured-cabling, social-alarm, fire-suppression and powered-gate references beyond the entries checked here.",
-      "Formal withdrawal/coexistence dates where BSI still shows both earlier and newer records as current; do not infer a deadline."
+      "Complete amendment, corrigendum and supersession histories from publisher history panels or licensed copies; an amendment suffix alone is not a full history.",
+      "Formal withdrawal/coexistence dates where BSI still shows both older and newer records as current, including the 2026 intercom, sprinkler and bonding editions.",
+      "Any further product-specific parts or sector requirements outside the families in this checked register. This is not the entire BSI catalogue.",
+      "The outcome of the separately listed 2026 consultation drafts. Do not use a draft as a published replacement."
     ]
   },
   "records": [
@@ -91,6 +90,32 @@
       "notes": [
         "An earlier publisher record also reports current status. No withdrawal date or transition deadline is inferred."
       ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12978-2024",
+      "standard": "BS EN 12978",
+      "edition": "BS EN 12978:2024",
+      "title": "Protective equipment for powered doors and gates",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2024-12-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/industrial-commercial-and-garage-doors-and-gates-and-pedestrian-doorsets-protective-devices-for-power-operated-doors-and-gates-requirements-and-test-methods",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/industrial-commercial-and-garage-doors-and-gates-and-pedestrian-doorsets-protective-devices-for-power-operated-doors-and-gates-requirements-and-test-methods"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
       "history_complete": false,
       "access": "publisher-link-only"
     },
@@ -180,6 +205,32 @@
       "notes": [
         "An earlier publisher record also reports current status. No withdrawal date or transition deadline is inferred."
       ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-17352-2022",
+      "standard": "BS EN 17352",
+      "edition": "BS EN 17352:2022",
+      "title": "Powered pedestrian entrance safety",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2022-06-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/power-operated-pedestrian-entrance-control-equipment-safety-in-use-requirements-and-test-methods",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/power-operated-pedestrian-entrance-control-equipment-safety-in-use-requirements-and-test-methods"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
       "history_complete": false,
       "access": "publisher-link-only"
     },
@@ -288,6 +339,32 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-60839-11-32-2017",
+      "standard": "BS EN 60839-11-32",
+      "edition": "BS EN 60839-11-32:2017",
+      "title": "Access monitoring through web services",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2017-03-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-and-electronic-security-systems-electronic-access-control-systems-access-control-monitoring-based-on-web-services",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-and-electronic-security-systems-electronic-access-control-systems-access-control-monitoring-based-on-web-services"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-en-62820-1-1-2016-a11-2021",
       "standard": "BS EN 62820-1-1",
       "edition": "BS EN 62820-1-1:2016+A11:2021",
@@ -329,6 +406,171 @@
       "source_url": "https://knowledge.bsigroup.com/products/building-intercom-systems-system-requirements-building-intercom-systems-using-the-internet-protocol-ip",
       "source_urls": [
         "https://knowledge.bsigroup.com/products/building-intercom-systems-system-requirements-building-intercom-systems-using-the-internet-protocol-ip"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-60839-11-33-2021",
+      "standard": "BS EN IEC 60839-11-33",
+      "edition": "BS EN IEC 60839-11-33:2021",
+      "title": "Access configuration through web services",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2021-10-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-and-electronic-security-systems-electronic-access-control-systems-access-control-configuration-based-on-web-services",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-and-electronic-security-systems-electronic-access-control-systems-access-control-configuration-based-on-web-services"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-60839-11-5-2020",
+      "standard": "BS EN IEC 60839-11-5",
+      "edition": "BS EN IEC 60839-11-5:2020",
+      "title": "Open Supervised Device Protocol for access control",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2020-09-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-and-electronic-security-systems-electronic-access-control-systems-open-supervised-device-protocol-osdp",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-and-electronic-security-systems-electronic-access-control-systems-open-supervised-device-protocol-osdp"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-62820-1-1-2026",
+      "standard": "BS EN IEC 62820-1-1",
+      "edition": "BS EN IEC 62820-1-1:2026",
+      "title": "General intercom system requirements",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2026-05-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/building-intercom-systems-system-requirements-general-2",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/building-intercom-systems-system-requirements-general-2"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [
+        {
+          "edition": "BS EN 62820-1-1:2016+A11:2021",
+          "publisher_status": "Current, Under Review",
+          "source_url": "https://knowledge.bsigroup.com/products/building-intercom-systems-system-requirements-general-1",
+          "note": "Earlier BS EN designation retained; the newer record includes IEC in its designation. Withdrawal has not been established."
+        }
+      ],
+      "transition": null,
+      "notes": [
+        "The earlier BS EN record remains in this archive with its checked publisher status; confirm transition arrangements before choosing an edition."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-62820-2-2018",
+      "standard": "BS EN IEC 62820-2",
+      "edition": "BS EN IEC 62820-2:2018",
+      "title": "Advanced security intercom requirements",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2018-02-28",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/building-intercom-systems-requirements-for-advanced-security-building-intercom-systems-asbis",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/building-intercom-systems-requirements-for-advanced-security-building-intercom-systems-asbis"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-62820-3-1-2018",
+      "standard": "BS EN IEC 62820-3-1",
+      "edition": "BS EN IEC 62820-3-1:2018",
+      "title": "Intercom application guidance",
+      "category": "access-control",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2018-06-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/building-intercom-systems-application-guidelines-general",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/building-intercom-systems-application-guidelines-general"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-62820-3-2-2018",
+      "standard": "BS EN IEC 62820-3-2",
+      "edition": "BS EN IEC 62820-3-2:2018",
+      "title": "Advanced security intercom application guidance",
+      "category": "access-control",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2018-06-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/building-intercom-systems-application-guidelines-advanced-security-building-intercom-systems-asbis",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/building-intercom-systems-application-guidelines-advanced-security-building-intercom-systems-asbis"
       ],
       "amendments_in_designation": [],
       "update_kind": "edition-recorded",
@@ -578,6 +820,62 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-iec-62676-2-31-2019",
+      "standard": "BS EN IEC 62676-2-31",
+      "edition": "BS EN IEC 62676-2-31:2019",
+      "title": "Video streaming through web services",
+      "category": "cctv",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2019-09-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/video-surveillance-systems-for-use-in-security-applications-live-streaming-and-control-based-on-web-services",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/video-surveillance-systems-for-use-in-security-applications-live-streaming-and-control-based-on-web-services"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The publisher identifies added media-service functionality and imaging methods, removal of duplicated device-I/O methods, and removal of display and analytics-device services.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "IEC 62676-2-3:2013"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-iec-62676-2-32-2019",
+      "standard": "BS EN IEC 62676-2-32",
+      "edition": "BS EN IEC 62676-2-32:2019",
+      "title": "Video recording and replay through web services",
+      "category": "cctv",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2019-09-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/video-surveillance-systems-for-use-in-security-applications-recording-control-and-replay-based-on-web-services",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/video-surveillance-systems-for-use-in-security-applications-recording-control-and-replay-based-on-web-services"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The public change note identifies a new export file format. Its predecessor reference names IEC 62676-2-3:2013; this does not establish the status of every UK-adopted edition.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "IEC 62676-2-3:2013"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-en-iec-62676-4-2025",
       "standard": "BS EN IEC 62676-4",
       "edition": "BS EN IEC 62676-4:2025",
@@ -691,6 +989,34 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-6701-2016-a1-2017",
+      "standard": "BS 6701",
+      "edition": "BS 6701:2016+A1:2017",
+      "title": "Telecommunications installation and maintenance",
+      "category": "electrical",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2017-10-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/telecommunications-equipment-and-telecommunications-cabling-specification-for-installation-operation-and-maintenance-specification-for-installation-operation-and-maintenance",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/telecommunications-equipment-and-telecommunications-cabling-specification-for-installation-operation-and-maintenance-specification-for-installation-operation-and-maintenance"
+      ],
+      "amendments_in_designation": [
+        "A1:2017"
+      ],
+      "update_kind": "amendment",
+      "change_summary": "The amendment adds cable fire-performance provisions following changes in the way BS 7671 refers to telecommunications cabling.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-7671-2018-a4-2026",
       "standard": "BS 7671",
       "edition": "BS 7671:2018+A4:2026",
@@ -752,6 +1078,157 @@
       "earlier_records": [],
       "transition": null,
       "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50174-1-2018-a1-2020",
+      "standard": "BS EN 50174-1",
+      "edition": "BS EN 50174-1:2018+A1:2020",
+      "title": "Cabling specifications and quality assurance",
+      "category": "electrical",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2020-07-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-installation-specification-and-quality-assurance-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-installation-specification-and-quality-assurance-1"
+      ],
+      "amendments_in_designation": [
+        "A1:2020"
+      ],
+      "update_kind": "amendment",
+      "change_summary": "The amendment clarifies crosstalk-test sample sizes and corrects provisions for category RP1 remote powering.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "BS EN 50174-1:2018"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50174-2-2018",
+      "standard": "BS EN 50174-2",
+      "edition": "BS EN 50174-2:2018",
+      "title": "Cabling inside buildings",
+      "category": "electrical",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2018-07-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-installation-planning-and-practices-inside-buildings-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-installation-planning-and-practices-inside-buildings-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision changes cable-pathway and surge-protection provisions, adds remote-powering planning guidance, and revises segregation, electricity-distribution and lightning-protection material.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "BS EN 50174-2:2009+A2:2014"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50174-3-2013-a1-2017",
+      "standard": "BS EN 50174-3",
+      "edition": "BS EN 50174-3:2013+A1:2017",
+      "title": "Cabling outside buildings",
+      "category": "electrical",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2018-03-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-part-3-installation-planning-and-practices-outside-buildings",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-part-3-installation-planning-and-practices-outside-buildings"
+      ],
+      "amendments_in_designation": [
+        "A1:2017"
+      ],
+      "update_kind": "amendment",
+      "change_summary": "The publisher describes reorganised requirements and recommendations, expanded wide-area cabling guidance, and additional EMC/protection and responsibility annexes.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "EN 50174-3:2003"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50174-4-2025",
+      "standard": "BS EN 50174-4",
+      "edition": "BS EN 50174-4:2025",
+      "title": "Installed fibre cabling tests",
+      "category": "electrical",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2025-12-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-testing-of-installed-optical-fibre-cabling",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/information-technology-cabling-installation-testing-of-installed-optical-fibre-cabling"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50310-2016-a2-2026",
+      "standard": "BS EN 50310",
+      "edition": "BS EN 50310:2016+A2:2026",
+      "title": "Telecommunications bonding",
+      "category": "electrical",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2026-07-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/telecommunications-bonding-networks-for-buildings-and-other-structures-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/telecommunications-bonding-networks-for-buildings-and-other-structures-1"
+      ],
+      "amendments_in_designation": [
+        "A2:2026"
+      ],
+      "update_kind": "amendment",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [
+        {
+          "edition": "BS EN 50310:2016+A1:2020",
+          "publisher_status": "Current",
+          "source_url": "https://knowledge.bsigroup.com/products/telecommunications-bonding-networks-for-buildings-and-other-structures",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [
+        "BSI also lists the earlier edition as current. Confirm coexistence and contractual applicability with the publisher; a new designation alone does not establish withdrawal."
+      ],
       "history_complete": false,
       "access": "publisher-link-only"
     },
@@ -1083,6 +1560,34 @@
       "earlier_records": [],
       "transition": null,
       "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-7273-2-1992",
+      "standard": "BS 7273-2",
+      "edition": "BS 7273-2:1992",
+      "title": "Legacy mechanical actuation of gas suppression",
+      "category": "fire",
+      "status": "withdrawn",
+      "under_review": false,
+      "publisher_status": "Withdrawn",
+      "publisher_record_date": "1992-05-01",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/code-of-practice-for-the-operation-of-fire-protection-measures-mechanical-actuation-of-gaseous-total-flooding-and-local-application-extinguishing-systems",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/code-of-practice-for-the-operation-of-fire-protection-measures-mechanical-actuation-of-gaseous-total-flooding-and-local-application-extinguishing-systems"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "Historical withdrawn reference retained for legacy installations; no replacement or permission to apply it is inferred."
+      ],
       "history_complete": false,
       "access": "publisher-link-only"
     },
@@ -1689,6 +2194,58 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-54-27-2015",
+      "standard": "BS EN 54-27",
+      "edition": "BS EN 54-27:2015",
+      "title": "Duct smoke detection",
+      "category": "fire",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2015-05-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarms-systems-duct-smoke-detectors",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarms-systems-duct-smoke-detectors"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-54-28-2016",
+      "standard": "BS EN 54-28",
+      "edition": "BS EN 54-28:2016",
+      "title": "Non-resettable line heat detection",
+      "category": "fire",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2016-06-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-system-non-resettable-line-type-heat-detectors",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-system-non-resettable-line-type-heat-detectors"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-en-54-29-2015",
       "standard": "BS EN 54-29",
       "edition": "BS EN 54-29:2015",
@@ -1886,6 +2443,208 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "pd-cen-ts-54-14-2018",
+      "standard": "PD CEN/TS 54-14",
+      "edition": "PD CEN/TS 54-14:2018",
+      "title": "Fire detection application guidance",
+      "category": "fire",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2018-11-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-systems-guidelines-for-planning-design-installation-commissioning-use-and-maintenance-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-systems-guidelines-for-planning-design-installation-commissioning-use-and-maintenance-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The 2018 guidance reorganises earlier annex material, incorporates newer detector technologies, changes cabling provisions and removes certification requirements.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "PD CEN/TS 54-14:2004"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "Companion Published Document / technical specification, separately identified from a full British Standard."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "pd-cen-ts-54-32-2015",
+      "standard": "PD CEN/TS 54-32",
+      "edition": "PD CEN/TS 54-32:2015",
+      "title": "Voice alarm application guidance",
+      "category": "fire",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2015-07-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-systems-planning-design-installation-commissioning-use-and-maintenance-of-voice-alarm-systems",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-systems-planning-design-installation-commissioning-use-and-maintenance-of-voice-alarm-systems"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "Companion Published Document / technical specification, separately identified from a full British Standard."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-5306-0-2020",
+      "standard": "BS 5306-0",
+      "edition": "BS 5306-0:2020",
+      "title": "Fixed fire equipment selection and application",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2020-08-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-protection-installations-and-equipment-on-premises-guide-for-selection-use-and-application-of-fixed-firefighting-systems-and-other-types-of-fire-equipment",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-protection-installations-and-equipment-on-premises-guide-for-selection-use-and-application-of-fixed-firefighting-systems-and-other-types-of-fire-equipment"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-5306-1-2006",
+      "standard": "BS 5306-1",
+      "edition": "BS 5306-1:2006",
+      "title": "Hose reels and foam inlets",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2006-05-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/code-of-practice-for-fire-extinguishing-installations-and-equipment-on-premises-hose-reels-and-foam-inlets",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/code-of-practice-for-fire-extinguishing-installations-and-equipment-on-premises-hose-reels-and-foam-inlets"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-5306-3-2017",
+      "standard": "BS 5306-3",
+      "edition": "BS 5306-3:2017",
+      "title": "Portable extinguisher commissioning and servicing",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2017-10-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-commissioning-and-maintenance-of-portable-fire-extinguishers-code-of-practice-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-commissioning-and-maintenance-of-portable-fire-extinguishers-code-of-practice-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision updates servicing and environmental guidance, labelling, replacement equipment and technician refresher arrangements. Consult the original for the specific maintenance procedures.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [],
+      "earlier_records": [
+        {
+          "edition": "BS 5306-3:2009",
+          "publisher_status": "Withdrawn",
+          "source_url": "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-commissioning-and-maintenance-of-portable-fire-extinguishers-code-of-practice",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-5306-8-2023",
+      "standard": "BS 5306-8",
+      "edition": "BS 5306-8:2023",
+      "title": "Portable extinguisher selection and location",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2023-11-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-selection-and-positioning-of-portable-fire-extinguishers-code-of-practice-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-selection-and-positioning-of-portable-fire-extinguishers-code-of-practice-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [
+        {
+          "edition": "BS 5306-8:2012",
+          "publisher_status": "Withdrawn",
+          "source_url": "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-selection-and-positioning-of-portable-fire-extinguishers-code-of-practice",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-5306-9-2015",
+      "standard": "BS 5306-9",
+      "edition": "BS 5306-9:2015",
+      "title": "Portable extinguisher refilling",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2015-03-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-recharging-of-portable-fire-extinguishers-code-of-practice",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-extinguishing-installations-and-equipment-on-premises-recharging-of-portable-fire-extinguishers-code-of-practice"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-8674-2025",
       "standard": "BS 8674",
       "edition": "BS 8674:2025",
@@ -1899,6 +2658,60 @@
       "source_url": "https://knowledge.bsigroup.com/products/built-environment-framework-for-competence-of-individual-fire-risk-assessors-code-of-practice",
       "source_urls": [
         "https://knowledge.bsigroup.com/products/built-environment-framework-for-competence-of-individual-fire-risk-assessors-code-of-practice"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-9251-2021",
+      "standard": "BS 9251",
+      "edition": "BS 9251:2021",
+      "title": "Residential fire sprinklers",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2021-06-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-sprinkler-systems-for-domestic-and-residential-occupancies-code-of-practice-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-sprinkler-systems-for-domestic-and-residential-occupancies-code-of-practice-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision introduces a fourth system category for taller or higher-risk residential buildings and expands guidance on water supply, reliability and fire-service interaction.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "BS 9251:2014"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-9252-2011",
+      "standard": "BS 9252",
+      "edition": "BS 9252:2011",
+      "title": "Residential sprinkler components",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2011-05-25",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/components-for-residential-sprinkler-systems-specification-and-test-methods-for-residential-sprinklers",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/components-for-residential-sprinkler-systems-specification-and-test-methods-for-residential-sprinklers"
       ],
       "amendments_in_designation": [],
       "update_kind": "edition-recorded",
@@ -2020,6 +2833,251 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-12094-1-2003",
+      "standard": "BS EN 12094-1",
+      "edition": "BS EN 12094-1:2003",
+      "title": "Gas suppression electrical control and delays",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2003-10-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-electrical-automatic-control-and-delay-devices",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-electrical-automatic-control-and-delay-devices"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12094-10-2003",
+      "standard": "BS EN 12094-10",
+      "edition": "BS EN 12094-10:2003",
+      "title": "Gas suppression pressure instrumentation",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2003-07-17",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/ProductDetail?pid=000000000030027518",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/ProductDetail?pid=000000000030027518"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12094-13-2001",
+      "standard": "BS EN 12094-13",
+      "edition": "BS EN 12094-13:2001",
+      "title": "Gas suppression non-return valves",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2001-05-15",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-check-valves-and-non-return-valves",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-check-valves-and-non-return-valves"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12094-3-2003",
+      "standard": "BS EN 12094-3",
+      "edition": "BS EN 12094-3:2003",
+      "title": "Gas suppression manual triggers and stops",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2003-07-01",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-manual-triggering-and-stop-devices",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-manual-triggering-and-stop-devices"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12094-5-2006",
+      "standard": "BS EN 12094-5",
+      "edition": "BS EN 12094-5:2006",
+      "title": "Gas suppression selector valves",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2006-06-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-high-and-low-pressure-selector-valves-and-their-actuators",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-components-for-gas-extinguishing-systems-requirements-and-test-methods-for-high-and-low-pressure-selector-valves-and-their-actuators"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12845-2015-a2-2026",
+      "standard": "BS EN 12845",
+      "edition": "BS EN 12845:2015+A2:2026",
+      "title": "Automatic sprinkler design and maintenance",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2026-09-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-design-installation-and-maintenance-4",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-design-installation-and-maintenance-4"
+      ],
+      "amendments_in_designation": [
+        "A2:2026"
+      ],
+      "update_kind": "amendment",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [
+        {
+          "edition": "BS EN 12845:2015+A1:2019",
+          "publisher_status": "Current, Under Review",
+          "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-design-installation-and-maintenance-1",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [
+        "BSI also lists the earlier edition as current. Confirm coexistence and contractual applicability with the publisher; a new designation alone does not establish withdrawal."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12845-2-2024",
+      "standard": "BS EN 12845-2",
+      "edition": "BS EN 12845-2:2024",
+      "title": "ESFR and CMSA sprinkler installation",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2025-03-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-design-and-installation-of-esfr-and-cmsa-sprinkler-systems",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-design-and-installation-of-esfr-and-cmsa-sprinkler-systems"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-12845-3-2024",
+      "standard": "BS EN 12845-3",
+      "edition": "BS EN 12845-3:2024",
+      "title": "Sprinkler earthquake restraint guidance",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2024-05-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-guidance-for-earthquake-bracing-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-automatic-sprinkler-systems-guidance-for-earthquake-bracing-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-15004-1-2024",
+      "standard": "BS EN 15004-1",
+      "edition": "BS EN 15004-1:2024",
+      "title": "Gas suppression system design and maintenance",
+      "category": "fire-safety",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2025-01-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-gas-extinguishing-systems-design-installation-and-maintenance-iso-14520-1-2023-modified",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fixed-firefighting-systems-gas-extinguishing-systems-design-installation-and-maintenance-iso-14520-1-2023-modified"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-8243-2021",
       "standard": "BS 8243",
       "edition": "BS 8243:2021",
@@ -2124,6 +3182,62 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-50130-4-2011-a1-2014",
+      "standard": "BS EN 50130-4",
+      "edition": "BS EN 50130-4:2011+A1:2014",
+      "title": "Alarm equipment electromagnetic immunity",
+      "category": "security",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2011-08-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-electromagnetic-compatibility-product-family-standard-immunity-requirements-for-components-of-fire-intruder-hold-up-cctv-access-control-and-social-alarm-systems",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-electromagnetic-compatibility-product-family-standard-immunity-requirements-for-components-of-fire-intruder-hold-up-cctv-access-control-and-social-alarm-systems"
+      ],
+      "amendments_in_designation": [
+        "A1:2014"
+      ],
+      "update_kind": "amendment",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50130-5-2011",
+      "standard": "BS EN 50130-5",
+      "edition": "BS EN 50130-5:2011",
+      "title": "Alarm equipment environmental testing",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2011-08-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-environmental-test-methods-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-environmental-test-methods-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision updates the underlying test references and methods, changes class IV limits and removes the former clause 27.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "BS EN 50130-5:1999"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-en-50131-1-2006-a3-2020",
       "standard": "BS EN 50131-1",
       "edition": "BS EN 50131-1:2006+A3:2020",
@@ -2159,6 +3273,32 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-50131-10-2014",
+      "standard": "BS EN 50131-10",
+      "edition": "BS EN 50131-10:2014",
+      "title": "Supervised premises transceivers",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2014-08-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-application-specific-requirements-for-supervised-premises-transceiver-spt",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-application-specific-requirements-for-supervised-premises-transceiver-spt"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-en-50131-13-2020",
       "standard": "BS EN 50131-13",
       "edition": "BS EN 50131-13:2020",
@@ -2172,6 +3312,32 @@
       "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-pyrotechnic-obscuration-security-devices-1",
       "source_urls": [
         "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-pyrotechnic-obscuration-security-devices-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50131-2-10-2018",
+      "standard": "BS EN 50131-2-10",
+      "edition": "BS EN 50131-2-10:2018",
+      "title": "Magnetic lock-state detection",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2018-10-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-lock-state-contacts-magnetic",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-lock-state-contacts-magnetic"
       ],
       "amendments_in_designation": [],
       "update_kind": "edition-recorded",
@@ -2205,6 +3371,39 @@
       "summary_basis": "edition-metadata-only",
       "supersedes": [],
       "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50131-2-3-2022",
+      "standard": "BS EN 50131-2-3",
+      "edition": "BS EN 50131-2-3:2022",
+      "title": "Microwave intrusion detection",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2022-03-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-requirements-for-microwave-detectors-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-requirements-for-microwave-detectors-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [
+        {
+          "edition": "BS EN 50131-2-3:2008",
+          "publisher_status": "Withdrawn",
+          "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-requirements-for-microwave-detectors",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
       "transition": null,
       "notes": [],
       "history_complete": false,
@@ -2302,6 +3501,62 @@
       "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-glass-break-detectors-acoustic-1",
       "source_urls": [
         "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-glass-break-detectors-acoustic-1"
+      ],
+      "amendments_in_designation": [
+        "A2:2016"
+      ],
+      "update_kind": "amendment",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50131-2-7-2-2012-a2-2016",
+      "standard": "BS EN 50131-2-7-2",
+      "edition": "BS EN 50131-2-7-2:2012+A2:2016",
+      "title": "Passive glass-break detection",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2013-10-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-glass-break-detectors-passive-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-glass-break-detectors-passive-1"
+      ],
+      "amendments_in_designation": [
+        "A2:2016"
+      ],
+      "update_kind": "amendment",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50131-2-7-3-2012-a2-2016",
+      "standard": "BS EN 50131-2-7-3",
+      "edition": "BS EN 50131-2-7-3:2012+A2:2016",
+      "title": "Active glass-break detection",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2013-10-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-glass-break-detectors-active-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-intrusion-detectors-glass-break-detectors-active-1"
       ],
       "amendments_in_designation": [
         "A2:2016"
@@ -2465,6 +3720,191 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "bs-en-50131-8-2019",
+      "standard": "BS EN 50131-8",
+      "edition": "BS EN 50131-8:2019",
+      "title": "Security fog equipment",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2019-05-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-security-fog-devices",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-security-fog-devices"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision treats fog-generating equipment as a device, sets environmental class II, and adds provisions for pressure vessels and energy efficiency.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "EN 50131-8:2009"
+      ],
+      "earlier_records": [
+        {
+          "edition": "BS EN 50131-8:2009",
+          "publisher_status": "Withdrawn",
+          "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-security-fog-device-systems-1",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50134-1-2002",
+      "standard": "BS EN 50134-1",
+      "edition": "BS EN 50134-1:2002",
+      "title": "Social alarm system requirements",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2002-07-03",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-system-requirements",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-system-requirements"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50134-2-2017",
+      "standard": "BS EN 50134-2",
+      "edition": "BS EN 50134-2:2017",
+      "title": "Social alarm trigger equipment",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2018-01-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-trigger-devices",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-trigger-devices"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision extends coverage to both manual and automatic triggers and updates radio-device references and terminology.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "EN 50134-2:1999"
+      ],
+      "earlier_records": [
+        {
+          "edition": "BS EN 50134-2:2000",
+          "publisher_status": "Withdrawn",
+          "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-trigger-devices-1",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50134-3-2012",
+      "standard": "BS EN 50134-3",
+      "edition": "BS EN 50134-3:2012",
+      "title": "Social alarm controllers and local units",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2012-05-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-local-unit-and-controller",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-local-unit-and-controller"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50134-5-2021",
+      "standard": "BS EN 50134-5",
+      "edition": "BS EN 50134-5:2021",
+      "title": "Social alarm communications",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2021-07-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-interconnections-and-communications-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-interconnections-and-communications-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The revision updates transmission performance references, addresses migration to IP networks and signal conversion, and directs speech-performance requirements to the local-unit standard.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "EN 50134-5:2004"
+      ],
+      "earlier_records": [
+        {
+          "edition": "BS EN 50134-5:2004",
+          "publisher_status": "Withdrawn",
+          "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-interconnections-and-communications",
+          "note": "This earlier publisher record was checked separately. No withdrawal date or transition deadline is inferred."
+        }
+      ],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-en-50134-7-2017",
+      "standard": "BS EN 50134-7",
+      "edition": "BS EN 50134-7:2017",
+      "title": "Social alarm service guidance",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2017-02-28",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-application-guidelines",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-application-guidelines"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "full-revision",
+      "change_summary": "The guidance expands service-delivery coverage, revises local-unit installation and testing provisions, and adds instructions for self-installed equipment.",
+      "summary_basis": "publisher-public-summary",
+      "supersedes": [
+        "CLC/TS 50134-7:2003"
+      ],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "bs-en-50136-1-2012-a1-2018",
       "standard": "BS EN 50136-1",
       "edition": "BS EN 50136-1:2012+A1:2018",
@@ -2584,6 +4024,34 @@
       "access": "publisher-link-only"
     },
     {
+      "id": "dd-clc-ts-50131-7-2010",
+      "standard": "DD CLC/TS 50131-7",
+      "edition": "DD CLC/TS 50131-7:2010",
+      "title": "Intruder alarm application guidance",
+      "category": "security",
+      "status": "current",
+      "under_review": true,
+      "publisher_status": "Current, Under Review",
+      "publisher_record_date": "2011-08-31",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-application-guidelines-2",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-intrusion-and-hold-up-systems-application-guidelines-2"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "Companion Draft for Development / technical specification. This published DD document is distinct from a consultation draft identified by a DC number."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    },
+    {
       "id": "pd-6662-2017",
       "standard": "PD 6662",
       "edition": "PD 6662:2017",
@@ -2634,6 +4102,68 @@
       "notes": [],
       "history_complete": false,
       "access": "publisher-link-only"
+    },
+    {
+      "id": "pd-clc-ts-50134-9-2018",
+      "standard": "PD CLC/TS 50134-9",
+      "edition": "PD CLC/TS 50134-9:2018",
+      "title": "Social alarm IP protocol",
+      "category": "security",
+      "status": "current",
+      "under_review": false,
+      "publisher_status": "Current",
+      "publisher_record_date": "2018-09-30",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-ip-communications-protocol",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/alarm-systems-social-alarm-systems-ip-communications-protocol"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "edition-recorded",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "Companion Published Document / technical specification, separately identified from a full British Standard."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
+    }
+  ],
+  "draft_watchlist": [
+    {
+      "reference": "26/30563579 DC",
+      "subject": "Alarm equipment immunity",
+      "publisher_record_date": "2026-05-29",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/bs-en-50130-4-alarm-systems-part-4-electromagnetic-compatibility-immunity-requirements",
+      "note": "Consultation draft only. The public catalogue status does not establish that comments are still open or that a replacement has been published."
+    },
+    {
+      "reference": "26/30565873 DC",
+      "subject": "Cabling specifications and quality assurance",
+      "publisher_record_date": "2026-07-03",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/bs-en-50174-1-information-technology-cabling-installation-part-1-installation-specification-and-quality-assurance",
+      "note": "Consultation draft only. The public catalogue status does not establish that comments are still open or that a replacement has been published."
+    },
+    {
+      "reference": "26/30565876 DC",
+      "subject": "Cabling inside buildings",
+      "publisher_record_date": "2026-07-03",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/bs-en-50174-2-information-technology-cabling-installation-part-2-installation-planning-and-practices-inside-buildings",
+      "note": "Consultation draft only. The public catalogue status does not establish that comments are still open or that a replacement has been published."
+    },
+    {
+      "reference": "26/30565879 DC",
+      "subject": "Cabling outside buildings",
+      "publisher_record_date": "2026-07-03",
+      "source_checked": "2026-10-21",
+      "source_url": "https://knowledge.bsigroup.com/products/bs-en-50174-3-information-technology-cabling-installation-part-3-installation-planning-and-practices-outside-buildings/standard",
+      "note": "Consultation draft only. The public catalogue status does not establish that comments are still open or that a replacement has been published."
     }
   ]
 }

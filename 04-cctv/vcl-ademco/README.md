@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-11 document records, grouped into 11 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+12 document records, grouped into 12 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -15,5 +15,6 @@
 | [IP Installers](ip-installers/README.md) | 1 |
 | [MaxCom](maxcom/README.md) | 1 |
 | [MaxCom Operators](maxcom-operators/README.md) | 1 |
+| [MaxCom Pro series](maxcom-pro-series/README.md) | 1 |
 | [Orbiter Gold Lite](orbiter-gold-lite/README.md) | 2 |
 | [Orbiter Gold-Lite](orbiter-gold-lite/README.md) | 2 |

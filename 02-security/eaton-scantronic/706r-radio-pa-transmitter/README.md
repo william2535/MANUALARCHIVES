@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Scantronic 706R Radio PA transmitter manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%20706R%20Radio%20PA%20transmitter%20manual.pdf) | reference | Not recorded | Not recorded | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [706r radio transmitter instructions](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Scantronic%20706R%20Radio%20PA%20transmitter%20manual.pdf) | installation | 11664015 | Issue 1 | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 
