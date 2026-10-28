@@ -1,0 +1,82 @@
+{
+  "checked_on": "2026-10-28",
+  "result": "no-additional-free-full-part-1-download-verified",
+  "scope": "Follow-up search for full BS 5839-1 editions. This records checks performed, not a claim that no free copy exists anywhere.",
+  "editions_searched": [
+    "BS 5839-1:2025",
+    "BS 5839-1:2017",
+    "BS 5839-1:2013",
+    "BS 5839-1:2002+A2:2008",
+    "BS 5839-1:1988"
+  ],
+  "publisher_edition_history": "https://landingpage.bsigroup.com/LandingPage/Undated?UPI=000000000000862786",
+  "search_routes": [
+    "Public web searches for exact edition, title and PDF variants",
+    "Official Grenfell Tower Inquiry evidence and archived exhibits",
+    "Public government and library sources",
+    "Publisher edition histories and public previews"
+  ],
+  "candidate_checks": [
+    {
+      "url": "https://store.accuristech.com/products/preview/1855081",
+      "status": "retrieval-failed",
+      "error": "HTTP Error 403: Forbidden",
+      "decision": "excluded-not-an-accessible-free-download"
+    },
+    {
+      "url": "https://www.normsplash.com/Samples/BSI/124341792/BS-5839-1-2017-en.pdf",
+      "status": "complete-file",
+      "http_status": 200,
+      "final_url": "https://www.normsplash.com/Samples/BSI/124341792/BS-5839-1-2017-en.pdf",
+      "content_type": "application/pdf",
+      "bytes": 527282,
+      "sha256": "762b5809f837d561009bd0c35dd1621be8c5a1aea025c5f2a77822cfbfcfb462",
+      "page_count": 11,
+      "text_characters": 30461,
+      "header_checked": true,
+      "eof_checked": true,
+      "decision": "excluded-preview-only"
+    }
+  ],
+  "prior_failed_candidates": [
+    {
+      "url": "https://www.firequeen.co.uk/wp-content/uploads/2025/06/BS-5839-1-2025-Fire-Detection-Fire-Alarm-Systems-for-Buildings.pdf",
+      "status": "retrieval-failed",
+      "error": "HTTP Error 404: Not Found",
+      "decision": "excluded-broken-link"
+    },
+    {
+      "url": "https://www.firequeen.co.uk/wp-content/uploads/2020/12/BS5839-1-2017-Fire-Detection-Fire-Alarm-Systems-for-Buildings.pdf",
+      "status": "retrieval-failed",
+      "error": "HTTP Error 404: Not Found",
+      "decision": "excluded-broken-link"
+    },
+    {
+      "url": "https://img.antpedia.com/standard/files/pdfs_ora/20250506/BS%2005839-1-2025.pdf",
+      "status": "complete-file",
+      "http_status": 200,
+      "final_url": "https://i7.antpedia.com/standard/files/pdfs_ora/20250506/BS%2005839-1-2025.pdf",
+      "content_type": "application/pdf",
+      "bytes": 425877,
+      "sha256": "4c3d7eb6c3135183db484f695c873d9cc4dff92aae69432992b67851d1ae256b",
+      "page_count": 3,
+      "text_characters": 6408,
+      "header_checked": true,
+      "eof_checked": true,
+      "decision": "excluded-preview-only"
+    },
+    {
+      "url": "https://www.firequeen.co.uk/wp-content/uploads/2020/12/BS-5839-6-2019-Fire-Detection-Alarm-Systems-in-Domestic-Buildings.pdf",
+      "status": "retrieval-failed",
+      "error": "HTTP Error 404: Not Found",
+      "decision": "excluded-broken-link"
+    }
+  ],
+  "inquiry_report_checked": {
+    "url": "https://assets.grenfelltowerinquiry.org.uk/CTAR00000001_Colin%20Todd%20Final%20Expert%20Report%20for%20Grenfell%20Tower%20Inquiry.pdf",
+    "result": "Appendix C identifies BS 5839-6:2013 and BS 9991:2015 exhibits; no full Part 1 source verified from this report."
+  },
+  "existing_full_bs5839_resource": "bs5839-6-2013-inquiry-full-text",
+  "additional_verified_standard": "bs9991-2015-inquiry-full-text",
+  "decision": "Keep Part 1 labelled as having no verified free full-standard download. Do not relabel previews, guides, purchase pages or Part 6 as a full Part 1 edition."
+}

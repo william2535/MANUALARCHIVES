@@ -4188,6 +4188,35 @@
       ],
       "history_complete": false,
       "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-9991-2015",
+      "standard": "BS 9991",
+      "edition": "BS 9991:2015",
+      "title": "Residential building fire safety — historical full standard",
+      "category": "fire-safety",
+      "status": "withdrawn",
+      "under_review": false,
+      "publisher_status": "Withdrawn",
+      "publisher_record_date": "2015-10-31",
+      "source_checked": "2026-10-28",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-safety-in-the-design-management-and-use-of-residential-buildings-code-of-practice-1",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-safety-in-the-design-management-and-use-of-residential-buildings-code-of-practice-1"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "published-edition",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "BSI records withdrawal on 21 November 2024. Historical reference only; this is the 2015 edition incorporating Corrigendum No. 1, not BS 9991:2024.",
+        "The free full-text source is Grenfell Tower Inquiry exhibit CTAR00000041, preserved by The National Archives. All numbered pages 1–174, front matter i–x, annexes A–F and bibliography are present; the separately listed inside back cover is omitted from the 187-page scan."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
     }
   ],
   "draft_watchlist": [
@@ -4253,6 +4282,35 @@
       "source_host": "The National Archives — UK Government Web Archive",
       "complete_text_checked": true,
       "completeness_note": "All 84 consecutive numbered text pages verified against their printed footers, plus front matter i–iv, annexes A–F and bibliography on page 84. Cover, contents and final numbered page visually reviewed. The 91-page inquiry scan omits the separately listed inside back cover.",
+      "rights_note": "External link to an official public inquiry exhibit. BSI copyright notices remain in the source. No redistribution licence is asserted and no PDF is mirrored in this repository."
+    },
+    {
+      "id": "bs9991-2015-inquiry-full-text",
+      "title": "BS 9991:2015 — full standard for residential building fire safety",
+      "publisher": "British Standards Institution",
+      "resource_type": "full-standard",
+      "related_standard_ids": [
+        "bs-9991-2015"
+      ],
+      "document_issue": "October 2015; Corrigendum No. 1, November 2016; Grenfell Tower Inquiry exhibit CTAR00000041",
+      "edition_relation": "same-edition",
+      "scope_note": "Full text of BS 9991:2015 for residential building fire safety, incorporating Corrigendum No. 1 (November 2016). Withdrawn on 21 November 2024; historical reference, not the current edition. The inquiry scan includes all numbered pages 1–174 and annexes A–F; the separately listed inside back cover is omitted.",
+      "source_url": "https://assets.grenfelltowerinquiry.org.uk/CTAR00000041_BS%209991_%202015.%20Fire%20safety%20in%20the%20design%2C%20management%20and%20use%20of%20residential%20buildings%20%EF%BF%BD%20Code%20of%20practice..pdf",
+      "download_url": "https://webarchive.nationalarchives.gov.uk/ukgwa/20250325002139mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000041_BS%209991_%202015.%20Fire%20safety%20in%20the%20design,%20management%20and%20use%20of%20residential%20buildings%20%EF%BF%BD%20Code%20of%20practice..pdf",
+      "is_full_standard": true,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "da393601f4f09bdf82c595ba2b4da3ada8b853b7bc78a7978e4342b3f757de45",
+      "bytes": 14934737,
+      "page_count": 187,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true,
+      "edition": "BS 9991:2015",
+      "isbn": "9780580963568",
+      "source_host": "The National Archives — UK Government Web Archive",
+      "complete_text_checked": true,
+      "completeness_note": "All 174 consecutive numbered pages and front matter i–x verified against printed footers, with visual checks for six OCR exceptions. Annexes A–F and bibliography on pages 171–173 are present; page 174 is deliberately blank. Cover, contents, final bibliography page and the six OCR exceptions were visually reviewed. The 187-page inquiry scan omits the separately listed inside back cover.",
       "rights_note": "External link to an official public inquiry exhibit. BSI copyright notices remain in the source. No redistribution licence is asserted and no PDF is mirrored in this repository."
     },
     {

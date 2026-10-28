@@ -22,11 +22,13 @@ Each category contains **brand → model / product family → document** navigat
 
 ## British Standards: free PDFs
 
-**1 full historical standard PDF and 13 free guides, white papers and model forms**, with direct source downloads. Links checked 2026-10-28. Full standards appear first in search; select **Full standards only** to find complete text. The register has 148 references across 8 groups, with source checks through 2026-10-28; individual status-check dates are shown in each record.
+**2 full historical standard PDFs and 13 free guides, white papers and model forms**, with direct source downloads. Links checked 2026-10-28. Full standards appear first in search; select **Full standards only** to find complete text. The register has 149 references across 8 groups, with source checks through 2026-10-28; individual status-check dates are shown in each record.
 
 [Download full historical standards](05-british-standards/README.md#full-standard-downloads) · [All free PDF downloads](05-british-standards/README.md#free-pdf-downloads) · [Search offline](index.html#standards) · [App data](data/standards.json)
 
 **BS 5839-6:2013 is available in full** as a 91-page Grenfell Tower Inquiry exhibit preserved by The National Archives. This is **Part 6 for domestic premises**, withdrawn on 29 April 2019; it is not the current edition or Part 1. All printed text pages 1–84 were checked. Guides and forms remain clearly distinguished from full standards.
+
+**BS 9991:2015 is also available in full** as a 187-page inquiry exhibit, including Corrigendum No. 1 (November 2016). All numbered pages 1–174 were checked. This residential building fire-safety edition was withdrawn on 21 November 2024; the current 2024 edition is a separate reference.
 
 ## Complete FACP source collection
 

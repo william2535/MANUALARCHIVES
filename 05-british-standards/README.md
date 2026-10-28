@@ -2,7 +2,7 @@
 
 [Archive](../README.md) · [Search free PDFs offline](../index.html#standards) · [App data](../data/standards.json)
 
-**1 full historical standard PDF · 13 free PDF guides, white papers and forms · links checked 2026-10-28**
+**2 full historical standard PDFs · 13 free PDF guides, white papers and forms · links checked 2026-10-28**
 
 **Full standards and guidance are labelled separately.** Historical standards are not current editions. A guide may cover an earlier edition or only part of a subject; read its scope before using it. Direct PDF links were checked without an account or payment. Official public-archive copies retain the original copyright notices; they are linked, not mirrored here.
 
@@ -20,11 +20,22 @@ All 84 consecutive numbered text pages verified against their printed footers, p
 
 External link to an official public inquiry exhibit. BSI copyright notices remain in the source. No redistribution licence is asserted and no PDF is mirrored in this repository.
 
+### [BS 9991:2015 — download full standard PDF](https://webarchive.nationalarchives.gov.uk/ukgwa/20250325002139mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000041_BS%209991_%202015.%20Fire%20safety%20in%20the%20design,%20management%20and%20use%20of%20residential%20buildings%20%EF%BF%BD%20Code%20of%20practice..pdf)
+
+**187 PDF pages · The National Archives — UK Government Web Archive · historical edition**
+
+Full text of BS 9991:2015 for residential building fire safety, incorporating Corrigendum No. 1 (November 2016). Withdrawn on 21 November 2024; historical reference, not the current edition. The inquiry scan includes all numbered pages 1–174 and annexes A–F; the separately listed inside back cover is omitted.
+
+All 174 consecutive numbered pages and front matter i–x verified against printed footers, with visual checks for six OCR exceptions. Annexes A–F and bibliography on pages 171–173 are present; page 174 is deliberately blank. Cover, contents, final bibliography page and the six OCR exceptions were visually reviewed. The 187-page inquiry scan omits the separately listed inside back cover.
+
+External link to an official public inquiry exhibit. BSI copyright notices remain in the source. No redistribution licence is asserted and no PDF is mirrored in this repository.
+
 ## Free PDF downloads
 
 | Free PDF / type | Publisher / printed issue | Scope and edition limits |
 |---|---|---|
 | [BS 5839-6:2013 — full standard for domestic premises — 91 pages](https://webarchive.nationalarchives.gov.uk/ukgwa/20250324193351mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000036_BS%205839-6_%202013.%20Fire%20detection%20and%20fire%20alarm%20systems%20for%20buildings%20-%20Code%20of%20practice%20for%20the%20design,%20installation,%20commissioning%20and%20maintenance%20of%20fire%20detection%20and%20fire%20alarm.pdf) · full standard | British Standards Institution · May 2013; Grenfell Tower Inquiry exhibit CTAR00000036 | Full text of BS 5839-6:2013 for domestic premises. Withdrawn on 29 April 2019; historical reference, not the current edition and not Part 1. The inquiry scan includes all numbered text pages 1–84 and annexes A–F; the separately listed inside back cover is omitted from the scan. |
+| [BS 9991:2015 — full standard for residential building fire safety — 187 pages](https://webarchive.nationalarchives.gov.uk/ukgwa/20250325002139mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000041_BS%209991_%202015.%20Fire%20safety%20in%20the%20design,%20management%20and%20use%20of%20residential%20buildings%20%EF%BF%BD%20Code%20of%20practice..pdf) · full standard | British Standards Institution · October 2015; Corrigendum No. 1, November 2016; Grenfell Tower Inquiry exhibit CTAR00000041 | Full text of BS 9991:2015 for residential building fire safety, incorporating Corrigendum No. 1 (November 2016). Withdrawn on 21 November 2024; historical reference, not the current edition. The inquiry scan includes all numbered pages 1–174 and annexes A–F; the separately listed inside back cover is omitted. |
 | [Guide to the changes in BS 5839-1:2025 — 17 pages](https://fia.uk.com/static/77c28e9f-486e-4b96-a82e4bb37f4f3882/Guide-to-the-changes-in-BS-5839-1-2025.pdf) · guide | Fire Industry Association · Version 1, June 2025 | FIA summary of changes in the 2025 edition; not the full standard. |
 | [BS 5839-1:2025 fire detection pocket guide — 28 pages](https://assets.hochikiglobal.com/assetbank-hochikieurope/assetfile/16136.pdf) · guide | Hochiki Europe · V27 JUL25 | Manufacturer guidance on detector and fire alarm device selection, spacing and siting for Part 1:2025; not the full standard. |
 | [Domestic fire alarm guidance in the Aico Product Selector — 62 pages](https://www.aico.co.uk/homeowner/wp-content/uploads/2023/06/Aico-Product-Selector-V12-April-Download.pdf) · guide | Aico · May 2023, Issue 13 (printed issue; URL says V12) | Product catalogue with a BS 5839-6:2019+A1:2020 overview on printed page 50. It is manufacturer guidance, not the full standard. |
@@ -41,7 +52,7 @@ External link to an official public inquiry exhibit. BSI copyright notices remai
 
 Opening a PDF uses your browser’s PDF viewer; use its save/download action to keep a copy. Offline search does not download the PDFs. Free access is not a licence to redistribute them.
 
-**Reference metadata: 148 references · 8 groups · source checks through 2026-10-28.** Individual status-check dates appear in each record’s details; a newer PDF-link check does not refresh earlier status evidence.
+**Reference metadata: 149 references · 8 groups · source checks through 2026-10-28.** Individual status-check dates appear in each record’s details; a newer PDF-link check does not refresh earlier status evidence.
 
 British Standards and UK-adopted EN/IEC standards relevant to this fire and security archive, including electrical and cabling, social alarms, powered entrances, sprinklers and gas suppression. Companion PD and DD technical specifications are explicitly identified. Consultation drafts have a separate watchlist.
 
@@ -156,6 +167,7 @@ British Standards and UK-adopted EN/IEC standards relevant to this fire and secu
 | [BS EN 12845-2:2024](#ref-bs-en-12845-2-2024) | ESFR and CMSA sprinkler installation | Current, Under Review | No verified free PDF |
 | [BS EN 12845-3:2024](#ref-bs-en-12845-3-2024) | Sprinkler earthquake restraint guidance | Current | No verified free PDF |
 | [BS EN 15004-1:2024](#ref-bs-en-15004-1-2024) | Gas suppression system design and maintenance | Current | No verified free PDF |
+| [BS 9991:2015](#ref-bs-9991-2015) | Residential building fire safety — historical full standard | Withdrawn | [Free full standard PDF: BS 9991:2015 — full standard for residential building fire safety](https://webarchive.nationalarchives.gov.uk/ukgwa/20250325002139mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000041_BS%209991_%202015.%20Fire%20safety%20in%20the%20design,%20management%20and%20use%20of%20residential%20buildings%20%EF%BF%BD%20Code%20of%20practice..pdf) — Full text of BS 9991:2015 for residential building fire safety, incorporating Corrigendum No. 1 (November 2016). Withdrawn on 21 November 2024; historical reference, not the current edition. The inquiry scan includes all numbered pages 1–174 and annexes A–F; the separately listed inside back cover is omitted. |
 
 ## Emergency lighting
 
@@ -3072,6 +3084,26 @@ Publisher status: Withdrawn. BSI record date: 2013-05-31. Amendment labels: None
 
 - BSI records withdrawal on 29 April 2019. Historical reference only; this is Part 6 for domestic premises, not Part 1 for non-domestic premises.
 - The free full-text source is Grenfell Tower Inquiry exhibit CTAR00000036, preserved by The National Archives. Its printed pages 1–84, front matter, annexes A–F and bibliography are present; the separately listed inside back cover is omitted from the 91-page scan.
+
+</details>
+
+<a id="ref-bs-9991-2015"></a>
+
+### BS 9991:2015
+
+Full standard: **verified free full-text PDF for this historical edition**.
+
+[Free full standard PDF: BS 9991:2015 — full standard for residential building fire safety](https://webarchive.nationalarchives.gov.uk/ukgwa/20250325002139mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000041_BS%209991_%202015.%20Fire%20safety%20in%20the%20design,%20management%20and%20use%20of%20residential%20buildings%20%EF%BF%BD%20Code%20of%20practice..pdf) — Full text of BS 9991:2015 for residential building fire safety, incorporating Corrigendum No. 1 (November 2016). Withdrawn on 21 November 2024; historical reference, not the current edition. The inquiry scan includes all numbered pages 1–174 and annexes A–F; the separately listed inside back cover is omitted.
+
+<details>
+<summary>Publisher metadata and revision history (publisher access may require payment)</summary>
+
+[Publisher record — reference only, may require payment](https://knowledge.bsigroup.com/products/fire-safety-in-the-design-management-and-use-of-residential-buildings-code-of-practice-1) · status checked 2026-10-28
+
+Publisher status: Withdrawn. BSI record date: 2015-10-31. Amendment labels: None in designation.
+
+- BSI records withdrawal on 21 November 2024. Historical reference only; this is the 2015 edition incorporating Corrigendum No. 1, not BS 9991:2024.
+- The free full-text source is Grenfell Tower Inquiry exhibit CTAR00000041, preserved by The National Archives. All numbered pages 1–174, front matter i–x, annexes A–F and bibliography are present; the separately listed inside back cover is omitted from the 187-page scan.
 
 </details>
 
