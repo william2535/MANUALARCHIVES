@@ -20,13 +20,13 @@ Catalogue build date: 2026-10-28. A check date does not mean a document is the l
 
 Each category contains **brand → model / product family → document** navigation. Documents are classified as installation, user guide, programming, quick start, application note, diagram, datasheet or reference. Shared documents are linked under all explicitly associated models without counting each model association as a separate document.
 
-## British Standards: free guides and forms
+## British Standards: free PDFs
 
-**13 verified free PDF guides, white papers and model forms**, with direct publisher/author downloads. Links checked 2026-10-28. Search starts with references that have free guides; choose **All reference records** for all 147 standards references across 8 groups. Publisher-status metadata remains dated 2026-10-21.
+**1 full historical standard PDF and 13 free guides, white papers and model forms**, with direct source downloads. Links checked 2026-10-28. Full standards appear first in search; select **Full standards only** to find complete text. The register has 148 references across 8 groups, with source checks through 2026-10-28; individual status-check dates are shown in each record.
 
-[Download free standards-related guides](05-british-standards/README.md#free-pdf-downloads) · [Search free guides offline](index.html#standards) · [App data](data/standards.json)
+[Download full historical standards](05-british-standards/README.md#full-standard-downloads) · [All free PDF downloads](05-british-standards/README.md#free-pdf-downloads) · [Search offline](index.html#standards) · [App data](data/standards.json)
 
-**These are guides and forms, not the full British Standards.** No authorised free full-standard PDFs have been verified. Earlier-edition guidance is marked clearly, and paid publisher records are retained only as labelled source references.
+**BS 5839-6:2013 is available in full** as a 91-page Grenfell Tower Inquiry exhibit preserved by The National Archives. This is **Part 6 for domestic premises**, withdrawn on 29 April 2019; it is not the current edition or Part 1. All printed text pages 1–84 were checked. Guides and forms remain clearly distinguished from full standards.
 
 ## Complete FACP source collection
 

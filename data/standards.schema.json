@@ -357,7 +357,8 @@
             "enum": [
               "guide",
               "white-paper",
-              "model-forms"
+              "model-forms",
+              "full-standard"
             ]
           },
           "edition_relation": {
@@ -387,7 +388,7 @@
             "pattern": "^https://[^?#]+\\.pdf(?:[?#].*)?$"
           },
           "is_full_standard": {
-            "const": false
+            "type": "boolean"
           },
           "access": {
             "const": "free-direct-pdf"
@@ -416,8 +417,67 @@
           },
           "pdf_eof_checked": {
             "const": true
+          },
+          "edition": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_host": {
+            "type": "string",
+            "minLength": 1
+          },
+          "completeness_note": {
+            "type": "string",
+            "minLength": 1
+          },
+          "rights_note": {
+            "type": "string",
+            "minLength": 1
+          },
+          "isbn": {
+            "type": "string",
+            "pattern": "^[0-9]{13}$"
+          },
+          "complete_text_checked": {
+            "const": true
           }
-        }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "resource_type": {
+                  "const": "full-standard"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "is_full_standard": {
+                  "const": true
+                },
+                "edition_relation": {
+                  "const": "same-edition"
+                }
+              },
+              "required": [
+                "edition",
+                "isbn",
+                "source_host",
+                "complete_text_checked",
+                "completeness_note",
+                "rights_note"
+              ]
+            },
+            "else": {
+              "properties": {
+                "is_full_standard": {
+                  "const": false
+                }
+              }
+            }
+          }
+        ]
       }
     }
   },

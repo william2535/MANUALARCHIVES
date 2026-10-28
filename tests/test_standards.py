@@ -67,7 +67,7 @@ class StandardsTests(unittest.TestCase):
         self.assertTrue(any('draft lacks official evidence' in e for e in standards_errors(self.data)))
 
     def test_free_downloads_reject_purchase_pages_and_incomplete_files(self):
-        resource = self.data['free_resources'][0]
+        resource = next(r for r in self.data['free_resources'] if not r['is_full_standard'])
         resource['download_url'] = self.row['source_url']
         resource['sha256'] = ''
         resource['pdf_eof_checked'] = False
@@ -76,7 +76,7 @@ class StandardsTests(unittest.TestCase):
         self.assertTrue(any('complete-file verification' in e for e in errors))
 
     def test_free_guidance_cannot_be_a_full_standard_or_hide_edition_scope(self):
-        resource = self.data['free_resources'][0]
+        resource = next(r for r in self.data['free_resources'] if not r['is_full_standard'])
         resource['is_full_standard'] = True
         resource['scope_note'] = ''
         errors = standards_errors(self.data)
@@ -92,7 +92,8 @@ class StandardsTests(unittest.TestCase):
         self.assertTrue(any('duplicate free-resource PDF' in e for e in errors))
 
     def test_pdf_check_date_does_not_refresh_standard_status(self):
-        self.assertLess(self.data['checked_on'], self.data['free_resources_checked_on'])
+        self.assertTrue(any(r['source_checked'] < self.data['free_resources_checked_on'] for r in self.data['records']))
+        self.assertTrue(all(r['source_checked'] <= self.data['checked_on'] for r in self.data['records']))
         self.assertEqual(standards_errors(self.data), [])
         self.data['free_resources'][0]['checked_on'] = '2099-01-01'
         self.assertTrue(any('PDF evidence is later' in e for e in standards_errors(self.data)))
@@ -115,6 +116,28 @@ class StandardsTests(unittest.TestCase):
         self.data.pop('free_resources_checked_on')
         self.assertEqual(standards_errors(self.data), [])
         self.assertIn('0 free PDF guides', render_standards_markdown(self.data))
+
+    def test_full_text_is_bound_to_its_exact_historical_edition(self):
+        full = next(r for r in self.data['free_resources'] if r['is_full_standard'])
+        self.assertEqual(full['edition'], 'BS 5839-6:2013')
+        self.assertEqual(standards_errors(self.data), [])
+        full['related_standard_ids'] = ['bs-5839-6-2019-a1-2020']
+        self.assertTrue(any('exact edition' in e for e in standards_errors(self.data)))
+
+    def test_full_standard_requires_completeness_and_rights_evidence(self):
+        full = next(r for r in self.data['free_resources'] if r['is_full_standard'])
+        full['complete_text_checked'] = False
+        full['rights_note'] = ''
+        self.assertTrue(any('completeness or source-rights' in e for e in standards_errors(self.data)))
+
+    def test_full_standard_render_does_not_claim_other_editions_are_downloadable(self):
+        text = render_standards_markdown(self.data)
+        old = text.split('<a id="ref-bs-5839-6-2013"></a>', 1)[1].split('</details>', 1)[0]
+        current = text.split('<a id="ref-bs-5839-6-2019-a1-2020"></a>', 1)[1].split('</details>', 1)[0]
+        self.assertIn('verified free full-text PDF', old)
+        self.assertIn('Withdrawn', old)
+        self.assertIn('no verified free download for this edition', current)
+        self.assertNotIn('Download full standard', current)
 
 
 if __name__ == '__main__':

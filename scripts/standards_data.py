@@ -88,9 +88,10 @@ def standards_errors(data):
         if not re.fullmatch(r'[a-z0-9-]+', rid) or rid in resource_ids:
             error('invalid or duplicate free-resource id ' + rid)
         resource_ids.add(rid)
-        if resource.get('access') != 'free-direct-pdf' or resource.get('is_full_standard') is not False:
-            error(rid + ': free guidance must not be presented as a full standard')
-        if resource.get('resource_type') not in {'guide', 'white-paper', 'model-forms'}:
+        full = resource.get('resource_type') == 'full-standard'
+        if resource.get('access') != 'free-direct-pdf' or resource.get('is_full_standard') is not full:
+            error(rid + ': full standard and guidance labels must match the document type')
+        if resource.get('resource_type') not in {'guide', 'white-paper', 'model-forms', 'full-standard'}:
             error(rid + ': invalid free-resource type')
         if resource.get('edition_relation') not in {'same-edition', 'earlier-edition', 'related-guidance'}:
             error(rid + ': missing edition relationship')
@@ -99,6 +100,14 @@ def standards_errors(data):
         related = resource.get('related_standard_ids', [])
         if not related or len(related) != len(set(related)) or any(s not in ids for s in related):
             error(rid + ': unknown or duplicate related standard')
+        if full:
+            exact = next((r for r in data['records'] if related == [r['id']]), None)
+            if not exact or resource.get('edition') != exact['edition'] or resource.get('edition_relation') != 'same-edition':
+                error(rid + ': full standard must match one exact edition record')
+            if (resource.get('complete_text_checked') is not True
+                    or not re.fullmatch(r'\d{13}', resource.get('isbn', ''))
+                    or not all(resource.get(k) for k in ['completeness_note', 'rights_note', 'source_host'])):
+                error(rid + ': full standard lacks completeness or source-rights evidence')
         for key in ['source_url', 'download_url']:
             url = urlparse(resource.get(key) or '')
             if url.scheme != 'https' or not url.hostname or url.username or url.password:
@@ -139,22 +148,35 @@ def free_resources_for(data, record):
     return [r for r in data.get('free_resources', []) if record['id'] in r['related_standard_ids']]
 
 
+def has_full_standard(data, record):
+    return any(r['is_full_standard'] for r in free_resources_for(data, record))
+
+
 def render_standards_markdown(data):
     def md(value):
         return str(value).replace('|', '\\|').replace('\n', ' ')
     rows = data['records']
     resources = data.get('free_resources', [])
+    full_count = sum(r['is_full_standard'] for r in resources)
+    full_pdf_label = 'PDF' if full_count == 1 else 'PDFs'
     def downloads(record):
-        return '<br>'.join(f'[Free {r["resource_type"].replace("-", " ")} PDF: {md(r["title"])}]({r["download_url"]}) — {md(r["scope_note"])}' for r in free_resources_for(data, record)) or 'No verified free guide PDF'
-    lines = ['# British Standards — free guides and reference register', '', '[Archive](../README.md) · [Search free guides offline](../index.html#standards) · [App data](../data/standards.json)', '',
-             f'**{len(resources)} free PDF guides, white papers and forms · download links checked {data.get("free_resources_checked_on", "Not established")}**', '',
-             '**These downloads are not full British Standards.** No authorised free full-standard PDF has been verified for the references below. A guide may cover an earlier edition or only part of a subject; read its scope before using it. The download links go directly to public PDFs on their authors’ or publishers’ sites, with no account or payment required when checked.', '',
-             'Search defaults to references with free PDFs. Select **All reference records** to view the complete register. Paid publisher pages are retained only as clearly labelled source references inside the details.', '',
-             '## Free PDF downloads', '', '| Free PDF | Publisher / printed issue | Scope and edition limits |', '|---|---|---|']
+        return '<br>'.join(f'[Free {r["resource_type"].replace("-", " ")} PDF: {md(r["title"])}]({r["download_url"]}) — {md(r["scope_note"])}' for r in free_resources_for(data, record)) or 'No verified free PDF'
+    lines = ['# British Standards — free PDFs and reference register', '', '[Archive](../README.md) · [Search free PDFs offline](../index.html#standards) · [App data](../data/standards.json)', '',
+             f'**{full_count} full historical standard {full_pdf_label} · {len(resources)-full_count} free PDF guides, white papers and forms · links checked {data.get("free_resources_checked_on", "Not established")}**', '',
+             '**Full standards and guidance are labelled separately.** Historical standards are not current editions. A guide may cover an earlier edition or only part of a subject; read its scope before using it. Direct PDF links were checked without an account or payment. Official public-archive copies retain the original copyright notices; they are linked, not mirrored here.', '',
+             'Search defaults to references with free PDFs, with full standards first. Select **Full standards only** to find full text, or **All reference records** to view the complete register. Paid publisher pages are retained only as clearly labelled source references inside the details.', '',
+             '## Full standard downloads', '']
     for r in resources:
-        lines.append(f'| [{md(r["title"])} — {r["page_count"]} pages]({r["download_url"]}) | {md(r["publisher"])} · {md(r["document_issue"])} | {md(r["scope_note"])} |')
+        if r['is_full_standard']:
+            lines += [f'### [{md(r["edition"])} — download full standard PDF]({r["download_url"]})', '',
+                      f'**{r["page_count"]} PDF pages · {md(r["source_host"])} · historical edition**', '', r['scope_note'], '', r['completeness_note'], '', r['rights_note'], '']
+    if not full_count:
+        lines += ['No verified full-standard PDF for these editions.', '']
+    lines += ['## Free PDF downloads', '', '| Free PDF / type | Publisher / printed issue | Scope and edition limits |', '|---|---|---|']
+    for r in resources:
+        lines.append(f'| [{md(r["title"])} — {r["page_count"]} pages]({r["download_url"]}) · {r["resource_type"].replace("-", " ")} | {md(r["publisher"])} · {md(r["document_issue"])} | {md(r["scope_note"])} |')
     lines += ['', 'Opening a PDF uses your browser’s PDF viewer; use its save/download action to keep a copy. Offline search does not download the PDFs. Free access is not a licence to redistribute them.', '',
-              f'**Reference metadata: {len(rows)} checked references · {len(data["categories"])} groups · status checked {data["checked_on"]}.** The PDF-link check date above does not revalidate publisher status.', '', data['coverage']['scope'], '', '## How to use this register', '']
+              f'**Reference metadata: {len(rows)} references · {len(data["categories"])} groups · source checks through {data["checked_on"]}.** Individual status-check dates appear in each record’s details; a newer PDF-link check does not refresh earlier status evidence.', '', data['coverage']['scope'], '', '## How to use this register', '']
     lines += ['- ' + item for item in data['coverage']['limits']]
     lines += ['', '## Recent editions and amendments', '', '| Edition | Subject | BSI record date | Public revision note |', '|---|---|---|---|']
     recent = sorted((r for r in rows if max(map(int, re.findall(r':(\d{4})', r['edition']))) >= 2024), key=lambda r: r['publisher_record_date'] or '', reverse=True)
@@ -162,7 +184,7 @@ def render_standards_markdown(data):
         note = r['change_summary'] or 'Edition metadata checked; detailed changes require the original.'
         lines.append(f'| [{md(r["edition"])}](#ref-{r["id"]}) | {md(r["title"])} | {r["publisher_record_date"] or "Not established"} | {md(note)} |')
     for category, label in data['categories'].items():
-        lines += ['', '## ' + label, '', '| Edition / details | Subject | Publisher status | Free related PDF (not the full standard) |', '|---|---|---|---|']
+        lines += ['', '## ' + label, '', '| Edition / details | Subject | Publisher status | Free PDF (type and edition shown) |', '|---|---|---|---|']
         for r in rows:
             if r['category'] != category:
                 continue
@@ -170,7 +192,7 @@ def render_standards_markdown(data):
     lines += ['', '## Revision notes and earlier records', '']
     for r in rows:
         lines += [f'<a id="ref-{r["id"]}"></a>', '', '### ' + r['edition'], '',
-                  'Full standard: **no verified free download**.', '', downloads(r), '',
+                  ('Full standard: **verified free full-text PDF for this historical edition**.' if has_full_standard(data, r) else 'Full standard: **no verified free download for this edition**.'), '', downloads(r), '',
                   '<details>', '<summary>Publisher metadata and revision history (publisher access may require payment)</summary>', '',
                   f'[Publisher record — reference only, may require payment]({r["source_url"]}) · status checked {r["source_checked"]}', '',
                   f'Publisher status: {r["publisher_status"]}. BSI record date: {r["publisher_record_date"] or "Not established"}. Amendment labels: {", ".join(r["amendments_in_designation"]) or "None in designation"}.', '']
@@ -193,5 +215,5 @@ def render_standards_markdown(data):
             lines.append(f'| [{md(draft["reference"])}]({draft["source_url"]}) | {md(draft["subject"])} | {draft["publisher_record_date"]} |')
         lines += ['']
     lines += ['## Coverage still to verify', ''] + ['- ' + x for x in data['coverage']['remaining_checks']]
-    lines += ['', '## Maintenance', '', 'Edit `data/standards.json`, retaining earlier records and their evidence. Verify the exact edition on its publisher page, record the check date, and distinguish publication, amendment and withdrawal dates. Do not promote a consultation draft to a published standard or infer withdrawal from age. Keep free resources separate: verify an anonymous full-file download, PDF header/EOF, page count and SHA-256, and review the printed issue and edition scope. Never label guidance as the full standard. Run `python3 scripts/build_index.py`, `python3 scripts/validate.py` and the tests. Rebuilding does not recheck sources.', '', '[Free-download verification audit](../data/source-audits/standards-free-downloads-2026-10-28.json). The register is a dated snapshot, with no automatic monitoring. Full standard texts are not mirrored or downloaded by the manuals downloader.']
+    lines += ['', '## Maintenance', '', 'Edit `data/standards.json`, retaining earlier records and their evidence. Verify the exact edition on its publisher page, record the check date, and distinguish publication, amendment and withdrawal dates. Do not promote a consultation draft to a published standard or infer withdrawal from age. Keep free resources separate: verify an anonymous full-file download, PDF header/EOF, page count and SHA-256, and review the printed issue and edition scope. Full-text entries also require edition/ISBN matching, a page-completeness check, source provenance and copyright notes. Never label guidance as the full standard. Run `python3 scripts/build_index.py`, `python3 scripts/validate.py` and the tests. Rebuilding does not recheck sources.', '', '[Guide-download verification audit](../data/source-audits/standards-free-downloads-2026-10-28.json) · [BS 5839 full-text verification audit](../data/source-audits/bs5839-full-text-2026-10-28.json). The register is a dated snapshot, with no automatic monitoring. Full standard texts are not mirrored or downloaded by the manuals downloader.']
     return '\n'.join(lines)

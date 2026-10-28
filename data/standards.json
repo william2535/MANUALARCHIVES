@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-21",
-  "title": "British Standards: free guides and reference register",
+  "checked_on": "2026-10-28",
+  "title": "British Standards: free PDFs and reference register",
   "categories": {
     "fire": "Fire alarms and evacuation",
     "fire-safety": "Building fire safety",
@@ -21,7 +21,7 @@
       "An A-number in a designation records that amendment; it is not a complete list of earlier amendments or separate corrigenda.",
       "A publisher record date can refer to a corrected issue or product record and can differ from the year in the designation. It is not an effective or withdrawal date.",
       "Under review does not mean withdrawn. Drafts do not replace published standards. A newer edition does not establish a withdrawal date for an earlier one.",
-      "No authorised free full-standard PDF has been verified for this register. Free resources are separately labelled guides, white papers or model forms, not full standards. Publisher metadata links may lead to paid access. Offline search does not save the linked PDFs."
+      "Free resources distinguish full historical standards from guides, white papers and forms. A full copy is verified only for the exact linked edition; other editions remain unavailable unless explicitly listed. Preserve withdrawn status, source dates and copyright notices. Offline search does not save the PDFs."
     ],
     "remaining_checks": [
       "Complete amendment, corrigendum and supersession histories from publisher history panels or licensed copies; an amendment suffix alone is not a full history.",
@@ -4159,6 +4159,35 @@
       ],
       "history_complete": false,
       "access": "publisher-link-only"
+    },
+    {
+      "id": "bs-5839-6-2013",
+      "standard": "BS 5839-6",
+      "edition": "BS 5839-6:2013",
+      "title": "Fire alarms in domestic premises — historical full standard",
+      "category": "fire",
+      "status": "withdrawn",
+      "under_review": false,
+      "publisher_status": "Withdrawn",
+      "publisher_record_date": "2013-05-31",
+      "source_checked": "2026-10-28",
+      "source_url": "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-systems-for-buildings-code-of-practice-for-the-design-installation-commissioning-and-maintenance-of-fire-detection-and-fire-alarm-systems-in-domestic-premises",
+      "source_urls": [
+        "https://knowledge.bsigroup.com/products/fire-detection-and-fire-alarm-systems-for-buildings-code-of-practice-for-the-design-installation-commissioning-and-maintenance-of-fire-detection-and-fire-alarm-systems-in-domestic-premises"
+      ],
+      "amendments_in_designation": [],
+      "update_kind": "published-edition",
+      "change_summary": null,
+      "summary_basis": "edition-metadata-only",
+      "supersedes": [],
+      "earlier_records": [],
+      "transition": null,
+      "notes": [
+        "BSI records withdrawal on 29 April 2019. Historical reference only; this is Part 6 for domestic premises, not Part 1 for non-domestic premises.",
+        "The free full-text source is Grenfell Tower Inquiry exhibit CTAR00000036, preserved by The National Archives. Its printed pages 1–84, front matter, annexes A–F and bibliography are present; the separately listed inside back cover is omitted from the 91-page scan."
+      ],
+      "history_complete": false,
+      "access": "publisher-link-only"
     }
   ],
   "draft_watchlist": [
@@ -4197,6 +4226,35 @@
   ],
   "free_resources_checked_on": "2026-10-28",
   "free_resources": [
+    {
+      "id": "bs5839-6-2013-inquiry-full-text",
+      "title": "BS 5839-6:2013 — full standard for domestic premises",
+      "publisher": "British Standards Institution",
+      "resource_type": "full-standard",
+      "related_standard_ids": [
+        "bs-5839-6-2013"
+      ],
+      "document_issue": "May 2013; Grenfell Tower Inquiry exhibit CTAR00000036",
+      "edition_relation": "same-edition",
+      "scope_note": "Full text of BS 5839-6:2013 for domestic premises. Withdrawn on 29 April 2019; historical reference, not the current edition and not Part 1. The inquiry scan includes all numbered text pages 1–84 and annexes A–F; the separately listed inside back cover is omitted from the scan.",
+      "source_url": "https://assets.grenfelltowerinquiry.org.uk/CTAR00000036_BS%205839-6_%202013.%20Fire%20detection%20and%20fire%20alarm%20systems%20for%20buildings%20-%20Code%20of%20practice%20for%20the%20design%2C%20installation%2C%20commissioning%20and%20maintenance%20of%20fire%20detection%20and%20fire%20alarm.pdf",
+      "download_url": "https://webarchive.nationalarchives.gov.uk/ukgwa/20250324193351mp_/https://assets.grenfelltowerinquiry.org.uk/CTAR00000036_BS%205839-6_%202013.%20Fire%20detection%20and%20fire%20alarm%20systems%20for%20buildings%20-%20Code%20of%20practice%20for%20the%20design,%20installation,%20commissioning%20and%20maintenance%20of%20fire%20detection%20and%20fire%20alarm.pdf",
+      "is_full_standard": true,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "f9d8e8ea1990d723fb7ab332a14c1525a861f4e2426b35895d8e6e3b50b88cac",
+      "bytes": 2301211,
+      "page_count": 91,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true,
+      "edition": "BS 5839-6:2013",
+      "isbn": "9780580783333",
+      "source_host": "The National Archives — UK Government Web Archive",
+      "complete_text_checked": true,
+      "completeness_note": "All 84 consecutive numbered text pages verified against their printed footers, plus front matter i–iv, annexes A–F and bibliography on page 84. Cover, contents and final numbered page visually reviewed. The 91-page inquiry scan omits the separately listed inside back cover.",
+      "rights_note": "External link to an official public inquiry exhibit. BSI copyright notices remain in the source. No redistribution licence is asserted and no PDF is mirrored in this repository."
+    },
     {
       "id": "fia-bs5839-1-2025-changes",
       "title": "Guide to the changes in BS 5839-1:2025",

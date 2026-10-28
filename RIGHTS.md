@@ -7,3 +7,5 @@ Manufacturer PDFs are not mirrored here. Public availability of a download does 
 Before adding a PDF to the public archive, record the publisher's redistribution permission or applicable licence, its source, the exact document issue, and a SHA-256 checksum. Retain all notices. Do not apply a repository software licence to a manufacturer's documents.
 
 Do not add paid standards, customer drawings, passwords, access codes, private job records or gated files obtained without authorisation.
+
+Full standards published as official public inquiry exhibits may be linked as external historical references, with the exact edition, archive provenance, withdrawn status and copyright notices retained. A public archive link does not establish permission to mirror or redistribute the PDF.
