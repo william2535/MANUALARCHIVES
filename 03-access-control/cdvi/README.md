@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-6 document records, grouped into 11 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+7 document records, grouped into 15 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -17,3 +17,7 @@
 | [Digiway Plus](digiway-plus/README.md) | 1 |
 | [Digiway Rev 7](digiway-rev-7/README.md) | 1 |
 | [GALEOW](galeow/README.md) | 1 |
+| [SOLARPB](solarpb/README.md) | 1 |
+| [SOLARPW](solarpw/README.md) | 1 |
+| [STARPB](starpb/README.md) | 1 |
+| [STARPW](starpw/README.md) | 1 |

@@ -1,0 +1,3969 @@
+{
+  "checked_on": "2026-10-28",
+  "baseline_commit": "423d216c9de70645b88507d1f0dafbaaeb97f5b0",
+  "baseline_records": 12063,
+  "new_records": 250,
+  "total_records": 12313,
+  "counts_by_category": {
+    "fire": 68,
+    "access-control": 41,
+    "warden-call": 100,
+    "cctv": 9,
+    "security": 10,
+    "other-reference": 22
+  },
+  "counts_by_brand": {
+    "Protec": 50,
+    "TDSi": 15,
+    "Tynetec": 65,
+    "Tunstall": 35,
+    "Dahua": 6,
+    "Hikvision": 3,
+    "Bosch": 4,
+    "Optex": 1,
+    "Honeywell": 2,
+    "CDVI": 1,
+    "Elmdene": 40,
+    "RGL": 25,
+    "Pyronix": 2,
+    "Risco": 1
+  },
+  "scope": "Mainstream UK trade and legacy service device families; not a measured popularity ranking or an exhaustive device inventory. British Standards is a separate 147-reference register.",
+  "evidence": "Every added document was retrieved completely, hashed, header/EOF checked and parsed; text or rendered first-page identity was reviewed. Identical source URLs/full-file hashes are merged. Original PDFs remain source links, not public binary mirrors.",
+  "actions": [
+    {
+      "candidate_key": "2e38a5e1d5659ea72734",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHT.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht/",
+      "status": "added",
+      "record_id": "protec-cb575d8d8fea",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT"
+      ],
+      "page_count": 2,
+      "sha256": "9118c5cde0b78582b895e33cb4d62ce5bf6ebdd55078e15c02471d79aa5cccfa",
+      "bytes": 585510
+    },
+    {
+      "candidate_key": "68c69b178325ba2ce6d0",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/MED1749_6000PLUS_Recognition_Card.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht/",
+      "status": "added",
+      "record_id": "protec-31f5bdf4a3e1",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS sensor recognition"
+      ],
+      "page_count": 2,
+      "sha256": "3321fadc0044b6e63e215b632193fd58704c7d054e7e2c346e6792e38d29c162",
+      "bytes": 1044584
+    },
+    {
+      "candidate_key": "657046e87ab78b2b2dc4",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/04/3000PLUS-OPHT.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/conventional/view-all-detectors/3000plus-opht/",
+      "status": "added",
+      "record_id": "protec-6523d9245f00",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "3000PLUS/OPHT"
+      ],
+      "page_count": 2,
+      "sha256": "00c6220d2e9329c61088dcef39225abe481abb021b12de63da51950f587afe1a",
+      "bytes": 724017
+    },
+    {
+      "candidate_key": "12889c8cfbe72e2c3b2e",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0026.GB_MIFARE-CSN-Reader_Issue-5.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-db8fca21f754",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "MIFARE CSN Reader"
+      ],
+      "page_count": 2,
+      "sha256": "9b3fecd2334df436500411684385fff485f7f4138b0915dcd48f4be2b3045767",
+      "bytes": 219541
+    },
+    {
+      "candidate_key": "bedb8337d7dc91c4013f",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0035.GB-EXsmart2-CSN-Reader_Issue3.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-9e6aaf6b79d2",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "EXsmart 2 MIFARE CSN Reader"
+      ],
+      "page_count": 2,
+      "sha256": "506cf622dd4d086973d4d9d1f76e857d7660b427bc204bce9a9885d02e18c8eb",
+      "bytes": 404142
+    },
+    {
+      "candidate_key": "e42946c11bc8cb880850",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0047.GB-Energy-Saving-Switch_Issue2.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-3d47e0e13089",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "Energy Saving Switch"
+      ],
+      "page_count": 2,
+      "sha256": "903e5bd2556099f594f20f96d1ddbd4246ca1801aca14d64479e60a5be988627",
+      "bytes": 279337
+    },
+    {
+      "candidate_key": "e781227bfb13159d4925",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0062.GB-EXsmart2-Sector-Reader_Issue2.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-e6ba2c3b3915",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "EXsmart 2 Sector 4 Reader"
+      ],
+      "page_count": 2,
+      "sha256": "7081bd4c3ee42c0ddfd02334c38604072946dbaf8dd8eb265355aa5355ba2c6f",
+      "bytes": 403637
+    },
+    {
+      "candidate_key": "405f5b22f2c7600c0ace",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0063.GB-EXsmart2-K-CSN-Reader_Issue2.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-4f143e86c453",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "EXsmart 2K MIFARE CSN Reader"
+      ],
+      "page_count": 2,
+      "sha256": "5a7f960ec58a7511b54ff2b043440513a4cdcbd3348b52b357445815f7f9eec3",
+      "bytes": 623631
+    },
+    {
+      "candidate_key": "e5d3797f0a95ce37e37c",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0064.GB-EXsmart2K-Sector-Reader_Issue2.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-872095b77c8c",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "EXsmart 2K Sector 4 Reader"
+      ],
+      "page_count": 2,
+      "sha256": "1b87dec7e3d2956f0fb00de6197a5945df36d7cfd222a4a7e5ce59ad4096de2b",
+      "bytes": 623173
+    },
+    {
+      "candidate_key": "2e33170da7dce2bd4787",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0069.GB-Dual-Technology-Enrolment-Reader_Issue5.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-db2a59990c58",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "Dual-Technology Enrolment Reader"
+      ],
+      "page_count": 2,
+      "sha256": "9f2b4e9dcc6b257731c860e6a217305ce721226370f3ac309ce39551fc256dbf",
+      "bytes": 176863
+    },
+    {
+      "candidate_key": "641442d88a15679ff563",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0070.GB_RF-Receiver-Fobs_Issue-3.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-e503c7244c5a",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "RF Receiver"
+      ],
+      "page_count": 2,
+      "sha256": "d9d5bf1b585ae4eb594f3b0beda6278353f80674e7bdcdd77e7295011f27bd24",
+      "bytes": 1650924
+    },
+    {
+      "candidate_key": "1681f28939965e110b2b",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0178.GB_MIFARE-Panel-Mount-DESfire-Reader_iss1.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-a7d8c3d5e725",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "MIFARE Panel Mount DESfire Reader"
+      ],
+      "page_count": 1,
+      "sha256": "59c5d498fa1e59200d69e6c56475293c48a05eff6e781d6bbcd4e1601adc54d2",
+      "bytes": 188374
+    },
+    {
+      "candidate_key": "eb928caeb3dc7d7cdd03",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/08/DS0189.GB-GARDiS-Bluetooth-Low-Energy-Reader-Issue3.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-3c020b672c47",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "Bluetooth Low Energy Reader"
+      ],
+      "page_count": 2,
+      "sha256": "98c107bc24da7b13cbb3ca19589b499466e930568800e714788356caf2721291",
+      "bytes": 250178
+    },
+    {
+      "candidate_key": "794131e630ad5fe4994b",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2023/09/DS0067-DIGIgarde-PLUS_Issue3.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-d92bdb653f39",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "Digigarde Plus Biometric Reader"
+      ],
+      "page_count": 3,
+      "sha256": "cc30ca8d5b9fca444adde2dda2fb5fdb8b62b2b4a4f0a880b5f8eef8a2231e79",
+      "bytes": 169803
+    },
+    {
+      "candidate_key": "8599339f634ee19a8dc0",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/08/DS0191.GB-GARDiS-Proximity-Readers_Issue1.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-e5b23fe98076",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "GARDiS Proximity Readers"
+      ],
+      "page_count": 2,
+      "sha256": "a8de1d062b52f54332bdf03e58616c4bba08293e988554c4ad0813ee36fff85d",
+      "bytes": 174457
+    },
+    {
+      "candidate_key": "d15f22496725778d37d1",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/08/DS0193.GB-GARDiS-MIFARE-Readers_Issue1.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-87c686bb04b5",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "GARDiS MIFARE Readers"
+      ],
+      "page_count": 2,
+      "sha256": "d5756db31f349166a60ad1f3b6a3dcf8667fac5db2c0531f341f51d9df5a20dc",
+      "bytes": 170459
+    },
+    {
+      "candidate_key": "565204a68a0b9e69b70c",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0019.GB-Contactless-Smart-Cards_Issue4.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-2989ffc2ffca",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "Contactless Smart Cards"
+      ],
+      "page_count": 2,
+      "sha256": "ebf1ac47f2ec07a3ffab63892424ab4c8da8ab60dde5597a7864276c6b804f3a",
+      "bytes": 160274
+    },
+    {
+      "candidate_key": "0285f781e72bbace34a8",
+      "url": "https://tdsi.co.uk/wp-content/uploads/2021/08/DS0032.GB-Proximity-Cards-and-Fobs_Issue4.pdf",
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "status": "added",
+      "record_id": "tdsi-c17a88c70cc2",
+      "brand": "TDSi",
+      "category": "access-control",
+      "models": [
+        "Proximity Cards & Fobs"
+      ],
+      "page_count": 2,
+      "sha256": "1cdc19c73c6d494482e1b9f4ddf74e28e5626a1c18636c7e1bd21f153b34baf1",
+      "bytes": 367378
+    },
+    {
+      "candidate_key": "ad2e9b2af8366fe1d196",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/08/FM0828-V1.06-869MHz-Touch-2-Pendant-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-4aa0b3dad1ae",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT800"
+      ],
+      "page_count": 3,
+      "sha256": "95922629dd4b736af1082ba1ab0887468fc6d90bc3a7cc297cbd6b9da793c1fd",
+      "bytes": 535772
+    },
+    {
+      "candidate_key": "0455571e81d6c0c50a56",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/08/FM0884-V1.03-869MHz-Touch-2-Attack-Pendant-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-b05a88f09f52",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT801"
+      ],
+      "page_count": 3,
+      "sha256": "b07321db54f6919becf0ecb35b0b1976f0a731f00fb4757c08450ce05f79013e",
+      "bytes": 519775
+    },
+    {
+      "candidate_key": "7ec149164409797aed46",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/08/FM0840-V1.04-869MHz-Fall-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-7a99a7936668",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT805"
+      ],
+      "page_count": 3,
+      "sha256": "f1e7ca6554c66f72a75acf8c2cf6c748e052b276988fee00fffe7438a8eb8321",
+      "bytes": 416878
+    },
+    {
+      "candidate_key": "0ed45878ed6a45f61932",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/09/FM0915-V1.02-869MHz-Dynamic-Fall-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-d61157419359",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT806"
+      ],
+      "page_count": 4,
+      "sha256": "44069ce124fa025efe79deb6aff33a3b7d99070bc01d6ff5526ca9da3063f55b",
+      "bytes": 512446
+    },
+    {
+      "candidate_key": "bdb053307e8ec6be4741",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0822-V1.07-869MHz-Smoke-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-a5883060630c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT810"
+      ],
+      "page_count": 3,
+      "sha256": "c91796c3b7847a6f54ce10a362c98b98e7d669834c4a03f800ed4c7c4c6da10a",
+      "bytes": 528528
+    },
+    {
+      "candidate_key": "c6b57ab6a9aeec8b4d8d",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0823-V1.07-869MHz-Heat-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-49cdf3daafdb",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT811"
+      ],
+      "page_count": 3,
+      "sha256": "4711ff4461c2449cd542c7b7c21833270ef9ffccb8e3854e2c4e788779baabf4",
+      "bytes": 495920
+    },
+    {
+      "candidate_key": "bcf1fe21dc5ba4a2294b",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0824-V1.07-869MHz-CO-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-346c19345161",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT812"
+      ],
+      "page_count": 3,
+      "sha256": "a619e94980c3b8c3c99d0453ed3129f993f8f6e35ff6d45f89045556c5d387cc",
+      "bytes": 560930
+    },
+    {
+      "candidate_key": "86ce2558324dd4ca8ac3",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2026/04/CO-Detector-User-Manuals-NE41-24004-00-ML.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-d8d2b8cb22e0",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "NE1020006-03"
+      ],
+      "page_count": 80,
+      "sha256": "fbd8df08df35785718126b6f1af18c0d44e26c4ba6b930463bfb3d68eb9f3b95",
+      "bytes": 745542
+    },
+    {
+      "candidate_key": "bbfbdc5772c3787f6088",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/08/FM0848-V1.01-869MHz-Natural-Gas-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-0ba1e84775b3",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT813"
+      ],
+      "page_count": 3,
+      "sha256": "981acdef52993b6dcf2f88653503a119ddd2985d971c759a1e5f06d7edb9c5a0",
+      "bytes": 429769
+    },
+    {
+      "candidate_key": "b93b10cdf0a979c73f7f",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0846-V1.03-869MHz-Flood-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-1f105b1fbc74",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT815"
+      ],
+      "page_count": 3,
+      "sha256": "841a29ca1d69af918f889f22f511ced77eed0aec337ef8213901334dbb894425",
+      "bytes": 460332
+    },
+    {
+      "candidate_key": "27b18be61f3f1f3d9d93",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2026/04/Flood-Detector-User-Manuals-NE41-22006-00-ML.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-0557818ddd78",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "NE1020006-02"
+      ],
+      "page_count": 71,
+      "sha256": "13618660fee9c171a21f68cf47103aaea48f6356daf7f9aecd0c3dbafe5dda93",
+      "bytes": 621059
+    },
+    {
+      "candidate_key": "7f773d04dc0eb4691fa1",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/11/FM0869-V1.04-869MHz-Radiolink-Hearing-Impaired-Smoke-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-0063d4354ef2",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT819"
+      ],
+      "page_count": 5,
+      "sha256": "ec5b40afd4414d7541b33f125e5fac4d5258b8645bbf53d2f65673a0c2c34400",
+      "bytes": 703367
+    },
+    {
+      "candidate_key": "96099eefd75494e4c132",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0825-V1.06-869MHz-Pullcord-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-88ad24d263fe",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT820"
+      ],
+      "page_count": 3,
+      "sha256": "d7cceef2f695b704d5e76501fab8ac48b5cb09e04916c2e05619159f5c55e2c1",
+      "bytes": 466515
+    },
+    {
+      "candidate_key": "f101209d2179141ae272",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0829-V1.03-869MHz-Big-Button-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-68ce5ebe4833",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT821"
+      ],
+      "page_count": 3,
+      "sha256": "302d72eef566f99d691d073d151e3e08e075a64775f46ccd8ccb4536200acdcb",
+      "bytes": 455286
+    },
+    {
+      "candidate_key": "96fb199a71432a6a8e00",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0837-V1.03-869MHz-Bogus-Caller-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-17b16a2b82e1",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT823"
+      ],
+      "page_count": 3,
+      "sha256": "85c5a94857d7c29a3489a91e3a7d6c41d208fb694f6ce9d1e9df57812b63f9e6",
+      "bytes": 383067
+    },
+    {
+      "candidate_key": "6a58c09508d0038aef5d",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0826-V1.08-869MHz-Door-Open-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-e932a8171743",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT830"
+      ],
+      "page_count": 3,
+      "sha256": "2d438c41b2b343f3c9fd8520778dc9275a18e9b6adce8f0fd1c5281c9023d8c1",
+      "bytes": 493037
+    },
+    {
+      "candidate_key": "4f33a0394aede59c0423",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0836-V1.03-869MHz-Client-Wandering-Door-Alarm-Keyswitch-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-6ee916012981",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT832"
+      ],
+      "page_count": 4,
+      "sha256": "d79f8667271538037e15a21c52dafdec0b69ab3d16b4aaeedab000c685ed4a52",
+      "bytes": 469604
+    },
+    {
+      "candidate_key": "36345547335b629b0257",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0878-V1.03-869MHz-Client-Wandering-Door-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-e1886fb05621",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT833"
+      ],
+      "page_count": 4,
+      "sha256": "e3ff8cfa7555f7c841063b8f82251bdb9d3f2f4ee0a94746822be759871033e9",
+      "bytes": 471156
+    },
+    {
+      "candidate_key": "91d78507079e209142c5",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0827-V1.03-869MHz-Sensor-Controller-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-f21bd7813f62",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT840",
+        "ZXT841",
+        "ZXT842",
+        "ZCS844",
+        "ZCS857",
+        "ZCS859"
+      ],
+      "page_count": 9,
+      "sha256": "cfd4a4d964263947023570d8433dd04a01ebaf1e46e73e8ec5a79c02e30746a3",
+      "bytes": 707026
+    },
+    {
+      "candidate_key": "3ec7cea3fc246744947b",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/06/FM0834-V1.05-869MHz-Pill-Dispenser-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-30b709512541",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT843"
+      ],
+      "page_count": 6,
+      "sha256": "7da2531b0935a8e44f77c80616cad598a8d5c39c70a74c24fa15c3aaa281615c",
+      "bytes": 541923
+    },
+    {
+      "candidate_key": "3cc4eb636ff317aaa0d4",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2026/04/Pill-dispenser-User-Manuals-NE41-22007-00-ML.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-d738c36c4f73",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "NE1022003-01"
+      ],
+      "page_count": 120,
+      "sha256": "10ebe167a73a5fe5d502d5922eaf23680ba0bb363c1247a4921c35a30540bdaf",
+      "bytes": 995451
+    },
+    {
+      "candidate_key": "ca49b0f53f5c28f3ce89",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/08/FM0845-V1.02-869MHz-Companion-Epilepsy-Monitor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-4e4e948826fe",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT845"
+      ],
+      "page_count": 4,
+      "sha256": "06ce9dada37ed21dbb1e5491afe92867ab428a5545a13b21d1f7a7768646477e",
+      "bytes": 487210
+    },
+    {
+      "candidate_key": "d6adb91e95d7907f531f",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0885-V1.03-869MHz-Companion-Mini-Epilepsy-Monitor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-7a9793ffab43",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT846"
+      ],
+      "page_count": 5,
+      "sha256": "d913408cf5a0b274c6bcbdc02e807cf769b42540d47f41ef9ad52c159400ac8f",
+      "bytes": 485641
+    },
+    {
+      "candidate_key": "6fb6599384e4440dd752",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0847-V1.03-869MHz-Enuresis-Sensor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-bc40ccf0007f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT847"
+      ],
+      "page_count": 3,
+      "sha256": "bb20735befb9989d8d34ccb9aa734c5c8a7a306fc3d1e59b3095ec45ca93fa5b",
+      "bytes": 492088
+    },
+    {
+      "candidate_key": "3f568ac07144be178bcc",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2026/04/Enuresis-Sensor-User-Manuals-NE41-22005-00-ML.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-f29bbbf2a05f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "NE1020006-01"
+      ],
+      "page_count": 65,
+      "sha256": "8f01dd2f90e4b6a315daaf6e22d1f7738813d0ec0c08a963b99dc5fd34f67824",
+      "bytes": 665224
+    },
+    {
+      "candidate_key": "480167cab614ac5b01f9",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0844-V1.04-869MHz-Unboxed-Transmitter-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-55a50108b3ef",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT850",
+        "ZXT851",
+        "ZXT852",
+        "ZXT853"
+      ],
+      "page_count": 3,
+      "sha256": "a42667866d58361fccff1d3b79f598f9707a0fbc9b30a348eaef30b2138b08a4",
+      "bytes": 464454
+    },
+    {
+      "candidate_key": "4ab3620637f4119bd297",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0907-V1.01-869MHz-Alerting-Floor-PIR-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-df815b732913",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT860"
+      ],
+      "page_count": 5,
+      "sha256": "78813e2477800d1b57b0a59643b8835691dc5c9dc9c380f6aee2f8bfdaf2b30b",
+      "bytes": 588660
+    },
+    {
+      "candidate_key": "98aa34f601e5a9ee89f9",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0867-V1.04-869MHz-Activity-Monitoring-PIR-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-a71995e8a0d1",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT861"
+      ],
+      "page_count": 6,
+      "sha256": "770317b995b34c414cd370f53fc9de1b18c16bb23d1187eaa70d0ab9cc156426",
+      "bytes": 627106
+    },
+    {
+      "candidate_key": "8f27ec4003ffae3f9175",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0871-V1.02-869MHz-Universal-Transmitter-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-635326beed02",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT865"
+      ],
+      "page_count": 4,
+      "sha256": "e02d7278c525ad5ead4dd45953b42934130460759d18a7dea1e78426ceb4a404",
+      "bytes": 496131
+    },
+    {
+      "candidate_key": "eeda27462fa9f66ea1df",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2023/09/FM0866-V1.04-869MHz-Boxed-Dual-Smoke-CO-Transmitter-Instructions-1.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-942b1989f943",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT870"
+      ],
+      "page_count": 3,
+      "sha256": "dcdbf343dd2006495262c55f686be1f77979d746fca219edf1ebf57c4c6c7f89",
+      "bytes": 462462
+    },
+    {
+      "candidate_key": "95e21e8225d324d44cad",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/08/E00520-C-Touch-2-Pendant-Aid-Fitting-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-62bb518e309b",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "E00520"
+      ],
+      "page_count": 1,
+      "sha256": "827a7d279023e4c1c221ea8cf1e349dacf1ba8a06e712af8862ad90bb7a0c355",
+      "bytes": 194878
+    },
+    {
+      "candidate_key": "9b998429cd2c16e2687c",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/08/NE10-22004-02-ISS-B-NEAT-Touch-2-Pendant-Aid-Fitting-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-3e2e1c5ee4d6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "NE10 22004-02"
+      ],
+      "page_count": 1,
+      "sha256": "590debd0770bd29ea450496edaf12a4c920fb485216811c721341ae31f54119b",
+      "bytes": 195841
+    },
+    {
+      "candidate_key": "5babd2691981c1d0780d",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0637-E-169MHz-Touch-2-Personal-Pendant-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-867f476cebd0",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT600"
+      ],
+      "page_count": 5,
+      "sha256": "65549b68b02364c4d831973a8a231e66300d32ee3c15d466eb8c23dbbeb25ccc",
+      "bytes": 636793
+    },
+    {
+      "candidate_key": "580571685127191d4101",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0660-C-169MHz-Touch-2-Attack-Pendant-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-95539c915346",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT606"
+      ],
+      "page_count": 5,
+      "sha256": "9e4cc2011f7d79a8f822be149f7d4cb97535af6ad5bc3ddf0f28184653eb3fad",
+      "bytes": 629532
+    },
+    {
+      "candidate_key": "637709e316ec7e500584",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0661-D-169MHz-Touch-2-Carer-Pendant-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-97cb51915eb6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT607"
+      ],
+      "page_count": 3,
+      "sha256": "63da308bbf6cb777cdd319ffb51272d4bf32eb72cdbebfa2e056a50ceec50459",
+      "bytes": 476323
+    },
+    {
+      "candidate_key": "320e7dc8ce3f6339b8dc",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0741-C-169MHz-Arkea-Fall-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-c03fbbbfa2a6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT412"
+      ],
+      "page_count": 3,
+      "sha256": "bde98dbd3450a54ac99d3feb14afe00a8fd690ed050ac5382989b0ecff4f8d2a",
+      "bytes": 356170
+    },
+    {
+      "candidate_key": "74cadaa9fa064a5d7b7c",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0795-G-169MHz-Fall-Detector-v2-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-ff4847e0fd4b",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT413"
+      ],
+      "page_count": 8,
+      "sha256": "97e4a8c35b667e91811d2054bbbafc2fffe4fd0f709e071c32a80224fecd6e15",
+      "bytes": 635468
+    },
+    {
+      "candidate_key": "d5cb4afe51fd0cf391dd",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0458-G-169MHz-Flood-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-0f461bf5ed18",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT424"
+      ],
+      "page_count": 5,
+      "sha256": "f4e35f02783056407e8dc838ea24c0b02d308ec038fde177ae4a7924f5095cb2",
+      "bytes": 578070
+    },
+    {
+      "candidate_key": "b54b9e5967b0c5134ead",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0460-K-169MHz-Temperature-Extreme-Sensor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-111b61200d55",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT426"
+      ],
+      "page_count": 6,
+      "sha256": "4a356892c43afd055e59d99f6f27a5c83ab499e8c22f88cf50f1575d410f223b",
+      "bytes": 619589
+    },
+    {
+      "candidate_key": "f79d43eff1fb97128246",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0471-H-169MHz-Gas-CO-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-e41c73e44db3",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT427"
+      ],
+      "page_count": 6,
+      "sha256": "40e45f5223f885ad46304c4c4c1747934cf21b3f2f4aa4dd1718bdfa7ef029dd",
+      "bytes": 643576
+    },
+    {
+      "candidate_key": "89d4d9788bebd24cbc9f",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0462-F-169MHz-Enuresis-Sensor-Plastic-Bed-Mat-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-582a42ff1191",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT431"
+      ],
+      "page_count": 6,
+      "sha256": "2d0e5333abba7ef922595e0ce663a16a3bbe1a308a112cb5dc6b4f3c01a52e97",
+      "bytes": 606614
+    },
+    {
+      "candidate_key": "5a87864c691b55e52b7c",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0465-F-169MHz-Alarm-Door-Contact-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-57a7d743b5bb",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT434"
+      ],
+      "page_count": 4,
+      "sha256": "99232cb1f7b4046182466179e546625c9a7c658dc4e92d2bc781a4366ed6aa32",
+      "bytes": 426589
+    },
+    {
+      "candidate_key": "4d2571c7866f2a407cdb",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0466-G-169MHz-Alarm-Pullcord-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-0fe2e132e7ba",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT435"
+      ],
+      "page_count": 4,
+      "sha256": "4260a14a66c6f510e7dad586d51afcc281f2378a4469e1901e88f48ae259c79a",
+      "bytes": 424266
+    },
+    {
+      "candidate_key": "887dadd1aae1581ea7b8",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0467-F-169MHz-Panic-Button-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-92dff242706d",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT436"
+      ],
+      "page_count": 5,
+      "sha256": "4823c99dda532eee48c6672a9db694894fbb2c78d93673caa2e73221c7e6aff5",
+      "bytes": 540416
+    },
+    {
+      "candidate_key": "4651d0183a1c9c779131",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0483-G-169MHz-Door-Exit-Contact-Keyswitch-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-06e11ff7483e",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT438"
+      ],
+      "page_count": 5,
+      "sha256": "30eb9c153c653a0c8e67c86baf2345ff57d9ff7c51a8f45fc945b08719999204",
+      "bytes": 459786
+    },
+    {
+      "candidate_key": "47daa19244112c34389c",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0491-F-169MHz-Big-Button-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-8414c5fff040",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT439"
+      ],
+      "page_count": 5,
+      "sha256": "097e7c733217a8d8fff726b8b1d50b068b56bb8ee97180caec9a7f3754fa7414",
+      "bytes": 526506
+    },
+    {
+      "candidate_key": "3bcd432bfb2cee5b6556",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0576-G-169MHz-No-Alarm-Door-Contact-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-5f02f37a7dec",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT444"
+      ],
+      "page_count": 3,
+      "sha256": "b0ef0fddd0a54fa9a0a0eeb7ec94293663aebab63aefa5b58df4bee4278c52bd",
+      "bytes": 412197
+    },
+    {
+      "candidate_key": "1aebc2823a8a29f4dcc3",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0595-D-169MHz-Universal-Transmitter-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-310ab697a76c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT449"
+      ],
+      "page_count": 7,
+      "sha256": "cf56486860d56d0356dc2d13f8f609bc2882c147806c5f64303e087850221ce8",
+      "bytes": 633448
+    },
+    {
+      "candidate_key": "493a053a0c3e96011bc2",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0600-J-169MHz-Sensor-Controller-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-904dc9f06506",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT450",
+        "ZXT473",
+        "ZXT474"
+      ],
+      "page_count": 13,
+      "sha256": "7180d71e075d565c3aa2258cb5ce831cc1dcf4199f2ef0c8cf3e5461452f9b27",
+      "bytes": 928770
+    },
+    {
+      "candidate_key": "98d1aab7b71756bb634e",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0596-G-169MHz-Mains-Usage-Monitor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-ec23925c8c0c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT471"
+      ],
+      "page_count": 3,
+      "sha256": "4f0944633659713bfcbe3eb8f0c588c26bdccac837c4e772329b4ea326142bc4",
+      "bytes": 397871
+    },
+    {
+      "candidate_key": "e17d1e4ef43a295a3904",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0599-E-169MHz-PIR-Movement-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-4d5304401aa9",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT475"
+      ],
+      "page_count": 4,
+      "sha256": "59e47454acee1e2298fac9dc1979214ef85aa28c0f052f074f7c25da93beeae6",
+      "bytes": 499941
+    },
+    {
+      "candidate_key": "7c286130391e3bd5c591",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0614-D-169MHz-Enuresis-Sensor-Cotton-Bed-Sheet-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-fe5563732618",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT476"
+      ],
+      "page_count": 6,
+      "sha256": "2f4aa61d87858001b1401a67ede1f92a7c7a0c96fe87af1014ec73f2d7633224",
+      "bytes": 615991
+    },
+    {
+      "candidate_key": "3bcb2312ac3628c26661",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0615-D-169MHz-Companion-Epilepsy-Monitor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-9b7ef072ac8e",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT477"
+      ],
+      "page_count": 6,
+      "sha256": "d5039c219b7c43978857d7ec1a3dc7d6f2ba905db6b0f7685e58b87b08eabe5a",
+      "bytes": 609422
+    },
+    {
+      "candidate_key": "34bbb513ad9cb7a6b389",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0626-C-169MHz-Property-Exit-Sensor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-be9cdf20e6cf",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT478"
+      ],
+      "page_count": 5,
+      "sha256": "bf61534557b4d57a1ddac0f18041b95ef0c86203324538c8340586dc5b563c3c",
+      "bytes": 580993
+    },
+    {
+      "candidate_key": "e7c2d199a9513a95cd9c",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0706-E-169MHz-Pill-Dispenser-Advance-Instructions-.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-8e042f4f3db6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT485"
+      ],
+      "page_count": 7,
+      "sha256": "04747930daf86120e14d1ffe1c6e9beba0dfaac090e10087a570c2f4155cc26a",
+      "bytes": 643415
+    },
+    {
+      "candidate_key": "5fc48cd22c0af2b01d2f",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0725-E-169MHz-Natural-Gas-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-219d56d3dd02",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT486"
+      ],
+      "page_count": 6,
+      "sha256": "0292b1819de7ff4aff8fa6b86bb85b65afde7d668e4b5a975afcf64a3095fb54",
+      "bytes": 613844
+    },
+    {
+      "candidate_key": "de71710b3a7398f89d23",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0743-C-169MHz-Hearing-Impaired-Smoke-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-3234e21f60f6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT487"
+      ],
+      "page_count": 6,
+      "sha256": "2ba84dd595a34b7d0b4dc7dd048227db65201d783dd47f9d8b6b136261076665",
+      "bytes": 593278
+    },
+    {
+      "candidate_key": "4251d93aa4f5eee3aa85",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0791-B-169MHz-Bogus-Caller-Button-Code-18-Instructions-1.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-65740c425043",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT489"
+      ],
+      "page_count": 2,
+      "sha256": "674ffabfd1dcb8993b7cd6eb75650a7b5c6c211ab4d18499d1e298e62b44d56d",
+      "bytes": 357477
+    },
+    {
+      "candidate_key": "ba9e24dea04be25074c4",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0841-B-169MHz-Carbon-Monoxide-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-47feb21f16a8",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT491"
+      ],
+      "page_count": 6,
+      "sha256": "83731793c8e67f5ceeb033b56cd24103ecf892a874c2bc9a4a46c56115c8a386",
+      "bytes": 651121
+    },
+    {
+      "candidate_key": "12962f2ddcceef5a425e",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0850-B-169MHz-Smoke-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-7113b082f231",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT492"
+      ],
+      "page_count": 6,
+      "sha256": "d5b43b515c3f746b513ab885e2b98e323a8b4a5b6b392acb1a92709f6500c005",
+      "bytes": 629375
+    },
+    {
+      "candidate_key": "16a3aad3ba6b33e1da06",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0851-B-169MHz-Heat-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-ae45f1cc60f7",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT493"
+      ],
+      "page_count": 6,
+      "sha256": "37ac424feff1d6cfa16c53a877cac326d71884d9bc71f8e28ec01f0e28a66e3c",
+      "bytes": 582820
+    },
+    {
+      "candidate_key": "ba39fc8fcbb3aad2c841",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0862-A-169MHz-Floor-PIR-Motion-Detector-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-3644da3945dc",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT494"
+      ],
+      "page_count": 7,
+      "sha256": "99cf5799c8ed6bcf9519743b35700f6a25aec0610f390957131a6745182a388a",
+      "bytes": 684533
+    },
+    {
+      "candidate_key": "7f2fb97266f43b9cdf38",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2025/11/FM0870-B-169MHz-Radiolink-Hearing-Impaired-Smoke-Alarm-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-2b5a578e223c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT496"
+      ],
+      "page_count": 8,
+      "sha256": "bce0d8c4c8637d1cf941bd5f8f69353e5b5faca7c2c572808cadd0a960b4ff7f",
+      "bytes": 852697
+    },
+    {
+      "candidate_key": "d7e5151c709b18899f05",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0901-B-169MHz-Companion-Mini-Epilepsy-Monitor-Instructions.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-91d0fd03e772",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "ZXT497"
+      ],
+      "page_count": 7,
+      "sha256": "c8eb1692ed2e0ba5a6b60f6786a727bac39ff26875cc762d43d28edaceba90eb",
+      "bytes": 563759
+    },
+    {
+      "candidate_key": "97ac8d47c23675782a78",
+      "url": "https://www.tynetec.co.uk/wp-content/uploads/2021/12/FM0630_J-Battery_Management_for_Assisted_Living__Healthcare_Products.pdf",
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "status": "added",
+      "record_id": "tynetec-1b1e7c4b354c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "models": [
+        "Assisted living and healthcare battery management"
+      ],
+      "page_count": 12,
+      "sha256": "3fcfd35773f7615c16f0eeac6d80581af48cb36eb4d0684d325f93b85ef2fc22",
+      "bytes": 938559
+    },
+    {
+      "candidate_key": "50e500b8ab3503922d25",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/tunstall-vitalbase-programming-guide-v5-jan14.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-e7300148d82c",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67605/19"
+      ],
+      "page_count": 5,
+      "sha256": "4da7b9762d37e2970174a133afb0f8c0ad94f9f44d81db07880860b6e95d5e40",
+      "bytes": 4583316
+    },
+    {
+      "candidate_key": "876232948ae82da4f88e",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d4107100b_bed_chair_occupancy_sensor_installation_and_user_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-6ccea10da1ab",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/13"
+      ],
+      "page_count": 16,
+      "sha256": "f171589ab5a6c35df3e624b8b178e8cf519329186d442e55aa6694a5fa3e0dae",
+      "bytes": 923791
+    },
+    {
+      "candidate_key": "dc8a1ecca42d3e4b54f4",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d4107004b_bed_chair_occupancy_sensor_user_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-0a9bf5d5b360",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/01"
+      ],
+      "page_count": 1,
+      "sha256": "3b2c1e446bf3b7173a905b7ccf9291a9d28c5a8fbab9b4ae6c60ad6cbaf6782f",
+      "bytes": 25102
+    },
+    {
+      "candidate_key": "1953412f1e62099fa09f",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/co_detector_wireless_user_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-6440e1b42952",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/51"
+      ],
+      "page_count": 2,
+      "sha256": "06222db757278abe376e5073ff7fa433a12784731db88da9fb989dab08a93db0",
+      "bytes": 306802
+    },
+    {
+      "candidate_key": "715e24989b4f8e6e32fb",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d4107073a_door_usage_sensor_installation_and_user_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-21e74ef37d03",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/23"
+      ],
+      "page_count": 5,
+      "sha256": "90b5c04dc44518556307a68faf8e4abc60bb9b6b6d927806532e8f1fec9708dd",
+      "bytes": 773640
+    },
+    {
+      "candidate_key": "9004088e839818bc29f6",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d4107072a_electrical_usage_sensor_installation_and_user_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-03b6ee9c76ed",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/22"
+      ],
+      "page_count": 4,
+      "sha256": "1c8ff488f8f2688afa9ff870604ce59a0d74c787e8bc7eedd6a217f4330d8292",
+      "bytes": 795157
+    },
+    {
+      "candidate_key": "8f5638a9c83103d77192",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707116a_enuresis_sensor_installation_and_user_instructions.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-724a992aa168",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/21"
+      ],
+      "page_count": 2,
+      "sha256": "13930dfaa26d9af49bc189eeb9590757e0b612e9f96ca99616d5eaf0111ff4ba",
+      "bytes": 52571
+    },
+    {
+      "candidate_key": "cd9831f4ec63cac30553",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707135a_epilepsy_radio_transmitter_installation_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-31748186a127",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/59"
+      ],
+      "page_count": 2,
+      "sha256": "70b22ac7121b24a65860fe25b38d101089caee273dcbeae694c2b2aaa16c002e",
+      "bytes": 176751
+    },
+    {
+      "candidate_key": "cb241f012755fef5b5a9",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/67005-59_epilepsy_sensor_installation_and_user_guide_emfit_v4.2.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-df8e7d390e38",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/59"
+      ],
+      "page_count": 22,
+      "sha256": "935563c5abe63ea451693f585176ba70de4a7b4d2415042162414f3b35447b0f",
+      "bytes": 444796
+    },
+    {
+      "candidate_key": "c0a63c3d2791d084dc47",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6607016b-fall-detector-user-guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-f0966e92bbf9",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "Fall Detector"
+      ],
+      "page_count": 12,
+      "sha256": "e5f98a6b6bf09c9175949a1a8b12c5f65a5da4119b5ecea76fbe22889d1cd2e4",
+      "bytes": 1378311
+    },
+    {
+      "candidate_key": "6fac3a86abe41862db3c",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6607016a_fall_detector_user_instructions.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-a30d1175ce32",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/49"
+      ],
+      "page_count": 12,
+      "sha256": "38c1645b671569670f19e5a5fd3c74ac528d1970b30401db39b32e2a2e63b823",
+      "bytes": 627907
+    },
+    {
+      "candidate_key": "8f9570aee33f6aaa6619",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707196b_fast_pir_installation_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-5579e244e5e6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/89"
+      ],
+      "page_count": 2,
+      "sha256": "f6d60dda117f33f98fd70629b05ec5490316d9f4833dd323a10863a29581c75a",
+      "bytes": 98243
+    },
+    {
+      "candidate_key": "6e4732a9a46a1943dcaf",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707094c_gas_shut_off_valve_installation_and_service_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-bd5bfe4ead6b",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "GS803",
+        "GS804",
+        "GS805"
+      ],
+      "page_count": 6,
+      "sha256": "4a6453ce10394488c24f5823913e51e474ad395cb6210c9f374d3ec28dc5e1e6",
+      "bytes": 60634
+    },
+    {
+      "candidate_key": "02895e997250ba212585",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707093c_gas_shut_off_valve_user_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-b5103b434714",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "GS803",
+        "GS804",
+        "GS805"
+      ],
+      "page_count": 2,
+      "sha256": "00452ff091f3985a8fbf2beb1675f2d94415036c0798035ed820a9197ab683a2",
+      "bytes": 29603
+    },
+    {
+      "candidate_key": "9ef8451d3733537796a3",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/67005-78_heat_detector_installation_instructions_ei144.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-fcaa5e7bd7e6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "9000/81A",
+        "67005/78"
+      ],
+      "page_count": 4,
+      "sha256": "3bbd73a68294218f6b618808f5ddb77cd9a5463e893a51f361127dbf04d37931",
+      "bytes": 205932
+    },
+    {
+      "candidate_key": "dacf71600511e7473f5f",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/67005-78_heat_detector_user_guide_ei144.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-4c7c7fcf84a6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "9000/81A",
+        "67005/78"
+      ],
+      "page_count": 3,
+      "sha256": "80f665e11104c5d7074097a04a0c7e767a33848502a3dc49da04e3e147978bb2",
+      "bytes": 96514
+    },
+    {
+      "candidate_key": "4b247a1c5db77d616063",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9007051a_home_alert_pager_system_installation_and_user_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-94a0cde22dad",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "9000/69A"
+      ],
+      "page_count": 2,
+      "sha256": "30c775498b284f0153ff7a1521413fb4945a19bb801fd2fd9f15073272362708",
+      "bytes": 65391
+    },
+    {
+      "candidate_key": "5b85817d9f36fbfb013d",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/ivi-intelligent-pendant-datasheet.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-2e75ed8c0c6a",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "P68005/45"
+      ],
+      "page_count": 4,
+      "sha256": "acf87a9e788eeed53f5d2cf981cba1b67ea3dd4536d2df4729c36d0c8984a4e8",
+      "bytes": 241170
+    },
+    {
+      "candidate_key": "4a8a47571b437fb97386",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/ivi_intelligent_pendant_programming_guide_issue1.8.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-7f461c64e361",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "P68005/45"
+      ],
+      "page_count": 16,
+      "sha256": "83ab71bbab71f770aa54d02723dafa5819c05f149be0d1b5e835cebb96df127a",
+      "bytes": 949142
+    },
+    {
+      "candidate_key": "e3abea661c9b2c36edc9",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6807041c2_869_ivi_intelligent_pendant_inc_auto_fall_detection_user_guide_final.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-5a9f5f6da90f",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "P68005/45"
+      ],
+      "page_count": 28,
+      "sha256": "fc1ce57ce1fcfd01df9a5fa99acd913851ccd5521429e3c3f55c4229d8d617d7",
+      "bytes": 411870
+    },
+    {
+      "candidate_key": "d3a47250d2f804e872ba",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/minuet-watch-datasheet.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-99f24cfc82c3",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/21"
+      ],
+      "page_count": 2,
+      "sha256": "d4a6aa7e6a905133c049720adc2325c6f5d5e6a0212971254267405e580cab59",
+      "bytes": 77671
+    },
+    {
+      "candidate_key": "7ef7ea2ff762a1fb94d2",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707228a_minuet_user_guide_web_.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-c27cb50faa20",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67605/06"
+      ],
+      "page_count": 2,
+      "sha256": "7e9ca4a99385bcf608bdf46320f29fae3d37e5d6fa3b4082d90cdd0cd02b5906",
+      "bytes": 146169
+    },
+    {
+      "candidate_key": "853a42860eb4786aea0e",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/natural_and_lp_gas_detector_installation_and_user_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-3f1f68a97bb6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "GS783",
+        "GS826"
+      ],
+      "page_count": 8,
+      "sha256": "5f35eaacfd8ea8d7b16041fc01580266399532afaf4cf8f70a30a15962d08467",
+      "bytes": 1164765
+    },
+    {
+      "candidate_key": "d2da397a809b9090beaf",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/natural-gas-detector-datasheet.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-e310f3812e34",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "69005/10"
+      ],
+      "page_count": 2,
+      "sha256": "fc7099046c27a17cff4bccea14c3016f7b2e111388b549c6e17c3decafc99732",
+      "bytes": 270258
+    },
+    {
+      "candidate_key": "e6d993a8228254a508a1",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/gs831_nat_gas_detector_instruction_manual_r2.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-1501efbd9a91",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "GS831"
+      ],
+      "page_count": 2,
+      "sha256": "8430850610a70f50cb0436ab246c0a6a2462aa795cf40ab4612589ef9cd1781f",
+      "bytes": 75905
+    },
+    {
+      "candidate_key": "3023ab3c34f0d6f20f88",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707108a_radio_pir_installation_and_user_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-e722ff1237f8",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/45"
+      ],
+      "page_count": 2,
+      "sha256": "a26586eadd4664e2c916a5e474150a089b201523cc060b1d78b8cd676a3ab20c",
+      "bytes": 551929
+    },
+    {
+      "candidate_key": "df49ff0eba2e84245b00",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/optex_pir_installation_guideex-35r.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-69d405db79a4",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/34",
+        "67005/89"
+      ],
+      "page_count": 2,
+      "sha256": "f42e0107c749da413966dea855c68ac897117968c8c9d68a4cf7bc6efb902a4a",
+      "bytes": 1329992
+    },
+    {
+      "candidate_key": "d1dc5cb108d09fd293f1",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d4107100b_bed_chair_occupancy_sensor_installation_and_user_guide-1.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-683727fdeac2",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/13"
+      ],
+      "page_count": 16,
+      "sha256": "4c4c8335c9f8476523c534afa82866e9c6389edad7de840873403f10cff4185e",
+      "bytes": 923791
+    },
+    {
+      "candidate_key": "fbbba98cfc3c65a25b18",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707039a_rom_installation_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-c5960e67d3f5",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/35"
+      ],
+      "page_count": 2,
+      "sha256": "f816ff583308ca6096810048eed5557c6f32e99acb5be79cb4c16e9e7162ab5e",
+      "bytes": 26475
+    },
+    {
+      "candidate_key": "51e66f0eba14e537ba50",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707263a_67005-94_wireless_smoke_detector.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-e0f7bdedf489",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67005/94"
+      ],
+      "page_count": 4,
+      "sha256": "5963903496f7911355572e8ba9894dcb80f310539e59bdb55ac40924374e10b0",
+      "bytes": 262336
+    },
+    {
+      "candidate_key": "f0acb05d61431fed5688",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6707128a_radio_smoke_detector_-pattress_installation_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-5e16907e9cc7",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "9000/73A",
+        "9000/76A"
+      ],
+      "page_count": 2,
+      "sha256": "376c952caee7906e7bdf8d27a7d098b4a089980e64d94e9029647e60ad721c13",
+      "bytes": 150073
+    },
+    {
+      "candidate_key": "f3ed68c197902cae0d70",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d6908006b_temperature_extremes_sensor_installation_and_user_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-5035c67ab81b",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "69005/03",
+        "69005/04",
+        "69005/05",
+        "69005/06"
+      ],
+      "page_count": 8,
+      "sha256": "3d4ff905640ede92e3db91872a96d05b28b5ed3a04ebfdc35479e54bc052375c",
+      "bytes": 382642
+    },
+    {
+      "candidate_key": "8d711589805094252b08",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d4107098d_universal_sensor_installation_and_user_guide.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-3f3cf33597ec",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "41005/30"
+      ],
+      "page_count": 16,
+      "sha256": "9386fe2670229d45c217acf459c154e12d624a0bd880e6ad81edac6f827471f4",
+      "bytes": 677027
+    },
+    {
+      "candidate_key": "6d42b9017abcc1d4b9cf",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/d9007050a_user_alert_pager_system_installation_and_user_manual.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-5f0176028429",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "9000/69A"
+      ],
+      "page_count": 2,
+      "sha256": "96684aa92d33853629ed299be8bf6500d77307e1c65a59bcad96194c13047a25",
+      "bytes": 48418
+    },
+    {
+      "candidate_key": "3f48cf0bb78e22e74e84",
+      "url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/tunstall-vitalbase-user-guide-67605-19userguidetunstallvbc3_rev3matp0412-3.pdf",
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "status": "added",
+      "record_id": "tunstall-e156de9a7ab1",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "models": [
+        "67605/19"
+      ],
+      "page_count": 2,
+      "sha256": "fd91a4038fc2e5c0920f9a0dd23124a1b1f70401e232e12e1958896bbf45888c",
+      "bytes": 238146
+    },
+    {
+      "candidate_key": "555516ed6135f526f733",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDW5442T-ZE_S3_datasheet_20250312.pdf",
+      "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-s-series/4mp/ipc-hdw5442t-ze%3Ds3",
+      "status": "added",
+      "record_id": "dahua-5c94a1c33dd0",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW5442T-ZE (S3)"
+      ],
+      "page_count": 4,
+      "sha256": "bc5aa9c5b5f7f0a196e7bf40a56bb92d789e190c9e2fb8cbf9640fc7b4995a3f",
+      "bytes": 570505
+    },
+    {
+      "candidate_key": "32aa8dc3900a480d72a5",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/2447/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.9.pdf",
+      "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-s-series/4mp/ipc-hdw5442t-ze%3Ds3",
+      "status": "added",
+      "record_id": "dahua-f5ce2a499120",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW5442T-ZE (S3)"
+      ],
+      "page_count": 247,
+      "sha256": "ad36abddd6e80c037560c5c9982de61b2c42d7068e1ecc906f91fe441d7684c5",
+      "bytes": 31494661
+    },
+    {
+      "candidate_key": "2a1f5b1d614acaecb6fe",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81801/user_manual/Dahua_Eyeball_Network_Camera_Quick_Start_Guide_V1.0.3.pdf",
+      "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-s-series/4mp/ipc-hdw5442t-ze%3Ds3",
+      "status": "added",
+      "record_id": "dahua-cea5cb10d92c",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW5442T-ZE (S3)"
+      ],
+      "page_count": 17,
+      "sha256": "6b86ed14bca365766904f1b615ba220e9d07085b36bf26a4bbe2ba9ce76bfeec",
+      "bytes": 559702
+    },
+    {
+      "candidate_key": "943a74d7e1c68653cc65",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54117/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf",
+      "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-s-series/4mp/ipc-hdw5442t-ze%3Ds3",
+      "status": "added",
+      "record_id": "dahua-f4d0a17954db",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW5442T-ZE (S3)"
+      ],
+      "page_count": 270,
+      "sha256": "3c1381f37b0400706fc71439d54c27fb9947f1030a0d48577f3920250b199043",
+      "bytes": 49300657
+    },
+    {
+      "candidate_key": "939199b5dc7d5dd28e8c",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/2117/user_manual/Eyeball_Network_Camera_Installation_Guide_V1.0.0.pdf",
+      "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-s-series/4mp/ipc-hdw5442t-ze%3Ds3",
+      "status": "added",
+      "record_id": "dahua-382276a95bea",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW5442T-ZE (S3)"
+      ],
+      "page_count": 2,
+      "sha256": "e4116485aa2567e2bc88a716c47b859e5e04b65447da4dc629a830745dc04c0a",
+      "bytes": 2161007
+    },
+    {
+      "candidate_key": "71925a9f295a562fb652",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/UG4DP-Issue-4-1.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/ancillaries/6000plus-ug4dp-duct-probe-smoke-detector/",
+      "status": "added",
+      "record_id": "protec-a7baa334bd77",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/UG4DP",
+        "3000PLUS/UG4DP"
+      ],
+      "page_count": 2,
+      "sha256": "9ab3a01536165848d100819870ca23603e5f6ef56cdc6f702375bba78469ae82",
+      "bytes": 538029
+    },
+    {
+      "candidate_key": "2b39162590fd5b88dbe3",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-DCM-Smoke-Damper-Module.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-dcm/",
+      "status": "added",
+      "record_id": "protec-ce38ec46cb37",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/DCM"
+      ],
+      "page_count": 2,
+      "sha256": "1e9752d8dc1b3d2adaf23b78f881835a4528439ba192c13f5a9168b2800c4e22",
+      "bytes": 558190
+    },
+    {
+      "candidate_key": "68f723bb4699cb21b478",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-2APZA.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-2apza/",
+      "status": "added",
+      "record_id": "protec-76db2cf08b1f",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/2APZA"
+      ],
+      "page_count": 2,
+      "sha256": "1a3c3bbfcdba66471248e296c3e7477e7658c629b7ff51f344a84e632bab7172",
+      "bytes": 279309
+    },
+    {
+      "candidate_key": "74df70c5839184333afd",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-HT-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht/",
+      "status": "added",
+      "record_id": "protec-8fe34afdfd9e",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/HT"
+      ],
+      "page_count": 1,
+      "sha256": "0c2c16d1eb2d7e2937491086c350ccd27eebf32a58245b307a3ccfb96f611c1f",
+      "bytes": 109524
+    },
+    {
+      "candidate_key": "f4562a12c0528c99ff97",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-Protocol.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht/",
+      "status": "added",
+      "record_id": "protec-6c1b53d72cf8",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS protocol"
+      ],
+      "page_count": 10,
+      "sha256": "f7e0ab6e5aa0e534798b1abf55a7268d712bbf4b5a1563e78815ae84ebb5cd74",
+      "bytes": 476120
+    },
+    {
+      "candidate_key": "b57b72845734871d94ef",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-Sensor-Range.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht/",
+      "status": "added",
+      "record_id": "protec-ee96a3a1697c",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS sensor range"
+      ],
+      "page_count": 8,
+      "sha256": "6ddd102c7eac23983b2bab3daba25d1cbff78b4b28896cd30c12b5314f3b476e",
+      "bytes": 460476
+    },
+    {
+      "candidate_key": "2789697a61bf8a6bd239",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHT-SVAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-svad/",
+      "status": "added",
+      "record_id": "protec-6e1c7b025b2a",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT/SVAD"
+      ],
+      "page_count": 2,
+      "sha256": "f542ba88f6e15b674d66f18fbe8a1353d2bed7e022bd332eb243f0040bec4a3d",
+      "bytes": 601325
+    },
+    {
+      "candidate_key": "94a8fcfe319f998fda1a",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-SSR-VAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000-ssr-vad/",
+      "status": "added",
+      "record_id": "protec-0be7c2a76eef",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/SSR/VAD"
+      ],
+      "page_count": 2,
+      "sha256": "92b5ced0a82eb3c054c9df5c5169e9f3de89eba19ead820b79e0353f961f041e",
+      "bytes": 631104
+    },
+    {
+      "candidate_key": "4af4944a956bc384b205",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-VAD-C.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000-vad-c-red/",
+      "status": "added",
+      "record_id": "protec-85c751983ccd",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/VAD/C/RED",
+        "6000/VAD/C/WHITE"
+      ],
+      "page_count": 2,
+      "sha256": "ba3c706757fee4644e90c06ea7a6e7da6ef2e6c57cc211675b4f8946d58f5021",
+      "bytes": 722925
+    },
+    {
+      "candidate_key": "8d72252172c1ddb34d3d",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OP-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-op/",
+      "status": "added",
+      "record_id": "protec-6d5775af2bdd",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OP"
+      ],
+      "page_count": 1,
+      "sha256": "9799687e7b6fe7a664445f2a0585aa0a4cc218ecba5f7e3b7514ababb087a62d",
+      "bytes": 109483
+    },
+    {
+      "candidate_key": "8482711529bcceca4eae",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2021/03/6000PLUS-OP-I-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-optical-smoke-sensor-inc-isolator/",
+      "status": "added",
+      "record_id": "protec-ec2322ec5cbb",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OP/I"
+      ],
+      "page_count": 1,
+      "sha256": "0e6cc4f1c0e308a7766f4e9ca5ac8822ca1978e69c10fde12852312059569c5b",
+      "bytes": 109654
+    },
+    {
+      "candidate_key": "7be7aca015810cd79ab4",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OP-S-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-op-s/",
+      "status": "added",
+      "record_id": "protec-b45cd15ff779",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OP/S"
+      ],
+      "page_count": 1,
+      "sha256": "2de0b963546bdb131af3969ba953aec9aab3269de32696a512d1d230e38e13a7",
+      "bytes": 109273
+    },
+    {
+      "candidate_key": "3b969285c96e794312b1",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-HT-S-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht-s/",
+      "status": "added",
+      "record_id": "protec-ebdf3b49b3c0",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/HT/S"
+      ],
+      "page_count": 1,
+      "sha256": "bd8666795a2d71ae4b115104439c30fcd39ca34ad8427fae2b2a79cbceefe045",
+      "bytes": 109432
+    },
+    {
+      "candidate_key": "07b4bc01bfc6c3f0ddae",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-HT-TSVAD-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht-tsvad/",
+      "status": "added",
+      "record_id": "protec-5069e328acd7",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/HT/TSVAD"
+      ],
+      "page_count": 1,
+      "sha256": "5bd030a0e019c57024ebbc3cb122e229141b0abfaff4fafeeba992a9b0e56337",
+      "bytes": 108081
+    },
+    {
+      "candidate_key": "61951a26add7b033671a",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/Talking-Sounder-Table-2.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht-tsvad/",
+      "status": "added",
+      "record_id": "protec-6bcbc2b517fe",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS talking sounders"
+      ],
+      "page_count": 1,
+      "sha256": "17ece74839c6d3d15c8bfd25ed50df3ce95e348e0c98c2e752f2f47335967ae3",
+      "bytes": 22020
+    },
+    {
+      "candidate_key": "a64fd47aa473418953e3",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-HT-SVAD-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ht-svad/",
+      "status": "added",
+      "record_id": "protec-eb61f37c7451",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/HT/SVAD"
+      ],
+      "page_count": 1,
+      "sha256": "cda767e062880347a0e053d9e134678c078cd30d443941d3c773ebed01fcd66f",
+      "bytes": 109042
+    },
+    {
+      "candidate_key": "b2210f4437d2d119b0cb",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2021/03/6000PLUS-OPHTI.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-optical-smoke-and-heat-sensor-inc-isolator/",
+      "status": "added",
+      "record_id": "protec-bf011433007e",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT/I"
+      ],
+      "page_count": 2,
+      "sha256": "94794fe84d0ea8208ef7d72a4e961c367e44b47901b0d074bf15ce15ed54c7c7",
+      "bytes": 575968
+    },
+    {
+      "candidate_key": "bb4bfcc93c7c12e10f4e",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHT-S.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-s/",
+      "status": "added",
+      "record_id": "protec-0017f3f387c8",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT/S"
+      ],
+      "page_count": 2,
+      "sha256": "cd643f1aa64c52fe0da620d41c2d043310c35e489629e729e92ba4f881f2f04c",
+      "bytes": 576019
+    },
+    {
+      "candidate_key": "d47b34399c89d263bb07",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHT-VAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-vad/",
+      "status": "added",
+      "record_id": "protec-780eec1fef01",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT/VAD"
+      ],
+      "page_count": 2,
+      "sha256": "61eaf4d015f32653084455e982505b4a2ebbc6814a30a1cced93718995df7df1",
+      "bytes": 603401
+    },
+    {
+      "candidate_key": "34a4a14ef6d20c2cb94b",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHT-TS.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-ts/",
+      "status": "added",
+      "record_id": "protec-0dd49919bb8f",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT/TS"
+      ],
+      "page_count": 2,
+      "sha256": "0b89c2a11a3d83c9df97920fc17c501c9cee9b57441da96aeb08862d44ec9bce",
+      "bytes": 567614
+    },
+    {
+      "candidate_key": "26c9b31c7eae0fff8091",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/Talking-Sounder-Table.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-ts/",
+      "status": "added",
+      "record_id": "protec-b31b125f7fcf",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS talking sounders"
+      ],
+      "page_count": 1,
+      "sha256": "f18ba768da609f69b9353932e4767e8addaba24e8f01fc301364c80e417e5d0c",
+      "bytes": 22020
+    },
+    {
+      "candidate_key": "18d9231196d4385e989e",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHT-TSVAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-tsvad/",
+      "status": "added",
+      "record_id": "protec-f2b06b77b78b",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHT/TSVAD"
+      ],
+      "page_count": 2,
+      "sha256": "6a9e9181713e68484fc7474f52c6ad4f02165172f5b962c9d3236158813d8071",
+      "bytes": 595414
+    },
+    {
+      "candidate_key": "2911086b6d3302bdc5e7",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/Talking-Sounder-Table-1.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-opht-tsvad/",
+      "status": "added",
+      "record_id": "protec-8545b7775994",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS talking sounders"
+      ],
+      "page_count": 1,
+      "sha256": "ec6e5f2c41d6041e184a3e166c2a8ae0f9bfaf9430b107c415e9540c6f535ac3",
+      "bytes": 22020
+    },
+    {
+      "candidate_key": "323ac45128f45c065f35",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHTCO.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ophtco/",
+      "status": "added",
+      "record_id": "protec-f6b672126de1",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHTCO"
+      ],
+      "page_count": 2,
+      "sha256": "1f94841e859bb05f3bf214056b98c57544e95805e0352c2fec80704d4d4ef3ad",
+      "bytes": 585317
+    },
+    {
+      "candidate_key": "31bc2084a92cb2cef6ce",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHTCO-S.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ophtco-s/",
+      "status": "added",
+      "record_id": "protec-d0d332bd3ec0",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHTCO/S"
+      ],
+      "page_count": 2,
+      "sha256": "3f8b6b2105ff6b8bff0f45676800e13d080b03c6c2348b2a6875b9fff9180447",
+      "bytes": 567866
+    },
+    {
+      "candidate_key": "1d6a85033b6afb4c913e",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHTCO-VAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ophtco-vad/",
+      "status": "added",
+      "record_id": "protec-0a900498bab8",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHTCO/VAD"
+      ],
+      "page_count": 2,
+      "sha256": "0030fb126a5434ab048210738812b3e4a3da4aa44a0da0551a92882fe577d995",
+      "bytes": 604315
+    },
+    {
+      "candidate_key": "a63409e5898f5708d635",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHTCO-SVAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ophtco-svad/",
+      "status": "added",
+      "record_id": "protec-01df85b6dc78",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHTCO/SVAD"
+      ],
+      "page_count": 2,
+      "sha256": "3ff651e062ebe5833987116a5de62d90182efeb4b1af287ce4948a406d91e904",
+      "bytes": 600382
+    },
+    {
+      "candidate_key": "00a98a49939f2dd65c3d",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-OPHTCO-TSVAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ophtco-tsvad/",
+      "status": "added",
+      "record_id": "protec-51f6345bc3b0",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/OPHTCO/TSVAD"
+      ],
+      "page_count": 2,
+      "sha256": "09910f7d6d29fd3f044bfa682ab0966a17f9d64bfa8f2ee02075e9dc1325eddf",
+      "bytes": 595050
+    },
+    {
+      "candidate_key": "65a550daf599d93ce23d",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-BASE-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-base/",
+      "status": "added",
+      "record_id": "protec-5b9f06e51aac",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/BASE"
+      ],
+      "page_count": 1,
+      "sha256": "903d63c4d204ed040dcd6efba72352adb2db60e70cccfa827215d2a2fc40d94b",
+      "bytes": 121557
+    },
+    {
+      "candidate_key": "d2568b6d16988f86783c",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-FFBASE-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sensors/6000plus-ffbase/",
+      "status": "added",
+      "record_id": "protec-fba227e3ad41",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS/FFBASE"
+      ],
+      "page_count": 1,
+      "sha256": "334c3676484c0e0b45300055d570032f99bf3b699f2f446a0b386ad458c2a289",
+      "bytes": 101266
+    },
+    {
+      "candidate_key": "af6f81d2f5fea23020f4",
+      "url": "https://assets.hikvision.com/prd/normal/all/doc/sm000058331/DS-2CD2347G2-LU-C_Datasheet_20240417.pdf",
+      "source_url": "https://securitylab.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2347g2-l-u-/",
+      "status": "added",
+      "record_id": "hikvision-aea238fab819",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "models": [
+        "DS-2CD2347G2-L(U)"
+      ],
+      "page_count": 6,
+      "sha256": "42aa9a4254a18ac8a125a87cd4d8cf98fb17066889dda8b256642c162463888b",
+      "bytes": 1409259
+    },
+    {
+      "candidate_key": "56e870c4e2f8a14234e9",
+      "url": "https://assets.hikvision.com/prd/normal/all/doc/sm000058381/DS-2CD2387G2-LU-C_Datasheet_V5.5.115_20230418.pdf",
+      "source_url": "https://securitylab.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2387g2-l-u-/",
+      "status": "added",
+      "record_id": "hikvision-6bc97fc03214",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "models": [
+        "DS-2CD2387G2-L(U)"
+      ],
+      "page_count": 7,
+      "sha256": "fdd73c2e179f2ff674c6c933fdcab36617c921c16ef288d0d5defcdc0b0c02bf",
+      "bytes": 1094241
+    },
+    {
+      "candidate_key": "c113add10b3d55e29470",
+      "url": "https://resources.keenfinity.tech/public/documents/ISC_BDL2_W12_Installation_Manual_all_2614400267.pdf",
+      "source_url": "https://resources.keenfinity.tech/public/documents/ISC_BDL2_W12_Installation_Manual_all_2614400267.pdf",
+      "status": "added",
+      "record_id": "bosch-c221490fad45",
+      "brand": "Bosch",
+      "category": "security",
+      "models": [
+        "ISC-BDL2-W12G",
+        "ISC-BDL2-W12H"
+      ],
+      "page_count": 2,
+      "sha256": "bf32a06bb0ad0e0082cadaae7f606ab2e9e4e38927c279ed4239dad7eb363c5b",
+      "bytes": 928264
+    },
+    {
+      "candidate_key": "727e15956d868d31849c",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-MCP.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/manual-call-points/6000-mcp/",
+      "status": "added",
+      "record_id": "protec-f00b03bef0a0",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/MCP"
+      ],
+      "page_count": 2,
+      "sha256": "4f1d88053c3046b2212ba0d1761a4a49c0c317a8f19e7619b3fe5d5aebb63d14",
+      "bytes": 472402
+    },
+    {
+      "candidate_key": "0ce104fcf5b5288cbed2",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-MCP-WP.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/manual-call-points/6000-mcp-wp/",
+      "status": "added",
+      "record_id": "protec-339b6a0f3290",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/MCP/WP"
+      ],
+      "page_count": 2,
+      "sha256": "3ff47ee08ae751dd5d831dac22ad393d520da022f5946825be7a5d3a38b2f8f8",
+      "bytes": 573877
+    },
+    {
+      "candidate_key": "faaa7bdaa288482744d0",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2025/10/6000-2IO-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/two-channel-input-output-interface-6000-2io/",
+      "status": "added",
+      "record_id": "protec-9e5e03fd774a",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/2IO"
+      ],
+      "page_count": 1,
+      "sha256": "11643d7d7586d32e735477876ed7e7114e2ef177c6dc89fd898097b8cab4012c",
+      "bytes": 127116
+    },
+    {
+      "candidate_key": "598469191abd4a5c8ebe",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2025/10/Addressable-Interface-Brochure.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/two-channel-input-output-interface-6000-2io/",
+      "status": "added",
+      "record_id": "protec-f44210cd2cc5",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000 addressable interfaces"
+      ],
+      "page_count": 4,
+      "sha256": "96527f7c14d92288e50365fd803ff036203cdbcda3d170a0b8f049a4fa06be4e",
+      "bytes": 332147
+    },
+    {
+      "candidate_key": "9518c2f5e71c4937337b",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-2LPZA-Issue-2.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-2lpza/",
+      "status": "added",
+      "record_id": "protec-5c3a7124a457",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/2LPZA"
+      ],
+      "page_count": 2,
+      "sha256": "510553aa88bad6c1f9e899e88dc49b7b97b48463c30acd5e8850903f67cc1f86",
+      "bytes": 675348
+    },
+    {
+      "candidate_key": "5df9b318073b77882f72",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-4IO-Issue-3.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-4io/",
+      "status": "added",
+      "record_id": "protec-5a973238e7f3",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/4IO"
+      ],
+      "page_count": 2,
+      "sha256": "9fa93c3e9b43528da568300d7f02db46d4355e50ee90347baa0997aad9715a25",
+      "bytes": 633041
+    },
+    {
+      "candidate_key": "78908047310a5a22ced9",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2025/10/6000-MICCO-Tech-sheet-Issue-0.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/single-channel-interface-6000-micco/",
+      "status": "added",
+      "record_id": "protec-b0cb62962e34",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/MICCO"
+      ],
+      "page_count": 1,
+      "sha256": "0238bbd6420ba79dc9876c61d308c6953349add1cb4a8ad2d5afcfd056c26fe8",
+      "bytes": 102078
+    },
+    {
+      "candidate_key": "62834adc5fa08e00be01",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-LPZA-Issue-2.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-loop-panel-zone-alarm/",
+      "status": "added",
+      "record_id": "protec-19c2f3a94324",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/LPZA"
+      ],
+      "page_count": 2,
+      "sha256": "266a376b4a49340e5954621f100fc8fbb2f542b74a987d045539c17f1133ca75",
+      "bytes": 1640148
+    },
+    {
+      "candidate_key": "cf79610b616eb8e9ffee",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-APZA-Issue-3.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-apza/",
+      "status": "added",
+      "record_id": "protec-6989163099f8",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/APZA"
+      ],
+      "page_count": 2,
+      "sha256": "9e3f56e5141a338c7a7fd9ab8885c6d9c05a8aee9a30bbe2fc0ddc9b6cdd19d8",
+      "bytes": 1663931
+    },
+    {
+      "candidate_key": "fa67368352536e8b7623",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-BEAM-IF.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-beam-if/",
+      "status": "added",
+      "record_id": "protec-9ca2288e2159",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/BEAM/IF"
+      ],
+      "page_count": 2,
+      "sha256": "122f27ad9063a2f352d13cdb6cf3e6385685a3f85d61903e6c1cc0830fbf8c7a",
+      "bytes": 448482
+    },
+    {
+      "candidate_key": "f4f678aa281a98940e34",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2021/04/6000-LCM.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/interfaces/6000-lcm/",
+      "status": "added",
+      "record_id": "protec-3d5612b83a2a",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/LCM"
+      ],
+      "page_count": 2,
+      "sha256": "ee5dd0b9bd1a88f15c18342fe4eb130b9ee05fad6c76b226c58f5ea1456c2234",
+      "bytes": 548984
+    },
+    {
+      "candidate_key": "bf26413c8a4e2781d6bf",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-SSR.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000-ssr2/",
+      "status": "added",
+      "record_id": "protec-ae59f31e02f6",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/SSR2"
+      ],
+      "page_count": 2,
+      "sha256": "71a0e5b72be8bf4bfea5f52f0e2dfbe4b71984eb9e5dd88b2ac172673cf6660a",
+      "bytes": 517376
+    },
+    {
+      "candidate_key": "50805d837b58fcbbd23e",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-VAD-W.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000-vad-w-red/",
+      "status": "added",
+      "record_id": "protec-6566c609b221",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/VAD/W/RED",
+        "6000/VAD/W/WHITE"
+      ],
+      "page_count": 2,
+      "sha256": "5f20ac803f2066dfd27c7f487ac35dbbed8f4925bce86a06c41da9909e2a451a",
+      "bytes": 718824
+    },
+    {
+      "candidate_key": "a100c801478116b22002",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000-TSR-VAD.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000-tsr-vad/",
+      "status": "added",
+      "record_id": "protec-ec3c13922e8a",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000/TSR/VAD"
+      ],
+      "page_count": 2,
+      "sha256": "fdd5728596ba528cede1006d4b19d17d6e42fdf30fb827ba256adc0a97291518",
+      "bytes": 261493
+    },
+    {
+      "candidate_key": "b8f66d3f93bb18f5e6e6",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-Discrete-Sounder.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000plus-discrete-sounder-sounder-vad/",
+      "status": "added",
+      "record_id": "protec-8ceaef00d907",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS Discrete Sounder / Sounder VAD"
+      ],
+      "page_count": 2,
+      "sha256": "9f5f8fc478445c31f55df63e89f0bbffdaabc5aa796c05a51960c0a16026670c",
+      "bytes": 604956
+    },
+    {
+      "candidate_key": "18c56f4a32a16c4f31b2",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/03/6000PLUS-Discrete-Talking-Sounder.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/digital-addressable/sounders-vads/6000plus-discrete-talking-sounder-talking-sounder-vad/",
+      "status": "added",
+      "record_id": "protec-c25113a03303",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "6000PLUS Discrete Talking Sounder / Talking Sounder VAD"
+      ],
+      "page_count": 2,
+      "sha256": "b40a5243be752a461a4fc157a2fbcdee2164c5815cf1fe0fef2a32faefd21f8d",
+      "bytes": 608327
+    },
+    {
+      "candidate_key": "a66acce8005f922f2cfc",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/04/3000PLUS-OP-Img.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/conventional/view-all-detectors/3000plus-op/",
+      "status": "added",
+      "record_id": "protec-a488a1b2405c",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "3000PLUS/OP"
+      ],
+      "page_count": 2,
+      "sha256": "77c86a153ad885e4f652952607947a680f3c13561603d3dec858f3c31c4422c5",
+      "bytes": 734605
+    },
+    {
+      "candidate_key": "56bfcc3d05ddc68b9758",
+      "url": "https://www.protec.co.uk/wp-content/uploads/2020/04/3000-6000PLUS-Standard-Base.pdf",
+      "source_url": "https://www.protec.co.uk/our-products/fire-detection/conventional/view-all-detectors/3000plus-base/",
+      "status": "existing-verified",
+      "record_id": "protec-502abea1875d",
+      "brand": "Protec",
+      "category": "fire",
+      "models": [
+        "3000PLUS/BASE"
+      ],
+      "page_count": 2,
+      "sha256": "906a3a6f0db18034e7850ba10ba724e409cefc6b7d76449d3e23a22d2a7aa7f5",
+      "bytes": 1330071
+    },
+    {
+      "candidate_key": "9bf242cfad398120bdf2",
+      "url": "https://optex.imgix.net/downloads/sensor-downloads/Intrusion-Detection/Data-Sheets/optex-rxc-dt-datasheet-en.pdf",
+      "source_url": "https://www.optex-europe.com/products/intrusion-detection/rxc-dt",
+      "status": "added",
+      "record_id": "optex-e9f07c532a93",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-DT"
+      ],
+      "page_count": 2,
+      "sha256": "8293404ff952e17384bee7a12c421b3295dfc07411235e09a6cde66e1ed946e6",
+      "bytes": 1129005
+    },
+    {
+      "candidate_key": "967513af9e5636507ebd",
+      "url": "https://digitalassets.resideo.com/damroot/Original/10019/L_DT8050AD_D.pdf",
+      "source_url": "https://customer.resideo.com/products/s-dt8050a",
+      "status": "added",
+      "record_id": "honeywell-c5f84dba0500",
+      "brand": "Honeywell",
+      "category": "security",
+      "models": [
+        "IS3050A",
+        "DT8050A",
+        "DT8050M"
+      ],
+      "page_count": 2,
+      "sha256": "5f2531a1b18bb61cb6212818714ea6ff6aa4e479af295d626125e1236478189d",
+      "bytes": 179759
+    },
+    {
+      "candidate_key": "277fa8aed11bfae3498b",
+      "url": "https://digitalassets.resideo.com/damroot/Original/10015/L_IS3DT8SND_D.pdf",
+      "source_url": "https://customer.resideo.com/products/s-dt8050a",
+      "status": "added",
+      "record_id": "honeywell-c43f79f6c58f",
+      "brand": "Honeywell",
+      "category": "security",
+      "models": [
+        "IS3035V",
+        "IS3050V",
+        "DT8035V",
+        "DT8050V"
+      ],
+      "page_count": 4,
+      "sha256": "b00897f7029f701b57713553dd955388768b42718d46d3b50e59ec73ba52c23d",
+      "bytes": 288309
+    },
+    {
+      "candidate_key": "2556ae52dc50d8fb7daa",
+      "url": "https://resources.keenfinity.tech/public/documents/BlueLineGen2_Data_sheet_enUS_2614480139.pdf",
+      "source_url": "https://commerce.keenfinity.tech/xl/en/Motion-detector-pet-friendly-40ft-12m/p/F.01U.364.820/",
+      "status": "added",
+      "record_id": "bosch-be9d38fc89d0",
+      "brand": "Bosch",
+      "category": "security",
+      "models": [
+        "ISC-BDL2-WP6",
+        "ISC-BDL2-WP12"
+      ],
+      "page_count": 4,
+      "sha256": "381a17151fbcb0ec9d5520f02224a08a177f7833e410cc00037aa2f74036d44e",
+      "bytes": 592891
+    },
+    {
+      "candidate_key": "b2d523862e9d7951539b",
+      "url": "https://resources.keenfinity.tech/public/documents/ISC_BDL2_WP6__WP12_Installation_Manual_all_2614427019.pdf",
+      "source_url": "https://commerce.keenfinity.tech/xl/en/Motion-detector-pet-friendly-40ft-12m/p/F.01U.364.820/",
+      "status": "added",
+      "record_id": "bosch-0ba92138ab30",
+      "brand": "Bosch",
+      "category": "security",
+      "models": [
+        "ISC-BDL2-WP6",
+        "ISC-BDL2-WP12"
+      ],
+      "page_count": 2,
+      "sha256": "435411de48f7f486996f0b81e9a13df5601ddec6aede3428d442473bcce876ed",
+      "bytes": 1527455
+    },
+    {
+      "candidate_key": "b33480b93ac3b01bbbc1",
+      "url": "https://resources.keenfinity.tech/public/documents/Blue_Line_Gen_2_Quick_Installation_Guide_all_71222140683.pdf",
+      "source_url": "https://commerce.keenfinity.tech/xl/en/Motion-detector-pet-friendly-40ft-12m/p/F.01U.364.820/",
+      "status": "added",
+      "record_id": "bosch-3d8651b2effe",
+      "brand": "Bosch",
+      "category": "security",
+      "models": [
+        "ISC-BDL2-WP6",
+        "ISC-BDL2-WP12"
+      ],
+      "page_count": 2,
+      "sha256": "5d9ac566dee9eec5e926f6e2ecc1df51b1d92f0326a06cf597453132045bfbe4",
+      "bytes": 2723247
+    },
+    {
+      "candidate_key": "c4415963e3eedd2e2458",
+      "url": "https://selectsecuritysupply.com/content/Upload_CV-STARPB_UserManual.pdf",
+      "source_url": "https://selectsecuritysupply.com/content/Upload_CV-STARPB_UserManual.pdf",
+      "status": "added",
+      "record_id": "cdvi-ce027502e494",
+      "brand": "CDVI",
+      "category": "access-control",
+      "models": [
+        "STARPB",
+        "STARPW",
+        "SOLARPB",
+        "SOLARPW"
+      ],
+      "page_count": 16,
+      "sha256": "6df183a0cc32df1090cdf9973602465e8694205952b13b86004523f21438ac7d",
+      "bytes": 3397505
+    },
+    {
+      "candidate_key": "bf187471cc5a6968fe72",
+      "url": "https://www.elmdene.co.uk/product/datasheet/Elmdene%2012V%20G%20Range%20N%20Series%20-%20ELM0012-260324-ISSUE%205.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-b845e13d5b6c",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G Range N Series"
+      ],
+      "page_count": 3,
+      "sha256": "e7abb32d2eae7f64d84fd6c3fa21b5e0a962ed6c161c79ab321a4298af97fe6b",
+      "bytes": 756231
+    },
+    {
+      "candidate_key": "e5417fe58cafc7ce9479",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200500_03D%20G1380xN-y-s%20Instruction%20Sheet%20-%20ECR5296.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-643b298717d5",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13801N",
+        "G13802N",
+        "G13803N",
+        "G13804N",
+        "G13805N"
+      ],
+      "page_count": 4,
+      "sha256": "eb0aa7cc06aba01233be029b1ee6736a1d438e0eb3a327224d269cd945858a7a",
+      "bytes": 380853
+    },
+    {
+      "candidate_key": "0d1d3e6f148d3ae1d5fc",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200507_01E%20G1380xNU%20Instruction%20Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-9d05a4265505",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13801NU",
+        "G13802NU",
+        "G13803NU",
+        "G13804NU",
+        "G13805NU"
+      ],
+      "page_count": 4,
+      "sha256": "9c45cb08050ae75b7e35a0cde7a18a128dc69d58b696df2380754273224ea0dd",
+      "bytes": 340955
+    },
+    {
+      "candidate_key": "cce74b8b1d6367dc28da",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200570_01B%20G13803N-16V5-C.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-177ddd30af27",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13803N-16V5-C"
+      ],
+      "page_count": 4,
+      "sha256": "45d1bb2d165fe78ca9ccdcf29d88051d85af8e36203a5666f014dd849fe112cb",
+      "bytes": 178921
+    },
+    {
+      "candidate_key": "c9eae737f6cf5b29539f",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200599_02B%20MFR-1%20Mains%20Fail%20Relay%20PCB%20Instruction%20Sheet(A5%20Double-sided).pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-fd2a7afbb88c",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "MFR-1"
+      ],
+      "page_count": 2,
+      "sha256": "ff217f809c507bf0ebf129c48a2753ac28cf1804115cb982fb7645d83f7bbdde",
+      "bytes": 311931
+    },
+    {
+      "candidate_key": "39b3bf5ec81d050084d7",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200623_01A_G13803N-REG12-B%20Addendum%20x2.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-eb29a20f4e55",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13803N-REG12-B"
+      ],
+      "page_count": 1,
+      "sha256": "3c3ed51899a8e88ba638e9ba3454dd4fd1a5d5896396cb8384722ebe8c89a921",
+      "bytes": 76174
+    },
+    {
+      "candidate_key": "b8ec0cb501305d85a93b",
+      "url": "https://www.elmdene.co.uk/product/bulletin/PAK200948_safety-sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-de8b2bffc787",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "Power supply safety"
+      ],
+      "page_count": 2,
+      "sha256": "01d13fb65c6d68ea6dc16b479b5057b8264e6a929aba597da2a66d56091015f7",
+      "bytes": 1861540
+    },
+    {
+      "candidate_key": "2db4af2c3e0ec1a4ecc2",
+      "url": "https://www.elmdene.co.uk/product/datasheet/Elmdene%2013_8V%20dc%20G-Range%20BM%20-%20ELM0040-260324-ISSUE%205.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-c2dc4dff1143",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G Range BM Series"
+      ],
+      "page_count": 3,
+      "sha256": "d0b9f14c8bb806cb0eff16ddfbf1c9c953efdf23400ace312b2ac8a94c4b86de",
+      "bytes": 713671
+    },
+    {
+      "candidate_key": "696a99bd6617534283a9",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200569_01C%20G13801_2BM-x%20(A5%20Booklet).pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-b15eb2767fad",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13801BM",
+        "G13802BM"
+      ],
+      "page_count": 4,
+      "sha256": "0156f3447343f6382a6ee78c7be3f98018cfeb85e877cc52468cbaf4ec49899b",
+      "bytes": 204581
+    },
+    {
+      "candidate_key": "2ebb9fcc22a090201d27",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200467_03D_G1380xBM-y-s_Instruction_Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-011c9e7b8140",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13803BM",
+        "G13804BM",
+        "G13805BM",
+        "G13810BM"
+      ],
+      "page_count": 4,
+      "sha256": "560d0e2534ed7476f083a6af408522accc4b2e7425439a0b6879956a01d64e54",
+      "bytes": 469087
+    },
+    {
+      "candidate_key": "ea7aea5cc43d0b35dc45",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200619_01B%20G1380xBMU%20Instruction%20Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-8e85effd81f7",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13801BMU",
+        "G13802BMU"
+      ],
+      "page_count": 4,
+      "sha256": "6d1f83cab59553315393eb2652afb6b3b71a9004765f5dbd98f74a964587b51f",
+      "bytes": 204754
+    },
+    {
+      "candidate_key": "34fe826ee695a5f541e5",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200744_01C_ECR5041.pdf",
+      "source_url": "https://www.elmdene.co.uk/12v-power-supplies/standby-power-security/12v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-39c562c379ab",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G13803BMU",
+        "G13804BMU",
+        "G13805BMU"
+      ],
+      "page_count": 4,
+      "sha256": "677118ced0ebf3e3a06e9c298d56a1e403512a4776c704b56a9dbf1ef58276c6",
+      "bytes": 269335
+    },
+    {
+      "candidate_key": "6573f376f65233414394",
+      "url": "https://www.elmdene.co.uk/product/datasheet/Elmdene_24V_G_Range_BM_Series_ELM0033-2025-8.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-e394ce35db57",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G Range BM Series (24 V)"
+      ],
+      "page_count": 3,
+      "sha256": "0049f55fbf27996843690160dbe6f3ee4bc6938162bbb41dcb22126464dca421",
+      "bytes": 200805
+    },
+    {
+      "candidate_key": "0846fa74c57bba8b86b6",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200536_02A_G240xBM-y-s_Instruction_Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-02cd61bbc095",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2401BM",
+        "G2402BM",
+        "G2403BM",
+        "G2405BM"
+      ],
+      "page_count": 4,
+      "sha256": "65d45c8acca18b8412bad753dbdaedb3e7001f748eec1eff56b78777c15b39b8",
+      "bytes": 221688
+    },
+    {
+      "candidate_key": "0bd78460d94d16dc43f7",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200611_01A%20G2410BM%20Range%20Instruction%20Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-dc38fff1db91",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2410BM"
+      ],
+      "page_count": 12,
+      "sha256": "93cabe939cf9f08ee85cc5bd462035728c7ffbcd271e26c9d404e55e8ea1cb9d",
+      "bytes": 598796
+    },
+    {
+      "candidate_key": "86c413ac8df200d0a288",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200905_01A_G2410BM-H.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-c52387683f3b",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2410BM-H"
+      ],
+      "page_count": 10,
+      "sha256": "5bccbb27828250a698fa4fee9e7e3cc141c9386d18b855ae0b254f3e75866146",
+      "bytes": 451406
+    },
+    {
+      "candidate_key": "c3ffa4e228068e1251b8",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200567_02B_G240xBMU_Instruction_Sheet_A5_Booklet_.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-a573af87a381",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2401BMU",
+        "G2402BMU",
+        "G2403BMU",
+        "G2405BMU"
+      ],
+      "page_count": 8,
+      "sha256": "717594818677d80f562be74ba52846e5fe85eea018a7c89a318c27574849ca43",
+      "bytes": 361140
+    },
+    {
+      "candidate_key": "69ece3137f4bf883df8f",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200824_01A%20G2410BMU%20Instruction%20Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-bm-series",
+      "status": "added",
+      "record_id": "elmdene-348ff378f242",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2410BMU"
+      ],
+      "page_count": 8,
+      "sha256": "747a7bcdc761f6b764a3bf2403a0262dc70ca8f3ec8984419541ef7dedac39e4",
+      "bytes": 417965
+    },
+    {
+      "candidate_key": "3b0a1ff13da17ea2c8a5",
+      "url": "https://www.elmdene.co.uk/product/datasheet/Elmdene%2024V%20G%20Range%20N%20Series%20ELM0016-2024-Issue%206%20(1).pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-9e6ecbcc8a29",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G Range N Series (24 V)"
+      ],
+      "page_count": 2,
+      "sha256": "794d16f2bcd0d364a7361f3b271c8d272a9055fa4d49a6ef3f1d847d92ad14f0",
+      "bytes": 536248
+    },
+    {
+      "candidate_key": "0782ce1558eccf2ec129",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200531_02A_G240xN-y-s_Instruction_Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-897001c637e4",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2401N",
+        "G2402N",
+        "G2403N",
+        "G2405N"
+      ],
+      "page_count": 4,
+      "sha256": "53d7c438bef8f43605acf5c658df42324a81cab9644d62476b12c2adab4adba9",
+      "bytes": 389720
+    },
+    {
+      "candidate_key": "f5ee7f5fd26930459b7f",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200566_02A_G240xNU_Instruction_Sheet_A5_Booklet_.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-d6a4cb7c0bc3",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "G2401NU",
+        "G2402NU",
+        "G2403NU",
+        "G2405NU"
+      ],
+      "page_count": 8,
+      "sha256": "3af17ab8434841048a62914d45ff7fe6603860e212b63cbc9953298ba6124e28",
+      "bytes": 340803
+    },
+    {
+      "candidate_key": "4c6901d2a6a8076cf3cf",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200820_01A%20REG24-MOD%20Instruction%20Sheet.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/standby-power-security/24v-g-range-n-series",
+      "status": "added",
+      "record_id": "elmdene-7a19e5fe4715",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "models": [
+        "REG24-MOD"
+      ],
+      "page_count": 2,
+      "sha256": "215324b1e25a8bfc212b92da6a046434d6cce58041d94702d7886a3f62f28b4e",
+      "bytes": 283848
+    },
+    {
+      "candidate_key": "3b5eaf8621b23bcfec5f",
+      "url": "https://www.elmdene.co.uk/product/datasheet/STX_Range_ELM0044-2026-Issue_4_EN.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-561a515e7d88",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX series"
+      ],
+      "page_count": 2,
+      "sha256": "d67716c3012696d34dcefccff7d85d7ffd0dac77a67a136a911d17ce21309f6c",
+      "bytes": 379506
+    },
+    {
+      "candidate_key": "a86eb7db02cd2333f366",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200583_03B_STX2401_UKCA.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-78fa96fb4a8e",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2401"
+      ],
+      "page_count": 8,
+      "sha256": "ccb33379aeba623b73cddf5007e22f9ba1d3f4aed3177b00f51219f572f35870",
+      "bytes": 601812
+    },
+    {
+      "candidate_key": "5734d571e092cde4b756",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200582_03B_STX2402_UKCA.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-ed28f44a0134",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2402"
+      ],
+      "page_count": 8,
+      "sha256": "fd00e61056bfa825d55f05adcf01d01a2df13ca23d546c7e89ef768a4169871d",
+      "bytes": 650845
+    },
+    {
+      "candidate_key": "b0bdf0dfb559503d781a",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200581_02E%20STX2405.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-4252057bf798",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2405"
+      ],
+      "page_count": 8,
+      "sha256": "a555024db874d8e608e2cc07146bf70f8bd022842935c42ffe30c6a4030ecb11",
+      "bytes": 580607
+    },
+    {
+      "candidate_key": "c29537270dddd64081bb",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200574_03B_STX2410_-_UKCA.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-d648edccbb03",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2410"
+      ],
+      "page_count": 10,
+      "sha256": "64799a71adcc06b44b552aa1e5e0be28458026f35e225e9f9a0335471acc3e42",
+      "bytes": 583024
+    },
+    {
+      "candidate_key": "2ac95ab66029ae383333",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200607_03B_STX2401-MOD_manual.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-7eb78a02be8a",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2401-MOD"
+      ],
+      "page_count": 8,
+      "sha256": "97cfbaed56a5736a72d55a4e30dd2621def2c8297337245fa0b10cf6cd6ffd52",
+      "bytes": 1434572
+    },
+    {
+      "candidate_key": "4d11a97d01d5df199a2f",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200608_03B_STX2402-MOD_manual.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-5864400e2163",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2402-MOD"
+      ],
+      "page_count": 8,
+      "sha256": "8aa4ecb32fdb0eba81505611416604fa68144c0b581160c2018792f4c476232d",
+      "bytes": 1493214
+    },
+    {
+      "candidate_key": "06a6567336d3222c6649",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200609_03B_STX2405-MOD_manual.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-474e72144b31",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2405-MOD"
+      ],
+      "page_count": 8,
+      "sha256": "58db2527a913596345b53d165eaddb599154b50d0614f0d807211a29a1cce856",
+      "bytes": 1431585
+    },
+    {
+      "candidate_key": "3336575c7f21800e3830",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200610_03B_STX2410-MOD_manual.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-56feb4dd9a77",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "STX2410-MOD"
+      ],
+      "page_count": 8,
+      "sha256": "3b651946fe7a87978a686ac97d548f4ee6510762f94c5fea7e75210f71b72f4b",
+      "bytes": 1645015
+    },
+    {
+      "candidate_key": "a8d5c038bab396ef81d0",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200605_02A_65Ah_battery_box_installation.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/stx-range",
+      "status": "added",
+      "record_id": "elmdene-ac636cdb54d7",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "BATT-BOX-65-BLACK"
+      ],
+      "page_count": 7,
+      "sha256": "a76205aafcc235ada338c69ac1363a48da1052dc5427bb96d6a9743e664e602e",
+      "bytes": 605646
+    },
+    {
+      "candidate_key": "ef32c5d5db1c9363fbed",
+      "url": "https://www.elmdene.co.uk/product/datasheet/Elmdene_ST_Range_Datasheet_ELM0068_2026_Issue_4.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-925ea7e2432d",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "ST series"
+      ],
+      "page_count": 2,
+      "sha256": "c3769960b66bb1bef10e74fc7e79e623221c5ac20c5be5ed6d402b630837c095",
+      "bytes": 427022
+    },
+    {
+      "candidate_key": "8e7046d4bcc050d4efac",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200624_01A%202401ST%20Quick%20Install.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-283bce3536ec",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2401ST"
+      ],
+      "page_count": 2,
+      "sha256": "f8b0ac278bb97f203eca5e54cbd34fc1e2fe635f080126ba9902a77a2db50c71",
+      "bytes": 715211
+    },
+    {
+      "candidate_key": "8dcf1a3619707edf5eaa",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200625_01A%202402ST%20Quick%20Install.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-038f0df56c59",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2402ST"
+      ],
+      "page_count": 2,
+      "sha256": "763dcfcbe78ef82c740ffea1249c0fe97a9b8de53c1e5d1a4536a4a25b3dcc05",
+      "bytes": 718840
+    },
+    {
+      "candidate_key": "bacda47e8d99b224dfb4",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200626%20_01A%202405ST%20Quick%20Install.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-9d9f2ab8ca68",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2405ST"
+      ],
+      "page_count": 2,
+      "sha256": "e57c007850b981b3681ef3995df7764a6fb59660936346d5996e8b8cecbc3188",
+      "bytes": 716433
+    },
+    {
+      "candidate_key": "2f039432808e6a38287e",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200790_04A_2401ST.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-8c2c9ec12d4d",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2401ST"
+      ],
+      "page_count": 25,
+      "sha256": "d8ad15861023d47f9ff440d85ce1066aaa1a378a095e664e11bdb518f88f51e2",
+      "bytes": 801691
+    },
+    {
+      "candidate_key": "b76820e18ae6120a27b6",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200788_04A_2402ST.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-2bdf30587c23",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2402ST"
+      ],
+      "page_count": 26,
+      "sha256": "678f0b40571c98821d789bb3b654b480e7f71c69981ddb21c8fc07304bee597d",
+      "bytes": 1162180
+    },
+    {
+      "candidate_key": "39ece18778ffb4cac6e8",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK200789_04A_2405ST.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-2aca06b73f82",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2405ST"
+      ],
+      "page_count": 25,
+      "sha256": "039cf3f194763593dc2c6eb2e0ac97429025db44d5757260036a9c4be8bbb4ef",
+      "bytes": 1413351
+    },
+    {
+      "candidate_key": "dc1892aab9c4b28d7b1f",
+      "url": "https://www.elmdene.co.uk/product/manual/PAK203744_01A_2405ST-MOD.pdf",
+      "source_url": "https://www.elmdene.co.uk/24v-power-supplies/fire/st-range",
+      "status": "added",
+      "record_id": "elmdene-5378a5bdb789",
+      "brand": "Elmdene",
+      "category": "fire",
+      "models": [
+        "2405ST-MOD"
+      ],
+      "page_count": 12,
+      "sha256": "7d5a2f3985e3ee89b8e36025f8f560325a50c989ba88148ccf103a8d4535763e",
+      "bytes": 585481
+    },
+    {
+      "candidate_key": "f5613d26a0958e96f0dc",
+      "url": "https://www.rgl.co/download/sml-3000-instructions/?wpdmdl=12139",
+      "source_url": "https://www.rgl.co/download/sml-3000-instructions/",
+      "status": "added",
+      "record_id": "rgl-94277919cc7c",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "SML-3000"
+      ],
+      "page_count": 4,
+      "sha256": "e2043be1fc9338aa007a6a0aa366c3e147cc1660563482289ded50b92998de6a",
+      "bytes": 854797
+    },
+    {
+      "candidate_key": "097db96a72c4d377a6cf",
+      "url": "https://www.rgl.co/download/sb-236-instructions/?wpdmdl=12138",
+      "source_url": "https://www.rgl.co/download/sb-236-instructions/",
+      "status": "added",
+      "record_id": "rgl-3bd6e9ae7a8f",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "SB-236"
+      ],
+      "page_count": 1,
+      "sha256": "14fff2323de136601131da87f127e669868a5997ac3ee70a04073abefcbd0086",
+      "bytes": 342472
+    },
+    {
+      "candidate_key": "8527f612ea2dce3606ec",
+      "url": "https://www.rgl.co/download/med-57k-instructions/?wpdmdl=12134",
+      "source_url": "https://www.rgl.co/download/med-57k-instructions/",
+      "status": "added",
+      "record_id": "rgl-0f23da820dc4",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "MED-57K",
+        "MED-57"
+      ],
+      "page_count": 2,
+      "sha256": "10c4a6cc98792c24927687c73b67e0a4294fca0678d04d796b6b3863e85993aa",
+      "bytes": 709677
+    },
+    {
+      "candidate_key": "c7e5310e7c39f75e5567",
+      "url": "https://www.rgl.co/download/med-57-instructions/?wpdmdl=12133",
+      "source_url": "https://www.rgl.co/download/med-57-instructions/",
+      "status": "existing-verified",
+      "record_id": "rgl-0f23da820dc4",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "MED-57"
+      ],
+      "page_count": 2,
+      "sha256": "10c4a6cc98792c24927687c73b67e0a4294fca0678d04d796b6b3863e85993aa",
+      "bytes": 709677
+    },
+    {
+      "candidate_key": "7e0e175a23c806e667b2",
+      "url": "https://www.rgl.co/download/ip600ml-m-instructions/?wpdmdl=12126",
+      "source_url": "https://www.rgl.co/download/ip600ml-m-instructions/",
+      "status": "added",
+      "record_id": "rgl-41d526415e32",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "IP600ML-M"
+      ],
+      "page_count": 2,
+      "sha256": "bd087b39e89f41c47ed2e53fb66fba2737bf1983baa092345552ac6fd8aabc5d",
+      "bytes": 1596349
+    },
+    {
+      "candidate_key": "4f3bf71dd6c370c72812",
+      "url": "https://www.rgl.co/download/ip300ml-m-instructions/?wpdmdl=12125",
+      "source_url": "https://www.rgl.co/download/ip300ml-m-instructions/",
+      "status": "added",
+      "record_id": "rgl-c8ee3942f793",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "IP300ML-M"
+      ],
+      "page_count": 2,
+      "sha256": "fab45297040488c22cf8108ba890aff2f84013206b43fcac4fc6077fbb67f3a0",
+      "bytes": 1176414
+    },
+    {
+      "candidate_key": "7b960c3f5a018376f0bf",
+      "url": "https://www.rgl.co/download/dhm600-200-instructions/?wpdmdl=12120",
+      "source_url": "https://www.rgl.co/download/dhm600-200-instructions/",
+      "status": "added",
+      "record_id": "rgl-90becbbc97c6",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "DHM600-200"
+      ],
+      "page_count": 4,
+      "sha256": "1e308e06bf094646d731aaffcc024be50330adddcf7c2275d03ddde7b90ed78f",
+      "bytes": 504772
+    },
+    {
+      "candidate_key": "a7b72675f12f707fc322",
+      "url": "https://www.rgl.co/download/sb-200ls-instructions/?wpdmdl=9739",
+      "source_url": "https://www.rgl.co/download/sb-200ls-instructions/",
+      "status": "added",
+      "record_id": "rgl-cc9c295cd175",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "SB-200LS"
+      ],
+      "page_count": 2,
+      "sha256": "b1136fb3297f9747ccca0909afc647293cb2b2069cdcbc304f6577ffdbe56d14",
+      "bytes": 2217245
+    },
+    {
+      "candidate_key": "e483ba09d2abd91834b3",
+      "url": "https://www.rgl.co/download/msl-2600-instructions/?wpdmdl=9738",
+      "source_url": "https://www.rgl.co/download/msl-2600-instructions/",
+      "status": "added",
+      "record_id": "rgl-dcdd683d2e4f",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "MSL-2600"
+      ],
+      "page_count": 8,
+      "sha256": "93e9d1b94596379c387aa2d51ecdd1853b7ddd0b477bf222868b3756eb35b0fb",
+      "bytes": 1760299
+    },
+    {
+      "candidate_key": "13acfe5157274488180e",
+      "url": "https://www.rgl.co/download/mm600-mort-instructions/?wpdmdl=9737",
+      "source_url": "https://www.rgl.co/download/mm600-mort-instructions/",
+      "status": "added",
+      "record_id": "rgl-9805e5b458ad",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "MM600-MORT"
+      ],
+      "page_count": 2,
+      "sha256": "d523a0441e56fd902d1068fca4a90ebd5b1f6e5fb79ce40d04a74506756001cb",
+      "bytes": 464225
+    },
+    {
+      "candidate_key": "2bac0b73663432fe4601",
+      "url": "https://www.rgl.co/download/ml1200-instructions/?wpdmdl=9736",
+      "source_url": "https://www.rgl.co/download/ml1200-instructions/",
+      "status": "added",
+      "record_id": "rgl-69ad722642ae",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ML600",
+        "ML1200"
+      ],
+      "page_count": 2,
+      "sha256": "d3aabd12ba69758e9cae49457a694055f66efed629e11d7c10c5d032e0941284",
+      "bytes": 1894014
+    },
+    {
+      "candidate_key": "1a4566b41ea4b7b91bf4",
+      "url": "https://www.rgl.co/download/ml600-mds-instructions/?wpdmdl=9735",
+      "source_url": "https://www.rgl.co/download/ml600-mds-instructions/",
+      "status": "added",
+      "record_id": "rgl-d9ba8b26065f",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ML600-MDS"
+      ],
+      "page_count": 2,
+      "sha256": "97d828b2a37317f90303e206f5f5f9f187c23bf0b8cf29d3cf891b2f0f022487",
+      "bytes": 1811738
+    },
+    {
+      "candidate_key": "174a7281dc17954d2a4d",
+      "url": "https://www.rgl.co/download/ml600-instructions/?wpdmdl=9734",
+      "source_url": "https://www.rgl.co/download/ml600-instructions/",
+      "status": "existing-verified",
+      "record_id": "rgl-69ad722642ae",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ML600",
+        "ML1200"
+      ],
+      "page_count": 2,
+      "sha256": "d3aabd12ba69758e9cae49457a694055f66efed629e11d7c10c5d032e0941284",
+      "bytes": 1894014
+    },
+    {
+      "candidate_key": "85fb52543f8807037e6d",
+      "url": "https://www.rgl.co/download/ml300-instructions/?wpdmdl=9733",
+      "source_url": "https://www.rgl.co/download/ml300-instructions/",
+      "status": "added",
+      "record_id": "rgl-e7bbcd9eaf5e",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ML300"
+      ],
+      "page_count": 2,
+      "sha256": "a6e839f26492e1110433f1e7d78f99832d3d200421888f0c2c9aeecf2c1da0e9",
+      "bytes": 910583
+    },
+    {
+      "candidate_key": "769da8af3a83b6c27ff3",
+      "url": "https://www.rgl.co/download/ml100-instructions/?wpdmdl=9732",
+      "source_url": "https://www.rgl.co/download/ml100-instructions/",
+      "status": "added",
+      "record_id": "rgl-4237b90b0c8b",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ML100"
+      ],
+      "page_count": 2,
+      "sha256": "7ef52fc51546304da09969db72cefeebadc5db68f21df85c8f8bff85ded7305f",
+      "bytes": 443070
+    },
+    {
+      "candidate_key": "3f61f17c04091628b9a3",
+      "url": "https://www.rgl.co/download/maglock-safety-kit-instructions/?wpdmdl=9731",
+      "source_url": "https://www.rgl.co/download/maglock-safety-kit-instructions/",
+      "status": "added",
+      "record_id": "rgl-d65b408c34ce",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "Maglock-Safety-Kit"
+      ],
+      "page_count": 2,
+      "sha256": "760f55012ab21bf7071784058b07580cdaae72c0d6439c272e834125b52a6253",
+      "bytes": 237843
+    },
+    {
+      "candidate_key": "d76a4dea967698502d16",
+      "url": "https://www.rgl.co/download/exml1200-gate-instructions/?wpdmdl=9730",
+      "source_url": "https://www.rgl.co/download/exml1200-gate-instructions/",
+      "status": "added",
+      "record_id": "rgl-83017609835b",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "EXML600-GATE",
+        "EXML1200-GATE"
+      ],
+      "page_count": 2,
+      "sha256": "76eb8b4992b6ac9131317eba34967439d640035e1ee54741b5f73bb3b26209af",
+      "bytes": 1120575
+    },
+    {
+      "candidate_key": "90a5eee0e4b48c430770",
+      "url": "https://www.rgl.co/download/exml600-gate-instructions/?wpdmdl=9729",
+      "source_url": "https://www.rgl.co/download/exml600-gate-instructions/",
+      "status": "existing-verified",
+      "record_id": "rgl-83017609835b",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "EXML600-GATE",
+        "EXML1200-GATE"
+      ],
+      "page_count": 2,
+      "sha256": "76eb8b4992b6ac9131317eba34967439d640035e1ee54741b5f73bb3b26209af",
+      "bytes": 1120575
+    },
+    {
+      "candidate_key": "4b4e86f240ebfaef9a05",
+      "url": "https://www.rgl.co/download/ds-002-instructions/?wpdmdl=9726",
+      "source_url": "https://www.rgl.co/download/ds-002-instructions/",
+      "status": "added",
+      "record_id": "rgl-c1809785a1e4",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "DS-002"
+      ],
+      "page_count": 1,
+      "sha256": "e5205984b1a53c883c47e5609cc054404f21a3148e9c2ea79dcb7d2e1cbc20dc",
+      "bytes": 1521701
+    },
+    {
+      "candidate_key": "61b79cc2f8d9de0842c6",
+      "url": "https://www.rgl.co/download/ds-001-instructions/?wpdmdl=9725",
+      "source_url": "https://www.rgl.co/download/ds-001-instructions/",
+      "status": "added",
+      "record_id": "rgl-bdd3b9c4696e",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "DS-001"
+      ],
+      "page_count": 1,
+      "sha256": "5fb879967dab25168d2ecc37754c9f0e119ae2f3cf7e87d9babc0ceafc40264b",
+      "bytes": 9415479
+    },
+    {
+      "candidate_key": "b4f1328dcd67da4b3964",
+      "url": "https://www.rgl.co/download/dr-01-instructions/?wpdmdl=9724",
+      "source_url": "https://www.rgl.co/download/dr-01-instructions/",
+      "status": "added",
+      "record_id": "rgl-0c1171ad6315",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "DR-01"
+      ],
+      "page_count": 2,
+      "sha256": "75979623647f10e20de2745aa684ee269da77a9a8ffe330a7a78fdef09cd3d2d",
+      "bytes": 345493
+    },
+    {
+      "candidate_key": "cba5b164d99330a9b267",
+      "url": "https://www.rgl.co/download/dhm600-instructions/?wpdmdl=9723",
+      "source_url": "https://www.rgl.co/download/dhm600-instructions/",
+      "status": "added",
+      "record_id": "rgl-007715ac78cb",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "DHM600"
+      ],
+      "page_count": 2,
+      "sha256": "142877bab80534da26ad8d23e22fa610731b59bd140d2b4369032b01ad0523fd",
+      "bytes": 7412764
+    },
+    {
+      "candidate_key": "144ed4637be54a959aba",
+      "url": "https://www.rgl.co/download/dbgls150-instructions/?wpdmdl=9722",
+      "source_url": "https://www.rgl.co/download/dbgls150-instructions/",
+      "status": "added",
+      "record_id": "rgl-4586342886ab",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "DBGLS150"
+      ],
+      "page_count": 1,
+      "sha256": "8355ff461daba8a149f72dceafd10cbec3a66b2ff6334e7fe70b2817e6afe51a",
+      "bytes": 216591
+    },
+    {
+      "candidate_key": "1f3db44dea4eda57a3bb",
+      "url": "https://www.rgl.co/download/bracket-orientation-designs/?wpdmdl=9721",
+      "source_url": "https://www.rgl.co/download/bracket-orientation-designs/",
+      "status": "added",
+      "record_id": "rgl-3996a2e44db3",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "Maglock bracket orientation"
+      ],
+      "page_count": 3,
+      "sha256": "a5a5198d193fd297b70e0b289fd296bc3f448c9a5d35b5284e3d5f5bd9dc0494",
+      "bytes": 351121
+    },
+    {
+      "candidate_key": "6d7c571dfd0fd467f181",
+      "url": "https://www.rgl.co/download/as900-instructions/?wpdmdl=9720",
+      "source_url": "https://www.rgl.co/download/as900-instructions/",
+      "status": "added",
+      "record_id": "rgl-8d8b7e72bd72",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "AS900"
+      ],
+      "page_count": 2,
+      "sha256": "9237228615a634c8b6662b6192e31d4ce9f89bad11c46d1141c6d37c80ba8c24",
+      "bytes": 784720
+    },
+    {
+      "candidate_key": "2e8892702437a7df716b",
+      "url": "https://www.rgl.co/download/ah1200-instructions/?wpdmdl=9719",
+      "source_url": "https://www.rgl.co/download/ah1200-instructions/",
+      "status": "added",
+      "record_id": "rgl-323fad468086",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "AH600",
+        "AH1200"
+      ],
+      "page_count": 1,
+      "sha256": "9be1a5abc1737e152c2338588b1f16a788b78a3207835e45bd889601d186abda",
+      "bytes": 575366
+    },
+    {
+      "candidate_key": "2ee449d83591678439e1",
+      "url": "https://www.rgl.co/download/ah600-instructions/?wpdmdl=9718",
+      "source_url": "https://www.rgl.co/download/ah600-instructions/",
+      "status": "existing-verified",
+      "record_id": "rgl-323fad468086",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "AH600",
+        "AH1200"
+      ],
+      "page_count": 1,
+      "sha256": "9be1a5abc1737e152c2338588b1f16a788b78a3207835e45bd889601d186abda",
+      "bytes": 575366
+    },
+    {
+      "candidate_key": "cd9e31e34aef849be3ee",
+      "url": "https://www.rgl.co/download/adj-1200l-instructions/?wpdmdl=9717",
+      "source_url": "https://www.rgl.co/download/adj-1200l-instructions/",
+      "status": "added",
+      "record_id": "rgl-a697ba7f37ed",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ADJ-1200L"
+      ],
+      "page_count": 2,
+      "sha256": "3625ac8a6873f52c0341a97ce4f25c9d777c4b6a43deff8de06a9e1c65fc1105",
+      "bytes": 457374
+    },
+    {
+      "candidate_key": "8c11e70168439047cbf0",
+      "url": "https://www.rgl.co/download/adj-600l-instructions/?wpdmdl=9716",
+      "source_url": "https://www.rgl.co/download/adj-600l-instructions/",
+      "status": "added",
+      "record_id": "rgl-c025b04d523c",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "ADJ-600L"
+      ],
+      "page_count": 2,
+      "sha256": "848097c3e33b0e4bf7f07bf31cec995dad7c0022abe4612ccb801ea161c335e6",
+      "bytes": 837580
+    },
+    {
+      "candidate_key": "b5b7dd5e5a67742f422f",
+      "url": "https://dsc.hu/themes/frontend/documents/kx15dt-installation-manual-multilingual.pdf",
+      "source_url": "https://dsc.hu/themes/frontend/documents/kx15dt-installation-manual-multilingual.pdf",
+      "status": "added",
+      "record_id": "pyronix-12dc1a0275b5",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX15DT (pre-2020)",
+        "KX15DT"
+      ],
+      "page_count": 4,
+      "sha256": "2cd59b9ecb5aaa3d5052803c146704551c79e74bb6fce2225d6bd8476a7f8086",
+      "bytes": 13260308
+    },
+    {
+      "candidate_key": "413ecf09a06a281f2169",
+      "url": "https://cdn.dynamictech.uk/Files/Products/alarms/deltabell-we-installation-manual-rins1433-en-it.pdf",
+      "source_url": "https://cdn.dynamictech.uk/Files/Products/alarms/deltabell-we-installation-manual-rins1433-en-it.pdf",
+      "status": "added",
+      "record_id": "pyronix-302da665231b",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "Deltabell-WE"
+      ],
+      "page_count": 2,
+      "sha256": "4b4d952a9f8ed1f780eff6928e83d0eee7107181cc2de6ea7345beacef75db41",
+      "bytes": 3319488
+    },
+    {
+      "candidate_key": "3e74907f99533f32f48c",
+      "url": "https://www.casmarglobal.com/media/akeneo_connector/media_files/M/I/MI_INTRUSI__N_IWISE_DT25_AM_G3_9ec2.pdf",
+      "source_url": "https://www.casmarglobal.com/media/akeneo_connector/media_files/M/I/MI_INTRUSI__N_IWISE_DT25_AM_G3_9ec2.pdf",
+      "status": "added",
+      "record_id": "risco-e8aee4e7a650",
+      "brand": "Risco",
+      "category": "security",
+      "models": [
+        "iWISE RK815DTG3",
+        "iWISE RK825DTG3"
+      ],
+      "page_count": 2,
+      "sha256": "d2fd6b2dd60c60dc4336ca7f0f6314067585ab47bbb5c968eb739096186c6404",
+      "bytes": 560055
+    },
+    {
+      "candidate_key": "7991b65b68a1fd1b2d16",
+      "url": "https://www.hikvision.com/content/dam/hikvision/usa/data-sheet/DS-2CD2143G2-IU-DataSheet.pdf",
+      "source_url": "https://www.hikvision.com/content/dam/hikvision/usa/data-sheet/DS-2CD2143G2-IU-DataSheet.pdf",
+      "status": "added",
+      "record_id": "hikvision-74420c39aaec",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "models": [
+        "DS-2CD2143G2-IU"
+      ],
+      "page_count": 6,
+      "sha256": "cde24952e5ab3ee21653388511dd2debe3ff84967ba3402120b5ff42978e0937",
+      "bytes": 1477980
+    },
+    {
+      "candidate_key": "01094290777fbca5e377",
+      "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDW2449T-S-IL_S0_datasheet_20230221.pdf",
+      "source_url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDW2449T-S-IL_S0_datasheet_20230221.pdf",
+      "status": "added",
+      "record_id": "dahua-26f37f598622",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW2449T-S-IL (S0)"
+      ],
+      "page_count": 3,
+      "sha256": "2129361e2a4da300e71881eae85d82d3bee1acc3a27de4222c067dac52a3688b",
+      "bytes": 522608
+    }
+  ],
+  "held_model_associations": [
+    {
+      "brand": "TDSi",
+      "models": [
+        "SOLOgarde Cards"
+      ],
+      "source_url": "https://www.tdsi.co.uk/technical-guides/",
+      "download_url": "https://tdsi.co.uk/wp-content/uploads/2021/09/DS0030.GB-SOLOgarde-Controller_Issue6.pdf",
+      "hold_reason": "Publisher calls the link SOLOgarde Cards, but the PDF is the already indexed SOLOgarde controller datasheet."
+    },
+    {
+      "brand": "Tynetec",
+      "models": [
+        "ZXT443"
+      ],
+      "source_url": "https://www.tynetec.co.uk/on-demand/user-guides/telecare-devices/",
+      "download_url": "https://www.tynetec.co.uk/wp-content/uploads/2021/09/FM0791-B-169MHz-Bogus-Caller-Button-Code-18-Instructions.pdf",
+      "hold_reason": "Source table labels ZXT443 / Code 24 but linked FM0791 issue B prints ZXT489 / Code 18. Do not associate this file with ZXT443."
+    },
+    {
+      "brand": "Tunstall",
+      "models": [
+        "69005/10"
+      ],
+      "source_url": "https://www.tunstall.co.uk/archive-product-information/",
+      "download_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/03/natural_and_lp_gas_detector_installation_and_user_manual-1.pdf",
+      "hold_reason": "69005/10 listing links an older SF Detection Z10-series instruction scan also listed for GS783/GS826; applicability to 69005/10 not verified."
+    }
+  ],
+  "next_research": [
+    "Aico domestic smoke/heat/CO alarms and accessories",
+    "Additional Pyronix DT/PIR instructions",
+    "RGL exit devices",
+    "Additional Dahua camera editions",
+    "Orisec DT and Risco BWare sources with retrieval barriers"
+  ]
+}

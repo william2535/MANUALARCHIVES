@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-65 document records, grouped into 490 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+68 document records, grouped into 493 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -20,6 +20,9 @@
 | [DS-2AE5232TI-A(C)](ds-2ae5232ti-a-c/README.md) | 1 |
 | [DS-2AE7232TI-A](ds-2ae7232ti-a/README.md) | 1 |
 | [DS-2AF7230TI-AW(B)](ds-2af7230ti-aw-b/README.md) | 1 |
+| [DS-2CD2143G2-IU](ds-2cd2143g2-iu/README.md) | 1 |
+| [DS-2CD2347G2-L(U)](ds-2cd2347g2-l-u/README.md) | 1 |
+| [DS-2CD2387G2-L(U)](ds-2cd2387g2-l-u/README.md) | 1 |
 | [DS-2CD2685FWD-IZS](ds-2cd2685fwd-izs/README.md) | 1 |
 | [DS-2CD2T83G0-I5](ds-2cd2t83g0-i5/README.md) | 1 |
 | [DS-2CD4A26FWD-IZS-P](ds-2cd4a26fwd-izs-p/README.md) | 1 |

@@ -1,5 +1,11 @@
 # Project status
 
+## Device expansion — 28 October 2026
+
+Added **250 checked document records** across all six equipment categories, bringing the archive to **12,313 records**. Device families include smoke/heat detectors, dual-technology detectors, call points, sounders/VADs, readers, locking hardware, cameras, power supplies and telecare sensors. See [device additions and category links](DEVICE_COVERAGE.md) and the [source audit](data/source-audits/devices-2026-10-28.json).
+
+Every added record has complete-file checksum, measured size and PDF-parser evidence. Exact file duplicates were merged, existing record IDs and editions preserved, and unsupported source-label/model associations held explicitly. The remaining collection queue includes Aico alarms, additional Pyronix DT/PIR manuals, exit devices and camera editions. This checkpoint is a device batch, not a claim of exhaustive manufacturer coverage.
+
 ## Publication verified — 21 October 2026
 
 The complete FACP update is published on GitHub main in commit `b4ef8578a4a326acafe96875936d534f34e863a5`. The remote tree exactly matches the validated local tree `3cadc90b432a43ff031be3bc76aa3fc8ffa38871`; all 3,555 earlier record IDs remain preserved. Publication resumed from the saved upload checkpoint and included removal of 46 obsolete generated paths whose documents had moved to corrected navigation folders.

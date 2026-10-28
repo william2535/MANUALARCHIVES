@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-53 document records, grouped into 45 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+55 document records, grouped into 52 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -10,6 +10,10 @@
 | [5878 Wireless Wall Transmitter](5878-wireless-wall-transmitter/README.md) | 2 |
 | [6160RF](6160rf/README.md) | 1 |
 | [ADEMCO 5843](ademco-5843/README.md) | 1 |
+| [DT8035V](dt8035v/README.md) | 1 |
+| [DT8050A](dt8050a/README.md) | 1 |
+| [DT8050M](dt8050m/README.md) | 1 |
+| [DT8050V](dt8050v/README.md) | 1 |
 | [Galaxy](galaxy/README.md) | 1 |
 | [Galaxy 16 - 16+](galaxy-16-16-plus/README.md) | 2 |
 | [Galaxy 16 16 plus](galaxy-16-16-plus/README.md) | 2 |
@@ -43,6 +47,9 @@
 | [Galaxy connect Resistored Roller Shutter Contact](galaxy-connect-resistored-roller-shutter-contact/README.md) | 1 |
 | [Galaxy connect Roller Shutter Contact](galaxy-connect-roller-shutter-contact/README.md) | 1 |
 | [Galaxy-Dimension-Architecture-Chart](galaxy-dimension-architecture-chart/README.md) | 1 |
+| [IS3035V](is3035v/README.md) | 1 |
+| [IS3050A](is3050a/README.md) | 1 |
+| [IS3050V](is3050v/README.md) | 1 |
 | [LYNX Touch](lynx-touch/README.md) | 1 |
 | [Tuxedo Touch](tuxedo-touch/README.md) | 1 |
 | [VISTA-128BPT and VISTA-250BPT](vista-128bpt-and-vista-250bpt/README.md) | 1 |

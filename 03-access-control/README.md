@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-948 document records. Door entry belongs under access control.
+989 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -20,7 +20,7 @@
 | [Borg Locks](borg-locks/README.md) | 1 | 1 |
 | [Bosch](bosch/README.md) | 47 | 12 |
 | [CAME / BPT](came-bpt/README.md) | 21 | 22 |
-| [CDVI](cdvi/README.md) | 6 | 11 |
+| [CDVI](cdvi/README.md) | 7 | 15 |
 | [Comelit](comelit/README.md) | 49 | 61 |
 | [DITEK](ditek/README.md) | 1 | 1 |
 | [Dahua](dahua/README.md) | 2 | 2 |
@@ -31,7 +31,8 @@
 | [Nice](nice/README.md) | 16 | 20 |
 | [Paxton](paxton/README.md) | 390 | 85 |
 | [QuikStor](quikstor/README.md) | 1 | 1 |
+| [RGL](rgl/README.md) | 25 | 29 |
 | [Radionics](radionics/README.md) | 4 | 3 |
 | [Salto](salto/README.md) | 239 | 238 |
-| [TDSi](tdsi/README.md) | 30 | 35 |
+| [TDSi](tdsi/README.md) | 45 | 50 |
 | [Videx](videx/README.md) | 74 | 65 |

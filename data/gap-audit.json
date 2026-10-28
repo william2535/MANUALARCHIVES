@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-28",
-  "catalogue_sha256": "09cacdde4d8718bb5e3ba59e9879d4ec857ec824f2c11b069ea74a7b53fa7070",
+  "catalogue_sha256": "91714d9fcb59528e9281b940294337cdd033c63b22c9590af9c44b9da08b4f19",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 12063,
+  "record_count": 12313,
   "gap_counts": {
     "complete-file-check-needed": 2946,
-    "document-number-unrecorded": 10773,
+    "document-number-unrecorded": 10861,
     "download-url-unresolved": 3,
     "language-unverified": 11554,
-    "model-applicability-review-needed": 9086,
+    "model-applicability-review-needed": 9088,
     "possible-duplicate-review-needed": 1,
-    "region-unverified": 12043,
+    "region-unverified": 12293,
     "retrieval-failed": 10,
-    "revision-review-needed": 11708,
-    "source-metadata-conflict": 17,
+    "revision-review-needed": 11782,
+    "source-metadata-conflict": 25,
     "viewer-without-direct-pdf": 4,
     "web-manual-without-direct-pdf": 235
   },
@@ -791,7 +791,7 @@
     },
     {
       "brand": "Bosch",
-      "records": 70,
+      "records": 74,
       "categories": [
         "access-control",
         "cctv",
@@ -799,15 +799,15 @@
         "security"
       ],
       "document_types": {
-        "datasheet": 5,
-        "installation": 25,
+        "datasheet": 6,
+        "installation": 28,
         "programming": 11,
         "quick-start": 7,
         "reference": 2,
         "user-guide": 20
       },
       "download_status": {
-        "complete-file": 20,
+        "complete-file": 24,
         "file-hash": 3,
         "listed": 45,
         "pdf-indexed": 1,
@@ -815,12 +815,12 @@
       },
       "gap_counts": {
         "complete-file-check-needed": 50,
-        "document-number-unrecorded": 66,
+        "document-number-unrecorded": 67,
         "language-unverified": 66,
         "model-applicability-review-needed": 19,
-        "region-unverified": 70,
+        "region-unverified": 74,
         "retrieval-failed": 1,
-        "revision-review-needed": 66
+        "revision-review-needed": 67
       }
     },
     {
@@ -882,23 +882,23 @@
     },
     {
       "brand": "CDVI",
-      "records": 6,
+      "records": 7,
       "categories": [
         "access-control"
       ],
       "document_types": {
-        "installation": 2,
+        "installation": 3,
         "reference": 4
       },
       "download_status": {
-        "complete-file": 2,
+        "complete-file": 3,
         "source-page": 4
       },
       "gap_counts": {
-        "document-number-unrecorded": 4,
+        "document-number-unrecorded": 5,
         "language-unverified": 4,
-        "region-unverified": 6,
-        "revision-review-needed": 4,
+        "region-unverified": 7,
+        "revision-review-needed": 5,
         "viewer-without-direct-pdf": 4
       }
     },
@@ -1106,27 +1106,28 @@
     },
     {
       "brand": "Dahua",
-      "records": 20,
+      "records": 26,
       "categories": [
         "access-control",
         "cctv"
       ],
       "document_types": {
-        "installation": 3,
-        "quick-start": 3,
+        "datasheet": 2,
+        "installation": 4,
+        "quick-start": 4,
         "reference": 3,
-        "user-guide": 11
+        "user-guide": 13
       },
       "download_status": {
-        "complete-file": 10,
+        "complete-file": 16,
         "listed": 10
       },
       "gap_counts": {
         "complete-file-check-needed": 10,
-        "document-number-unrecorded": 20,
+        "document-number-unrecorded": 26,
         "language-unverified": 13,
-        "region-unverified": 20,
-        "revision-review-needed": 14
+        "region-unverified": 26,
+        "revision-review-needed": 17
       }
     },
     {
@@ -1382,6 +1383,28 @@
         "model-applicability-review-needed": 1103,
         "region-unverified": 1103,
         "revision-review-needed": 1103
+      }
+    },
+    {
+      "brand": "Elmdene",
+      "records": 40,
+      "categories": [
+        "fire",
+        "other-reference"
+      ],
+      "document_types": {
+        "datasheet": 6,
+        "installation": 33,
+        "reference": 1
+      },
+      "download_status": {
+        "complete-file": 40
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 40,
+        "revision-review-needed": 1,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -1897,11 +1920,12 @@
     },
     {
       "brand": "Hikvision",
-      "records": 65,
+      "records": 68,
       "categories": [
         "cctv"
       ],
       "document_types": {
+        "datasheet": 3,
         "installation": 1,
         "programming": 1,
         "quick-start": 4,
@@ -1909,17 +1933,17 @@
         "user-guide": 26
       },
       "download_status": {
-        "complete-file": 14,
+        "complete-file": 17,
         "file-hash": 41,
         "listed": 10
       },
       "gap_counts": {
         "complete-file-check-needed": 51,
-        "document-number-unrecorded": 48,
+        "document-number-unrecorded": 51,
         "language-unverified": 52,
-        "model-applicability-review-needed": 45,
-        "region-unverified": 65,
-        "revision-review-needed": 65
+        "model-applicability-review-needed": 47,
+        "region-unverified": 68,
+        "revision-review-needed": 68
       }
     },
     {
@@ -1952,7 +1976,7 @@
     },
     {
       "brand": "Honeywell",
-      "records": 217,
+      "records": 219,
       "categories": [
         "cctv",
         "fire",
@@ -1962,7 +1986,7 @@
       "document_types": {
         "brochure": 2,
         "compatibility-chart": 2,
-        "datasheet": 82,
+        "datasheet": 84,
         "diagram": 2,
         "installation": 60,
         "programming": 5,
@@ -1972,16 +1996,16 @@
         "user-guide": 33
       },
       "download_status": {
-        "complete-file": 177,
+        "complete-file": 179,
         "file-hash": 40
       },
       "gap_counts": {
         "complete-file-check-needed": 40,
-        "document-number-unrecorded": 215,
+        "document-number-unrecorded": 217,
         "language-unverified": 215,
         "model-applicability-review-needed": 215,
-        "region-unverified": 217,
-        "revision-review-needed": 215
+        "region-unverified": 219,
+        "revision-review-needed": 217
       }
     },
     {
@@ -2688,6 +2712,24 @@
       }
     },
     {
+      "brand": "Optex",
+      "records": 1,
+      "categories": [
+        "security"
+      ],
+      "document_types": {
+        "datasheet": 1
+      },
+      "download_status": {
+        "complete-file": 1
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 1,
+        "region-unverified": 1,
+        "revision-review-needed": 1
+      }
+    },
+    {
       "brand": "Orisec",
       "records": 11,
       "categories": [
@@ -2838,27 +2880,29 @@
     },
     {
       "brand": "Protec",
-      "records": 8,
+      "records": 58,
       "categories": [
         "fire"
       ],
       "document_types": {
-        "datasheet": 1,
+        "brochure": 3,
+        "datasheet": 44,
         "installation": 2,
         "programming": 2,
-        "reference": 1,
+        "reference": 5,
         "user-guide": 2
       },
       "download_status": {
-        "complete-file": 3,
+        "complete-file": 53,
         "pdf-indexed": 5
       },
       "gap_counts": {
         "complete-file-check-needed": 5,
-        "document-number-unrecorded": 5,
+        "document-number-unrecorded": 19,
         "language-unverified": 5,
-        "region-unverified": 8,
-        "revision-review-needed": 5
+        "region-unverified": 58,
+        "revision-review-needed": 19,
+        "source-metadata-conflict": 2
       }
     },
     {
@@ -2884,16 +2928,16 @@
     },
     {
       "brand": "Pyronix",
-      "records": 9,
+      "records": 11,
       "categories": [
         "security"
       ],
       "document_types": {
-        "installation": 2,
+        "installation": 4,
         "user-guide": 7
       },
       "download_status": {
-        "complete-file": 3,
+        "complete-file": 5,
         "file-hash": 1,
         "pdf-indexed": 3,
         "source-page": 2
@@ -2903,7 +2947,7 @@
         "document-number-unrecorded": 9,
         "language-unverified": 9,
         "model-applicability-review-needed": 7,
-        "region-unverified": 9,
+        "region-unverified": 11,
         "revision-review-needed": 9,
         "web-manual-without-direct-pdf": 2
       }
@@ -2968,6 +3012,25 @@
       }
     },
     {
+      "brand": "RGL",
+      "records": 25,
+      "categories": [
+        "access-control"
+      ],
+      "document_types": {
+        "installation": 24,
+        "reference": 1
+      },
+      "download_status": {
+        "complete-file": 25
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 25,
+        "region-unverified": 25,
+        "revision-review-needed": 10
+      }
+    },
+    {
       "brand": "Radionics",
       "records": 67,
       "categories": [
@@ -2995,17 +3058,19 @@
     },
     {
       "brand": "Risco",
-      "records": 87,
+      "records": 88,
       "categories": [
         "security"
       ],
       "document_types": {
+        "installation": 1,
         "programming": 1,
         "quick-start": 42,
         "reference": 2,
         "user-guide": 42
       },
       "download_status": {
+        "complete-file": 1,
         "file-hash": 9,
         "listed": 78
       },
@@ -3014,7 +3079,7 @@
         "document-number-unrecorded": 13,
         "language-unverified": 87,
         "model-applicability-review-needed": 9,
-        "region-unverified": 87,
+        "region-unverified": 88,
         "revision-review-needed": 87
       }
     },
@@ -3475,19 +3540,19 @@
     },
     {
       "brand": "TDSi",
-      "records": 30,
+      "records": 45,
       "categories": [
         "access-control"
       ],
       "document_types": {
-        "datasheet": 9,
+        "datasheet": 24,
         "programming": 1,
         "quick-start": 2,
         "reference": 14,
         "user-guide": 4
       },
       "download_status": {
-        "complete-file": 13,
+        "complete-file": 28,
         "pdf-indexed": 17
       },
       "gap_counts": {
@@ -3495,8 +3560,9 @@
         "document-number-unrecorded": 3,
         "language-unverified": 17,
         "model-applicability-review-needed": 3,
-        "region-unverified": 30,
-        "revision-review-needed": 18
+        "region-unverified": 45,
+        "revision-review-needed": 18,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -3610,24 +3676,25 @@
     },
     {
       "brand": "Tunstall",
-      "records": 28,
+      "records": 63,
       "categories": [
         "warden-call"
       ],
       "document_types": {
-        "datasheet": 3,
+        "datasheet": 6,
+        "installation": 19,
         "programming": 1,
         "quick-start": 12,
-        "user-guide": 12
+        "user-guide": 25
       },
       "download_status": {
-        "complete-file": 28
+        "complete-file": 63
       },
       "gap_counts": {
-        "document-number-unrecorded": 12,
-        "region-unverified": 28,
-        "revision-review-needed": 22,
-        "source-metadata-conflict": 2
+        "document-number-unrecorded": 42,
+        "region-unverified": 63,
+        "revision-review-needed": 56,
+        "source-metadata-conflict": 5
       }
     },
     {
@@ -3655,7 +3722,7 @@
     },
     {
       "brand": "Tynetec",
-      "records": 84,
+      "records": 149,
       "categories": [
         "warden-call"
       ],
@@ -3663,19 +3730,20 @@
         "application-note": 3,
         "datasheet": 1,
         "diagram": 21,
-        "installation": 16,
+        "installation": 80,
         "programming": 3,
-        "reference": 2,
+        "reference": 3,
         "troubleshooting": 21,
         "user-guide": 17
       },
       "download_status": {
-        "complete-file": 84
+        "complete-file": 149
       },
       "gap_counts": {
-        "document-number-unrecorded": 24,
-        "region-unverified": 84,
-        "revision-review-needed": 47
+        "document-number-unrecorded": 28,
+        "region-unverified": 149,
+        "revision-review-needed": 51,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -18327,6 +18395,14 @@
       ]
     },
     {
+      "id": "bosch-0ba92138ab30",
+      "brand": "Bosch",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "bosch-0e116ce86eec",
       "brand": "Bosch",
       "category": "access-control",
@@ -18396,6 +18472,14 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "bosch-3d8651b2effe",
+      "brand": "Bosch",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -18755,6 +18839,24 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "bosch-be9d38fc89d0",
+      "brand": "Bosch",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "bosch-c221490fad45",
+      "brand": "Bosch",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -21078,6 +21180,16 @@
       ]
     },
     {
+      "id": "cdvi-ce027502e494",
+      "brand": "CDVI",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "comelit-000b86952b02",
       "brand": "Comelit",
       "category": "fire",
@@ -23149,12 +23261,42 @@
       ]
     },
     {
+      "id": "dahua-26f37f598622",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "dahua-382276a95bea",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "dahua-44eea3b314bd",
       "brand": "Dahua",
       "category": "cctv",
       "gaps": [
         "complete-file-check-needed",
         "language-unverified",
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "dahua-5c94a1c33dd0",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
@@ -23235,6 +23377,15 @@
       ]
     },
     {
+      "id": "dahua-cea5cb10d92c",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
       "id": "dahua-d4489a364bf9",
       "brand": "Dahua",
       "category": "access-control",
@@ -23278,6 +23429,24 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "dahua-f4d0a17954db",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "dahua-f5ce2a499120",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
       ]
     },
     {
@@ -23702,6 +23871,332 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "elmdene-011c9e7b8140",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-02cd61bbc095",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-038f0df56c59",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-177ddd30af27",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-283bce3536ec",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-2aca06b73f82",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-2bdf30587c23",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-348ff378f242",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-39c562c379ab",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-4252057bf798",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-474e72144b31",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-5378a5bdb789",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-561a515e7d88",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-56feb4dd9a77",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-5864400e2163",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-643b298717d5",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-78fa96fb4a8e",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-7a19e5fe4715",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-7eb78a02be8a",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-897001c637e4",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-8c2c9ec12d4d",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-8e85effd81f7",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-925ea7e2432d",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-9d05a4265505",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-9d9f2ab8ca68",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-9e6ecbcc8a29",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-a573af87a381",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-ac636cdb54d7",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-b15eb2767fad",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-b845e13d5b6c",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-c2dc4dff1143",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "PDF pages print both 2024 and 2023 in the identifier footer; all show Issue 5. No publication date inferred."
+      ]
+    },
+    {
+      "id": "elmdene-c52387683f3b",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-d648edccbb03",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-d6a4cb7c0bc3",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-dc38fff1db91",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-de8b2bffc787",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "elmdene-e394ce35db57",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-eb29a20f4e55",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-ed28f44a0134",
+      "brand": "Elmdene",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "elmdene-fd2a7afbb88c",
+      "brand": "Elmdene",
+      "category": "other-reference",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -128534,11 +129029,32 @@
       ]
     },
     {
+      "id": "hikvision-6bc97fc03214",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "model-applicability-review-needed"
+      ]
+    },
+    {
       "id": "hikvision-702ace8cd356",
       "brand": "Hikvision",
       "category": "cctv",
       "gaps": [
         "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "hikvision-74420c39aaec",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
         "revision-review-needed"
       ]
     },
@@ -128669,6 +129185,17 @@
       "gaps": [
         "complete-file-check-needed",
         "language-unverified",
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "hikvision-aea238fab819",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "gaps": [
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed",
@@ -129445,6 +129972,16 @@
       ]
     },
     {
+      "id": "honeywell-c43f79f6c58f",
+      "brand": "Honeywell",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "honeywell-c4589922159f",
       "brand": "Honeywell",
       "category": "security",
@@ -129468,6 +130005,16 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "honeywell-c5f84dba0500",
+      "brand": "Honeywell",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -134121,6 +134668,16 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "optex-e9f07c532a93",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -138995,6 +139552,70 @@
       ]
     },
     {
+      "id": "protec-0017f3f387c8",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-01df85b6dc78",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-0a900498bab8",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-0be7c2a76eef",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-0dd49919bb8f",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-19c2f3a94324",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-31f5bdf4a3e1",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-339b6a0f3290",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "protec-342a0d542c7d",
       "brand": "Protec",
       "category": "fire",
@@ -139019,7 +139640,139 @@
       ]
     },
     {
+      "id": "protec-3d5612b83a2a",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "protec-502abea1875d",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-5069e328acd7",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-51f6345bc3b0",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-5a973238e7f3",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-5b9f06e51aac",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-5c3a7124a457",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Source filename says Issue 2; PDF footer prints MED1841 Issue 3. Printed issue retained."
+      ]
+    },
+    {
+      "id": "protec-6523d9245f00",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-6566c609b221",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-6989163099f8",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-6bcbc2b517fe",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-6c1b53d72cf8",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-6d5775af2bdd",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-6e1c7b025b2a",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-76db2cf08b1f",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-780eec1fef01",
       "brand": "Protec",
       "category": "fire",
       "gaps": [
@@ -139039,6 +139792,86 @@
       ]
     },
     {
+      "id": "protec-8545b7775994",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-85c751983ccd",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-8ceaef00d907",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-8fe34afdfd9e",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-9ca2288e2159",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-9e5e03fd774a",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-a488a1b2405c",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-a7baa334bd77",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-ae59f31e02f6",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Source filename and link label say 6000-SSR; PDF heading identifies 6000/SSR2. Printed model retained."
+      ]
+    },
+    {
       "id": "protec-aee99ea8ed2b",
       "brand": "Protec",
       "category": "fire",
@@ -139048,6 +139881,50 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-b0cb62962e34",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-b31b125f7fcf",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-b45cd15ff779",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-bf011433007e",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-c25113a03303",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -139063,6 +139940,30 @@
       ]
     },
     {
+      "id": "protec-cb575d8d8fea",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-ce38ec46cb37",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-d0d332bd3ec0",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "protec-dc6d79965adc",
       "brand": "Protec",
       "category": "fire",
@@ -139071,9 +139972,109 @@
       ]
     },
     {
+      "id": "protec-eb61f37c7451",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-ebdf3b49b3c0",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-ec2322ec5cbb",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-ec3c13922e8a",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-ee96a3a1697c",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "protec-f00b03bef0a0",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-f2b06b77b78b",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-f44210cd2cc5",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "protec-f54869c43a89",
       "brand": "Protec",
       "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-f6b672126de1",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "protec-fba227e3ad41",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "pyronix-12dc1a0275b5",
+      "brand": "Pyronix",
+      "category": "security",
       "gaps": [
         "region-unverified"
       ]
@@ -139088,6 +140089,14 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "pyronix-302da665231b",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -139198,6 +140207,241 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-007715ac78cb",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-0c1171ad6315",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-0f23da820dc4",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-323fad468086",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-3996a2e44db3",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-3bd6e9ae7a8f",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-41d526415e32",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-4237b90b0c8b",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-4586342886ab",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-69ad722642ae",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-83017609835b",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-8d8b7e72bd72",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-90becbbc97c6",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-94277919cc7c",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-9805e5b458ad",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-a697ba7f37ed",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-bdd3b9c4696e",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-c025b04d523c",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-c1809785a1e4",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-c8ee3942f793",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-cc9c295cd175",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-d65b408c34ce",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-d9ba8b26065f",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-dcdd683d2e4f",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "rgl-e7bbcd9eaf5e",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
       ]
     },
     {
@@ -140144,6 +141388,14 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "risco-e8aee4e7a650",
+      "brand": "Risco",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -143122,6 +144374,14 @@
       ]
     },
     {
+      "id": "tdsi-2989ffc2ffca",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tdsi-29da0ae1824a",
       "brand": "TDSi",
       "category": "access-control",
@@ -143143,6 +144403,30 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "tdsi-3c020b672c47",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-3d47e0e13089",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-4f143e86c453",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -143203,6 +144487,22 @@
       ]
     },
     {
+      "id": "tdsi-872095b77c8c",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-87c686bb04b5",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tdsi-891e1e882a97",
       "brand": "TDSi",
       "category": "access-control",
@@ -143238,6 +144538,14 @@
       ]
     },
     {
+      "id": "tdsi-9e6aaf6b79d2",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tdsi-9fb40b6424e6",
       "brand": "TDSi",
       "category": "access-control",
@@ -143246,6 +144554,14 @@
         "language-unverified",
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tdsi-a7d8c3d5e725",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -143282,6 +144598,14 @@
     },
     {
       "id": "tdsi-bee8316259ad",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-c17a88c70cc2",
       "brand": "TDSi",
       "category": "access-control",
       "gaps": [
@@ -143330,11 +144654,47 @@
       ]
     },
     {
+      "id": "tdsi-d92bdb653f39",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-db2a59990c58",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-db8fca21f754",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tdsi-e3c2dbf7c173",
       "brand": "TDSi",
       "category": "access-control",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-e503c7244c5a",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Source filename says Issue 3; PDF prints DS0070 Issue 2. Printed Issue 2 is recorded."
       ]
     },
     {
@@ -143344,6 +144704,22 @@
       "gaps": [
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tdsi-e5b23fe98076",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tdsi-e6ba2c3b3915",
+      "brand": "TDSi",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -144720,11 +146096,35 @@
       ]
     },
     {
+      "id": "tunstall-03b6ee9c76ed",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-0889762b594a",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "tunstall-0a9bf5d5b360",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Source table lists 41005/13, but the supplied user guide explicitly identifies model 41005/01. Indexed under printed model only."
       ]
     },
     {
@@ -144734,6 +146134,16 @@
       "gaps": [
         "region-unverified",
         "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "tunstall-1501efbd9a91",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -144774,6 +146184,36 @@
       ]
     },
     {
+      "id": "tunstall-21e74ef37d03",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-2e75ed8c0c6a",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-31748186a127",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-3302d754e937",
       "brand": "Tunstall",
       "category": "warden-call",
@@ -144792,11 +146232,52 @@
       ]
     },
     {
+      "id": "tunstall-3f1f68a97bb6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tunstall-3f3cf33597ec",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Resource table also names 41005/25; this PDF cover identifies 41005/30. Only the printed primary model is indexed."
+      ]
+    },
+    {
       "id": "tunstall-4a793d290e0d",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "tunstall-4c7c7fcf84a6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-5035c67ab81b",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
       ]
     },
     {
@@ -144810,6 +146291,55 @@
     },
     {
       "id": "tunstall-524380c89621",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-5579e244e5e6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-5a9f5f6da90f",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-5e16907e9cc7",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-5f0176028429",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-6440e1b42952",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
@@ -144849,7 +146379,50 @@
       ]
     },
     {
+      "id": "tunstall-683727fdeac2",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Source listing says Property Exit Sensor; the linked PDF cover says Bed/Chair Occupancy Sensor, D4107100B. Retained only as an alternate of the actual bed/chair guide."
+      ]
+    },
+    {
       "id": "tunstall-6953f8d039fe",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-69d405db79a4",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-6ccea10da1ab",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-724a992aa168",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
@@ -144887,6 +146460,26 @@
       ]
     },
     {
+      "id": "tunstall-7f461c64e361",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-94a0cde22dad",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-97c3d30e9ab4",
       "brand": "Tunstall",
       "category": "warden-call",
@@ -144903,6 +146496,26 @@
           "pdf_text": "GXV3275",
           "decision": "Retain Communicall Vi IP family association; do not claim GXV3240 applicability."
         }
+      ]
+    },
+    {
+      "id": "tunstall-99f24cfc82c3",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-a30d1175ce32",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -144925,7 +146538,27 @@
       ]
     },
     {
+      "id": "tunstall-b5103b434714",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-b76b00808f8c",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-bd5bfe4ead6b",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
@@ -144944,6 +146577,16 @@
       ]
     },
     {
+      "id": "tunstall-c27cb50faa20",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-c300a4f9a750",
       "brand": "Tunstall",
       "category": "warden-call",
@@ -144953,11 +146596,61 @@
       ]
     },
     {
+      "id": "tunstall-c5960e67d3f5",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-c992f2bd1a4b",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
         "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-df8e7d390e38",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-e0f7bdedf489",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-e156de9a7ab1",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-e310f3812e34",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
         "revision-review-needed"
       ]
     },
@@ -144981,12 +146674,59 @@
       ]
     },
     {
+      "id": "tunstall-e722ff1237f8",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-e7300148d82c",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tunstall-ef413d7936f7",
       "brand": "Tunstall",
       "category": "warden-call",
       "gaps": [
         "region-unverified",
         "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "tunstall-f0966e92bbf9",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tunstall-fcaa5e7bd7e6",
+      "brand": "Tunstall",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-0063d4354ef2",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -144999,6 +146739,24 @@
     },
     {
       "id": "tynetec-054d4911b783",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-0557818ddd78",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-06e11ff7483e",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145024,6 +146782,14 @@
     },
     {
       "id": "tynetec-0aea57173a92",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-0ba1e84775b3",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145058,6 +146824,22 @@
       ]
     },
     {
+      "id": "tynetec-0f461bf5ed18",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-0fe2e132e7ba",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-1048e614c65e",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145072,6 +146854,14 @@
       "gaps": [
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-111b61200d55",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -145118,6 +146908,22 @@
       ]
     },
     {
+      "id": "tynetec-17b16a2b82e1",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-1b1e7c4b354c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-1d41e528ebf0",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145137,7 +146943,23 @@
       ]
     },
     {
+      "id": "tynetec-1f105b1fbc74",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-1fb57c458485",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-219d56d3dd02",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145155,7 +146977,55 @@
       ]
     },
     {
+      "id": "tynetec-2b5a578e223c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-30b709512541",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-310ab697a76c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-3234e21f60f6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-34553515be0c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-346c19345161",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-3644da3945dc",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145198,6 +147068,14 @@
       ]
     },
     {
+      "id": "tynetec-3e2e1c5ee4d6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-3e7fa70930dc",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145230,6 +147108,30 @@
       ]
     },
     {
+      "id": "tynetec-47feb21f16a8",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-49cdf3daafdb",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-4aa0b3dad1ae",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-4c3886c60688",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145248,7 +147150,23 @@
       ]
     },
     {
+      "id": "tynetec-4d5304401aa9",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-4e0adaf53e15",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-4e4e948826fe",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145282,7 +147200,35 @@
       ]
     },
     {
+      "id": "tynetec-55a50108b3ef",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-55bc9ba952e4",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-57a7d743b5bb",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Filename implies issue F; the actual PDF prints Issue E. Printed issue retained."
+      ]
+    },
+    {
+      "id": "tynetec-582a42ff1191",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145300,12 +147246,36 @@
       ]
     },
     {
+      "id": "tynetec-5f02f37a7dec",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-62bb518e309b",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-632066cf3a13",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-635326beed02",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -145316,6 +147286,22 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-65740c425043",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-68ce5ebe4833",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -145347,6 +147333,22 @@
       ]
     },
     {
+      "id": "tynetec-6ee916012981",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-7113b082f231",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-7276a21f4991",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145370,6 +147372,22 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-7a9793ffab43",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-7a99a7936668",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -145409,6 +147427,14 @@
       ]
     },
     {
+      "id": "tynetec-8414c5fff040",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-84de6f4a15df",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145416,6 +147442,14 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-867f476cebd0",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -145429,6 +147463,22 @@
       ]
     },
     {
+      "id": "tynetec-88ad24d263fe",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-8e042f4f3db6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-8e48e3f81371",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145439,7 +147489,63 @@
       ]
     },
     {
+      "id": "tynetec-904dc9f06506",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-91d0fd03e772",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-92dff242706d",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-942b1989f943",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-95539c915346",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-97cb51915eb6",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-99484148e9b5",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-9b7ef072ac8e",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145476,6 +147582,22 @@
       ]
     },
     {
+      "id": "tynetec-a5883060630c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-a71995e8a0d1",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-a78065ae8286",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145494,6 +147616,14 @@
       ]
     },
     {
+      "id": "tynetec-ae45f1cc60f7",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-ae4c01eb4a6f",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145503,6 +147633,14 @@
     },
     {
       "id": "tynetec-af9eb1e6eb38",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-b05a88f09f52",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145529,6 +147667,30 @@
     },
     {
       "id": "tynetec-bac94438823c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-bc40ccf0007f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-be9cdf20e6cf",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-c03fbbbfa2a6",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145615,6 +147777,34 @@
       ]
     },
     {
+      "id": "tynetec-d61157419359",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-d738c36c4f73",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "tynetec-d8d2b8cb22e0",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "tynetec-d9fcd2792b2d",
       "brand": "Tynetec",
       "category": "warden-call",
@@ -145663,7 +147853,55 @@
       ]
     },
     {
+      "id": "tynetec-df815b732913",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-e1886fb05621",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-e3e280bc31ad",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-e41c73e44db3",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-e932a8171743",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-ec23925c8c0c",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-f21bd7813f62",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -145676,6 +147914,16 @@
       "category": "warden-call",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-f29bbbf2a05f",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -145715,7 +147963,23 @@
       ]
     },
     {
+      "id": "tynetec-fe5563732618",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "tynetec-fe5ee99d138b",
+      "brand": "Tynetec",
+      "category": "warden-call",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "tynetec-ff4847e0fd4b",
       "brand": "Tynetec",
       "category": "warden-call",
       "gaps": [
@@ -148114,6 +150378,50 @@
     },
     {
       "category": "access-control",
+      "brand": "CDVI",
+      "model": "SOLARPB",
+      "record_ids": [
+        "cdvi-ce027502e494"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "SOLARPW",
+      "record_ids": [
+        "cdvi-ce027502e494"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "STARPB",
+      "record_ids": [
+        "cdvi-ce027502e494"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "CDVI",
+      "model": "STARPW",
+      "record_ids": [
+        "cdvi-ce027502e494"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
       "brand": "Comelit",
       "model": "1440",
       "record_ids": [
@@ -150475,6 +152783,325 @@
       "model": "Guardian",
       "record_ids": [
         "quikstor-ea616a11b751"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ADJ-1200L",
+      "record_ids": [
+        "rgl-a697ba7f37ed"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ADJ-600L",
+      "record_ids": [
+        "rgl-c025b04d523c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "AH1200",
+      "record_ids": [
+        "rgl-323fad468086"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "AH600",
+      "record_ids": [
+        "rgl-323fad468086"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "AS900",
+      "record_ids": [
+        "rgl-8d8b7e72bd72"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "DBGLS150",
+      "record_ids": [
+        "rgl-4586342886ab"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "DHM600",
+      "record_ids": [
+        "rgl-007715ac78cb"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "DHM600-200",
+      "record_ids": [
+        "rgl-90becbbc97c6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "DR-01",
+      "record_ids": [
+        "rgl-0c1171ad6315"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "DS-001",
+      "record_ids": [
+        "rgl-bdd3b9c4696e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "DS-002",
+      "record_ids": [
+        "rgl-c1809785a1e4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "EXML1200-GATE",
+      "record_ids": [
+        "rgl-83017609835b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "EXML600-GATE",
+      "record_ids": [
+        "rgl-83017609835b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "IP300ML-M",
+      "record_ids": [
+        "rgl-c8ee3942f793"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "IP600ML-M",
+      "record_ids": [
+        "rgl-41d526415e32"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "MED-57",
+      "record_ids": [
+        "rgl-0f23da820dc4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "MED-57K",
+      "record_ids": [
+        "rgl-0f23da820dc4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ML100",
+      "record_ids": [
+        "rgl-4237b90b0c8b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ML1200",
+      "record_ids": [
+        "rgl-69ad722642ae"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ML300",
+      "record_ids": [
+        "rgl-e7bbcd9eaf5e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ML600",
+      "record_ids": [
+        "rgl-69ad722642ae"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "ML600-MDS",
+      "record_ids": [
+        "rgl-d9ba8b26065f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "MM600-MORT",
+      "record_ids": [
+        "rgl-9805e5b458ad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "MSL-2600",
+      "record_ids": [
+        "rgl-dcdd683d2e4f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "Maglock bracket orientation",
+      "record_ids": [
+        "rgl-3996a2e44db3"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "Maglock-Safety-Kit",
+      "record_ids": [
+        "rgl-d65b408c34ce"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "SB-200LS",
+      "record_ids": [
+        "rgl-cc9c295cd175"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "SB-236",
+      "record_ids": [
+        "rgl-3bd6e9ae7a8f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "SML-3000",
+      "record_ids": [
+        "rgl-94277919cc7c"
       ],
       "document_types": [
         "installation"
@@ -153140,12 +155767,56 @@
     {
       "category": "access-control",
       "brand": "TDSi",
+      "model": "Bluetooth Low Energy Reader",
+      "record_ids": [
+        "tdsi-3c020b672c47"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "Contactless Smart Cards",
+      "record_ids": [
+        "tdsi-2989ffc2ffca"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "Digigarde Plus Biometric Reader",
+      "record_ids": [
+        "tdsi-d92bdb653f39"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
       "model": "Download & Register EXgarde Software",
       "record_ids": [
         "tdsi-891e1e882a97"
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "Dual-Technology Enrolment Reader",
+      "record_ids": [
+        "tdsi-db2a59990c58"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -153255,6 +155926,61 @@
       "model": "EXpert4",
       "record_ids": [
         "tdsi-049634fb0aef"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "EXsmart 2 MIFARE CSN Reader",
+      "record_ids": [
+        "tdsi-9e6aaf6b79d2"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "EXsmart 2 Sector 4 Reader",
+      "record_ids": [
+        "tdsi-e6ba2c3b3915"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "EXsmart 2K MIFARE CSN Reader",
+      "record_ids": [
+        "tdsi-4f143e86c453"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "EXsmart 2K Sector 4 Reader",
+      "record_ids": [
+        "tdsi-872095b77c8c"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "Energy Saving Switch",
+      "record_ids": [
+        "tdsi-3d47e0e13089"
       ],
       "document_types": [
         "datasheet"
@@ -153373,6 +156099,17 @@
     {
       "category": "access-control",
       "brand": "TDSi",
+      "model": "GARDiS MIFARE Readers",
+      "record_ids": [
+        "tdsi-87c686bb04b5"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
       "model": "GARDiS PSU 5002-6050",
       "record_ids": [
         "tdsi-13b24ba47133"
@@ -153398,6 +156135,17 @@
       "model": "GARDiS PoE PSU 5002-6051",
       "record_ids": [
         "tdsi-e3c2dbf7c173"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "GARDiS Proximity Readers",
+      "record_ids": [
+        "tdsi-e5b23fe98076"
       ],
       "document_types": [
         "datasheet"
@@ -153450,6 +156198,28 @@
     {
       "category": "access-control",
       "brand": "TDSi",
+      "model": "MIFARE CSN Reader",
+      "record_ids": [
+        "tdsi-db8fca21f754"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "MIFARE Panel Mount DESfire Reader",
+      "record_ids": [
+        "tdsi-a7d8c3d5e725"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
       "model": "MIFARE Programmer",
       "record_ids": [
         "tdsi-7d8cceae92c8"
@@ -153478,6 +156248,28 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "Proximity Cards & Fobs",
+      "record_ids": [
+        "tdsi-c17a88c70cc2"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "TDSi",
+      "model": "RF Receiver",
+      "record_ids": [
+        "tdsi-e503c7244c5a"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -161652,6 +164444,35 @@
     {
       "category": "cctv",
       "brand": "Dahua",
+      "model": "IPC-HDW2449T-S-IL (S0)",
+      "record_ids": [
+        "dahua-26f37f598622"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Dahua",
+      "model": "IPC-HDW5442T-ZE (S3)",
+      "record_ids": [
+        "dahua-382276a95bea",
+        "dahua-5c94a1c33dd0",
+        "dahua-cea5cb10d92c",
+        "dahua-f4d0a17954db",
+        "dahua-f5ce2a499120"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation",
+        "quick-start",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Dahua",
       "model": "IPC-T2B40-ZS",
       "record_ids": [
         "dahua-14301ced9d6a"
@@ -162653,6 +165474,39 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Hikvision",
+      "model": "DS-2CD2143G2-IU",
+      "record_ids": [
+        "hikvision-74420c39aaec"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Hikvision",
+      "model": "DS-2CD2347G2-L(U)",
+      "record_ids": [
+        "hikvision-aea238fab819"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Hikvision",
+      "model": "DS-2CD2387G2-L(U)",
+      "record_ids": [
+        "hikvision-6bc97fc03214"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -187963,6 +190817,174 @@
       "model": "iO64 and iO500",
       "record_ids": [
         "facp-b5a1a3b2-85bb-47a4-828e-2b2a01008f61"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "2401ST",
+      "record_ids": [
+        "elmdene-283bce3536ec",
+        "elmdene-8c2c9ec12d4d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "2402ST",
+      "record_ids": [
+        "elmdene-038f0df56c59",
+        "elmdene-2bdf30587c23"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "2405ST",
+      "record_ids": [
+        "elmdene-2aca06b73f82",
+        "elmdene-9d9f2ab8ca68"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "2405ST-MOD",
+      "record_ids": [
+        "elmdene-5378a5bdb789"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "BATT-BOX-65-BLACK",
+      "record_ids": [
+        "elmdene-ac636cdb54d7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "ST series",
+      "record_ids": [
+        "elmdene-925ea7e2432d"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX series",
+      "record_ids": [
+        "elmdene-561a515e7d88"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2401",
+      "record_ids": [
+        "elmdene-78fa96fb4a8e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2401-MOD",
+      "record_ids": [
+        "elmdene-7eb78a02be8a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2402",
+      "record_ids": [
+        "elmdene-ed28f44a0134"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2402-MOD",
+      "record_ids": [
+        "elmdene-5864400e2163"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2405",
+      "record_ids": [
+        "elmdene-4252057bf798"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2405-MOD",
+      "record_ids": [
+        "elmdene-474e72144b31"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2410",
+      "record_ids": [
+        "elmdene-d648edccbb03"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Elmdene",
+      "model": "STX2410-MOD",
+      "record_ids": [
+        "elmdene-56feb4dd9a77"
       ],
       "document_types": [
         "installation"
@@ -225795,9 +228817,562 @@
     {
       "category": "fire",
       "brand": "Protec",
+      "model": "3000PLUS/OP",
+      "record_ids": [
+        "protec-a488a1b2405c"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "3000PLUS/OPHT",
+      "record_ids": [
+        "protec-6523d9245f00"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "3000PLUS/UG4DP",
+      "record_ids": [
+        "protec-a7baa334bd77"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000 addressable interfaces",
+      "record_ids": [
+        "protec-f44210cd2cc5"
+      ],
+      "document_types": [
+        "brochure"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/2APZA",
+      "record_ids": [
+        "protec-76db2cf08b1f"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/2IO",
+      "record_ids": [
+        "protec-9e5e03fd774a"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/2LPZA",
+      "record_ids": [
+        "protec-5c3a7124a457"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/4IO",
+      "record_ids": [
+        "protec-5a973238e7f3"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/APZA",
+      "record_ids": [
+        "protec-6989163099f8"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/BEAM/IF",
+      "record_ids": [
+        "protec-9ca2288e2159"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/DCM",
+      "record_ids": [
+        "protec-ce38ec46cb37"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/LCM",
+      "record_ids": [
+        "protec-3d5612b83a2a"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/LPZA",
+      "record_ids": [
+        "protec-19c2f3a94324"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/MCP",
+      "record_ids": [
+        "protec-f00b03bef0a0"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/MCP/WP",
+      "record_ids": [
+        "protec-339b6a0f3290"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/MICCO",
+      "record_ids": [
+        "protec-b0cb62962e34"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/SSR/VAD",
+      "record_ids": [
+        "protec-0be7c2a76eef"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/SSR2",
+      "record_ids": [
+        "protec-ae59f31e02f6"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/TSR/VAD",
+      "record_ids": [
+        "protec-ec3c13922e8a"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/VAD/C/RED",
+      "record_ids": [
+        "protec-85c751983ccd"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/VAD/C/WHITE",
+      "record_ids": [
+        "protec-85c751983ccd"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/VAD/W/RED",
+      "record_ids": [
+        "protec-6566c609b221"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000/VAD/W/WHITE",
+      "record_ids": [
+        "protec-6566c609b221"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS Discrete Sounder / Sounder VAD",
+      "record_ids": [
+        "protec-8ceaef00d907"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS Discrete Talking Sounder / Talking Sounder VAD",
+      "record_ids": [
+        "protec-c25113a03303"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS protocol",
+      "record_ids": [
+        "protec-6c1b53d72cf8"
+      ],
+      "document_types": [
+        "brochure"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS sensor range",
+      "record_ids": [
+        "protec-ee96a3a1697c"
+      ],
+      "document_types": [
+        "brochure"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS sensor recognition",
+      "record_ids": [
+        "protec-31f5bdf4a3e1"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS talking sounders",
+      "record_ids": [
+        "protec-6bcbc2b517fe",
+        "protec-8545b7775994",
+        "protec-b31b125f7fcf"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
       "model": "6000PLUS/BASE",
       "record_ids": [
-        "protec-502abea1875d"
+        "protec-502abea1875d",
+        "protec-5b9f06e51aac"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/FFBASE",
+      "record_ids": [
+        "protec-fba227e3ad41"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/HT",
+      "record_ids": [
+        "protec-8fe34afdfd9e"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/HT/S",
+      "record_ids": [
+        "protec-ebdf3b49b3c0"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/HT/SVAD",
+      "record_ids": [
+        "protec-eb61f37c7451"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/HT/TSVAD",
+      "record_ids": [
+        "protec-5069e328acd7"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OP",
+      "record_ids": [
+        "protec-6d5775af2bdd"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OP/I",
+      "record_ids": [
+        "protec-ec2322ec5cbb"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OP/S",
+      "record_ids": [
+        "protec-b45cd15ff779"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT",
+      "record_ids": [
+        "protec-cb575d8d8fea"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT/I",
+      "record_ids": [
+        "protec-bf011433007e"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT/S",
+      "record_ids": [
+        "protec-0017f3f387c8"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT/SVAD",
+      "record_ids": [
+        "protec-6e1c7b025b2a"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT/TS",
+      "record_ids": [
+        "protec-0dd49919bb8f"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT/TSVAD",
+      "record_ids": [
+        "protec-f2b06b77b78b"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHT/VAD",
+      "record_ids": [
+        "protec-780eec1fef01"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHTCO",
+      "record_ids": [
+        "protec-f6b672126de1"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHTCO/S",
+      "record_ids": [
+        "protec-d0d332bd3ec0"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHTCO/SVAD",
+      "record_ids": [
+        "protec-01df85b6dc78"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHTCO/TSVAD",
+      "record_ids": [
+        "protec-51f6345bc3b0"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/OPHTCO/VAD",
+      "record_ids": [
+        "protec-0a900498bab8"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/UG4DP",
+      "record_ids": [
+        "protec-a7baa334bd77"
       ],
       "document_types": [
         "datasheet"
@@ -255776,6 +259351,545 @@
     },
     {
       "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G Range BM Series",
+      "record_ids": [
+        "elmdene-c2dc4dff1143"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G Range BM Series (24 V)",
+      "record_ids": [
+        "elmdene-e394ce35db57"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G Range N Series",
+      "record_ids": [
+        "elmdene-b845e13d5b6c"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G Range N Series (24 V)",
+      "record_ids": [
+        "elmdene-9e6ecbcc8a29"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13801BM",
+      "record_ids": [
+        "elmdene-b15eb2767fad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13801BMU",
+      "record_ids": [
+        "elmdene-8e85effd81f7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13801N",
+      "record_ids": [
+        "elmdene-643b298717d5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13801NU",
+      "record_ids": [
+        "elmdene-9d05a4265505"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13802BM",
+      "record_ids": [
+        "elmdene-b15eb2767fad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13802BMU",
+      "record_ids": [
+        "elmdene-8e85effd81f7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13802N",
+      "record_ids": [
+        "elmdene-643b298717d5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13802NU",
+      "record_ids": [
+        "elmdene-9d05a4265505"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13803BM",
+      "record_ids": [
+        "elmdene-011c9e7b8140"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13803BMU",
+      "record_ids": [
+        "elmdene-39c562c379ab"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13803N",
+      "record_ids": [
+        "elmdene-643b298717d5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13803N-16V5-C",
+      "record_ids": [
+        "elmdene-177ddd30af27"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13803N-REG12-B",
+      "record_ids": [
+        "elmdene-eb29a20f4e55"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13803NU",
+      "record_ids": [
+        "elmdene-9d05a4265505"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13804BM",
+      "record_ids": [
+        "elmdene-011c9e7b8140"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13804BMU",
+      "record_ids": [
+        "elmdene-39c562c379ab"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13804N",
+      "record_ids": [
+        "elmdene-643b298717d5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13804NU",
+      "record_ids": [
+        "elmdene-9d05a4265505"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13805BM",
+      "record_ids": [
+        "elmdene-011c9e7b8140"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13805BMU",
+      "record_ids": [
+        "elmdene-39c562c379ab"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13805N",
+      "record_ids": [
+        "elmdene-643b298717d5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13805NU",
+      "record_ids": [
+        "elmdene-9d05a4265505"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G13810BM",
+      "record_ids": [
+        "elmdene-011c9e7b8140"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2401BM",
+      "record_ids": [
+        "elmdene-02cd61bbc095"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2401BMU",
+      "record_ids": [
+        "elmdene-a573af87a381"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2401N",
+      "record_ids": [
+        "elmdene-897001c637e4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2401NU",
+      "record_ids": [
+        "elmdene-d6a4cb7c0bc3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2402BM",
+      "record_ids": [
+        "elmdene-02cd61bbc095"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2402BMU",
+      "record_ids": [
+        "elmdene-a573af87a381"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2402N",
+      "record_ids": [
+        "elmdene-897001c637e4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2402NU",
+      "record_ids": [
+        "elmdene-d6a4cb7c0bc3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2403BM",
+      "record_ids": [
+        "elmdene-02cd61bbc095"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2403BMU",
+      "record_ids": [
+        "elmdene-a573af87a381"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2403N",
+      "record_ids": [
+        "elmdene-897001c637e4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2403NU",
+      "record_ids": [
+        "elmdene-d6a4cb7c0bc3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2405BM",
+      "record_ids": [
+        "elmdene-02cd61bbc095"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2405BMU",
+      "record_ids": [
+        "elmdene-a573af87a381"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2405N",
+      "record_ids": [
+        "elmdene-897001c637e4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2405NU",
+      "record_ids": [
+        "elmdene-d6a4cb7c0bc3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2410BM",
+      "record_ids": [
+        "elmdene-dc38fff1db91"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2410BM-H",
+      "record_ids": [
+        "elmdene-c52387683f3b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "G2410BMU",
+      "record_ids": [
+        "elmdene-348ff378f242"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "MFR-1",
+      "record_ids": [
+        "elmdene-fd2a7afbb88c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "Power supply safety",
+      "record_ids": [
+        "elmdene-de8b2bffc787"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "other-reference",
+      "brand": "Elmdene",
+      "model": "REG24-MOD",
+      "record_ids": [
+        "elmdene-7a19e5fe4715"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "other-reference",
       "brand": "Honeywell",
       "model": "50100 Series Air Purifiers",
       "record_ids": [
@@ -263197,6 +267311,56 @@
     {
       "category": "security",
       "brand": "Bosch",
+      "model": "ISC-BDL2-W12G",
+      "record_ids": [
+        "bosch-c221490fad45"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Bosch",
+      "model": "ISC-BDL2-W12H",
+      "record_ids": [
+        "bosch-c221490fad45"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Bosch",
+      "model": "ISC-BDL2-WP12",
+      "record_ids": [
+        "bosch-0ba92138ab30",
+        "bosch-3d8651b2effe",
+        "bosch-be9d38fc89d0"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Bosch",
+      "model": "ISC-BDL2-WP6",
+      "record_ids": [
+        "bosch-0ba92138ab30",
+        "bosch-3d8651b2effe",
+        "bosch-be9d38fc89d0"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Bosch",
       "model": "MAP 5000",
       "record_ids": [
         "bosch-eba38480fbe9"
@@ -263985,6 +268149,50 @@
     {
       "category": "security",
       "brand": "Honeywell",
+      "model": "DT8035V",
+      "record_ids": [
+        "honeywell-c43f79f6c58f"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
+      "model": "DT8050A",
+      "record_ids": [
+        "honeywell-c5f84dba0500"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
+      "model": "DT8050M",
+      "record_ids": [
+        "honeywell-c5f84dba0500"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
+      "model": "DT8050V",
+      "record_ids": [
+        "honeywell-c43f79f6c58f"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
       "model": "Galaxy",
       "record_ids": [
         "honeywell-df5a65998a85"
@@ -264354,6 +268562,39 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
+      "model": "IS3035V",
+      "record_ids": [
+        "honeywell-c43f79f6c58f"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
+      "model": "IS3050A",
+      "record_ids": [
+        "honeywell-c5f84dba0500"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Honeywell",
+      "model": "IS3050V",
+      "record_ids": [
+        "honeywell-c43f79f6c58f"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -264815,6 +269056,17 @@
     },
     {
       "category": "security",
+      "brand": "Optex",
+      "model": "RXC-DT",
+      "record_ids": [
+        "optex-e9f07c532a93"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "security",
       "brand": "Orisec",
       "model": "CK - CT - CP",
       "record_ids": [
@@ -265043,6 +269295,17 @@
     {
       "category": "security",
       "brand": "Pyronix",
+      "model": "Deltabell-WE",
+      "record_ids": [
+        "pyronix-302da665231b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
       "model": "Enforcer V11",
       "record_ids": [
         "pyronix-cd2bb4df7d89"
@@ -265060,6 +269323,28 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
+      "model": "KX15DT",
+      "record_ids": [
+        "pyronix-12dc1a0275b5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
+      "model": "KX15DT (pre-2020)",
+      "record_ids": [
+        "pyronix-12dc1a0275b5"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -265902,6 +270187,28 @@
       ],
       "document_types": [
         "quick-start"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Risco",
+      "model": "iWISE RK815DTG3",
+      "record_ids": [
+        "risco-e8aee4e7a650"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Risco",
+      "model": "iWISE RK825DTG3",
+      "record_ids": [
+        "risco-e8aee4e7a650"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -268335,6 +272642,312 @@
     {
       "category": "warden-call",
       "brand": "Tunstall",
+      "model": "41005/01",
+      "record_ids": [
+        "tunstall-0a9bf5d5b360"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "41005/13",
+      "record_ids": [
+        "tunstall-683727fdeac2",
+        "tunstall-6ccea10da1ab"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "41005/21",
+      "record_ids": [
+        "tunstall-724a992aa168"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "41005/22",
+      "record_ids": [
+        "tunstall-03b6ee9c76ed"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "41005/23",
+      "record_ids": [
+        "tunstall-21e74ef37d03"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "41005/30",
+      "record_ids": [
+        "tunstall-3f3cf33597ec"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/21",
+      "record_ids": [
+        "tunstall-99f24cfc82c3"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/34",
+      "record_ids": [
+        "tunstall-69d405db79a4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/35",
+      "record_ids": [
+        "tunstall-c5960e67d3f5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/45",
+      "record_ids": [
+        "tunstall-e722ff1237f8"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/49",
+      "record_ids": [
+        "tunstall-a30d1175ce32"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/51",
+      "record_ids": [
+        "tunstall-6440e1b42952"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/59",
+      "record_ids": [
+        "tunstall-31748186a127",
+        "tunstall-df8e7d390e38"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/78",
+      "record_ids": [
+        "tunstall-4c7c7fcf84a6",
+        "tunstall-fcaa5e7bd7e6"
+      ],
+      "document_types": [
+        "installation",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/89",
+      "record_ids": [
+        "tunstall-5579e244e5e6",
+        "tunstall-69d405db79a4"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67005/94",
+      "record_ids": [
+        "tunstall-e0f7bdedf489"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67605/06",
+      "record_ids": [
+        "tunstall-c27cb50faa20"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "67605/19",
+      "record_ids": [
+        "tunstall-e156de9a7ab1",
+        "tunstall-e7300148d82c"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "69005/03",
+      "record_ids": [
+        "tunstall-5035c67ab81b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "69005/04",
+      "record_ids": [
+        "tunstall-5035c67ab81b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "69005/05",
+      "record_ids": [
+        "tunstall-5035c67ab81b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "69005/06",
+      "record_ids": [
+        "tunstall-5035c67ab81b"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "69005/10",
+      "record_ids": [
+        "tunstall-e310f3812e34"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "9000/69A",
+      "record_ids": [
+        "tunstall-5f0176028429",
+        "tunstall-94a0cde22dad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "9000/73A",
+      "record_ids": [
+        "tunstall-5e16907e9cc7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "9000/76A",
+      "record_ids": [
+        "tunstall-5e16907e9cc7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "9000/81A",
+      "record_ids": [
+        "tunstall-4c7c7fcf84a6",
+        "tunstall-fcaa5e7bd7e6"
+      ],
+      "document_types": [
+        "installation",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
       "model": "CareAssist",
       "record_ids": [
         "tunstall-0df937d562c4",
@@ -268432,6 +273045,103 @@
         "tunstall-354c1ede2ca7"
       ],
       "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "Fall Detector",
+      "record_ids": [
+        "tunstall-f0966e92bbf9"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "GS783",
+      "record_ids": [
+        "tunstall-3f1f68a97bb6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "GS803",
+      "record_ids": [
+        "tunstall-b5103b434714",
+        "tunstall-bd5bfe4ead6b"
+      ],
+      "document_types": [
+        "installation",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "GS804",
+      "record_ids": [
+        "tunstall-b5103b434714",
+        "tunstall-bd5bfe4ead6b"
+      ],
+      "document_types": [
+        "installation",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "GS805",
+      "record_ids": [
+        "tunstall-b5103b434714",
+        "tunstall-bd5bfe4ead6b"
+      ],
+      "document_types": [
+        "installation",
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "GS826",
+      "record_ids": [
+        "tunstall-3f1f68a97bb6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "GS831",
+      "record_ids": [
+        "tunstall-1501efbd9a91"
+      ],
+      "document_types": [
+        "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tunstall",
+      "model": "P68005/45",
+      "record_ids": [
+        "tunstall-2e75ed8c0c6a",
+        "tunstall-5a9f5f6da90f",
+        "tunstall-7f461c64e361"
+      ],
+      "document_types": [
+        "datasheet",
         "user-guide"
       ]
     },
@@ -268554,6 +273264,83 @@
     {
       "category": "warden-call",
       "brand": "Tynetec",
+      "model": "Assisted living and healthcare battery management",
+      "record_ids": [
+        "tynetec-1b1e7c4b354c"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "E00520",
+      "record_ids": [
+        "tynetec-62bb518e309b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "NE10 22004-02",
+      "record_ids": [
+        "tynetec-3e2e1c5ee4d6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "NE1020006-01",
+      "record_ids": [
+        "tynetec-f29bbbf2a05f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "NE1020006-02",
+      "record_ids": [
+        "tynetec-0557818ddd78"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "NE1020006-03",
+      "record_ids": [
+        "tynetec-d8d2b8cb22e0"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "NE1022003-01",
+      "record_ids": [
+        "tynetec-d738c36c4f73"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
       "model": "Reach",
       "record_ids": [
         "tynetec-07742f75a3d9"
@@ -268634,6 +273421,39 @@
     {
       "category": "warden-call",
       "brand": "Tynetec",
+      "model": "ZCS844",
+      "record_ids": [
+        "tynetec-f21bd7813f62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZCS857",
+      "record_ids": [
+        "tynetec-f21bd7813f62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZCS859",
+      "record_ids": [
+        "tynetec-f21bd7813f62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
       "model": "ZXT350 range extender",
       "record_ids": [
         "tynetec-6e3a2ac9c24a"
@@ -268651,6 +273471,721 @@
       ],
       "document_types": [
         "user-guide"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT412",
+      "record_ids": [
+        "tynetec-c03fbbbfa2a6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT413",
+      "record_ids": [
+        "tynetec-ff4847e0fd4b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT424",
+      "record_ids": [
+        "tynetec-0f461bf5ed18"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT426",
+      "record_ids": [
+        "tynetec-111b61200d55"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT427",
+      "record_ids": [
+        "tynetec-e41c73e44db3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT431",
+      "record_ids": [
+        "tynetec-582a42ff1191"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT434",
+      "record_ids": [
+        "tynetec-57a7d743b5bb"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT435",
+      "record_ids": [
+        "tynetec-0fe2e132e7ba"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT436",
+      "record_ids": [
+        "tynetec-92dff242706d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT438",
+      "record_ids": [
+        "tynetec-06e11ff7483e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT439",
+      "record_ids": [
+        "tynetec-8414c5fff040"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT444",
+      "record_ids": [
+        "tynetec-5f02f37a7dec"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT449",
+      "record_ids": [
+        "tynetec-310ab697a76c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT450",
+      "record_ids": [
+        "tynetec-904dc9f06506"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT471",
+      "record_ids": [
+        "tynetec-ec23925c8c0c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT473",
+      "record_ids": [
+        "tynetec-904dc9f06506"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT474",
+      "record_ids": [
+        "tynetec-904dc9f06506"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT475",
+      "record_ids": [
+        "tynetec-4d5304401aa9"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT476",
+      "record_ids": [
+        "tynetec-fe5563732618"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT477",
+      "record_ids": [
+        "tynetec-9b7ef072ac8e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT478",
+      "record_ids": [
+        "tynetec-be9cdf20e6cf"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT485",
+      "record_ids": [
+        "tynetec-8e042f4f3db6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT486",
+      "record_ids": [
+        "tynetec-219d56d3dd02"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT487",
+      "record_ids": [
+        "tynetec-3234e21f60f6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT489",
+      "record_ids": [
+        "tynetec-65740c425043"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT491",
+      "record_ids": [
+        "tynetec-47feb21f16a8"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT492",
+      "record_ids": [
+        "tynetec-7113b082f231"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT493",
+      "record_ids": [
+        "tynetec-ae45f1cc60f7"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT494",
+      "record_ids": [
+        "tynetec-3644da3945dc"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT496",
+      "record_ids": [
+        "tynetec-2b5a578e223c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT497",
+      "record_ids": [
+        "tynetec-91d0fd03e772"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT600",
+      "record_ids": [
+        "tynetec-867f476cebd0"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT606",
+      "record_ids": [
+        "tynetec-95539c915346"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT607",
+      "record_ids": [
+        "tynetec-97cb51915eb6"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT800",
+      "record_ids": [
+        "tynetec-4aa0b3dad1ae"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT801",
+      "record_ids": [
+        "tynetec-b05a88f09f52"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT805",
+      "record_ids": [
+        "tynetec-7a99a7936668"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT806",
+      "record_ids": [
+        "tynetec-d61157419359"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT810",
+      "record_ids": [
+        "tynetec-a5883060630c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT811",
+      "record_ids": [
+        "tynetec-49cdf3daafdb"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT812",
+      "record_ids": [
+        "tynetec-346c19345161"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT813",
+      "record_ids": [
+        "tynetec-0ba1e84775b3"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT815",
+      "record_ids": [
+        "tynetec-1f105b1fbc74"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT819",
+      "record_ids": [
+        "tynetec-0063d4354ef2"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT820",
+      "record_ids": [
+        "tynetec-88ad24d263fe"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT821",
+      "record_ids": [
+        "tynetec-68ce5ebe4833"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT823",
+      "record_ids": [
+        "tynetec-17b16a2b82e1"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT830",
+      "record_ids": [
+        "tynetec-e932a8171743"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT832",
+      "record_ids": [
+        "tynetec-6ee916012981"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT833",
+      "record_ids": [
+        "tynetec-e1886fb05621"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT840",
+      "record_ids": [
+        "tynetec-f21bd7813f62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT841",
+      "record_ids": [
+        "tynetec-f21bd7813f62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT842",
+      "record_ids": [
+        "tynetec-f21bd7813f62"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT843",
+      "record_ids": [
+        "tynetec-30b709512541"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT845",
+      "record_ids": [
+        "tynetec-4e4e948826fe"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT846",
+      "record_ids": [
+        "tynetec-7a9793ffab43"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT847",
+      "record_ids": [
+        "tynetec-bc40ccf0007f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT850",
+      "record_ids": [
+        "tynetec-55a50108b3ef"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT851",
+      "record_ids": [
+        "tynetec-55a50108b3ef"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT852",
+      "record_ids": [
+        "tynetec-55a50108b3ef"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT853",
+      "record_ids": [
+        "tynetec-55a50108b3ef"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT860",
+      "record_ids": [
+        "tynetec-df815b732913"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT861",
+      "record_ids": [
+        "tynetec-a71995e8a0d1"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT865",
+      "record_ids": [
+        "tynetec-635326beed02"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "warden-call",
+      "brand": "Tynetec",
+      "model": "ZXT870",
+      "record_ids": [
+        "tynetec-942b1989f943"
+      ],
+      "document_types": [
+        "installation"
       ]
     }
   ]

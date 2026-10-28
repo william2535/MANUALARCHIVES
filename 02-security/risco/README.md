@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-87 document records, grouped into 18 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+88 document records, grouped into 20 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -24,3 +24,5 @@
 | [RisControl – Smart Home Controller](riscontrol-smart-home-controller/README.md) | 7 |
 | [Smart Home Accessories](smart-home-accessories/README.md) | 6 |
 | [WiComm Pro](wicomm-pro/README.md) | 9 |
+| [iWISE RK815DTG3](iwise-rk815dtg3/README.md) | 1 |
+| [iWISE RK825DTG3](iwise-rk825dtg3/README.md) | 1 |

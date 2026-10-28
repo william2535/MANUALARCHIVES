@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-10 document records, grouped into 10 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+14 document records, grouped into 14 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -15,4 +15,8 @@
 | [D928](d928/README.md) | 1 |
 | [D9412GV2 and D7412GV2](d9412gv2-and-d7412gv2/README.md) | 1 |
 | [D9412GV3 and D7412GV3](d9412gv3-and-d7412gv3/README.md) | 1 |
+| [ISC-BDL2-W12G](isc-bdl2-w12g/README.md) | 1 |
+| [ISC-BDL2-W12H](isc-bdl2-w12h/README.md) | 1 |
+| [ISC-BDL2-WP12](isc-bdl2-wp12/README.md) | 3 |
+| [ISC-BDL2-WP6](isc-bdl2-wp6/README.md) | 3 |
 | [MAP 5000](map-5000/README.md) | 1 |

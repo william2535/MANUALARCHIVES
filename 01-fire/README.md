@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-8687 document records. Door entry belongs under access control.
+8755 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -40,6 +40,7 @@
 | [ESSER](esser/README.md) | 9 | 8 |
 | [Eaton / Cooper](eaton-cooper/README.md) | 32 | 32 |
 | [Edwards EST](edwards-est/README.md) | 1073 | 926 |
+| [Elmdene](elmdene/README.md) | 18 | 15 |
 | [FFE](ffe/README.md) | 32 | 30 |
 | [FLAMEX](flamex/README.md) | 1 | 1 |
 | [Faraday](faraday/README.md) | 79 | 68 |
@@ -81,7 +82,7 @@
 | [Notifier](notifier/README.md) | 607 | 508 |
 | [PAS Sound Engineering](pas-sound-engineering/README.md) | 1 | 1 |
 | [Potter](potter/README.md) | 678 | 568 |
-| [Protec](protec/README.md) | 8 | 6 |
+| [Protec](protec/README.md) | 58 | 56 |
 | [Protectowire](protectowire/README.md) | 3 | 3 |
 | [Pyrotronics](pyrotronics/README.md) | 2 | 2 |
 | [Radionics](radionics/README.md) | 8 | 5 |
