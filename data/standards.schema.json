@@ -113,7 +113,8 @@
               "security",
               "access-control",
               "cctv",
-              "electrical"
+              "electrical",
+              "warden-call"
             ]
           },
           "status": {
@@ -300,6 +301,129 @@
           }
         }
       }
+    },
+    "free_resources_checked_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "free_resources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "publisher",
+          "document_issue",
+          "scope_note",
+          "id",
+          "resource_type",
+          "edition_relation",
+          "related_standard_ids",
+          "source_url",
+          "download_url",
+          "is_full_standard",
+          "access",
+          "checked_on",
+          "verification_method",
+          "sha256",
+          "bytes",
+          "page_count",
+          "pdf_header_checked",
+          "pdf_eof_checked"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "publisher": {
+            "type": "string",
+            "minLength": 1
+          },
+          "document_issue": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope_note": {
+            "type": "string",
+            "minLength": 1
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "resource_type": {
+            "enum": [
+              "guide",
+              "white-paper",
+              "model-forms"
+            ]
+          },
+          "edition_relation": {
+            "enum": [
+              "same-edition",
+              "earlier-edition",
+              "related-guidance"
+            ]
+          },
+          "related_standard_ids": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z0-9-]+$"
+            }
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "download_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://[^?#]+\\.pdf(?:[?#].*)?$"
+          },
+          "is_full_standard": {
+            "const": false
+          },
+          "access": {
+            "const": "free-direct-pdf"
+          },
+          "checked_on": {
+            "type": "string",
+            "format": "date"
+          },
+          "verification_method": {
+            "const": "complete-file"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "bytes": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "page_count": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "pdf_header_checked": {
+            "const": true
+          },
+          "pdf_eof_checked": {
+            "const": true
+          }
+        }
+      }
     }
+  },
+  "dependentRequired": {
+    "free_resources": [
+      "free_resources_checked_on"
+    ]
   }
 }

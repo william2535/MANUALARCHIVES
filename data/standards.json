@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "checked_on": "2026-10-21",
-  "title": "British Standards updates and revisions",
+  "title": "British Standards: free guides and reference register",
   "categories": {
     "fire": "Fire alarms and evacuation",
     "fire-safety": "Building fire safety",
@@ -21,7 +21,7 @@
       "An A-number in a designation records that amendment; it is not a complete list of earlier amendments or separate corrigenda.",
       "A publisher record date can refer to a corrected issue or product record and can differ from the year in the designation. It is not an effective or withdrawal date.",
       "Under review does not mean withdrawn. Drafts do not replace published standards. A newer edition does not establish a withdrawal date for an earlier one.",
-      "Full standard texts require the publisher licence. Offline search stores this metadata and these original short summaries, not licensed standards PDFs."
+      "No authorised free full-standard PDF has been verified for this register. Free resources are separately labelled guides, white papers or model forms, not full standards. Publisher metadata links may lead to paid access. Offline search does not save the linked PDFs."
     ],
     "remaining_checks": [
       "Complete amendment, corrigendum and supersession histories from publisher history panels or licensed copies; an amendment suffix alone is not a full history.",
@@ -4193,6 +4193,310 @@
       "source_checked": "2026-10-21",
       "source_url": "https://knowledge.bsigroup.com/products/bs-en-50174-3-information-technology-cabling-installation-part-3-installation-planning-and-practices-outside-buildings/standard",
       "note": "Consultation draft only. The public catalogue status does not establish that comments are still open or that a replacement has been published."
+    }
+  ],
+  "free_resources_checked_on": "2026-10-28",
+  "free_resources": [
+    {
+      "id": "fia-bs5839-1-2025-changes",
+      "title": "Guide to the changes in BS 5839-1:2025",
+      "publisher": "Fire Industry Association",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-5839-1-2025"
+      ],
+      "document_issue": "Version 1, June 2025",
+      "edition_relation": "same-edition",
+      "scope_note": "FIA summary of changes in the 2025 edition; not the full standard.",
+      "source_url": "https://www.fia.uk.com/news/understanding-bs-5839-1-2025-and-your-route-to-compliance.html",
+      "download_url": "https://fia.uk.com/static/77c28e9f-486e-4b96-a82e4bb37f4f3882/Guide-to-the-changes-in-BS-5839-1-2025.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "38cd69a05a0e4320a272b3e827feb8f671eb29727b529d16521b6279cd85c251",
+      "bytes": 530726,
+      "page_count": 17,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "hochiki-bs5839-1-2025-pocket-guide",
+      "title": "BS 5839-1:2025 fire detection pocket guide",
+      "publisher": "Hochiki Europe",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-5839-1-2025"
+      ],
+      "document_issue": "V27 JUL25",
+      "edition_relation": "same-edition",
+      "scope_note": "Manufacturer guidance on detector and fire alarm device selection, spacing and siting for Part 1:2025; not the full standard.",
+      "source_url": "https://www.hochikieurope.com/literature",
+      "download_url": "https://assets.hochikiglobal.com/assetbank-hochikieurope/assetfile/16136.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "8ab80661cbbc69e57bd29ca1b271e83df9f5770589d741d97462611e40328b78",
+      "bytes": 6327138,
+      "page_count": 28,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "aico-bs5839-6-product-selector-issue13",
+      "title": "Domestic fire alarm guidance in the Aico Product Selector",
+      "publisher": "Aico",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-5839-6-2019-a1-2020"
+      ],
+      "document_issue": "May 2023, Issue 13 (printed issue; URL says V12)",
+      "edition_relation": "same-edition",
+      "scope_note": "Product catalogue with a BS 5839-6:2019+A1:2020 overview on printed page 50. It is manufacturer guidance, not the full standard.",
+      "source_url": "https://www.aico.co.uk/technical-support/standards-regulations/fire-british-standard-bs-5839-62019/",
+      "download_url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2023/06/Aico-Product-Selector-V12-April-Download.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "a8df5f5c78a9f6c08f72ccf57c72bb05f15560717b2bb32652804075a8f56c57",
+      "bytes": 4265035,
+      "page_count": 62,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "hochiki-bs5266-1-2025-pocket-guide",
+      "title": "BS 5266-1:2025 emergency lighting pocket guide",
+      "publisher": "Hochiki Europe",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-5266-1-2025"
+      ],
+      "document_issue": "Cover: BS 5266 Part 1:2025",
+      "edition_relation": "same-edition",
+      "scope_note": "Manufacturer overview of emergency lighting standards and considerations for Part 1:2025; not the full standard.",
+      "source_url": "https://www.hochikieurope.com/en-gb/products/emergency-lighting",
+      "download_url": "https://assets.hochikiglobal.com/assetbank-hochikieurope/assetfile/15881.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "e9198d13cfb6139d91c80a66b8d1a0e912f9511f4f98850be81272fee4e42dfa",
+      "bytes": 1643122,
+      "page_count": 36,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "bafsa-bif16b-sprinkler-maintenance",
+      "title": "BIF 16b: Sprinkler system maintenance to BS EN 12845",
+      "publisher": "BAFSA",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-en-12845-2015-a2-2026"
+      ],
+      "document_issue": "Copyright 2020; publisher resource page marks it under review",
+      "edition_relation": "earlier-edition",
+      "scope_note": "Older maintenance guide. Predates and does not cover A2:2026; BAFSA marks this leaflet under review. Not the full BS EN 12845 standard.",
+      "source_url": "https://www.bafsa.org.uk/bafsa/basfa-resources",
+      "download_url": "https://www.bafsa.org.uk/assets/Downloads/BIF16b.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "959b5b4655bfb553a3a5f1edf26b993687cf99798fd193cd0477b61bf9827f49",
+      "bytes": 596534,
+      "page_count": 2,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "bafsa-bif6b-commercial-sprinkler-faq",
+      "title": "BIF 6b: Industrial and commercial sprinkler FAQs",
+      "publisher": "BAFSA",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-en-12845-2015-a2-2026"
+      ],
+      "document_issue": "Copyright 2024",
+      "edition_relation": "earlier-edition",
+      "scope_note": "General sprinkler FAQs referring to BS EN 12845:2015. Does not cover A2:2026 and is not the full standard.",
+      "source_url": "https://www.bafsa.org.uk/bafsa/basfa-resources",
+      "download_url": "https://www.bafsa.org.uk/assets/Downloads/BIF6b_FAQs.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "4c92fdeaa2868e6271af2095cdef7f42afa322a44a9695c5096d095cacb59d81",
+      "bytes": 1609434,
+      "page_count": 2,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "bafsa-bif27-owners-occupiers",
+      "title": "BIF 27: Sprinkler guide for owners and occupiers",
+      "publisher": "BAFSA",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-en-12845-2015-a2-2026",
+        "bs-9251-2021"
+      ],
+      "document_issue": "Copyright 2024",
+      "edition_relation": "earlier-edition",
+      "scope_note": "General sprinkler owner guidance; references BS 9251:2014 and BS EN 12845 without an edition. Does not cover BS 9251:2021 or BS EN 12845 A2:2026 changes. Not a full standard.",
+      "source_url": "https://www.bafsa.org.uk/bafsa/basfa-resources",
+      "download_url": "https://www.bafsa.org.uk/assets/Downloads/BIF27_Aguidefor.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "c046dca9e9ec76096ead97ad016c302c183b2210bfc9ec67a7ca12f645cc2d0e",
+      "bytes": 655777,
+      "page_count": 2,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "bafsa-bif16a-residential-maintenance",
+      "title": "BIF 16a: Domestic and residential sprinkler maintenance",
+      "publisher": "BAFSA",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-9251-2021"
+      ],
+      "document_issue": "Copyright 2024",
+      "edition_relation": "earlier-edition",
+      "scope_note": "Maintenance leaflet referring to the earlier BS 9251:2014 edition. Does not cover the 2021 revision and is not the full standard.",
+      "source_url": "https://www.bafsa.org.uk/bafsa/basfa-resources",
+      "download_url": "https://www.bafsa.org.uk/assets/Downloads/BIF16a_MaintenanceDR.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "448ef70bd65faef6c6101b39487e7b9a172a1697ece41366f9e338c028e1420d",
+      "bytes": 1545714,
+      "page_count": 2,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "dhf-bs-en-1125-179-exit-devices",
+      "title": "Best practice guide: Panic and emergency exit devices",
+      "publisher": "Door & Hardware Federation",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-en-1125-2008",
+        "bs-en-179-2008"
+      ],
+      "document_issue": "Copyright 2017; dhf 1013/v1/07:11",
+      "edition_relation": "same-edition",
+      "scope_note": "DHF guide to BS EN 1125:2008 and BS EN 179:2008 exit devices. It explains selected requirements and classifications; neither full standard is included.",
+      "source_url": "https://www.dhfonline.org.uk/media/documents/documents34a.pdf",
+      "download_url": "https://www.dhfonline.org.uk/media/documents/documents34a.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "093c1563fb81747d421b7364121bc8522ea1323b3d9a3332d8464c8f38f38898",
+      "bytes": 5551484,
+      "page_count": 8,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "dhf-bs-en-13637-exit-systems",
+      "title": "Best practice guide: Electrically controlled exit systems",
+      "publisher": "Door & Hardware Federation",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "bs-en-13637-2015"
+      ],
+      "document_issue": "Copyright 2022; dhf 1128/v2/12:22",
+      "edition_relation": "same-edition",
+      "scope_note": "DHF guide to BS EN 13637:2015 electrically controlled exit systems; not the full standard.",
+      "source_url": "https://www.dhfonline.org.uk/media/documents/documents106b.pdf",
+      "download_url": "https://www.dhfonline.org.uk/media/documents/documents106b.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "320aacdef3ee8d01dd7333cecbf8a1bc9214a06bc65a3d629915aad43b35717e",
+      "bytes": 691470,
+      "page_count": 12,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "axis-iec62676-4-2025-pixel-density",
+      "title": "Pixel density based on IEC 62676-4:2025",
+      "publisher": "Axis Communications",
+      "resource_type": "white-paper",
+      "related_standard_ids": [
+        "bs-en-iec-62676-4-2025"
+      ],
+      "document_issue": "September 2026",
+      "edition_relation": "related-guidance",
+      "scope_note": "Manufacturer white paper on pixel density and operational requirements in IEC 62676-4:2025. Related to the UK-adopted standard; not its full text or UK national provisions.",
+      "source_url": "https://whitepapers.axis.com/en-us/pixel-density-based-on-iec-62676-4-2025",
+      "download_url": "https://whitepapers.axis.com/download/wp_pixel_density_based_on_iec_62676_4_2025_t10228570_2609.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "7cba3c42210b0e7c0b19cc67d4435281f101d6ccc891238eaeb44be78efe14ac",
+      "bytes": 3827735,
+      "page_count": 10,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "iet-bs7671-a4-2026-model-forms",
+      "title": "BS 7671:2018+A4:2026 model forms",
+      "publisher": "Institution of Engineering and Technology",
+      "resource_type": "model-forms",
+      "related_standard_ids": [
+        "bs-7671-2018-a4-2026"
+      ],
+      "document_issue": "15 April 2026",
+      "edition_relation": "same-edition",
+      "scope_note": "Official model forms for certification and reporting to BS 7671:2018+A4:2026. Forms only; the Wiring Regulations text is not included. Follow the use conditions on the cover.",
+      "source_url": "https://electrical.theiet.org/bs-7671-18th-edition-wiring-regulations/model-forms/",
+      "download_url": "https://electrical.theiet.org/media/kr3l5ztm/bs7671_all_forms_a4.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "526fbefa543493e89383943955b78bdba09346781108acf109294f3e2e209d1a",
+      "bytes": 508588,
+      "page_count": 21,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
+    },
+    {
+      "id": "tsa-social-alarm-protocol-guidance",
+      "title": "Digital social alarm protocol guidance",
+      "publisher": "TEC Services Association",
+      "resource_type": "guide",
+      "related_standard_ids": [
+        "pd-clc-ts-50134-9-2018"
+      ],
+      "document_issue": "Copyright 2023; filename v6 (printed version not established)",
+      "edition_relation": "related-guidance",
+      "scope_note": "TSA SIG 10 application guidance for TS 50134 Part 9 IP communications. Related guidance; not the full PD CLC/TS 50134-9:2018 specification.",
+      "source_url": "https://www.tsa-voice.org.uk/downloads/digital_social_alarm_protocol_guidance_-_v6.pdf",
+      "download_url": "https://www.tsa-voice.org.uk/downloads/digital_social_alarm_protocol_guidance_-_v6.pdf",
+      "is_full_standard": false,
+      "access": "free-direct-pdf",
+      "checked_on": "2026-10-28",
+      "verification_method": "complete-file",
+      "sha256": "495ea315a3c97298253a976ed0440c0069ba2903956f5e315ca6befb0b2bf428",
+      "bytes": 1021802,
+      "page_count": 21,
+      "pdf_header_checked": true,
+      "pdf_eof_checked": true
     }
   ]
 }
