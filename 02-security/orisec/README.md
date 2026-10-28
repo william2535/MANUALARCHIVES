@@ -2,7 +2,7 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-11 document records, grouped into 15 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+14 document records, grouped into 18 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
@@ -17,6 +17,9 @@
 | [CP-30](cp-30/README.md) | 3 |
 | [CP-50](cp-50/README.md) | 3 |
 | [CP-60](cp-60/README.md) | 3 |
+| [DT-200](dt-200/README.md) | 1 |
+| [DT-200-AM](dt-200-am/README.md) | 1 |
+| [DT-200-PET](dt-200-pet/README.md) | 1 |
 | [IR-100 PIR](ir-100-pir/README.md) | 1 |
 | [W-CP-40E](w-cp-40e/README.md) | 2 |
 | [W-CP-40K](w-cp-40k/README.md) | 2 |

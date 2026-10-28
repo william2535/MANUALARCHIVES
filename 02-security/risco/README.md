@@ -2,11 +2,12 @@
 
 [Category index](../README.md) · [Archive](../../README.md)
 
-88 document records, grouped into 20 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
+89 document records, grouped into 21 model or product-family folders. Shared manuals may appear under several models; these are not additional documents.
 
 | Model / family | Documents |
 |---|---:|
 | [Agility 4](agility-4/README.md) | 14 |
+| [BWare RK515DTGL](bware-rk515dtgl/README.md) | 1 |
 | [Gardtec 350+](gardtec-350-plus/README.md) | 1 |
 | [Gardtec 370-581-582](gardtec-370-581-582/README.md) | 1 |
 | [Gardtec 590-591](gardtec-590-591/README.md) | 1 |

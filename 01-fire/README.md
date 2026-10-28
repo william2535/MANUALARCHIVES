@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-8755 document records. Door entry belongs under access control.
+8794 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -10,6 +10,7 @@
 | [ADT](adt/README.md) | 3 | 3 |
 | [Ademco](ademco/README.md) | 9 | 9 |
 | [Advanced](advanced/README.md) | 46 | 43 |
+| [Aico](aico/README.md) | 39 | 45 |
 | [Air Products & Controls](air-products-controls/README.md) | 4 | 4 |
 | [Ajax](ajax/README.md) | 39 | 39 |
 | [Altronix](altronix/README.md) | 4 | 2 |

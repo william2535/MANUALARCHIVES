@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "generated_on": "2026-10-28",
-  "catalogue_sha256": "91714d9fcb59528e9281b940294337cdd033c63b22c9590af9c44b9da08b4f19",
+  "catalogue_sha256": "8bbf2afd2845a4d8a9a1f6aae70bd397eaf325d9da62a2c7ce7fa0adec7d8fc4",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 12313,
+  "record_count": 12377,
   "gap_counts": {
-    "complete-file-check-needed": 2946,
-    "document-number-unrecorded": 10861,
+    "complete-file-check-needed": 2949,
+    "document-number-unrecorded": 10893,
     "download-url-unresolved": 3,
     "language-unverified": 11554,
     "model-applicability-review-needed": 9088,
     "possible-duplicate-review-needed": 1,
-    "region-unverified": 12293,
-    "retrieval-failed": 10,
-    "revision-review-needed": 11782,
-    "source-metadata-conflict": 25,
+    "region-unverified": 12357,
+    "retrieval-failed": 13,
+    "revision-review-needed": 11820,
+    "source-metadata-conflict": 31,
     "viewer-without-direct-pdf": 4,
     "web-manual-without-direct-pdf": 235
   },
@@ -245,6 +245,27 @@
         "model-applicability-review-needed": 20,
         "region-unverified": 46,
         "revision-review-needed": 21
+      }
+    },
+    {
+      "brand": "Aico",
+      "records": 39,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "datasheet": 21,
+        "installation": 16,
+        "user": 2
+      },
+      "download_status": {
+        "complete-file": 39
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 23,
+        "region-unverified": 39,
+        "revision-review-needed": 22,
+        "source-metadata-conflict": 2
       }
     },
     {
@@ -1106,28 +1127,28 @@
     },
     {
       "brand": "Dahua",
-      "records": 26,
+      "records": 29,
       "categories": [
         "access-control",
         "cctv"
       ],
       "document_types": {
-        "datasheet": 2,
-        "installation": 4,
-        "quick-start": 4,
+        "datasheet": 3,
+        "installation": 5,
+        "quick-start": 5,
         "reference": 3,
         "user-guide": 13
       },
       "download_status": {
-        "complete-file": 16,
+        "complete-file": 19,
         "listed": 10
       },
       "gap_counts": {
         "complete-file-check-needed": 10,
-        "document-number-unrecorded": 26,
+        "document-number-unrecorded": 28,
         "language-unverified": 13,
-        "region-unverified": 26,
-        "revision-review-needed": 17
+        "region-unverified": 29,
+        "revision-review-needed": 18
       }
     },
     {
@@ -1920,12 +1941,12 @@
     },
     {
       "brand": "Hikvision",
-      "records": 68,
+      "records": 69,
       "categories": [
         "cctv"
       ],
       "document_types": {
-        "datasheet": 3,
+        "datasheet": 4,
         "installation": 1,
         "programming": 1,
         "quick-start": 4,
@@ -1933,17 +1954,17 @@
         "user-guide": 26
       },
       "download_status": {
-        "complete-file": 17,
+        "complete-file": 18,
         "file-hash": 41,
         "listed": 10
       },
       "gap_counts": {
         "complete-file-check-needed": 51,
-        "document-number-unrecorded": 51,
+        "document-number-unrecorded": 52,
         "language-unverified": 52,
         "model-applicability-review-needed": 47,
-        "region-unverified": 68,
-        "revision-review-needed": 68
+        "region-unverified": 69,
+        "revision-review-needed": 69
       }
     },
     {
@@ -2713,30 +2734,32 @@
     },
     {
       "brand": "Optex",
-      "records": 1,
+      "records": 8,
       "categories": [
         "security"
       ],
       "document_types": {
-        "datasheet": 1
+        "datasheet": 1,
+        "installation": 7
       },
       "download_status": {
-        "complete-file": 1
+        "complete-file": 8
       },
       "gap_counts": {
         "document-number-unrecorded": 1,
-        "region-unverified": 1,
-        "revision-review-needed": 1
+        "region-unverified": 8,
+        "revision-review-needed": 8,
+        "source-metadata-conflict": 2
       }
     },
     {
       "brand": "Orisec",
-      "records": 11,
+      "records": 14,
       "categories": [
         "security"
       ],
       "document_types": {
-        "installation": 1,
+        "installation": 4,
         "quick-start": 3,
         "reference": 1,
         "user-guide": 6
@@ -2744,15 +2767,18 @@
       "download_status": {
         "complete-file": 1,
         "listed": 5,
-        "pdf-indexed": 5
+        "pdf-indexed": 5,
+        "retrieval-failed": 3
       },
       "gap_counts": {
-        "complete-file-check-needed": 10,
+        "complete-file-check-needed": 13,
         "document-number-unrecorded": 11,
         "language-unverified": 11,
         "model-applicability-review-needed": 6,
-        "region-unverified": 11,
-        "revision-review-needed": 11
+        "region-unverified": 14,
+        "retrieval-failed": 3,
+        "revision-review-needed": 11,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -2928,27 +2954,28 @@
     },
     {
       "brand": "Pyronix",
-      "records": 11,
+      "records": 18,
       "categories": [
         "security"
       ],
       "document_types": {
-        "installation": 4,
+        "datasheet": 3,
+        "installation": 8,
         "user-guide": 7
       },
       "download_status": {
-        "complete-file": 5,
+        "complete-file": 12,
         "file-hash": 1,
         "pdf-indexed": 3,
         "source-page": 2
       },
       "gap_counts": {
         "complete-file-check-needed": 4,
-        "document-number-unrecorded": 9,
+        "document-number-unrecorded": 12,
         "language-unverified": 9,
         "model-applicability-review-needed": 7,
-        "region-unverified": 11,
-        "revision-review-needed": 9,
+        "region-unverified": 18,
+        "revision-review-needed": 12,
         "web-manual-without-direct-pdf": 2
       }
     },
@@ -3013,21 +3040,23 @@
     },
     {
       "brand": "RGL",
-      "records": 25,
+      "records": 28,
       "categories": [
         "access-control"
       ],
       "document_types": {
+        "datasheet": 3,
         "installation": 24,
         "reference": 1
       },
       "download_status": {
-        "complete-file": 25
+        "complete-file": 28
       },
       "gap_counts": {
-        "document-number-unrecorded": 25,
-        "region-unverified": 25,
-        "revision-review-needed": 10
+        "document-number-unrecorded": 28,
+        "region-unverified": 28,
+        "revision-review-needed": 13,
+        "source-metadata-conflict": 1
       }
     },
     {
@@ -3058,19 +3087,19 @@
     },
     {
       "brand": "Risco",
-      "records": 88,
+      "records": 89,
       "categories": [
         "security"
       ],
       "document_types": {
-        "installation": 1,
+        "installation": 2,
         "programming": 1,
         "quick-start": 42,
         "reference": 2,
         "user-guide": 42
       },
       "download_status": {
-        "complete-file": 1,
+        "complete-file": 2,
         "file-hash": 9,
         "listed": 78
       },
@@ -3079,8 +3108,8 @@
         "document-number-unrecorded": 13,
         "language-unverified": 87,
         "model-applicability-review-needed": 9,
-        "region-unverified": 88,
-        "revision-review-needed": 87
+        "region-unverified": 89,
+        "revision-review-needed": 88
       }
     },
     {
@@ -4897,6 +4926,371 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "aico-00a310360fe8",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-0b0487cc434c",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-0b817031d733",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-0d5d7df89314",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-2b6abe9e7cf7",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-2f70f90eaebe",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-33d08994b662",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-37b470ce525f",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Publisher labels the download Ei603RF; the PDF model table uses Ei603C/CRF/TYC/TYCRF and Ei605 variants. Those printed models are indexed; the shorter Ei603RF label is retained only as source evidence."
+      ]
+    },
+    {
+      "id": "aico-3940aa649cda",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-3c1e5028796a",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-435c56fe023b",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-4fb4b285b074",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-5520615bdeb8",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "aico-55f3ba358d2a",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-5d162aa9efad",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-6d83ddd276c6",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-6ee64921f39b",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-7d39f2508569",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-8b45527b51c1",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-8d7e77ccbfbd",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-92374d3a2791",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-928c73db8543",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-957a8189361b",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-9b59a2743df0",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-a107023f8485",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-a2ad05b39a48",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-a345f0caa042",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-a7c34e8e6812",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-b187fd3712e5",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-b672448240c5",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-b6eb2d4383f1",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-bedafbf2c34f",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-c7a5a5be5a01",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "aico-d3fb97090714",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-d4f9beb5f29d",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-ec7e4e7a77f6",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-efec1bd3d80d",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "PDF footer prints copyright 2029, later than retrieval in 2026. Rev 9 is printed; publication year is not inferred from the inconsistent copyright line."
+      ]
+    },
+    {
+      "id": "aico-f4d4866ac694",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "aico-fb1ec779904f",
+      "brand": "Aico",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -23271,6 +23665,14 @@
       ]
     },
     {
+      "id": "dahua-2ee712d95209",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "dahua-382276a95bea",
       "brand": "Dahua",
       "category": "cctv",
@@ -23287,6 +23689,16 @@
       "gaps": [
         "complete-file-check-needed",
         "language-unverified",
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "dahua-4d643d36c93c",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
@@ -23312,6 +23724,15 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "dahua-74408974f083",
+      "brand": "Dahua",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
       ]
     },
     {
@@ -129216,6 +129637,16 @@
       ]
     },
     {
+      "id": "hikvision-be914ebdc0ca",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "hikvision-bf3100a9262e",
       "brand": "Hikvision",
       "category": "cctv",
@@ -134671,6 +135102,64 @@
       ]
     },
     {
+      "id": "optex-1cb70a0528ac",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "optex-41bd61569d20",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "optex-45a1babdb113",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "optex-87578b5d0a29",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "Official RXC-DT download page links an RXC-RDT battery-operated detector manual. Indexed under the actual RXC-RDT model only; not assumed applicable to wired RXC-DT."
+      ]
+    },
+    {
+      "id": "optex-aaed79a53c9b",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "optex-de07cd364c7e",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "optex-e9f07c532a93",
       "brand": "Optex",
       "category": "security",
@@ -134678,6 +135167,19 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "optex-f19da02f70d0",
+      "brand": "Optex",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "PDF prints No.59-1954-7 and a separate UL No.59-1954-5 label; both are retained here rather than inferring one universal revision."
       ]
     },
     {
@@ -134716,6 +135218,20 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "orisec-44572475fc04",
+      "brand": "Orisec",
+      "category": "security",
+      "gaps": [
+        "retrieval-failed",
+        "complete-file-check-needed",
+        "region-unverified",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "PDF metadata title says DT-200E, while the actual printed document title and specifications say DT-200. Catalogue uses the printed model."
       ]
     },
     {
@@ -134789,6 +135305,26 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "orisec-d7d6198e4475",
+      "brand": "Orisec",
+      "category": "security",
+      "gaps": [
+        "retrieval-failed",
+        "complete-file-check-needed",
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "orisec-f6e13696a504",
+      "brand": "Orisec",
+      "category": "security",
+      "gaps": [
+        "retrieval-failed",
+        "complete-file-check-needed",
+        "region-unverified"
       ]
     },
     {
@@ -140072,11 +140608,37 @@
       ]
     },
     {
+      "id": "pyronix-05952749c9ff",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "pyronix-0737ed6ba81b",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "pyronix-12dc1a0275b5",
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "pyronix-1a4fa84c3194",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -140092,11 +140654,29 @@
       ]
     },
     {
+      "id": "pyronix-2a9abf094dd8",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "pyronix-302da665231b",
       "brand": "Pyronix",
       "category": "security",
       "gaps": [
         "region-unverified"
+      ]
+    },
+    {
+      "id": "pyronix-61b0ef9fd7ac",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
       ]
     },
     {
@@ -140109,6 +140689,24 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "pyronix-6b5d14ab7afb",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "pyronix-7e48d626c27d",
+      "brand": "Pyronix",
+      "category": "security",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -140304,6 +140902,16 @@
       ]
     },
     {
+      "id": "rgl-7d52d79a8edb",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "rgl-83017609835b",
       "brand": "RGL",
       "category": "access-control",
@@ -140390,6 +140998,16 @@
       ]
     },
     {
+      "id": "rgl-c3ddfb554c87",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
       "id": "rgl-c8ee3942f793",
       "brand": "RGL",
       "category": "access-control",
@@ -140406,6 +141024,20 @@
         "region-unverified",
         "document-number-unrecorded",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "rgl-ce551d7a0e60",
+      "brand": "RGL",
+      "category": "access-control",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed",
+        "source-metadata-conflict"
+      ],
+      "metadata_conflicts": [
+        "G-EBGB/PTE resource page links a PDF headed EBGBWC02/PTE. Indexed by printed primary model only; sidebar products and G-EBGB/PTE compatibility are not inferred."
       ]
     },
     {
@@ -140442,6 +141074,15 @@
       "gaps": [
         "region-unverified",
         "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "risco-00a6655953a1",
+      "brand": "Risco",
+      "category": "security",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed"
       ]
     },
     {
@@ -152912,6 +153553,50 @@
     {
       "category": "access-control",
       "brand": "RGL",
+      "model": "EBGB/AP/DR",
+      "record_ids": [
+        "rgl-7d52d79a8edb"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "EBGB/AP/PTE",
+      "record_ids": [
+        "rgl-7d52d79a8edb"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "EBGBWC02/PTE",
+      "record_ids": [
+        "rgl-ce551d7a0e60"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "EBGBWOC02/PTE",
+      "record_ids": [
+        "rgl-7d52d79a8edb"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
       "model": "EXML1200-GATE",
       "record_ids": [
         "rgl-83017609835b"
@@ -152973,6 +153658,28 @@
       ],
       "document_types": [
         "installation"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "MEXT-EBGB/PTE",
+      "record_ids": [
+        "rgl-c3ddfb554c87"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "access-control",
+      "brand": "RGL",
+      "model": "MKOBO-EBGB/PTE",
+      "record_ids": [
+        "rgl-c3ddfb554c87"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -164446,10 +165153,18 @@
       "brand": "Dahua",
       "model": "IPC-HDW2449T-S-IL (S0)",
       "record_ids": [
-        "dahua-26f37f598622"
+        "dahua-26f37f598622",
+        "dahua-2ee712d95209",
+        "dahua-4d643d36c93c",
+        "dahua-74408974f083",
+        "dahua-f4d0a17954db",
+        "dahua-f5ce2a499120"
       ],
       "document_types": [
-        "datasheet"
+        "datasheet",
+        "installation",
+        "quick-start",
+        "user-guide"
       ]
     },
     {
@@ -165474,6 +166189,17 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "cctv",
+      "brand": "Hikvision",
+      "model": "DS-2CD2047G2-LU/SL (C)",
+      "record_ids": [
+        "hikvision-be914ebdc0ca"
+      ],
+      "document_types": [
+        "datasheet"
       ]
     },
     {
@@ -172856,6 +173582,556 @@
       ],
       "document_types": [
         "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei140RC",
+      "record_ids": [
+        "aico-5d162aa9efad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei140e",
+      "record_ids": [
+        "aico-3c1e5028796a",
+        "aico-a345f0caa042"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei141RC",
+      "record_ids": [
+        "aico-00a310360fe8",
+        "aico-5d162aa9efad"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei144RC",
+      "record_ids": [
+        "aico-5d162aa9efad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei144e",
+      "record_ids": [
+        "aico-3c1e5028796a",
+        "aico-55f3ba358d2a",
+        "aico-a345f0caa042"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei146RC",
+      "record_ids": [
+        "aico-5d162aa9efad"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei146e",
+      "record_ids": [
+        "aico-3c1e5028796a",
+        "aico-a345f0caa042",
+        "aico-d3fb97090714"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei1529RC",
+      "record_ids": [
+        "aico-9b59a2743df0",
+        "aico-b672448240c5",
+        "aico-b6eb2d4383f1"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation",
+        "user"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei168RC",
+      "record_ids": [
+        "aico-d4f9beb5f29d"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei200MRF",
+      "record_ids": [
+        "aico-92374d3a2791",
+        "aico-a2ad05b39a48"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3000MRF",
+      "record_ids": [
+        "aico-5520615bdeb8",
+        "aico-6ee64921f39b"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3014",
+      "record_ids": [
+        "aico-0d5d7df89314",
+        "aico-fb1ec779904f"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3016",
+      "record_ids": [
+        "aico-0b817031d733",
+        "aico-fb1ec779904f"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3018",
+      "record_ids": [
+        "aico-8d7e77ccbfbd"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3024",
+      "record_ids": [
+        "aico-fb1ec779904f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3028",
+      "record_ids": [
+        "aico-8d7e77ccbfbd",
+        "aico-ec7e4e7a77f6"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei3030",
+      "record_ids": [
+        "aico-2b6abe9e7cf7",
+        "aico-4fb4b285b074"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei450",
+      "record_ids": [
+        "aico-0b0487cc434c",
+        "aico-efec1bd3d80d",
+        "aico-f4d4866ac694"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation",
+        "user"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei600",
+      "record_ids": [
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei603",
+      "record_ids": [
+        "aico-2f70f90eaebe",
+        "aico-37b470ce525f",
+        "aico-435c56fe023b"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei603C",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei603CRF",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei603RF",
+      "record_ids": [
+        "aico-b187fd3712e5"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei603TYC",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei603TYCRF",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605",
+      "record_ids": [
+        "aico-2f70f90eaebe",
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605C",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605CRF",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605TY",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605TYC",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605TYCRF",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605TYW",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei605TYWRF",
+      "record_ids": [
+        "aico-37b470ce525f"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei630i",
+      "record_ids": [
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569",
+        "aico-8b45527b51c1"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei630iRF",
+      "record_ids": [
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569",
+        "aico-bedafbf2c34f"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650",
+      "record_ids": [
+        "aico-c7a5a5be5a01"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650C",
+      "record_ids": [
+        "aico-c7a5a5be5a01"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650W",
+      "record_ids": [
+        "aico-c7a5a5be5a01"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650i",
+      "record_ids": [
+        "aico-33d08994b662",
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569",
+        "aico-c7a5a5be5a01"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650iC",
+      "record_ids": [
+        "aico-c7a5a5be5a01"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650iRF",
+      "record_ids": [
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569",
+        "aico-928c73db8543"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei650iW",
+      "record_ids": [
+        "aico-c7a5a5be5a01"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei660i",
+      "record_ids": [
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569",
+        "aico-957a8189361b"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "Ei660iRF",
+      "record_ids": [
+        "aico-6d83ddd276c6",
+        "aico-7d39f2508569",
+        "aico-a7c34e8e6812"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Aico",
+      "model": "MCP401RC",
+      "record_ids": [
+        "aico-3940aa649cda",
+        "aico-a107023f8485"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
       ]
     },
     {
@@ -269059,10 +270335,120 @@
       "brand": "Optex",
       "model": "RXC-DT",
       "record_ids": [
-        "optex-e9f07c532a93"
+        "optex-1cb70a0528ac",
+        "optex-45a1babdb113",
+        "optex-aaed79a53c9b",
+        "optex-e9f07c532a93",
+        "optex-f19da02f70d0"
       ],
       "document_types": [
-        "datasheet"
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-DT-X5",
+      "record_ids": [
+        "optex-1cb70a0528ac",
+        "optex-45a1babdb113",
+        "optex-aaed79a53c9b",
+        "optex-f19da02f70d0"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-DT-X7",
+      "record_ids": [
+        "optex-1cb70a0528ac"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-DT-X8",
+      "record_ids": [
+        "optex-1cb70a0528ac",
+        "optex-45a1babdb113",
+        "optex-aaed79a53c9b",
+        "optex-f19da02f70d0"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-RDT",
+      "record_ids": [
+        "optex-87578b5d0a29"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-RDT-X5",
+      "record_ids": [
+        "optex-87578b5d0a29"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-RDT-X8",
+      "record_ids": [
+        "optex-87578b5d0a29"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-RST",
+      "record_ids": [
+        "optex-de07cd364c7e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-ST",
+      "record_ids": [
+        "optex-41bd61569d20"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Optex",
+      "model": "RXC-STPL",
+      "record_ids": [
+        "optex-41bd61569d20"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -269212,6 +270598,39 @@
     {
       "category": "security",
       "brand": "Orisec",
+      "model": "DT-200",
+      "record_ids": [
+        "orisec-44572475fc04"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Orisec",
+      "model": "DT-200-AM",
+      "record_ids": [
+        "orisec-f6e13696a504"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Orisec",
+      "model": "DT-200-PET",
+      "record_ids": [
+        "orisec-d7d6198e4475"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Orisec",
       "model": "IR-100 PIR",
       "record_ids": [
         "orisec-806438c080d2"
@@ -269328,7 +270747,57 @@
     {
       "category": "security",
       "brand": "Pyronix",
+      "model": "KX10DP",
+      "record_ids": [
+        "pyronix-0737ed6ba81b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
+      "model": "KX10DTP",
+      "record_ids": [
+        "pyronix-2a9abf094dd8",
+        "pyronix-6b5d14ab7afb"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
+      "model": "KX15DQ",
+      "record_ids": [
+        "pyronix-1a4fa84c3194",
+        "pyronix-7e48d626c27d"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
       "model": "KX15DT",
+      "record_ids": [
+        "pyronix-12dc1a0275b5",
+        "pyronix-61b0ef9fd7ac"
+      ],
+      "document_types": [
+        "datasheet",
+        "installation"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Pyronix",
+      "model": "KX15DT (pre-2020)",
       "record_ids": [
         "pyronix-12dc1a0275b5"
       ],
@@ -269339,9 +270808,9 @@
     {
       "category": "security",
       "brand": "Pyronix",
-      "model": "KX15DT (pre-2020)",
+      "model": "KX15DTAM",
       "record_ids": [
-        "pyronix-12dc1a0275b5"
+        "pyronix-05952749c9ff"
       ],
       "document_types": [
         "installation"
@@ -269936,6 +271405,17 @@
       "document_types": [
         "quick-start",
         "user-guide"
+      ]
+    },
+    {
+      "category": "security",
+      "brand": "Risco",
+      "model": "BWare RK515DTGL",
+      "record_ids": [
+        "risco-00a6655953a1"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {

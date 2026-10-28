@@ -2,14 +2,17 @@
   "checked_on": "2026-10-28",
   "baseline_commit": "423d216c9de70645b88507d1f0dafbaaeb97f5b0",
   "baseline_records": 12063,
-  "new_records": 250,
-  "total_records": 12313,
+  "first_batch_published_commit": "ba40a3fbed3ebfebd2d653eef4fd93a51f7e4276",
+  "new_records": 314,
+  "complete_file_new_records": 311,
+  "retrieval_service_only_new_records": 3,
+  "total_records": 12377,
   "counts_by_category": {
-    "fire": 68,
-    "access-control": 41,
+    "fire": 107,
+    "access-control": 44,
     "warden-call": 100,
-    "cctv": 9,
-    "security": 10,
+    "cctv": 13,
+    "security": 28,
     "other-reference": 22
   },
   "counts_by_brand": {
@@ -17,19 +20,21 @@
     "TDSi": 15,
     "Tynetec": 65,
     "Tunstall": 35,
-    "Dahua": 6,
-    "Hikvision": 3,
+    "Dahua": 9,
+    "Hikvision": 4,
     "Bosch": 4,
-    "Optex": 1,
+    "Optex": 8,
     "Honeywell": 2,
     "CDVI": 1,
     "Elmdene": 40,
-    "RGL": 25,
-    "Pyronix": 2,
-    "Risco": 1
+    "RGL": 28,
+    "Pyronix": 9,
+    "Risco": 2,
+    "Aico": 39,
+    "Orisec": 3
   },
-  "scope": "Mainstream UK trade and legacy service device families; not a measured popularity ranking or an exhaustive device inventory. British Standards is a separate 147-reference register.",
-  "evidence": "Every added document was retrieved completely, hashed, header/EOF checked and parsed; text or rendered first-page identity was reviewed. Identical source URLs/full-file hashes are merged. Original PDFs remain source links, not public binary mirrors.",
+  "scope": "Common UK trade and legacy service device families across all six equipment categories. Not a measured popularity ranking or exhaustive inventory. British Standards is a separate 147-reference register.",
+  "evidence": "311 additions have complete-source SHA-256, measured bytes, header/EOF and Poppler parse checks, plus text or rendered-page identity review. Three Orisec originals were parsed remotely but full local retrieval returned HTTP 403: those remain retrieval-failed and have no invented hash/byte count. URL/full-file duplicates are merged; distinct editions retained.",
   "actions": [
     {
       "candidate_key": "2e38a5e1d5659ea72734",
@@ -3928,6 +3933,1086 @@
       "page_count": 3,
       "sha256": "2129361e2a4da300e71881eae85d82d3bee1acc3a27de4222c067dac52a3688b",
       "bytes": 522608
+    },
+    {
+      "candidate_key": "7abc7a23473a2424f4db",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDW2449T-S-IL_S0_datasheet_20250219.pdf",
+      "source_url": "https://www.dahuasecurity.com/ceen/products/Discontinued-Products/Network-Cameras/IPC-HDW2449T-S-IL",
+      "status": "added",
+      "record_id": "dahua-4d643d36c93c",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW2449T-S-IL (S0)"
+      ],
+      "page_count": 3,
+      "sha256": "68b614e9a20ee31fe4c96853403ad5625ecf83d462d7bc76c05643ea73bf1ef5",
+      "bytes": 519327
+    },
+    {
+      "candidate_key": "d5ccdca7fe8733f04065",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5267/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.9.pdf",
+      "source_url": "https://www.dahuasecurity.com/ceen/products/Discontinued-Products/Network-Cameras/IPC-HDW2449T-S-IL",
+      "status": "existing-verified",
+      "record_id": "dahua-f5ce2a499120",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW2449T-S-IL (S0)"
+      ],
+      "page_count": 247,
+      "sha256": "ad36abddd6e80c037560c5c9982de61b2c42d7068e1ecc906f91fe441d7684c5",
+      "bytes": 31494661
+    },
+    {
+      "candidate_key": "adb887cc27168d6839e0",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52537/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf",
+      "source_url": "https://www.dahuasecurity.com/ceen/products/Discontinued-Products/Network-Cameras/IPC-HDW2449T-S-IL",
+      "status": "existing-verified",
+      "record_id": "dahua-f4d0a17954db",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW2449T-S-IL (S0)"
+      ],
+      "page_count": 270,
+      "sha256": "3c1381f37b0400706fc71439d54c27fb9947f1030a0d48577f3920250b199043",
+      "bytes": 49300657
+    },
+    {
+      "candidate_key": "56eb865f96141d267f8f",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52497/user_manual/Dahua_Eyeball_Network_Camera_Quick_Start_Guide_V1.0.0.pdf",
+      "source_url": "https://www.dahuasecurity.com/ceen/products/Discontinued-Products/Network-Cameras/IPC-HDW2449T-S-IL",
+      "status": "added",
+      "record_id": "dahua-74408974f083",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW2449T-S-IL (S0)"
+      ],
+      "page_count": 17,
+      "sha256": "1d9e4d2f7daabc064146005edc5395987e4d0c384f267926aeefdc06842f02eb",
+      "bytes": 656079
+    },
+    {
+      "candidate_key": "3f4187a847d762599f24",
+      "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46537/user_manual/Eyeball_Network_Camera_Installation_Guide_V1.0.0.pdf",
+      "source_url": "https://www.dahuasecurity.com/ceen/products/Discontinued-Products/Network-Cameras/IPC-HDW2449T-S-IL",
+      "status": "added",
+      "record_id": "dahua-2ee712d95209",
+      "brand": "Dahua",
+      "category": "cctv",
+      "models": [
+        "IPC-HDW2449T-S-IL (S0)"
+      ],
+      "page_count": 2,
+      "sha256": "811f8b7eeb813a09322dd759c7c2a395b5ab85cec4e7f0d5158c46f20c6b3838",
+      "bytes": 2236615
+    },
+    {
+      "candidate_key": "15dc13645f75fd8ee8d6",
+      "url": "https://assets.hikvision.com/prd/normal/all/doc/sm000058370/DS-2CD2047G2-LU_SL-C_Datasheet_20260105.pdf",
+      "source_url": "https://securitylab.hikvision.com/europe/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2047g2-lu-sl/",
+      "status": "added",
+      "record_id": "hikvision-be914ebdc0ca",
+      "brand": "Hikvision",
+      "category": "cctv",
+      "models": [
+        "DS-2CD2047G2-LU/SL (C)"
+      ],
+      "page_count": 6,
+      "sha256": "a14ce75b627643163fa792f2b3f75ab1f4802f804a93a7773eca04c0c618d425",
+      "bytes": 869018
+    },
+    {
+      "candidate_key": "2360aedb6bcad8a6d416",
+      "url": "https://www.aico.co.uk/wp-content/uploads/2022/10/b20267-r3-ei600-series-u-c-eng-master_uk.pdf",
+      "source_url": "https://www.aico.co.uk/downloads/ei600-series-instructions/",
+      "status": "added",
+      "record_id": "aico-6d83ddd276c6",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei600",
+        "Ei630i",
+        "Ei630iRF",
+        "Ei650i",
+        "Ei650iRF",
+        "Ei660i",
+        "Ei660iRF"
+      ],
+      "page_count": 48,
+      "sha256": "c11d74204ac4454d7d297f4c71f776e11493b1cda4746dbde651794779ed5143",
+      "bytes": 1807833
+    },
+    {
+      "candidate_key": "eda7d22ae14f219be037",
+      "url": "https://navi.optex.net/manual/50016/5920434_RXC-RDT_170418op.pdf",
+      "source_url": "https://navi.optex.net/manual/50016/index.html",
+      "status": "added",
+      "record_id": "optex-87578b5d0a29",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-RDT",
+        "RXC-RDT-X5",
+        "RXC-RDT-X8"
+      ],
+      "page_count": 2,
+      "sha256": "99c6278e81b99c54218c58809a39c1cbfa8171b72c348f77122a60540b152879",
+      "bytes": 3599259
+    },
+    {
+      "candidate_key": "7d9d5ee45ca6becf55b3",
+      "url": "https://www.rgl.co/wp-content/uploads/2022/12/EBGBWOC02-EBGB-AP-Data-Sheet_0-1.pdf",
+      "source_url": "https://www.rgl.co/product/ebgb-ap-pte/",
+      "status": "added",
+      "record_id": "rgl-7d52d79a8edb",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "EBGB/AP/PTE",
+        "EBGB/AP/DR",
+        "EBGBWOC02/PTE"
+      ],
+      "page_count": 1,
+      "sha256": "7cec6adf70ddc7050f39f1bd3b736c503412db600160e6ceeae8137767dea66e",
+      "bytes": 474013
+    },
+    {
+      "candidate_key": "beb966d0312a2e9cdbd7",
+      "url": "https://www.rgl.co/wp-content/uploads/2022/12/EBGBWOC02-EBGB-AP-Data-Sheet_0-3.pdf",
+      "source_url": "https://www.rgl.co/product/ebgb-ap-pte/",
+      "status": "existing-verified",
+      "record_id": "rgl-7d52d79a8edb",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "EBGB/AP/PTE",
+        "EBGB/AP/DR",
+        "EBGBWOC02/PTE"
+      ],
+      "page_count": 1,
+      "sha256": "7cec6adf70ddc7050f39f1bd3b736c503412db600160e6ceeae8137767dea66e",
+      "bytes": 474013
+    },
+    {
+      "candidate_key": "2cd39f34d7a5919a08c6",
+      "url": "https://www.rgl.co/wp-content/uploads/2022/12/MEXT-MKOBO-Data-Sheet.pdf",
+      "source_url": "https://www.rgl.co/product/mext-ebgb-pte/",
+      "status": "added",
+      "record_id": "rgl-c3ddfb554c87",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "MEXT-EBGB/PTE",
+        "MKOBO-EBGB/PTE"
+      ],
+      "page_count": 1,
+      "sha256": "00f03f29f403b5b481520668af34b65fe6b81c1728a004c4b27d602486b95bb9",
+      "bytes": 418367
+    },
+    {
+      "candidate_key": "c8453f5b16082afdbf40",
+      "url": "https://www.rgl.co/wp-content/uploads/2022/12/EBGBWC02-Data-Sheet-1.pdf",
+      "source_url": "https://www.rgl.co/product/g-ebgb-pte/",
+      "status": "added",
+      "record_id": "rgl-ce551d7a0e60",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "EBGBWC02/PTE"
+      ],
+      "page_count": 1,
+      "sha256": "1dccbc1ec5bc21d1caeeabdd2f0c44f726552c64f2ce2f74219ad5e4dbacc261",
+      "bytes": 481377
+    },
+    {
+      "candidate_key": "7feecbb44bc13a55bfd4",
+      "url": "https://www.rgl.co/wp-content/uploads/2022/12/EBGBWC02-Data-Sheet-3.pdf",
+      "source_url": "https://www.rgl.co/product/g-ebgb-pte/",
+      "status": "existing-verified",
+      "record_id": "rgl-ce551d7a0e60",
+      "brand": "RGL",
+      "category": "access-control",
+      "models": [
+        "EBGBWC02/PTE"
+      ],
+      "page_count": 1,
+      "sha256": "1dccbc1ec5bc21d1caeeabdd2f0c44f726552c64f2ce2f74219ad5e4dbacc261",
+      "bytes": 481377
+    },
+    {
+      "candidate_key": "46011d28fdd55ce0c44d",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2026/02/Ei1529RC-Hard-Wired-Alarm-Control-Switch.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/tenant-user-card-ei1529rc-hard-wired-alarm-control-switch/",
+      "status": "added",
+      "record_id": "aico-b6eb2d4383f1",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei1529RC"
+      ],
+      "page_count": 1,
+      "sha256": "033fd56f3fa0371911cdec2c10dd2d1de90d055ac65a959df2055ed848ba9712",
+      "bytes": 156399
+    },
+    {
+      "candidate_key": "e541559bad5f379a7ea3",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2026/02/Ei450-RadioLINK-Alarm-Controller.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/tenant-user-card-ei450-radiolink-alarm-controller/",
+      "status": "added",
+      "record_id": "aico-0b0487cc434c",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei450"
+      ],
+      "page_count": 1,
+      "sha256": "fef8b751b9a9402935d33b8a032ed26f96bd784b97d4cf2b1f9071ad69e7e985",
+      "bytes": 139787
+    },
+    {
+      "candidate_key": "8f4927e30cb9962a05d0",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2023/07/Ei3030-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3030-instructions/",
+      "status": "added",
+      "record_id": "aico-2b6abe9e7cf7",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3030"
+      ],
+      "page_count": 64,
+      "sha256": "c6d88b870bdf660aa8aed1e7a4dda9442ca0d50d6fdc4dff85522767023dfe41",
+      "bytes": 2505972
+    },
+    {
+      "candidate_key": "74d703f60ffa58a53517",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2023/07/Datasheet_Ei3030Ei3030_20-Jul-2023.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3030-data-sheet/",
+      "status": "added",
+      "record_id": "aico-4fb4b285b074",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3030"
+      ],
+      "page_count": 1,
+      "sha256": "34bda10a183ee374c272934cc79f66beae28cea170dc24b3643deed160c244c2",
+      "bytes": 234435
+    },
+    {
+      "candidate_key": "3f167e826ddb0b5e1512",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2022/10/B18149-R2-Ei200MRF-UC-ENG.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei200mrf-radiolink-module-instructions/",
+      "status": "added",
+      "record_id": "aico-92374d3a2791",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei200MRF"
+      ],
+      "page_count": 20,
+      "sha256": "e4b66a72df3e1220905306ba225a043af94d68cffbd268319fadd75511b7417c",
+      "bytes": 1039622
+    },
+    {
+      "candidate_key": "886911f27bd067815f42",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2022/09/Datasheet_Ei660iMulti-Sensor-Fire-Alarm_26-Sep-2022-1.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei660i-data-sheet/",
+      "status": "added",
+      "record_id": "aico-957a8189361b",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei660i"
+      ],
+      "page_count": 1,
+      "sha256": "e07d0227385a0247876b92cd6e5a674c5922f80288a0285a941b49ab56cdfa80",
+      "bytes": 209789
+    },
+    {
+      "candidate_key": "aabbd908bedba352d330",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2022/09/Datasheet_Ei660iRFRadioLINK-Multi-Sensor-Fire-Alarm_26-Sep-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei660irf-data-sheet/",
+      "status": "added",
+      "record_id": "aico-a7c34e8e6812",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei660iRF"
+      ],
+      "page_count": 1,
+      "sha256": "4072acf29ccfd6f4b0592f7a8f7425ba59837f84f00e40fa66c81d3651879e6f",
+      "bytes": 219596
+    },
+    {
+      "candidate_key": "b8be09d4e2a1e2b5ff80",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2022/10/Ei600-Series-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei600-series-instructions/",
+      "status": "added",
+      "record_id": "aico-7d39f2508569",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei600",
+        "Ei630i",
+        "Ei630iRF",
+        "Ei650i",
+        "Ei650iRF",
+        "Ei660i",
+        "Ei660iRF"
+      ],
+      "page_count": 48,
+      "sha256": "63f744171102b5879bdbb93c8de51d41866e9158299cdda5513b449d35a8d771",
+      "bytes": 1816024
+    },
+    {
+      "candidate_key": "6783d52c8f7d2bfc9e0c",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2022/07/Datasheet_Ei630iRFRadioLINK-Heat-Alarm_07-Jul-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei630irf-data-sheet/",
+      "status": "added",
+      "record_id": "aico-bedafbf2c34f",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei630iRF"
+      ],
+      "page_count": 1,
+      "sha256": "0014d8fad308c3093c224c131bdb27ed88f60a2d0dc36d2afb014c76123263dc",
+      "bytes": 226686
+    },
+    {
+      "candidate_key": "57401401b6b3288645e9",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2022/07/Datasheet_Ei630iHeat-Alarm_07-Jul-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei630i-data-sheet/",
+      "status": "added",
+      "record_id": "aico-8b45527b51c1",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei630i"
+      ],
+      "page_count": 1,
+      "sha256": "9081f91d30416f6947760bc3e21ea7f071699f9eb198145c5d53339836532098",
+      "bytes": 207690
+    },
+    {
+      "candidate_key": "e296ff49976df04d4650",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/11/Datasheet_Ei3016Optical-Smoke-Alarm_22-Nov-2021.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3016-data-sheet/",
+      "status": "added",
+      "record_id": "aico-0b817031d733",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3016"
+      ],
+      "page_count": 1,
+      "sha256": "29d4011e7488cdb637482ec60fd0e94b36d01b8cad93b4a9e006c633300e40aa",
+      "bytes": 5740537
+    },
+    {
+      "candidate_key": "6702ca2964de0b2e4787",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/08/Aico-Data-Sheet-Ei3028.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3028-data-sheet/",
+      "status": "added",
+      "record_id": "aico-ec7e4e7a77f6",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3028"
+      ],
+      "page_count": 1,
+      "sha256": "3849471a375c6c36258372dbdc337e14aefde6949a024e64ef2ad995b002d460",
+      "bytes": 367877
+    },
+    {
+      "candidate_key": "2fb4b5aec271db2a6b5f",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_MCP401RCManual-Call-Point_18-Nov-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/mcp401rc-data-sheet/",
+      "status": "added",
+      "record_id": "aico-a107023f8485",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "MCP401RC"
+      ],
+      "page_count": 1,
+      "sha256": "e1533f2a1af89e30449a5bcd65c0af041d1ba3e6b70499bed973c8ce8d72644b",
+      "bytes": 189513
+    },
+    {
+      "candidate_key": "4a887628d3351d4b65e3",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/MCP401RC-Instructions-Rev2.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/mcp401rc-instructions/",
+      "status": "added",
+      "record_id": "aico-3940aa649cda",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "MCP401RC"
+      ],
+      "page_count": 2,
+      "sha256": "9bc26ac591276431fc756d47895d07e54246fced1e0ceb42c91c26e435ea679e",
+      "bytes": 161917
+    },
+    {
+      "candidate_key": "6270d21b4fe88cf4e012",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei450RadioLINK-Alarm-Controller_18-Nov-2022-1.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei450-data-sheet/",
+      "status": "added",
+      "record_id": "aico-f4d4866ac694",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei450"
+      ],
+      "page_count": 1,
+      "sha256": "0b9559ecad43bc318c42166a04bf4d5a25177debaa581f2269d6767af264a20b",
+      "bytes": 213208
+    },
+    {
+      "candidate_key": "ffa52a2cea7333a5ba53",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei450-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei450-instructions/",
+      "status": "added",
+      "record_id": "aico-efec1bd3d80d",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei450"
+      ],
+      "page_count": 24,
+      "sha256": "b855177c9566182e2078b358aad3f2ca96639e1821ea3c4ab2bdcdcdf807c989",
+      "bytes": 1992627
+    },
+    {
+      "candidate_key": "2c0a1d5f75694c7063a1",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei168RCRadioLINK-Base_18-Nov-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei168rc-data-sheet/",
+      "status": "added",
+      "record_id": "aico-d4f9beb5f29d",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei168RC"
+      ],
+      "page_count": 1,
+      "sha256": "18bda2ca7020bfc02ad72270206facdf08fcaec22a7e509eb157de2ae44768e7",
+      "bytes": 213299
+    },
+    {
+      "candidate_key": "6e1aed35fbc5a30e25f5",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei1529RC-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei1529rc-instructions/",
+      "status": "added",
+      "record_id": "aico-9b59a2743df0",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei1529RC"
+      ],
+      "page_count": 2,
+      "sha256": "ec86844f04c30d66c8272ee7ec7b2ccc4ec755eefb083b74d81cf74fc479fbde",
+      "bytes": 1799755
+    },
+    {
+      "candidate_key": "193cf08ce04e058de90c",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei1529RCAlarm-Control-Switch_18-Nov-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei1529rc-data-sheet/",
+      "status": "added",
+      "record_id": "aico-b672448240c5",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei1529RC"
+      ],
+      "page_count": 1,
+      "sha256": "a6c7cb41b2ec80ab8f127edec4e1fc96d9222fe13d57839b6259706307ada418",
+      "bytes": 188883
+    },
+    {
+      "candidate_key": "40bc9eca0bcfb310cac8",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei144eEi144e_27-Jan-2023-1.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei144rc-data-sheet/",
+      "status": "added",
+      "record_id": "aico-55f3ba358d2a",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei144e"
+      ],
+      "page_count": 1,
+      "sha256": "08488e1b0b64b89bc8e2a522aa61f7ab2c0c665ee372b499d0bd20d44a59bbc5",
+      "bytes": 1085284
+    },
+    {
+      "candidate_key": "e48c307562f2787f8f77",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/140e-Series-Instructions-Rev-0-1.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei144rc-instructions/",
+      "status": "added",
+      "record_id": "aico-3c1e5028796a",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei140e",
+        "Ei144e",
+        "Ei146e"
+      ],
+      "page_count": 30,
+      "sha256": "b5907dd5d52bad4612c5e81178ce2bf67233fec0cd918bb55a5a78644763011a",
+      "bytes": 2921385
+    },
+    {
+      "candidate_key": "c4aa6fab867787add52d",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei146e-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei146rc-series-instructions/",
+      "status": "added",
+      "record_id": "aico-a345f0caa042",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei140e",
+        "Ei144e",
+        "Ei146e"
+      ],
+      "page_count": 30,
+      "sha256": "36466ab0c770d2ed32b27f722592fb34930630e9987b08afbd93567343c9e0fe",
+      "bytes": 2914000
+    },
+    {
+      "candidate_key": "c6a25176019650b05fb0",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei146eOptical-Smoke-Alarm_24-Mar-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei146rc-data-sheet/",
+      "status": "added",
+      "record_id": "aico-d3fb97090714",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei146e"
+      ],
+      "page_count": 1,
+      "sha256": "8ceb48d230de1ba694b51eec30db0af5bac4649b929b72546cbc9f3cb6308317",
+      "bytes": 244429
+    },
+    {
+      "candidate_key": "c1c67d29ea103d4ab165",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Aico-Data-Sheet-Ei141RC.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei141rc-data-sheet/",
+      "status": "added",
+      "record_id": "aico-00a310360fe8",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei141RC"
+      ],
+      "page_count": 1,
+      "sha256": "fe6d750a68e9fb784d0c6a6b2de084ec62df8ecec9f153dcb1a9cd8eedc95c0b",
+      "bytes": 377214
+    },
+    {
+      "candidate_key": "2f47dac570aedd10a388",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei140RC-Series-Instructions-Rev3.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei141rc-instructions/",
+      "status": "added",
+      "record_id": "aico-5d162aa9efad",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei140RC",
+        "Ei141RC",
+        "Ei144RC",
+        "Ei146RC"
+      ],
+      "page_count": 20,
+      "sha256": "27b800a64e74d6ed25dc4f6fe1bdce5ed2ab89c01bd55cfd924e14fa8d16da6f",
+      "bytes": 1013372
+    },
+    {
+      "candidate_key": "39b4b673ec01ed9038d8",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei200MRFRadioLINK-Module_18-Nov-2022.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei200mrf-data-sheet/",
+      "status": "added",
+      "record_id": "aico-a2ad05b39a48",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei200MRF"
+      ],
+      "page_count": 1,
+      "sha256": "3fd70e9e062a48a60aa05db91619da7b42b4946636bfbd8ace54f9bc2ebc1237",
+      "bytes": 202161
+    },
+    {
+      "candidate_key": "1fd0e268f2fce7013432",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2020/07/Ei3024-Ei3016-Ei3014-Instructions-Updated.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3014-instructions-2/",
+      "status": "added",
+      "record_id": "aico-fb1ec779904f",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3014",
+        "Ei3016",
+        "Ei3024"
+      ],
+      "page_count": 52,
+      "sha256": "c70f2d0eb32cfddc64a17fbbdc84cc4a64d6898bf224f4c7c710d812a48963c0",
+      "bytes": 2557538
+    },
+    {
+      "candidate_key": "29074043768a152b3992",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei650iRFRadioLINK-Optical-Smoke-Alarm_19-Oct-2022-2.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei650rf-data-sheet/",
+      "status": "added",
+      "record_id": "aico-928c73db8543",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei650iRF"
+      ],
+      "page_count": 1,
+      "sha256": "fdf1c75ed02088b7723acf5149f9d14e55d4610f12c52a0df63b1ebe55bd65be",
+      "bytes": 231689
+    },
+    {
+      "candidate_key": "ce2a045f14d692d06081",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Datasheet_Ei650iOptical-Smoke-Alarm_19-Oct-2022-1.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei650-data-sheet/",
+      "status": "added",
+      "record_id": "aico-33d08994b662",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei650i"
+      ],
+      "page_count": 1,
+      "sha256": "f097003fc11a4f96118aa7fae7873a6d190aaee17ea37651d73f54190c35cdf4",
+      "bytes": 211750
+    },
+    {
+      "candidate_key": "b9d63121bdc2beb62319",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei650-Instructions-Rev6.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei650-instructions/",
+      "status": "added",
+      "record_id": "aico-c7a5a5be5a01",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei650",
+        "Ei650C",
+        "Ei650W",
+        "Ei650i",
+        "Ei650iC",
+        "Ei650iW"
+      ],
+      "page_count": 40,
+      "sha256": "7e1f175bc8a7e1234a3d38129782e18cd51588c03073d5a63a399fcc0b1e03b5",
+      "bytes": 771355
+    },
+    {
+      "candidate_key": "fac05d0e85209f3f12d1",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Aico-Data-Sheet-Ei603RF.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei603rf-data-sheet/",
+      "status": "added",
+      "record_id": "aico-b187fd3712e5",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei603RF"
+      ],
+      "page_count": 1,
+      "sha256": "a5c824839fe9bff7ead09f435d8547e9d12a1af448fc01d331f72eb2fef8c144",
+      "bytes": 335316
+    },
+    {
+      "candidate_key": "d7b993864ed58b195380",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei603RF-Ei600MRF-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei603rf-instructions/",
+      "status": "added",
+      "record_id": "aico-37b470ce525f",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei603",
+        "Ei605",
+        "Ei603C",
+        "Ei603CRF",
+        "Ei603TYC",
+        "Ei603TYCRF",
+        "Ei605C",
+        "Ei605CRF",
+        "Ei605TY",
+        "Ei605TYC",
+        "Ei605TYW",
+        "Ei605TYCRF",
+        "Ei605TYWRF"
+      ],
+      "page_count": 36,
+      "sha256": "6b4e2a7862d1a54c4425d49894c4b297b90515829ecee73905ff5dd38e306f18",
+      "bytes": 702692
+    },
+    {
+      "candidate_key": "cd7aee57274b1e99181c",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Aico-Data-Sheet-Ei603.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei603-data-sheet/",
+      "status": "added",
+      "record_id": "aico-435c56fe023b",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei603"
+      ],
+      "page_count": 1,
+      "sha256": "ce35b1c068f57a2f0184339df30a66e3315f4e1d345b395de5ab446f2356d974",
+      "bytes": 289847
+    },
+    {
+      "candidate_key": "55995e5ff2489ec3e375",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei603-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei603-instructions/",
+      "status": "added",
+      "record_id": "aico-2f70f90eaebe",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei603",
+        "Ei605"
+      ],
+      "page_count": 36,
+      "sha256": "87735bc43f95bbb83b7f1d04355eafa8388532bc01aacbadbdf878d6924a9a2d",
+      "bytes": 8099565
+    },
+    {
+      "candidate_key": "f861743afdb064d9f818",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei3000MRF-Instructions-1.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3000mrf-instructions/",
+      "status": "added",
+      "record_id": "aico-6ee64921f39b",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3000MRF"
+      ],
+      "page_count": 24,
+      "sha256": "47e7f72051167281b907ab7e87302b786f101c18db59a396877a9d20aabcdc23",
+      "bytes": 5640234
+    },
+    {
+      "candidate_key": "8751326f269e02bd6901",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Aico-Data-Sheet-Ei3000MRF.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3000mrf-data-sheet/",
+      "status": "added",
+      "record_id": "aico-5520615bdeb8",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3000MRF"
+      ],
+      "page_count": 1,
+      "sha256": "18e2fe67deb6eeba1159cd4e10a1abd0186ade3be2bbfaedd1f79bbfe41934be",
+      "bytes": 809280
+    },
+    {
+      "candidate_key": "d892382cd1e173632c33",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Ei3018-Ei3028-Instructions.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3028-instructions/",
+      "status": "added",
+      "record_id": "aico-8d7e77ccbfbd",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3028",
+        "Ei3018"
+      ],
+      "page_count": 60,
+      "sha256": "57878d1f8d8868eca2485c70156a1221d0e217a2054e25db766ea052073192ef",
+      "bytes": 2519740
+    },
+    {
+      "candidate_key": "3a445df35800fd4aac60",
+      "url": "https://www.aico.co.uk/homeowner/wp-content/uploads/2021/06/Aico-Data-Sheet-Ei3014.pdf",
+      "source_url": "https://www.aico.co.uk/homeowner/downloads/ei3014-data-sheet/",
+      "status": "added",
+      "record_id": "aico-0d5d7df89314",
+      "brand": "Aico",
+      "category": "fire",
+      "models": [
+        "Ei3014"
+      ],
+      "page_count": 1,
+      "sha256": "c664d1ff49711540800284846b9a62673e379b31746dacc028dc7fe13e99f546",
+      "bytes": 349102
+    },
+    {
+      "candidate_key": "a516c98a9e72980de168",
+      "url": "https://dsc.hu/themes/frontend/documents/kx10dtp-datasheet.pdf",
+      "source_url": "https://dsc.hu/shop/product/49086/riaszto/vezetekes/belteri_erzekelok/pyronix_mozgaserzekelo_pir_mw_fpkx10dtp2",
+      "status": "added",
+      "record_id": "pyronix-6b5d14ab7afb",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX10DTP"
+      ],
+      "page_count": 2,
+      "sha256": "492d8dca75f508017a55827fdb6abef74173f9a63fe56d59b450aa0ffd7890e1",
+      "bytes": 514387
+    },
+    {
+      "candidate_key": "d8578676941d78b6cc1e",
+      "url": "https://dsc.hu/themes/frontend/documents/kx10dtp-installation-manual-multilingual.pdf",
+      "source_url": "https://dsc.hu/shop/product/49086/riaszto/vezetekes/belteri_erzekelok/pyronix_mozgaserzekelo_pir_mw_fpkx10dtp2",
+      "status": "added",
+      "record_id": "pyronix-2a9abf094dd8",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX10DTP"
+      ],
+      "page_count": 2,
+      "sha256": "d691183eea515f1d297c26b34d39fdbc0fdfcef13cbcedcbb8f3821fdbc37684",
+      "bytes": 826361
+    },
+    {
+      "candidate_key": "2781fc3908ea90d7060a",
+      "url": "https://dsc.hu/themes/frontend/documents/kx15dq-datasheet.pdf",
+      "source_url": "https://dsc.hu/shop/product/31291/riaszto/vezetekes/belteri_erzekelok/pir_mozgaserzekelo",
+      "status": "added",
+      "record_id": "pyronix-1a4fa84c3194",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX15DQ"
+      ],
+      "page_count": 2,
+      "sha256": "9a814c1d16d6853ab6940c4ed4372fd8450fc97c6dd81fb5dd8d5208ee49c0a7",
+      "bytes": 493401
+    },
+    {
+      "candidate_key": "92dcd3aa8ee9b8274e33",
+      "url": "https://dsc.hu/themes/frontend/documents/kx15dq-installation-manual-rins1039-multilingual.pdf",
+      "source_url": "https://dsc.hu/shop/product/31291/riaszto/vezetekes/belteri_erzekelok/pir_mozgaserzekelo",
+      "status": "added",
+      "record_id": "pyronix-7e48d626c27d",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX15DQ"
+      ],
+      "page_count": 4,
+      "sha256": "6dc3b38b42bd44bdd6fe9a13f7fd7fb2982d190c1ac5c2c37296e84836635eee",
+      "bytes": 9160599
+    },
+    {
+      "candidate_key": "ae425eb5d01d55cdf88d",
+      "url": "https://dsc.hu/themes/frontend/documents/kx15dt-datasheet.pdf",
+      "source_url": "https://dsc.hu/shop/product/31251/riaszto/vezetekes/belteri_erzekelok/pyronix_mozgaserzekelo_pir_mw_fpkx15dt1",
+      "status": "added",
+      "record_id": "pyronix-61b0ef9fd7ac",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX15DT"
+      ],
+      "page_count": 2,
+      "sha256": "38642bfd97701bbeb2c209ff81f6f46ce07ecbdb7be5104db06878d1d41036f1",
+      "bytes": 537553
+    },
+    {
+      "candidate_key": "aa6f7c35c716511b0c9f",
+      "url": "https://dsc.hu/themes/frontend/documents/kx10dp-installation-manual-rins1600-multilingual.pdf",
+      "source_url": "https://dsc.hu/themes/frontend/documents/kx10dp-installation-manual-rins1600-multilingual.pdf",
+      "status": "added",
+      "record_id": "pyronix-0737ed6ba81b",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX10DP"
+      ],
+      "page_count": 4,
+      "sha256": "4eefd0ee9c6dcdf4cf94863af5b0f7b5a292f4e7a264a7c1b84327d2398d07f6",
+      "bytes": 7531156
+    },
+    {
+      "candidate_key": "41b178d5ead35ed9d5a5",
+      "url": "https://dsc.hu/themes/frontend/documents/kx15dtam-installation-manual-english-rins1664-1.pdf",
+      "source_url": "https://dsc.hu/themes/frontend/documents/kx15dtam-installation-manual-english-rins1664-1.pdf",
+      "status": "added",
+      "record_id": "pyronix-05952749c9ff",
+      "brand": "Pyronix",
+      "category": "security",
+      "models": [
+        "KX15DTAM"
+      ],
+      "page_count": 4,
+      "sha256": "c8c2516669e058c1660a8f3fe20d775f42c7b6d8b16c0aef64e16a1a79801bc5",
+      "bytes": 13865520
+    },
+    {
+      "candidate_key": "544ea97755401f7244dc",
+      "url": "https://www.security-systems.nl/wp-content/uploads/downloads/ins049_incert_dt_200_instructions.pdf",
+      "source_url": "https://www.security-systems.nl/wp-content/uploads/downloads/ins049_incert_dt_200_instructions.pdf",
+      "status": "added",
+      "record_id": "orisec-44572475fc04",
+      "brand": "Orisec",
+      "category": "security",
+      "models": [
+        "DT-200"
+      ],
+      "page_count": 2,
+      "evidence_kind": "retrieval-service PDF parse; full-file retrieval failed",
+      "document_number": "INS049-INCERT",
+      "printed_date": "2022-06-29"
+    },
+    {
+      "candidate_key": "9db920e53f3d4e84589f",
+      "url": "https://www.security-systems.nl/wp-content/uploads/downloads/INS046-INCERT-DT-200-PET-Instructions_manuals.pdf",
+      "source_url": "https://www.security-systems.nl/wp-content/uploads/downloads/INS046-INCERT-DT-200-PET-Instructions_manuals.pdf",
+      "status": "added",
+      "record_id": "orisec-d7d6198e4475",
+      "brand": "Orisec",
+      "category": "security",
+      "models": [
+        "DT-200-PET"
+      ],
+      "page_count": 2,
+      "evidence_kind": "retrieval-service PDF parse; full-file retrieval failed",
+      "document_number": "INS046-INCERT",
+      "printed_date": "2022-09-13"
+    },
+    {
+      "candidate_key": "25c78f8c9746705c0370",
+      "url": "https://www.security-systems.nl/wp-content/uploads/downloads/ins145_incert_dt_200_am_eol_jumpers_instructions.pdf",
+      "source_url": "https://www.security-systems.nl/wp-content/uploads/downloads/ins145_incert_dt_200_am_eol_jumpers_instructions.pdf",
+      "status": "added",
+      "record_id": "orisec-f6e13696a504",
+      "brand": "Orisec",
+      "category": "security",
+      "models": [
+        "DT-200-AM"
+      ],
+      "page_count": 2,
+      "evidence_kind": "retrieval-service PDF parse; full-file retrieval failed",
+      "document_number": "INS145-INCERT",
+      "printed_date": "2024-02-02"
+    },
+    {
+      "candidate_key": "dd085b9cf3d7b06ae9a2",
+      "url": "https://s3-eu-west-1.amazonaws.com/optex-europe/sensor-downloads/Intrusion-Detection/Manuals/optex-rxc-dt-manual-multilingual-5919547-170316op.pdf",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/optex-europe/sensor-downloads/Intrusion-Detection/Manuals/optex-rxc-dt-manual-multilingual-5919547-170316op.pdf",
+      "status": "added",
+      "record_id": "optex-f19da02f70d0",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-DT",
+        "RXC-DT-X5",
+        "RXC-DT-X8"
+      ],
+      "page_count": 2,
+      "sha256": "ec982101597580b7da26509c6c593336e0b589b4b8304a80ad50a8bb17dfb76c",
+      "bytes": 3337614
+    },
+    {
+      "candidate_key": "895b1c7ab99f22e3cbf4",
+      "url": "https://optex-asean.com/wp-content/uploads/2024/11/RXC-DT-manual.pdf",
+      "source_url": "https://optex-asean.com/wp-content/uploads/2024/11/RXC-DT-manual.pdf",
+      "status": "added",
+      "record_id": "optex-aaed79a53c9b",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-DT",
+        "RXC-DT-X5",
+        "RXC-DT-X8"
+      ],
+      "page_count": 2,
+      "sha256": "167c1277b99db43a522be3b1164f92c4ee080603be6d036a4de6df7f47b10f3d",
+      "bytes": 4694576
+    },
+    {
+      "candidate_key": "28fb0762ea02a3e2bd6d",
+      "url": "https://s3-eu-west-1.amazonaws.com/optex-europe/sensor-downloads/Intrusion-Detection/Manuals/optex-rxc-dt-manual-mutli-lingual.pdf",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/optex-europe/sensor-downloads/Intrusion-Detection/Manuals/optex-rxc-dt-manual-mutli-lingual.pdf",
+      "status": "added",
+      "record_id": "optex-1cb70a0528ac",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-DT",
+        "RXC-DT-X5",
+        "RXC-DT-X7",
+        "RXC-DT-X8"
+      ],
+      "page_count": 2,
+      "sha256": "93a8f971102bf65d375dfedc9895a0e00aff6385326e3dfc6c85f4d754b6f94c",
+      "bytes": 942832
+    },
+    {
+      "candidate_key": "3d34fb38f3fc4c24cfd2",
+      "url": "https://navi.optex.net/manual/08833/5919549.pdf",
+      "source_url": "https://www.optex.co.jp/e/support/download-intrusion-detection/passivesensor/rxc.html",
+      "status": "added",
+      "record_id": "optex-45a1babdb113",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-DT",
+        "RXC-DT-X5",
+        "RXC-DT-X8"
+      ],
+      "page_count": 2,
+      "sha256": "bc522568b5ad0e9f1ea98aaabc3922fd730e682d11d75d080e33e8ff15b5447c",
+      "bytes": 1214361
+    },
+    {
+      "candidate_key": "9ba9f7b73226dfdd82d5",
+      "url": "https://navi.optex.net/manual/08832/5918959_RXC-ST_STPL_181214op_web.pdf",
+      "source_url": "https://www.optex.co.jp/e/support/download-intrusion-detection/passivesensor/rxc.html",
+      "status": "added",
+      "record_id": "optex-41bd61569d20",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-ST",
+        "RXC-STPL"
+      ],
+      "page_count": 2,
+      "sha256": "a8e1ad708920e569775cabd136055bc1f0a64d294038c70b4d9a5d3933550f3f",
+      "bytes": 1093969
+    },
+    {
+      "candidate_key": "1dd9d8a689437190a9f6",
+      "url": "https://navi.optex.net/manual/50015/5920423_RXC-RST_170201op.pdf",
+      "source_url": "https://www.optex.co.jp/e/support/download-intrusion-detection/passivesensor/rxc.html",
+      "status": "added",
+      "record_id": "optex-de07cd364c7e",
+      "brand": "Optex",
+      "category": "security",
+      "models": [
+        "RXC-RST"
+      ],
+      "page_count": 2,
+      "sha256": "0ef7735e0dae1a1a3a5afb3253e30e92044cc10e603c68a6f76e7b4a2cdd1881",
+      "bytes": 3312135
+    },
+    {
+      "candidate_key": "0f25312fe281758670a7",
+      "url": "https://www.pahedomotica.nl/wp-content/uploads/5IN1749_BWare-DT-G2-Detector-Installation-Instructions_multi.pdf",
+      "source_url": "https://www.pahedomotica.nl/wp-content/uploads/5IN1749_BWare-DT-G2-Detector-Installation-Instructions_multi.pdf",
+      "status": "added",
+      "record_id": "risco-00a6655953a1",
+      "brand": "Risco",
+      "category": "security",
+      "models": [
+        "BWare RK515DTGL"
+      ],
+      "page_count": 2,
+      "sha256": "17ba44aea0fbaa826d7cc12d3012f84b9b1513b640c2a4306ed03046371292ba",
+      "bytes": 682398
     }
   ],
   "held_model_associations": [
@@ -3959,11 +5044,73 @@
       "hold_reason": "69005/10 listing links an older SF Detection Z10-series instruction scan also listed for GS783/GS826; applicability to 69005/10 not verified."
     }
   ],
-  "next_research": [
-    "Aico domestic smoke/heat/CO alarms and accessories",
-    "Additional Pyronix DT/PIR instructions",
-    "RGL exit devices",
-    "Additional Dahua camera editions",
-    "Orisec DT and Risco BWare sources with retrieval barriers"
+  "unindexed_candidate_downloads": [
+    {
+      "brand": "Pyronix",
+      "models": [
+        "KX15DT (pre-2020)"
+      ],
+      "source_url": "https://www.pyronix.com/wp-content/uploads/sites/2/2018/06/KX15DT-Installation-Guide.pdf",
+      "download_url": "https://www.pyronix.com/wp-content/uploads/sites/2/2018/06/KX15DT-Installation-Guide.pdf",
+      "status": "retrieval-failed",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Pyronix",
+      "models": [
+        "Deltabell X"
+      ],
+      "source_url": "https://www.pyronix.com/wp-content/uploads/sites/2/2017/10/downloads/24.pdf",
+      "download_url": "https://www.pyronix.com/wp-content/uploads/sites/2/2017/10/downloads/24.pdf",
+      "status": "retrieval-failed",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Hikvision",
+      "models": [
+        "DS-2CD2387G2H-LI(U)"
+      ],
+      "source_url": "https://assets.hikvision.com/prd/public/all/doc/sm000052163/DS-2CD2387G2H-LIU_Datasheet_20230719.pdf",
+      "download_url": "https://assets.hikvision.com/prd/public/all/doc/sm000052163/DS-2CD2387G2H-LIU_Datasheet_20230719.pdf",
+      "status": "retrieval-failed",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "brand": "Tunstall",
+      "models": [
+        "Lifeline Pendant",
+        "Lifeline Fall Detector"
+      ],
+      "source_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/05/installation_guide_lifeline_pendant_and_fall_detector_v2.pdf",
+      "download_url": "https://www.tunstall.co.uk/wp-content/uploads/2026/05/installation_guide_lifeline_pendant_and_fall_detector_v2.pdf",
+      "status": "retrieval-failed",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "brand": "Hikvision",
+      "models": [
+        "DS-2CD2346G2-I(U)"
+      ],
+      "source_url": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000003/S000000025/OFR000041/M000014823/SM000059105/Data_Sheet/DS-2CD2346G2-IU-C_Datasheet_V5.5.112_20230217.pdf",
+      "download_url": "https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000003/S000000025/OFR000041/M000014823/SM000059105/Data_Sheet/DS-2CD2346G2-IU-C_Datasheet_V5.5.112_20230217.pdf",
+      "status": "retrieval-failed",
+      "reason": "Missing PDF EOF marker"
+    },
+    {
+      "brand": "Hikvision",
+      "models": [
+        "DS-2CD2047G2-LU/SL"
+      ],
+      "source_url": "https://assets.hikvision.com/prd/normal/all/doc/m000048866/DS-2CD2047G2-LU_SL_Datasheet_20260105.pdf",
+      "download_url": "https://assets.hikvision.com/prd/normal/all/doc/m000048866/DS-2CD2047G2-LU_SL_Datasheet_20260105.pdf",
+      "status": "retrieval-failed",
+      "reason": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "remaining_gaps": [
+    "Current Pyronix resources that use share pages and older missing direct PDF paths",
+    "Other Risco/BWare variants and current edition equivalence; 5IN1749 historical RK515DTGL recovered",
+    "Complete local file checks for the three indexed Orisec INCERT DT-200 instructions",
+    "Other camera variants/firmware/regions and device families outside this dated pass"
   ]
 }

@@ -1767,6 +1767,27 @@
       "title": "MAP 5000 Installation Manual — download unresolved",
       "document_url": "https://cdn.commerce.boschsecurity.com/public/documents/MAP_5000_Installation_Manual_enUS_45035997701400331.pdf",
       "retrieval_note": "Latest complete-file retry failed: Response is not a PDF (possibly a login or challenge page) Prior evidence and source links retained."
+    },
+    {
+      "id": "orisec-44572475fc04",
+      "brand": "Orisec",
+      "title": "DT-200 - INCERT installation instructions",
+      "document_url": "https://www.security-systems.nl/wp-content/uploads/downloads/ins049_incert_dt_200_instructions.pdf",
+      "retrieval_note": "Two-page PDF parsed through the retrieval service and printed identity checked. The local complete-file download returned HTTP 403; no complete-file hash, byte count, header/EOF validation or offline availability is claimed."
+    },
+    {
+      "id": "orisec-d7d6198e4475",
+      "brand": "Orisec",
+      "title": "DT-200-PET - INCERT installation instructions",
+      "document_url": "https://www.security-systems.nl/wp-content/uploads/downloads/INS046-INCERT-DT-200-PET-Instructions_manuals.pdf",
+      "retrieval_note": "Two-page PDF parsed through the retrieval service and printed identity checked. The local complete-file download returned HTTP 403; no complete-file hash, byte count, header/EOF validation or offline availability is claimed."
+    },
+    {
+      "id": "orisec-f6e13696a504",
+      "brand": "Orisec",
+      "title": "DT-200-AM - INCERT installation instructions",
+      "document_url": "https://www.security-systems.nl/wp-content/uploads/downloads/ins145_incert_dt_200_am_eol_jumpers_instructions.pdf",
+      "retrieval_note": "Two-page PDF parsed through the retrieval service and printed identity checked. The local complete-file download returned HTTP 403; no complete-file hash, byte count, header/EOF validation or offline availability is claimed."
     }
   ],
   "unclassified_supplier_candidates": [
@@ -1932,18 +1953,20 @@
   },
   "continuation_log_devices": {
     "checked_on": "2026-10-28",
-    "new_records": 250,
-    "existing_verification_actions": 5,
-    "total_records": 12313,
+    "new_records": 314,
+    "new_complete_file_checks": 311,
+    "new_retrieval_service_only_records": 3,
+    "existing_verification_actions": 9,
+    "total_records": 12377,
     "counts_by_category": {
-      "fire": 68,
-      "access-control": 41,
+      "fire": 107,
+      "access-control": 44,
       "warden-call": 100,
-      "cctv": 9,
-      "security": 10,
+      "cctv": 13,
+      "security": 28,
       "other-reference": 22
     },
     "audit": "data/source-audits/devices-2026-10-28.json",
-    "notes": "Field-device expansion across all six equipment categories. Full-file checks for every addition; held model/source conflicts retained. Further reviewed batches remain in progress."
+    "notes": "Device expansion reviewed across all six equipment categories. Three Orisec full downloads remain blocked despite remotely parsed originals. Historical editions, baseline IDs and source/model conflicts preserved."
   }
 }

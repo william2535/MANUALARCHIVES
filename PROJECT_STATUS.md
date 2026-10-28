@@ -1,5 +1,13 @@
 # Project status
 
+## Device expansion follow-up — 28 October 2026
+
+The combined device pass adds **314 records**, taking the catalogue to **12,377 records**: **311 complete-file-checked additions** and **three Orisec instructions with remotely checked PDF identity but HTTP 403 full-download failures**. The first 250 additions are published in commit `ba40a3fbed3ebfebd2d653eef4fd93a51f7e4276`; this follow-up adds 64 more records and improves navigation from the root README.
+
+New families include Aico smoke/heat/CO alarms and accessories, more Pyronix KX DT/PIR detectors, Optex RXC wired and wireless PIR/DT instructions, Risco BWare, RGL exit buttons, and further camera editions. All earlier IDs and source-file evidence are preserved. [Browse device families](DEVICE_COVERAGE.md); [read the source audit](data/source-audits/devices-2026-10-28.json).
+
+The collected batch is reviewed; brand coverage remains partial. The research backlog records source barriers and model conflicts, including current share-page manuals and the three Orisec full-file downloads. No global popularity ranking or complete manufacturer coverage is claimed.
+
 ## Device expansion — 28 October 2026
 
 Added **250 checked document records** across all six equipment categories, bringing the archive to **12,313 records**. Device families include smoke/heat detectors, dual-technology detectors, call points, sounders/VADs, readers, locking hardware, cameras, power supplies and telecare sensors. See [device additions and category links](DEVICE_COVERAGE.md) and the [source audit](data/source-audits/devices-2026-10-28.json).

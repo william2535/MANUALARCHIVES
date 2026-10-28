@@ -1,0 +1,16 @@
+# Aico — Ei600
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [Ei600 series smoke / heat / multi-sensor alarms - instruction manual](https://www.aico.co.uk/wp-content/uploads/2022/10/b20267-r3-ei600-series-u-c-eng-master_uk.pdf) | installation | B20267 | Rev 3 | pdf-indexed | [Manufacturer](https://www.aico.co.uk/downloads/ei600-series-instructions/) |
+| [Ei600 series smoke / heat / multi-sensor alarms - instruction manual](https://www.aico.co.uk/homeowner/wp-content/uploads/2022/10/Ei600-Series-Instructions.pdf) | installation | B20267 | Rev 3 | pdf-indexed | [Manufacturer](https://www.aico.co.uk/homeowner/downloads/ei600-series-instructions/) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `aico-6d83ddd276c6`, `aico-7d39f2508569`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

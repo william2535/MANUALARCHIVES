@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-1083 document records. Door entry belongs under access control.
+1101 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -29,13 +29,13 @@
 | [Menvier](menvier/README.md) | 11 | 9 |
 | [Napco](napco/README.md) | 8 | 8 |
 | [Nortek](nortek/README.md) | 4 | 4 |
-| [Optex](optex/README.md) | 1 | 1 |
-| [Orisec](orisec/README.md) | 11 | 15 |
+| [Optex](optex/README.md) | 8 | 10 |
+| [Orisec](orisec/README.md) | 14 | 18 |
 | [Paradox](paradox/README.md) | 2 | 2 |
-| [Pyronix](pyronix/README.md) | 11 | 13 |
+| [Pyronix](pyronix/README.md) | 18 | 17 |
 | [Qolsys](qolsys/README.md) | 2 | 1 |
 | [Radionics](radionics/README.md) | 55 | 41 |
-| [Risco](risco/README.md) | 88 | 20 |
+| [Risco](risco/README.md) | 89 | 21 |
 | [SmokeCloak](smokecloak/README.md) | 1 | 1 |
 | [Telguard](telguard/README.md) | 1 | 1 |
 | [Texecom](texecom/README.md) | 114 | 161 |
