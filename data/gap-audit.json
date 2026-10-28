@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-10-21",
-  "catalogue_sha256": "e5d750130e04f6eedf91b32f01262e2e7899cc566fb99ac716c442f2c23674f1",
+  "generated_on": "2026-10-28",
+  "catalogue_sha256": "09cacdde4d8718bb5e3ba59e9879d4ec857ec824f2c11b069ea74a7b53fa7070",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 12062,
+  "record_count": 12063,
   "gap_counts": {
     "complete-file-check-needed": 2946,
     "document-number-unrecorded": 10773,
@@ -11,7 +11,7 @@
     "language-unverified": 11554,
     "model-applicability-review-needed": 9086,
     "possible-duplicate-review-needed": 1,
-    "region-unverified": 12042,
+    "region-unverified": 12043,
     "retrieval-failed": 10,
     "revision-review-needed": 11708,
     "source-metadata-conflict": 17,
@@ -2838,25 +2838,26 @@
     },
     {
       "brand": "Protec",
-      "records": 7,
+      "records": 8,
       "categories": [
         "fire"
       ],
       "document_types": {
+        "datasheet": 1,
         "installation": 2,
         "programming": 2,
         "reference": 1,
         "user-guide": 2
       },
       "download_status": {
-        "complete-file": 2,
+        "complete-file": 3,
         "pdf-indexed": 5
       },
       "gap_counts": {
         "complete-file-check-needed": 5,
         "document-number-unrecorded": 5,
         "language-unverified": 5,
-        "region-unverified": 7,
+        "region-unverified": 8,
         "revision-review-needed": 5
       }
     },
@@ -139018,6 +139019,14 @@
       ]
     },
     {
+      "id": "protec-502abea1875d",
+      "brand": "Protec",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "protec-79db1246ccd8",
       "brand": "Protec",
       "category": "fire",
@@ -225767,6 +225776,28 @@
       "model": "ZA-42 for PFC-5004E",
       "record_ids": [
         "facp-28d3892b-4eb0-4f3c-839e-5aee95e77c47"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "3000PLUS/BASE",
+      "record_ids": [
+        "protec-502abea1875d"
+      ],
+      "document_types": [
+        "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Protec",
+      "model": "6000PLUS/BASE",
+      "record_ids": [
+        "protec-502abea1875d"
       ],
       "document_types": [
         "datasheet"

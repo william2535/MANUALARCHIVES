@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-10-28",
   "baseline_commit": "1a69f8d59f116dc52de49291811e20d095e83dc2",
   "baseline_records": 1205,
   "completed": [
@@ -27,7 +27,8 @@
     "21 October follow-up: recovered Paxton ins-20603 as a complete 24-page AlarMax distributor PDF; retained its failed manufacturer URL and avoided assuming edition equivalence. All four CDVI public viewers were checked and report can_download=false. Current totals: 3,431 records, 87 brands, 3,189 direct PDF references. The one confirmed duplicate listing does not represent an additional unique PDF.",
     "21 October care-system expansion: 124 distinct complete PDFs added from 127 successful source downloads, merging three byte-identical alternate URLs. Added a warden-call category (120 records) plus four separate rescue-assistance references under fire. Tynetec 84, Tunstall 28, Cornell 10, Jeron 1 and CSL 1. All 11 Cornell/Jeron FACP downloads succeeded; one source model label was corrected against the PDF. Total: 3,555 records, 92 brands, 3,313 direct PDF references; 367 complete-file checks.",
     "Created a warden-call/social-alarm standards group: six existing BS EN 50134 / PD CLC/TS records retain their IDs, and the BSI-verified BS 8521-2:2020 NOW-IP reference brings the register to 147.",
-    "21 October full FACP import: reconciled every one of 8,519 public source listings across 104 brands using 428 primary pages and 17 supplemental title-search pages. Downloaded and parsed all 8,519 PDFs, retaining complete-file hashes and actual byte counts. Added 8,507 catalogue records and linked 12 existing records; all 3,555 earlier IDs and model associations preserved. Total: 12,062 records across 174 brands, 11,820 direct PDF references and 8,874 complete-file catalogue checks. No FACP document type, language or non-fire listing excluded."
+    "21 October full FACP import: reconciled every one of 8,519 public source listings across 104 brands using 428 primary pages and 17 supplemental title-search pages. Downloaded and parsed all 8,519 PDFs, retaining complete-file hashes and actual byte counts. Added 8,507 catalogue records and linked 12 existing records; all 3,555 earlier IDs and model associations preserved. Total: 12,062 records across 174 brands, 11,820 direct PDF references and 8,874 complete-file catalogue checks. No FACP document type, language or non-fire listing excluded.",
+    "2026-10-28: added the user-supplied Protec 3000PLUS/BASE and 6000PLUS/BASE standard-base datasheet and wiring diagrams as one shared record (MED2042 Issue 2, two pages). The manufacturer download matched the supplied PDF byte-for-byte; complete-file checksum and printed document details were checked. Total: 12,063 records, including eight Protec records."
   ],
   "remaining": [
     "This is a broad collection, not every model, document, language or historical revision. New manufacturer releases and restricted installer portals remain outside the collected set.",

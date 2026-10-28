@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-10-28",
   "notes": "Pending items are not additional catalogue records. Online manuals without PDF links are listed separately from broken or unresolved sources.",
   "unresolved_download_records": [
     {
@@ -1923,5 +1923,11 @@
     "complete_source_downloads": 8519,
     "unresolved_source_downloads": 0,
     "audit": "data/source-audits/facp-full-2026-10-21.json"
+  },
+  "continuation_log_protec_base": {
+    "checked_on": "2026-10-28",
+    "record_id": "protec-502abea1875d",
+    "new_records": 1,
+    "notes": "Added MED2042 Issue 2 for 3000PLUS/BASE and 6000PLUS/BASE from the manufacturer source with complete-file evidence and printed title/issue review. Existing unresolved-source and brand-research queues are unchanged; region remains not-verified."
   }
 }

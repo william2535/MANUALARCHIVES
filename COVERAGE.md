@@ -1,6 +1,6 @@
 # Coverage and outstanding work
 
-Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded files or a claim of completeness.
+Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded files or a claim of completeness.
 
 ## Brands
 
@@ -128,7 +128,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | Paxton | 398 | 398 |
 | Philips | 17 | 17 |
 | Potter | 678 | 678 |
-| Protec | 7 | 7 |
+| Protec | 8 | 8 |
 | Protectowire | 3 | 3 |
 | Pyronix | 9 | 7 |
 | Pyrotronics | 2 | 2 |
@@ -187,7 +187,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
 | online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 9941 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
+| pdf-indexed | 9942 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
 | pdf-link-listed | 1869 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
 | retrieval-failed | 10 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
 | source-listing | 3 | Document title listed by manufacturer; a usable direct download is still unresolved. |
@@ -200,7 +200,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | brochure | 162 |
 | catalogue-page | 276 |
 | compatibility-chart | 39 |
-| datasheet | 3834 |
+| datasheet | 3835 |
 | diagram | 146 |
 | installation | 4150 |
 | programming | 139 |
@@ -217,7 +217,7 @@ Catalogue build date: 2026-10-21. Counts are catalogue records, not downloaded f
 | archive | 8518 |
 | distributor | 31 |
 | installer | 700 |
-| manufacturer | 2813 |
+| manufacturer | 2814 |
 
 Manufacturer sources are preferred. Installer, distributor and independent archive copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
 
@@ -248,6 +248,7 @@ Manufacturer sources are preferred. Installer, distributor and independent archi
 - 21 October care-system expansion: 124 distinct complete PDFs added from 127 successful source downloads, merging three byte-identical alternate URLs. Added a warden-call category (120 records) plus four separate rescue-assistance references under fire. Tynetec 84, Tunstall 28, Cornell 10, Jeron 1 and CSL 1. All 11 Cornell/Jeron FACP downloads succeeded; one source model label was corrected against the PDF. Total: 3,555 records, 92 brands, 3,313 direct PDF references; 367 complete-file checks.
 - Created a warden-call/social-alarm standards group: six existing BS EN 50134 / PD CLC/TS records retain their IDs, and the BSI-verified BS 8521-2:2020 NOW-IP reference brings the register to 147.
 - 21 October full FACP import: reconciled every one of 8,519 public source listings across 104 brands using 428 primary pages and 17 supplemental title-search pages. Downloaded and parsed all 8,519 PDFs, retaining complete-file hashes and actual byte counts. Added 8,507 catalogue records and linked 12 existing records; all 3,555 earlier IDs and model associations preserved. Total: 12,062 records across 174 brands, 11,820 direct PDF references and 8,874 complete-file catalogue checks. No FACP document type, language or non-fire listing excluded.
+- 2026-10-28: added the user-supplied Protec 3000PLUS/BASE and 6000PLUS/BASE standard-base datasheet and wiring diagrams as one shared record (MED2042 Issue 2, two pages). The manufacturer download matched the supplied PDF byte-for-byte; complete-file checksum and printed document details were checked. Total: 12,063 records, including eight Protec records.
 
 ## Known gaps
 
@@ -404,7 +405,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Paxton**: [source 1](https://www.alarmax.com/customer/docs/skudocs/ins-20603.pdf), [source 2](https://www.paxton-access.com/install-paxton/resources/application-notes/), [source 3](https://www.paxton-access.com/install-paxton/resources/instructions/), [source 4](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Philips**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Potter**: [source 1](https://facpmanuals.com/manuals/potter)
-- **Protec**: [source 1](https://www.acornfiresecurity.com/index.php?filename=6100-Installation.pdf&route=extension%2Fmodule%2Fdocument%2Fdownload), [source 2](https://www.acornfiresecurity.com/protec/protec-6300-fire-alarm-control-panel), [source 3](https://www.acornfiresecurity.com/protec/protec-algo-tec-6500-fire-alarm-control-panel-1-4-loop?page=18), [source 4](https://www.protec.co.uk/wp-content/uploads/2020/03/6300-6500-Upgrade-1.pdf), [source 5](https://www.specifiedby.com/protec-fire-detection-plc/6100-single-loop-fire-alarm-panel/protec-fire-detection-plc_6100-single-loop-fire-alarm-panel_operations_7_e513ed53-3447-47ca-a80f-6d287acf6f45.pdf), [source 6](https://www.specifiedby.com/protec-fire-detection-plc/6300-fire-alarm-control-panel/protec-fire-detection-plc_6300-fire-alarm-control-panel_operations_3_cdf519ed-962c-4021-a949-14865e13a0c5.pdf)
+- **Protec**: [source 1](https://www.acornfiresecurity.com/index.php?filename=6100-Installation.pdf&route=extension%2Fmodule%2Fdocument%2Fdownload), [source 2](https://www.acornfiresecurity.com/protec/protec-6300-fire-alarm-control-panel), [source 3](https://www.acornfiresecurity.com/protec/protec-algo-tec-6500-fire-alarm-control-panel-1-4-loop?page=18), [source 4](https://www.protec.co.uk/wp-content/uploads/2020/03/6300-6500-Upgrade-1.pdf), [source 5](https://www.protec.co.uk/wp-content/uploads/2020/04/3000-6000PLUS-Standard-Base.pdf), [source 6](https://www.specifiedby.com/protec-fire-detection-plc/6100-single-loop-fire-alarm-panel/protec-fire-detection-plc_6100-single-loop-fire-alarm-panel_operations_7_e513ed53-3447-47ca-a80f-6d287acf6f45.pdf), [source 7](https://www.specifiedby.com/protec-fire-detection-plc/6300-fire-alarm-control-panel/protec-fire-detection-plc_6300-fire-alarm-control-panel_operations_3_cdf519ed-962c-4021-a949-14865e13a0c5.pdf)
 - **Protectowire**: [source 1](https://facpmanuals.com/manuals/protectowire)
 - **Pyronix**: [source 1](https://www.support.pyronix.com/uk/product/enforcer-v11/documentation/enforcer-v11-extended-user-guide), [source 2](https://www.support.pyronix.com/uk/product/homecontrol2-0/documentation/homecontrol2-0-user-guide-2), [source 3](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Pyrotronics**: [source 1](https://facpmanuals.com/manuals/pyrotronics)
@@ -469,7 +470,7 @@ This audit covers every indexed record, with model/type coverage for every recor
 | language-unverified | 11,554 |
 | model-applicability-review-needed | 9,086 |
 | possible-duplicate-review-needed | 1 |
-| region-unverified | 12,042 |
+| region-unverified | 12,043 |
 | retrieval-failed | 10 |
 | revision-review-needed | 11,708 |
 | source-metadata-conflict | 17 |
@@ -482,7 +483,7 @@ See [machine-readable gap audit](data/gap-audit.json) for exact record IDs, per-
 
 | Evidence / status | Records |
 |---|---:|
-| complete-file | 8,874 |
+| complete-file | 8,875 |
 | file-hash | 265 |
 | listed | 1,603 |
 | pdf-header | 1 |

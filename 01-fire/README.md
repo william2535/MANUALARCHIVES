@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-8686 document records. Door entry belongs under access control.
+8687 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -81,7 +81,7 @@
 | [Notifier](notifier/README.md) | 607 | 508 |
 | [PAS Sound Engineering](pas-sound-engineering/README.md) | 1 | 1 |
 | [Potter](potter/README.md) | 678 | 568 |
-| [Protec](protec/README.md) | 7 | 4 |
+| [Protec](protec/README.md) | 8 | 6 |
 | [Protectowire](protectowire/README.md) | 3 | 3 |
 | [Pyrotronics](pyrotronics/README.md) | 2 | 2 |
 | [Radionics](radionics/README.md) | 8 | 5 |

@@ -2,15 +2,15 @@
 
 Fire, security, access control, CCTV, warden call, telecare and nurse-call manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**12,062 document records · 174 brands · 11,820 direct PDF links · 0 PDF files mirrored**
+**12,063 document records · 174 brands · 11,821 direct PDF links · 0 PDF files mirrored**
 
-Catalogue build date: 2026-10-21. A check date does not mean a document is the latest revision.
+Catalogue build date: 2026-10-28. A check date does not mean a document is the latest revision.
 
 ## Browse by system
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 8,686 |
+| [Fire](01-fire/README.md) | 8,687 |
 | [Security / intruder](02-security/README.md) | 1,073 |
 | [Access control / door entry](03-access-control/README.md) | 948 |
 | [CCTV](04-cctv/README.md) | 973 |
@@ -52,7 +52,7 @@ This selection includes fire, security, care-call and other references. Add `--c
 
 [`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
 
-Current evidence: **8,874 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+Current evidence: **8,875 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
 
 See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
 
