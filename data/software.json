@@ -1,0 +1,783 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-17",
+  "scope": "Official vendor links for fire/security panel tools, CCTV/NVR utilities, access-control software and programming-interface drivers. Public links and gated resources are distinguished. A resource listing does not establish compatibility, installation success or permission to redistribute.",
+  "records": [
+    {
+      "id": "advanced-configtool-pc-net-022",
+      "category": "fire",
+      "brand": "Advanced",
+      "name": "ConfigTool (PC-NET-022)",
+      "resource_type": "software",
+      "products": [
+        "MxPro 4",
+        "MxPro 5",
+        "Axis EN",
+        "Go"
+      ],
+      "source_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+      "download_url": "https://www.advancedco.com/wp-content/uploads/Configuration-software-v12.13-PC-NET-022-1.zip",
+      "access": "public",
+      "platforms": [],
+      "version": "12.13",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads - Advanced",
+      "description": "Panel and network configuration software. Current download listing identifies v12.13; applicability depends on the panel and firmware.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+        "note": "Official download page and public ZIP HEAD returned HTTP 200/application/zip; no archive contents downloaded or executed. Confirm panel generation and release notes before use. Model scope also checked in ConfigTool release notes."
+      }
+    },
+    {
+      "id": "advanced-flasher-gen2",
+      "category": "fire",
+      "brand": "Advanced",
+      "name": "Flasher Tool — MxPro 5 Gen 2 / Go (PC-NET-023)",
+      "resource_type": "software",
+      "products": [
+        "MxPro 5 Gen 2",
+        "Go"
+      ],
+      "source_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+      "download_url": "https://www.advancedco.com/wp-content/uploads/Flasher-Tool-v2.1-MxPro-5-Gen-2-and-Go-panels-LJ09.zip",
+      "access": "public",
+      "platforms": [],
+      "version": "2.1",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads - Advanced",
+      "description": "Generation-specific flash tool package including firmware files; separate from the Gen 1 package.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+        "note": "Official download page and public ZIP HEAD returned HTTP 200/application/zip; no archive contents downloaded or executed. Confirm panel generation and release notes before use."
+      }
+    },
+    {
+      "id": "advanced-flasher-gen1",
+      "category": "fire",
+      "brand": "Advanced",
+      "name": "Flash Programmer — MxPro 5 Gen 1 (PC-NET-014)",
+      "resource_type": "software",
+      "products": [
+        "MxPro 5 Gen 1"
+      ],
+      "source_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+      "download_url": "https://www.advancedco.com/wp-content/uploads/Flash-Programmer-and-firmware-MxPro5-Gen1-LI.zip",
+      "access": "public",
+      "platforms": [],
+      "version": "3.2",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads - Advanced",
+      "description": "Generation-specific flash programmer and firmware package for MxPro 5 Gen 1.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+        "note": "Official download page and public ZIP HEAD returned HTTP 200/application/zip; no archive contents downloaded or executed. Confirm panel generation and release notes before use."
+      }
+    },
+    {
+      "id": "advanced-terminaltool",
+      "category": "fire",
+      "brand": "Advanced",
+      "name": "TerminalTool (PC-NET-004)",
+      "resource_type": "software",
+      "products": [
+        "Advanced panels supported by TerminalTool"
+      ],
+      "source_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+      "download_url": "https://www.advancedco.com/wp-content/uploads/Local-TerminalTool-v4.7.zip",
+      "access": "public",
+      "platforms": [],
+      "version": "4.7",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads - Advanced",
+      "description": "PC terminal connection for panel programming; use the product instructions to establish applicability.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+        "note": "Official download page and public ZIP HEAD returned HTTP 200/application/zip; no archive contents downloaded or executed. Confirm panel generation and release notes before use. Description checked against official TerminalTool product page."
+      }
+    },
+    {
+      "id": "advanced-usb-drivers",
+      "category": "fire",
+      "brand": "Advanced",
+      "name": "USB drivers",
+      "resource_type": "driver",
+      "products": [
+        "Advanced USB programming interfaces"
+      ],
+      "source_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+      "download_url": "https://www.advancedco.com/wp-content/uploads/USB-drivers.zip",
+      "access": "public",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads - Advanced",
+      "description": "Manufacturer-listed USB driver package. Exact cable chipset and supported operating system must be checked before installation.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+        "note": "Official download page and public ZIP HEAD returned HTTP 200/application/zip; no archive contents downloaded or executed. Confirm panel generation and release notes before use. Exact cable/OS applicability was not established by the listing."
+      }
+    },
+    {
+      "id": "advanced-servicetool",
+      "category": "fire",
+      "brand": "Advanced",
+      "name": "ServiceTool (PC-NET-015)",
+      "resource_type": "software",
+      "products": [
+        "Advanced panels supported by ServiceTool"
+      ],
+      "source_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+      "download_url": "https://www.advancedco.com/wp-content/uploads/ServiceTool-v2.10.zip",
+      "access": "public",
+      "platforms": [],
+      "version": "2.10",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads - Advanced",
+      "description": "Extracts panel device information and event logs for servicing and reporting.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.advancedco.com/customer-support/technical-support/software-download/",
+        "note": "Official download page and public ZIP HEAD returned HTTP 200/application/zip; no archive contents downloaded or executed. Confirm panel generation and release notes before use. Description checked against official ServiceTool product page."
+      }
+    },
+    {
+      "id": "ctec-xfp-cast-apollo-tools",
+      "category": "fire",
+      "brand": "C-TEC",
+      "name": "XFP Programming Tools — CAST / Apollo",
+      "resource_type": "software",
+      "products": [
+        "XFP C-TEC CAST",
+        "XFP Apollo XP95/Discovery"
+      ],
+      "source_url": "https://c-tec.com/download/xfp-fire-panel-programming-c-te/",
+      "download_url": null,
+      "access": "registration-required",
+      "platforms": [
+        "Windows"
+      ],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "XFP Programming Tools (C-TEC CAST & Apollo XP95/Discovery) | C-TEC",
+      "description": "Programming tools specifically listed for CAST and Apollo XP95/Discovery XFP panels; the Hochiki package is separate.",
+      "verification": {
+        "method": "Official page opened using web retrieval; raw HTTPS challenge recorded",
+        "status": "retrieval-service-verified",
+        "final_url": "https://c-tec.com/download/xfp-fire-panel-programming-c-te/",
+        "note": "Official page read through web retrieval; direct HTTPS client received HTTP 202 challenge HTML. Download requires the manufacturer form; no form submitted and no installer retrieved."
+      }
+    },
+    {
+      "id": "ctec-zfp-tools",
+      "category": "fire",
+      "brand": "C-TEC",
+      "name": "ZFP Software Package",
+      "resource_type": "software",
+      "products": [
+        "ZFP C-TEC CAST",
+        "ZFP Apollo XP95/Discovery"
+      ],
+      "source_url": "https://c-tec.com/info/software-downloads/",
+      "download_url": null,
+      "access": "registration-required",
+      "platforms": [
+        "Windows"
+      ],
+      "version": "3.7.8.1 (programming tools)",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads | C-TEC",
+      "description": "Package includes ZFP Programming Tools 3.7.8.1 and the XFP/ZFP battery calculator; manufacturer download form applies.",
+      "verification": {
+        "method": "Official software listing opened using web retrieval; raw HTTPS challenge recorded",
+        "status": "retrieval-service-verified",
+        "final_url": "https://c-tec.com/info/software-downloads/",
+        "note": "Official page read through web retrieval; direct HTTPS client received HTTP 202 challenge HTML. Download requires the manufacturer form; no form submitted and no installer retrieved."
+      }
+    },
+    {
+      "id": "ctec-xfp-hochiki-tools",
+      "category": "fire",
+      "brand": "C-TEC",
+      "name": "XFP Hochiki Programming Tools",
+      "resource_type": "software",
+      "products": [
+        "XFP Hochiki ESP"
+      ],
+      "source_url": "https://c-tec.com/info/software-downloads/",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [
+        "Windows"
+      ],
+      "version": "6.9",
+      "checked_on": "2026-11-17",
+      "official_title": "Software Downloads | C-TEC",
+      "description": "Separate XFP programming package for Hochiki ESP protocol panels; listing identifies version 6.9 (170524).",
+      "verification": {
+        "method": "Official software listing opened using web retrieval; raw HTTPS challenge recorded",
+        "status": "retrieval-service-verified",
+        "final_url": "https://c-tec.com/info/software-downloads/",
+        "note": "Official listing opened using web retrieval; download link visible. Actual access requirements and binary not checked. Raw HTTPS client received challenge HTML."
+      }
+    },
+    {
+      "id": "kentec-loop-explorer-2",
+      "category": "fire",
+      "brand": "Kentec",
+      "name": "Loop Explorer 2",
+      "resource_type": "software",
+      "products": [
+        "Syncro",
+        "Syncro AS",
+        "Sigma ZXT",
+        "Taktis (training/KIP restrictions apply)"
+      ],
+      "source_url": "https://kentec.co.uk/loop-explorer-2-software/",
+      "download_url": null,
+      "access": "registration-required",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Loop Explorer 2 Software - Kentec Electronics Ltd",
+      "description": "Licence application for LE2 configuration software. The page distinguishes product entitlement, training and partner restrictions.",
+      "verification": {
+        "method": "Official page opened using web retrieval; licence form inspected",
+        "status": "retrieval-service-verified",
+        "final_url": "https://kentec.co.uk/loop-explorer-2-software/",
+        "note": "Official application page read through web retrieval. Licence/partner/training conditions are shown; no free-for-everyone claim. Raw HTTPS client received HTTP 202 challenge HTML."
+      }
+    },
+    {
+      "id": "honeywell-gent-software-portal",
+      "category": "fire",
+      "brand": "Honeywell Gent",
+      "name": "Gent software downloads — manufacturer portal",
+      "resource_type": "software",
+      "products": [
+        "Gent (select exact product in portal)"
+      ],
+      "source_url": "https://buildings.honeywell.com/portal/gb/en/product-downloads?brand=Gent",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Gent software downloads — Honeywell Buildings portal",
+      "description": "Brand-filtered Honeywell software portal linked from the Gent UK homepage. Exact tools and download permissions require checking in the portal.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "portal-only",
+        "final_url": "https://buildings.honeywell.com/portal/gb/en/product-downloads?brand=Gent",
+        "note": "Gent UK homepage explicitly links this brand-filtered destination. Portal returned HTTP 200 but no readable software list; account requirements, versions and files were not verified."
+      }
+    },
+    {
+      "id": "texecom-wintex",
+      "category": "security",
+      "brand": "Texecom",
+      "name": "Wintex",
+      "resource_type": "software",
+      "products": [
+        "Premier Elite 24",
+        "Premier Elite 48",
+        "Premier Elite 64-W",
+        "Premier Elite 64-W LIVE",
+        "Premier Elite 88",
+        "Premier Elite 168",
+        "Premier Elite 640"
+      ],
+      "source_url": "https://www.texe.com/help-and-support/product-support/",
+      "download_url": null,
+      "access": "account-required",
+      "platforms": [],
+      "version": "8.2.1.15",
+      "checked_on": "2026-11-17",
+      "official_title": "Product Downloads - Texecom",
+      "description": "Upload/download and panel configuration package in Texecom product downloads; listed as Wintex_8_2_1_15.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.texe.com/help-and-support/product-support/",
+        "note": "Official product download listing names this package and shows a login-to-download notice. Links were not used to bypass that notice; no installer fetched. Products taken from the official download row data-prod associations."
+      }
+    },
+    {
+      "id": "texecom-ricochet-monitor",
+      "category": "security",
+      "brand": "Texecom",
+      "name": "Ricochet Monitor",
+      "resource_type": "software",
+      "products": [
+        "Premier Elite 64-W",
+        "Premier Elite 64-W LIVE"
+      ],
+      "source_url": "https://www.texe.com/help-and-support/product-support/",
+      "download_url": null,
+      "access": "account-required",
+      "platforms": [],
+      "version": "2.20.0.0",
+      "checked_on": "2026-11-17",
+      "official_title": "Product Downloads - Texecom",
+      "description": "Ricochet monitoring utility listed in the PC software section; product associations are limited to those shown on this download row.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.texe.com/help-and-support/product-support/",
+        "note": "Official product download listing names this package and shows a login-to-download notice. Links were not used to bypass that notice; no installer fetched."
+      }
+    },
+    {
+      "id": "texecom-premier-elite-firmware",
+      "category": "security",
+      "brand": "Texecom",
+      "name": "Premier Elite firmware downloads",
+      "resource_type": "firmware-portal",
+      "products": [
+        "Premier Elite (check exact hardware/revision)"
+      ],
+      "source_url": "https://www.texe.com/help-and-support/product-support/",
+      "download_url": null,
+      "access": "account-required",
+      "platforms": [],
+      "version": "6.06.03 (listing)",
+      "checked_on": "2026-11-17",
+      "official_title": "Product Downloads - Texecom",
+      "description": "Manufacturer firmware listing. Confirm the exact panel and upgrade instructions before choosing a firmware release.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.texe.com/help-and-support/product-support/",
+        "note": "Official product download listing names this package and shows a login-to-download notice. Links were not used to bypass that notice; no installer fetched."
+      }
+    },
+    {
+      "id": "orisec-udl",
+      "category": "security",
+      "brand": "Orisec",
+      "name": "Orisec UDL",
+      "resource_type": "software",
+      "products": [
+        "Orisec control panels (check supported model)"
+      ],
+      "source_url": "https://www.orisec.co.uk/pc-software/",
+      "download_url": null,
+      "access": "installer-account",
+      "platforms": [
+        "Windows"
+      ],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "PC Software - Orisec Ltd | Professional Security Equipment",
+      "description": "Panel programming, diagnostics, event-log review and firmware-update utility, obtained through the Orisec Installer Portal.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.orisec.co.uk/pc-software/",
+        "note": "Official PC Software page describes UDL and directs software downloads to https://www.orisec.co.uk/installer. Portal was not entered."
+      }
+    },
+    {
+      "id": "orisec-flash-programmer",
+      "category": "security",
+      "brand": "Orisec",
+      "name": "Flash Programmer",
+      "resource_type": "software",
+      "products": [
+        "Orisec control panels",
+        "CM2",
+        "CM3",
+        "Selected Orisec keypads"
+      ],
+      "source_url": "https://www.orisec.co.uk/pc-software/",
+      "download_url": null,
+      "access": "installer-account",
+      "platforms": [
+        "Windows"
+      ],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "PC Software - Orisec Ltd | Professional Security Equipment",
+      "description": "Firmware update tool. The manufacturer lists panels, CM2/CM3 modules and selected keypads; confirm the exact product before use.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.orisec.co.uk/pc-software/",
+        "note": "Official PC Software page describes scope and points to the Installer Portal. Version and individual keypad compatibility not verified."
+      }
+    },
+    {
+      "id": "hkc-smartlink-700",
+      "category": "security",
+      "brand": "HKC",
+      "name": "SmartLink 700",
+      "resource_type": "software",
+      "products": [
+        "HKC installations supported by SmartLink 700"
+      ],
+      "source_url": "https://www.hkcsecurity.com/gb/en/solutions/smartlink-700",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "SmartLink 700 | HKC",
+      "description": "Installer software for panel backups, upload/download, maintenance and diagnostics. Ask HKC for the applicable installer download route.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.hkcsecurity.com/gb/en/solutions/smartlink-700",
+        "note": "Official GB product page read successfully. It describes installer software but exposes no verified installer download or registration route in retrieved content; download access remains unverified."
+      }
+    },
+    {
+      "id": "pyronix-insite",
+      "category": "security",
+      "brand": "Pyronix",
+      "name": "UK InSite",
+      "resource_type": "software",
+      "products": [
+        "Pyronix panels supported by UK InSite"
+      ],
+      "source_url": "https://www.pyronixltd.com/insite",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": "11.5b",
+      "checked_on": "2026-11-17",
+      "official_title": "InSite | Pyronix Ltd",
+      "description": "Official UK InSite download page with release notes and a reminder to back up the installation before upgrading.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.pyronixltd.com/insite",
+        "note": "The former pyronix.com UK support URL redirected to pyronixltd.com, whose InSite page links a Tresorit-hosted download. The external host access and package were not checked; source page is verified."
+      }
+    },
+    {
+      "id": "hikvision-ivms-4200",
+      "category": "cctv",
+      "brand": "Hikvision",
+      "name": "iVMS-4200",
+      "resource_type": "software",
+      "products": [
+        "Hikvision DVRs",
+        "Hikvision NVRs",
+        "Hikvision IP cameras",
+        "Other supported Hikvision devices"
+      ],
+      "source_url": "https://www.hikvision.com/uk/support/download/software/ivms4200-series/",
+      "download_url": null,
+      "access": "public",
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "iVMS-4200 V3.12.1.5_E - Software - Hikvision UK & Ireland",
+      "description": "Device management, live view and playback client; the UK page offers separate PC and Mac builds and release notes.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.hikvision.com/uk/support/download/software/ivms4200-series/",
+        "note": "Current UK page inspected. Title still says V3.12.1.5_E while download row names V3.14.2.4_E and a separate Mac build; no single version asserted. Download uses manufacturer agreement dialog; no binary retrieved."
+      }
+    },
+    {
+      "id": "hikvision-hitools-delivery",
+      "category": "cctv",
+      "brand": "Hikvision",
+      "name": "HiTools Delivery",
+      "resource_type": "software",
+      "products": [
+        "Supported Hikvision network devices"
+      ],
+      "source_url": "https://www.hikvision.com/uk/support/tools/hitools/cl7f0143d2c781a3e3/",
+      "download_url": null,
+      "access": "public",
+      "platforms": [
+        "Windows 10 or later",
+        "Windows Server 2016 or later"
+      ],
+      "version": "2.2.0.6",
+      "checked_on": "2026-11-17",
+      "official_title": "HiTools Delivery - HiTools - Hikvision UK & Ireland",
+      "description": "Device discovery, activation and batch configuration utility. Hikvision recommends it as the replacement for SADP.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.hikvision.com/uk/support/tools/hitools/cl7f0143d2c781a3e3/",
+        "note": "Official UK list and product page inspected. Public download control visible, but ZIP HEAD returned HTTP 403 in this environment, so no direct download URL exposed here. SADP retirement notice preserved in research audit."
+      }
+    },
+    {
+      "id": "hikvision-firmware-portal",
+      "category": "cctv",
+      "brand": "Hikvision",
+      "name": "UK firmware downloads — product selection",
+      "resource_type": "firmware-portal",
+      "products": [
+        "Hikvision (select exact model and region)"
+      ],
+      "source_url": "https://www.hikvision.com/uk/support/download/firmware/",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Firmware - Download - Hikvision UK & Ireland",
+      "description": "Generic UK firmware portal. Select the exact device model, region and installed version; this link does not certify any firmware as compatible.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "portal-only",
+        "final_url": "https://www.hikvision.com/uk/support/download/firmware/",
+        "note": "Official UK firmware landing page HTTP 200; no device-specific firmware package selected or checked."
+      }
+    },
+    {
+      "id": "dahua-tools-portal",
+      "category": "cctv",
+      "brand": "Dahua",
+      "name": "Dahua tools portal — ConfigTool / SmartPSS resources",
+      "resource_type": "software",
+      "products": [
+        "Dahua (select supported product/tool in portal)"
+      ],
+      "source_url": "https://support.dahuasecurity.com/en/tools",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Dahua Support — Tools",
+      "description": "Official tools portal linked from Dahua website navigation. Uses JavaScript; individual tool availability and access remain unverified.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "portal-only",
+        "final_url": "https://support.dahuasecurity.com/en/tools",
+        "note": "Dahua official website navigation names ConfigTool/SmartPSS in the Tools metadata and links this portal. GET returns HTTP 200 JavaScript shell only; no tools/downloads/version/platform verified."
+      }
+    },
+    {
+      "id": "hanwha-wisenet-device-manager",
+      "category": "cctv",
+      "brand": "Hanwha Vision",
+      "name": "Wisenet Device Manager",
+      "resource_type": "software",
+      "products": [
+        "Supported Hanwha network cameras and devices"
+      ],
+      "source_url": "https://www.hanwhavision.com/us/support/tools/wisenet-device-manager",
+      "download_url": "https://www.hanwhavision.com/api/download?url=https%3A%2F%2Fupload.hanwhavision.com%2Fhanwha-global%2F%2Ftools%2F2026%2F3%2F31235.zip&filename=31235.zip&metricTargetType=TOOLS_FILE&metricKey=5596&metricRegion=us",
+      "access": "public",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Wisenet Device Manager",
+      "description": "Discovers devices and supports batch configuration, reports and device management. Source is the official US regional download page.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-and-download-headers-verified",
+        "final_url": "https://www.hanwhavision.com/us/support/tools/wisenet-device-manager",
+        "note": "Official regional page and linked ZIP HEAD returned HTTP 200/application/zip. Download platform inferred from Microsoft prerequisites was deliberately not recorded as verified; version not inferred from manual filename. No binary retrieved or regional equivalence assumed."
+      }
+    },
+    {
+      "id": "axis-device-manager",
+      "category": "cctv",
+      "brand": "Axis Communications",
+      "name": "AXIS Device Manager",
+      "resource_type": "software",
+      "products": [
+        "Axis products supported by AXIS Device Manager"
+      ],
+      "source_url": "https://www.axis.com/support/tools/axis-device-manager",
+      "download_url": null,
+      "access": "registration-required",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "AXIS Device Manager | Axis Communications",
+      "description": "Device installation and management utility. The linked download form requests registration; existing customers have a separate download link.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.axis.com/support/tools/axis-device-manager",
+        "note": "Product page and /forms/axis-device-manager-download read. Registration request and existing-customer link both visible; form not submitted and no installer fetched."
+      }
+    },
+    {
+      "id": "axis-device-software",
+      "category": "cctv",
+      "brand": "Axis Communications",
+      "name": "Axis device software — product selection",
+      "resource_type": "firmware-portal",
+      "products": [
+        "Axis (select exact product)"
+      ],
+      "source_url": "https://www.axis.com/support/device-software",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Download device software | Axis Communications",
+      "description": "Generic manufacturer device-software selector. Product support and update tracks depend on the selected hardware.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "portal-only",
+        "final_url": "https://www.axis.com/support/device-software",
+        "note": "Official page HTTP 200 and selector inspected; no product-specific firmware package checked."
+      }
+    },
+    {
+      "id": "risco-vupoint-search-tool",
+      "category": "cctv",
+      "brand": "RISCO",
+      "name": "VUpoint AI Search Tool",
+      "resource_type": "software",
+      "products": [
+        "RISCO VUpoint AI devices"
+      ],
+      "source_url": "https://riscogroup.com/en/vupoint-ai-software-tools-page/",
+      "download_url": null,
+      "access": "public",
+      "platforms": [
+        "Windows",
+        "macOS"
+      ],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "AI Video Surveillance For Business & Residential Properties",
+      "description": "Network discovery and batch configuration utility with separate Windows and Mac downloads on the official VUpoint AI tools page.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://riscogroup.com/en/vupoint-ai-software-tools-page/",
+        "note": "Official tool description and both download controls inspected; packages not downloaded. Version not inferred from filenames."
+      }
+    },
+    {
+      "id": "paxton-net2-software",
+      "category": "access-control",
+      "brand": "Paxton",
+      "name": "Net2 software",
+      "resource_type": "software",
+      "products": [
+        "Net2"
+      ],
+      "source_url": "https://www.paxton-access.com/systems/net2/access-control-software/",
+      "download_url": null,
+      "access": "installer-account",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "Net2 and Net2Online Access Control Software | Paxton Access Control",
+      "description": "Net2 access-control software and updates via the Paxton Portal. Lite/Pro editions and licence features must be checked for the installation.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.paxton-access.com/systems/net2/access-control-software/",
+        "note": "Official UK software page links Software Download to the Paxton Portal login and states registered installers can obtain updates. No account used or download attempted."
+      }
+    },
+    {
+      "id": "tdsi-gardis-pro",
+      "category": "access-control",
+      "brand": "TDSi",
+      "name": "GARDiS PRO",
+      "resource_type": "software",
+      "products": [
+        "GARDiS"
+      ],
+      "source_url": "https://www.tdsi.co.uk/products/gardis-pro-software/",
+      "download_url": null,
+      "access": "account-required",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "GARDiS PRO Software - TDSI",
+      "description": "Access-control management software. TDSi product-registration accounts manage downloads/licensing; purchased options require valid activation.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.tdsi.co.uk/products/gardis-pro-software/",
+        "note": "Official product page plus Product Registration page inspected. Registration requires an account and software serial/product details; version and OS intentionally left unspecified."
+      }
+    },
+    {
+      "id": "ftdi-vcp-drivers",
+      "category": "other-reference",
+      "brand": "FTDI",
+      "name": "VCP drivers",
+      "resource_type": "driver",
+      "products": [
+        "FTDI USB interface chips (confirm cable chipset)"
+      ],
+      "source_url": "https://ftdichip.com/drivers/vcp-drivers/",
+      "download_url": null,
+      "access": "not-verified",
+      "platforms": [],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "VCP Drivers - FTDI",
+      "description": "Official Virtual COM Port driver page. Identify the USB interface chip and operating system first; this is not a universal panel-cable driver.",
+      "verification": {
+        "method": "Official domain search evidence; HTTPS GET attempted and blocked",
+        "status": "blocked",
+        "final_url": "https://ftdichip.com/drivers/vcp-drivers/",
+        "note": "Official search-index evidence identifies driver listing; direct HTTPS and web retrieval both received HTTP 403. Current download availability, versions and OS table not verified."
+      }
+    },
+    {
+      "id": "silabs-cp210x-vcp-drivers",
+      "category": "other-reference",
+      "brand": "Silicon Labs",
+      "name": "CP210x USB to UART Bridge VCP drivers",
+      "resource_type": "driver",
+      "products": [
+        "Silicon Labs CP210x USB-to-UART bridges"
+      ],
+      "source_url": "https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers",
+      "download_url": null,
+      "access": "public",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "version": null,
+      "checked_on": "2026-11-17",
+      "official_title": "CP210x USB to UART Bridge VCP Drivers - Silicon Labs",
+      "description": "Virtual COM Port drivers for CP210x interfaces. Confirm that the programming lead actually contains a supported CP210x device.",
+      "verification": {
+        "method": "HTTPS GET; official page content and outgoing links inspected",
+        "status": "page-verified",
+        "final_url": "https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers",
+        "note": "Official page names CP210x scope and OS download families. Individual OS version support, package links and installers not tested."
+      }
+    }
+  ],
+  "gaps": [
+    "Fike: The official current product-document page exposes a battery-calculation spreadsheet under Software Tools, not a verified OSP installer. A manufacturer Twinflex brochure identifies OSP part 505-0040, but that is not a download or licence check. Obtain the supported UK installer route from Fike; do not substitute a third-party binary.",
+    "Honeywell Gent / Notifier: Gent UK explicitly links the brand-filtered software portal, retained as a portal-only record. The portal returns a JavaScript application without a readable tool listing in this environment. Exact tools, model scope, permissions and versions still require authorised portal inspection. No Notifier tool or public-download entitlement is inferred.",
+    "Dahua: Manufacturer navigation links this tools portal and names ConfigTool/SmartPSS in metadata. The portal returns only a JavaScript shell to the checked clients. Exact packages, operating systems, releases and account requirements remain unverified; no direct binary URL was guessed.",
+    "RISCO: A current manufacturer CS download route was not established. VUpoint AI Search Tool is separately verified for CCTV and must not be represented as intruder-panel Configuration Software.",
+    "HKC: Official UK page confirms the product and purpose but no current download or registration link was exposed in the inspected content. Resource is labelled access not verified. Confirm the installer distribution process with HKC.",
+    "FTDI: Official search evidence identifies the driver page, but live HTTPS and web retrieval returned HTTP 403. Retain blocked status; do not claim a verified current release or working direct download.",
+    "Hanwha Vision: Official US product page and its publicly linked ZIP returned valid responses. Former global /en/support/online-tool and guessed UK route failed. The retained record explicitly identifies the US regional page; no claim of UK hardware/firmware equivalence.",
+    "Hikvision: Official UK page and product/version/OS details verified; the publicly linked ZIP returned HTTP 403 to HEAD in this environment. The source page remains the entry point. The UK list recommends moving from SADP to HiTools Delivery."
+  ]
+}

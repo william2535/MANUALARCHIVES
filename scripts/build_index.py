@@ -4,6 +4,7 @@ import collections,html,json,re,unicodedata
 from pathlib import Path
 from app_data import build_manifest, build_gap_audit, download_info
 from standards_data import standards_errors, render_standards_markdown
+from resource_data import resource_errors, render_collections
 ROOT=Path(__file__).resolve().parents[1]
 CATEGORIES={'fire':('01-fire','Fire'),'security':('02-security','Security / intruder'),'access-control':('03-access-control','Access control / door entry'),'cctv':('04-cctv','CCTV'),'warden-call':('06-warden-call','Warden call / telecare / nurse call'),'other-reference':('07-other-references','Building controls / other references')}
 def slug(value):
@@ -13,7 +14,9 @@ def md(value):return str(value or 'Not recorded').replace('|','\\|').replace('\n
 def main():
     catalogue=json.loads((ROOT/'data/catalogue.json').read_text());records=catalogue['records'];generated=[]
     standards=json.loads((ROOT/'data/standards.json').read_text())
-    problems=standards_errors(standards)
+    aov=json.loads((ROOT/'data/aov.json').read_text())
+    software=json.loads((ROOT/'data/software.json').read_text())
+    problems=standards_errors(standards)+resource_errors(aov,software,catalogue)
     if problems:raise ValueError('\n'.join(problems))
     previous=json.loads((ROOT/'data/generated-files.json').read_text())if(ROOT/'data/generated-files.json').exists()else []
     def write(path,text):
@@ -78,7 +81,10 @@ def main():
             source_doc.append(f'| [{md(brand["brand"])}](https://facpmanuals.com/manuals/{brand["brand_slug"]}) | {len(entries):,} | {len({r["record_id"]for r in entries}):,} | {sum(r["download_status"]=="complete-file"for r in entries):,} |')
         source_doc+=['','## Evidence and limits','',f'[Every source listing and its mapped record]({facp_link}) · [Inventory/sitemap reconciliation](data/source-audits/facp-inventory-reconciliation-2026-10-21.json)','', 'Complete-file checks mean the PDF was downloaded, hashed, checked for its header/EOF and parsed for page count. They do not establish the latest issue, UK applicability, verified language, firmware compatibility or redistribution rights. FACP source-listed years remain labelled as such. Its referenced-model lists are not promoted into primary model applicability. This is a dated snapshot, not automatic monitoring.']
         write('FACP_COLLECTION.md','\n'.join(source_doc))
+    position=readme.index('## Search and app data')-1
+    readme[position:position]=['','## AOV / smoke ventilation','',f'**{len(aov["record_ids"])} document records**, grouped by brand for UK smoke-ventilation work. Existing Fire IDs and model links are preserved. Datasheets, older editions and unresolved sources retain their actual evidence labels.','', '[Browse AOV brands](08-aov/README.md) · [Search AOV manuals](index.html#aov) · [Collection feed](data/aov.json)','','## Panel / NVR software and drivers','',f'**{len(software["records"])} official resource links**, separate from the PDF catalogue. Public, registration and installer-access resources are labelled. No installers or firmware are mirrored or executed.','', '[Browse software by brand](09-software-drivers/README.md) · [Search software](index.html#software) · [Structured feed](data/software.json)']
     write('README.md','\n'.join(readme))
+    render_collections(aov,software,catalogue,write,slug,md)
     write('05-british-standards/README.md',render_standards_markdown(standards))
     coverage=['# Coverage and outstanding work','',f'Collection date: {catalogue["generated_on"]}. Counts are catalogue records, not downloaded files or a claim of completeness.','','## Brands','','| Brand | Records | Direct PDF links |','|---|---:|---:|']
     for brand,n in sorted(brand_counts.items()):coverage.append(f'| {brand} | {n} | {sum(r["brand"]==brand and bool(r.get("download_url"))for r in records)} |')
@@ -110,6 +116,7 @@ def main():
         if row.get('document_types'):browser_row['document_types']=row['document_types']
         if row.get('duplicate_of'):browser_row['duplicate_of']=row['duplicate_of']
     template=(ROOT/'scripts/index-template.html').read_text()
+    template=template.replace('__SOFTWARE_DATA__',json.dumps(software,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__SOFTWARE_SCRIPT__',(ROOT/'scripts/software-browser.js').read_text())
     template=template.replace('__STANDARDS_DATA__',json.dumps(standards,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__STANDARDS_SCRIPT__',(ROOT/'scripts/standards-browser.js').read_text())
     write('index.html',template.replace('__CATALOGUE_DATA__',json.dumps(browser_records,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')).replace('__COUNT__',f'{len(records):,}').replace('__DATE__',catalogue['generated_on']))
     write('data/generated-files.json',json.dumps(sorted(generated),indent=2))

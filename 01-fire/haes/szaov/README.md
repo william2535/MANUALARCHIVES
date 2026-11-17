@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [SZAOV Instruction Manual](https://haes-tech.com/app/uploads/2021/12/SZAOV-instruction-Manual.pdf) | installation | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://haes-tech.com/downloads/szaov-instruction-manual) |
+| [SZAOV control panel installation, commissioning & operating manual](https://haes-tech.com/app/uploads/2021/12/SZAOV-instruction-Manual.pdf) | installation | UI-SZAOV-01 | Issue 2.2 | pdf-indexed | [Manufacturer](https://haes-tech.com/downloads/szaov-instruction-manual) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

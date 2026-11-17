@@ -1,6 +1,6 @@
 # Coverage and outstanding work
 
-Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded files or a claim of completeness.
+Catalogue build date: 2026-11-17. Counts are catalogue records, not downloaded files or a claim of completeness.
 
 ## Brands
 
@@ -51,7 +51,9 @@ Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded f
 | Chemetron | 4 | 4 |
 | Comelit | 156 | 156 |
 | Cornell Communications | 10 | 10 |
+| Custom Electronics | 5 | 5 |
 | Cygnus | 3 | 3 |
+| D+H | 3 | 3 |
 | DITEK | 76 | 76 |
 | DMP | 4 | 4 |
 | DSC | 1 | 1 |
@@ -141,6 +143,7 @@ Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded f
 | Radionics | 67 | 67 |
 | Risco | 89 | 89 |
 | SDi | 7 | 7 |
+| SE Controls | 3 | 3 |
 | STI | 2 | 2 |
 | Safe Fire Detection | 12 | 12 |
 | Salto | 239 | 239 |
@@ -181,6 +184,7 @@ Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded f
 | Visonic | 9 | 9 |
 | WattMaster | 32 | 32 |
 | Wheelock | 252 | 252 |
+| WindowMaster | 12 | 12 |
 | Xtralis | 10 | 10 |
 | Zeta | 35 | 35 |
 | Ziton | 11 | 11 |
@@ -191,8 +195,8 @@ Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded f
 |---|---:|---|
 | document-viewer | 4 | Manufacturer links to a document viewer; download manually through that viewer. |
 | online-manual | 235 | Manufacturer publishes a web manual; use its PDF export or print option where available. |
-| pdf-indexed | 10253 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
-| pdf-link-listed | 1869 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
+| pdf-indexed | 10281 | PDF retrieved and page count identified. Per-record evidence distinguishes retrieval-service indexing from complete-file local checks; no copy is mirrored here. |
+| pdf-link-listed | 1864 | A PDF download was listed by the cited source; per-record header or checksum evidence is retained where checked. |
 | retrieval-failed | 13 | Source was identified but retrieval failed or exceeded the retrieval service’s limits. |
 | source-listing | 3 | Document title listed by manufacturer; a usable direct download is still unresolved. |
 
@@ -200,16 +204,16 @@ Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded f
 
 | Type | Records |
 |---|---:|
-| application-note | 375 |
+| application-note | 376 |
 | brochure | 165 |
 | catalogue-page | 276 |
 | compatibility-chart | 39 |
 | datasheet | 3940 |
-| diagram | 146 |
-| installation | 4330 |
-| programming | 139 |
-| quick-start | 186 |
-| reference | 1169 |
+| diagram | 148 |
+| installation | 4347 |
+| programming | 140 |
+| quick-start | 187 |
+| reference | 1170 |
 | submittal-guide | 4 |
 | troubleshooting | 77 |
 | user | 2 |
@@ -222,7 +226,7 @@ Catalogue build date: 2026-10-28. Counts are catalogue records, not downloaded f
 | archive | 8518 |
 | distributor | 46 |
 | installer | 700 |
-| manufacturer | 3113 |
+| manufacturer | 3136 |
 
 Manufacturer sources are preferred. Installer, distributor and independent archive copies are explicitly labelled; filenames are navigation aids and may be abbreviated. A listed PDF URL is not evidence of technical applicability or a current issue.
 
@@ -256,6 +260,7 @@ Manufacturer sources are preferred. Installer, distributor and independent archi
 - 2026-10-28: added the user-supplied Protec 3000PLUS/BASE and 6000PLUS/BASE standard-base datasheet and wiring diagrams as one shared record (MED2042 Issue 2, two pages). The manufacturer download matched the supplied PDF byte-for-byte; complete-file checksum and printed document details were checked. Total: 12,063 records, including eight Protec records.
 - Device expansion: 250 complete-file-checked document additions across fire (68), intruder (10), access control (41), CCTV (9), telecare (100) and supporting equipment (22). See DEVICE_COVERAGE.md and data/source-audits/devices-2026-10-28.json.
 - Device expansion completed for the collected batch: 314 additions across six equipment categories, including 311 complete-file checks and three remotely parsed Orisec originals whose local file downloads remain blocked. Existing Texecom/Apollo/Hochiki/Nittan/Paxton device coverage retained. See DEVICE_COVERAGE.md and data/source-audits/devices-2026-10-28.json.
+- 17 November: added the AOV brand collection with 28 complete-file-checked PDFs (23 new and five refreshed Haes records), plus a separate 30-resource official panel/NVR software and driver directory. Existing IDs, Fire model folders and PDF feed contract preserved.
 
 ## Known gaps
 
@@ -276,6 +281,7 @@ Manufacturer sources are preferred. Installer, distributor and independent archi
 - Phone application implementation, persistent on-device storage and real-device offline testing remain separate work; the versioned app manifest and integration contract are now available.
 - The complete FACP snapshot is imported, but source-listed titles/years, model applicability, language, market and current edition remain unverified unless independently evidenced. Every source remains mapped in the FACP audit; archive coverage is not a claim that all documents are appropriate to UK systems.
 - Device batch gaps: complete local checks for three Orisec INCERT DT-200 manuals; current Pyronix share-page downloads and further Risco/BWare variants; camera firmware/region and model coverage beyond the inspected families. Source-specific failures and held model conflicts are in data/source-audits/devices-2026-10-28.json.
+- AOV: Group SCS direct retrieval blocked (202 HTML); Colt/Adexon manuals and wider brand inventory remain gaps. Software: dynamic/gated downloads and all installer contents/platform compatibility remain untested. See data/aov.json and data/software.json.
 
 ## Records without direct PDF links
 
@@ -336,7 +342,9 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Chemetron**: [source 1](https://facpmanuals.com/manuals/chemetron)
 - **Comelit**: [source 1](https://pro.comelitgroup.com/en-gb/downloads/cctv/technical-sheets-5/generic-documents-1), [source 2](https://pro.comelitgroup.com/en-gb/downloads/door-entry-systems-kits-1/technical-manuals-3/audio-internal-units-1), [source 3](https://pro.comelitgroup.com/en-gb/downloads/fire-detection/technical-documents-1), [source 4](https://pro.comelitgroup.com/en-gb/downloads/intruder-alarm/technical-documents-2), [source 5](https://pro.comelitgroup.com/en-gb/downloads/vip-system-3/technical-manuals-4/generic-documents-6)
 - **Cornell Communications**: [source 1](https://facpmanuals.com/manuals/cornell_communications/4000-series_nurse_call_systems-datasheet-d4000p-3), [source 2](https://facpmanuals.com/manuals/cornell_communications/4200_series_rescue_assistance_system-operations-2010), [source 3](https://facpmanuals.com/manuals/cornell_communications/8010-281_series_for_4200_rescue_assistance-wiring-diagram-2010-revd4200w-e), [source 4](https://facpmanuals.com/manuals/cornell_communications/a-4200_series_annunciator_panels-datasheet-2012), [source 5](https://facpmanuals.com/manuals/cornell_communications/b-5243b_power_supply-datasheet), [source 6](https://facpmanuals.com/manuals/cornell_communications/b-5248a_power_supply-datasheet), [source 7](https://facpmanuals.com/manuals/cornell_communications/p-512241a_and_p-512243a_power_supply-datasheet), [source 8](https://facpmanuals.com/manuals/cornell_communications/p-512241a_power_supply-datasheet-dp51221ac), [source 9](https://facpmanuals.com/manuals/cornell_communications/rc-400d_transmitter_receiver-datasheet-2003-rev081003), [source 10](https://facpmanuals.com/manuals/cornell_communications/sw-510_hand-held_pendant_call_cord-datasheet)
+- **Custom Electronics**: [source 1](https://www.customelectronicsltd.com/aovcontrols/user%20guides.php)
 - **Cygnus**: [source 1](https://facpmanuals.com/manuals/cygnus)
+- **D+H**: [source 1](https://downloads.dh-partner.com/en?languages=en&sword=CPS-P), [source 2](https://www.dh-partner.com/uk/en/products/controllers/productDetail/61289/RZN-4503-T), [source 3](https://www.dh-partner.com/uk/en/products/controllers/productDetail/61299/RZN-4408-K)
 - **DITEK**: [source 1](https://facpmanuals.com/manuals/ditek)
 - **DMP**: [source 1](https://facpmanuals.com/manuals/dmp)
 - **DSC**: [source 1](https://facpmanuals.com/manuals/dsc)
@@ -426,6 +434,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Radionics**: [source 1](https://facpmanuals.com/manuals/radionics)
 - **Risco**: [source 1](https://riscogroup.com/en/rscm_product/agility-4/), [source 2](https://riscogroup.com/en/rscm_product/industrial-lunar-ceiling-detector/), [source 3](https://riscogroup.com/en/rscm_product/keyfob/), [source 4](https://riscogroup.com/en/rscm_product/keypads/), [source 5](https://riscogroup.com/en/rscm_product/lightsys-2/), [source 6](https://riscogroup.com/en/rscm_product/lightsys-air/), [source 7](https://riscogroup.com/en/rscm_product/lightsys/), [source 8](https://riscogroup.com/en/rscm_product/riscontrol-smart-home-controller/), [source 9](https://riscogroup.com/en/rscm_product/smart-accessories/), [source 10](https://riscogroup.com/en/rscm_product/wicomm-pro/), [source 11](https://www.casmarglobal.com/media/akeneo_connector/media_files/M/I/MI_INTRUSI__N_IWISE_DT25_AM_G3_9ec2.pdf), [source 12](https://www.pahedomotica.nl/wp-content/uploads/5IN1749_BWare-DT-G2-Detector-Installation-Instructions_multi.pdf), [source 13](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **SDi**: [source 1](https://facpmanuals.com/manuals/sdi)
+- **SE Controls**: [source 1](https://www.secontrols.com/en-gb/products/control-systems/os2-shevtec-controller/), [source 2](https://www.secontrols.com/en-gb/products/control-systems/osloop-control-system/), [source 3](https://www.secontrols.com/en-gb/products/control-systems/shevtec-repeater-panel/)
 - **STI**: [source 1](https://facpmanuals.com/manuals/sti)
 - **Safe Fire Detection**: [source 1](https://facpmanuals.com/manuals/safe_fire_detection)
 - **Salto**: [source 1](https://softwarearea.saltosystems.com/files/documentos/SPACE/ProAccess_SPACE_2_0_User_Manual.pdf), [source 2](https://support.saltosystems.com/installation-guides/controllers/bluenet/), [source 3](https://support.saltosystems.com/installation-guides/controllers/cu4000/), [source 4](https://support.saltosystems.com/installation-guides/cylinders/geo/), [source 5](https://support.saltosystems.com/installation-guides/cylinders/neo/), [source 6](https://support.saltosystems.com/installation-guides/electronic-locks/accessories/), [source 7](https://support.saltosystems.com/installation-guides/electronic-locks/aelement/), [source 8](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-mini/), [source 9](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-one-s/), [source 10](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-one/), [source 11](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-original-plus/), [source 12](https://support.saltosystems.com/installation-guides/electronic-locks/xs4-original/), [source 13](https://support.saltosystems.com/installation-guides/energy-saving-devices/universal/), [source 14](https://support.saltosystems.com/installation-guides/energy-saving-devices/xs4sense/), [source 15](https://support.saltosystems.com/installation-guides/face-recognition/xs4face/), [source 16](https://support.saltosystems.com/installation-guides/home-smart-locks/danalock/), [source 17](https://support.saltosystems.com/installation-guides/home-smart-locks/dbolt/), [source 18](https://support.saltosystems.com/installation-guides/home-smart-locks/dlok/), [source 19](https://support.saltosystems.com/installation-guides/locker-locks/eco-lock/), [source 20](https://support.saltosystems.com/installation-guides/locker-locks/xs4/), [source 21](https://support.saltosystems.com/installation-guides/mortise-locks/eco-lock/), [source 22](https://support.saltosystems.com/installation-guides/padlocks/geo/), [source 23](https://support.saltosystems.com/installation-guides/padlocks/neoxx/), [source 24](https://support.saltosystems.com/installation-guides/peripherals/bluenet-wireless/), [source 25](https://support.saltosystems.com/installation-guides/peripherals/management-tools/), [source 26](https://support.saltosystems.com/installation-guides/readers/design-xs/), [source 27](https://support.saltosystems.com/installation-guides/readers/glass-xs/), [source 28](https://support.saltosystems.com/installation-guides/readers/modular-xs/), [source 29](https://support.saltosystems.com/installation-guides/readers/mullion-xs/), [source 30](https://support.saltosystems.com/installation-guides/readers/panel-xs/)
@@ -466,6 +475,7 @@ The full queue is in [data/research-backlog.json](data/research-backlog.json). T
 - **Visonic**: [source 1](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **WattMaster**: [source 1](https://facpmanuals.com/manuals/wattmaster)
 - **Wheelock**: [source 1](https://facpmanuals.com/manuals/wheelock)
+- **WindowMaster**: [source 1](https://www.windowmaster.com/products/accessories/break-glass-units/wsk-501/), [source 2](https://www.windowmaster.com/products/controllers/wsc-104/), [source 3](https://www.windowmaster.com/products/controllers/wsc-106-mh-s/), [source 4](https://www.windowmaster.com/products/controllers/wsc-204/), [source 5](https://www.windowmaster.com/products/controllers/wsc-310-320-standard/), [source 6](https://www.windowmaster.com/products/controllers/wsc-310-plus/), [source 7](https://www.windowmaster.com/products/controllers/wsc-520/)
 - **Xtralis**: [source 1](https://facpmanuals.com/manuals/xtralis)
 - **Zeta**: [source 1](https://facpmanuals.com/manuals/zeta), [source 2](https://www.ukwatchsecurity.co.uk/engineers.php)
 - **Ziton**: [source 1](https://facpmanuals.com/manuals/ziton), [source 2](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/installation_manual/503-1160ze-i-15_zp3_fire_control_panel_installation_manual_en.pdf), [source 3](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/operation_manual/00-3251-505-0003-07_zp2_series_operation_manual_en.pdf), [source 4](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/quick_installation_guide/00-3251-507-0003-06_zp2_series_quick_installation_guide_en.pdf), [source 5](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2022/user_manual/503-1160ze-u-14_zp3_fire_panel_user_guide_en_0.pdf), [source 6](https://pim.firesecurityproducts.com/sites/default/files/product_downloads/2023/installation_manual/00-3251-501-0003-07_it.b_zp2_series_installation_manual_en.pdf)
@@ -476,13 +486,13 @@ This audit covers every indexed record, with model/type coverage for every recor
 
 | Review flag | Records |
 |---|---:|
-| complete-file-check-needed | 2,949 |
-| document-number-unrecorded | 10,893 |
+| complete-file-check-needed | 2,944 |
+| document-number-unrecorded | 10,901 |
 | download-url-unresolved | 3 |
-| language-unverified | 11,554 |
+| language-unverified | 11,549 |
 | model-applicability-review-needed | 9,088 |
 | possible-duplicate-review-needed | 1 |
-| region-unverified | 12,357 |
+| region-unverified | 12,380 |
 | retrieval-failed | 13 |
 | revision-review-needed | 11,820 |
 | source-metadata-conflict | 31 |
@@ -495,9 +505,9 @@ See [machine-readable gap audit](data/gap-audit.json) for exact record IDs, per-
 
 | Evidence / status | Records |
 |---|---:|
-| complete-file | 9,186 |
-| file-hash | 265 |
-| listed | 1,603 |
+| complete-file | 9,214 |
+| file-hash | 264 |
+| listed | 1,599 |
 | pdf-header | 1 |
 | pdf-indexed | 1,067 |
 | retrieval-failed | 13 |

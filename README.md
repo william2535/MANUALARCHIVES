@@ -2,16 +2,16 @@
 
 Fire, security, access control, CCTV, warden call, telecare and nurse-call manuals and technical references, organised for the FESS onsite guide. This is a growing source catalogue, not a complete collection of every manufacturer or model.
 
-**12,377 document records · 178 brands · 12,135 direct PDF links · 0 PDF files mirrored**
+**12,400 document records · 182 brands · 12,158 direct PDF links · 0 PDF files mirrored**
 
-Catalogue build date: 2026-10-28. A check date does not mean a document is the latest revision.
+Catalogue build date: 2026-11-17. A check date does not mean a document is the latest revision.
 **[New device manuals and category links](DEVICE_COVERAGE.md)** — DTs/PIRs, smokes, sounders, readers, locks, cameras, power supplies and telecare sensors.
 
 ## Browse by system
 
 | Category | Documents |
 |---|---:|
-| [Fire](01-fire/README.md) | 8,794 |
+| [Fire](01-fire/README.md) | 8,817 |
 | [Security / intruder](02-security/README.md) | 1,101 |
 | [Access control / door entry](03-access-control/README.md) | 992 |
 | [CCTV](04-cctv/README.md) | 986 |
@@ -45,6 +45,18 @@ python3 scripts/download.py --collection facp
 
 This selection includes fire, security, care-call and other references. Add `--category fire` to select the fire section. Source-listed years and titles are retained; the import does not certify the latest edition or UK applicability.
 
+## AOV / smoke ventilation
+
+**28 document records**, grouped by brand for UK smoke-ventilation work. Existing Fire IDs and model links are preserved. Datasheets, older editions and unresolved sources retain their actual evidence labels.
+
+[Browse AOV brands](08-aov/README.md) · [Search AOV manuals](index.html#aov) · [Collection feed](data/aov.json)
+
+## Panel / NVR software and drivers
+
+**30 official resource links**, separate from the PDF catalogue. Public, registration and installer-access resources are labelled. No installers or firmware are mirrored or executed.
+
+[Browse software by brand](09-software-drivers/README.md) · [Search software](index.html#software) · [Structured feed](data/software.json)
+
 ## Search and app data
 
 - Download or clone this repository, then open **`index.html`** in your browser. Its catalogue and search work offline; opening source documents requires a connection until you download them.
@@ -55,7 +67,7 @@ This selection includes fire, security, care-call and other references. Add `--c
 
 [`data/app-manifest.json`](data/app-manifest.json) is the versioned download feed for a phone app. It keeps stable record IDs, model associations, source provenance, verification dates, file sizes and SHA-256 checksums where known. A direct link alone is not a verified download.
 
-Current evidence: **9,186 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
+Current evidence: **9,214 complete-file checks**; other records retain their actual evidence level. The feed never claims a manual is saved on a device.
 
 See [app integration](APP_INTEGRATION.md) for the feed contract, download validation, local storage and version retention. The archive remains the catalogue; a phone app must download and retain the selected PDFs before offline use.
 

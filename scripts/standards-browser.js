@@ -51,10 +51,16 @@ for(const id of ['standards-search','standards-category','standards-update','sta
 $('standards-clear').addEventListener('click',()=>{for(const id of ['standards-search','standards-category','standards-update'])$(id).value='';$('standards-access').value='free';standardsLimit=25;renderStandards();});
 $('standards-more').addEventListener('click',()=>{standardsLimit+=25;renderStandards();});
 function showArchiveSection(){
-  const standards=location.hash==='#standards';
-  $('manual-panel').hidden=standards;$('standards-panel').hidden=!standards;
-  $('nav-manuals').setAttribute('aria-current',standards?'false':'page');
-  $('nav-standards').setAttribute('aria-current',standards?'page':'false');
+  const section=location.hash==='#standards'?'standards':location.hash==='#software'?'software':location.hash==='#aov'?'aov':'manuals';
+  $('manual-panel').hidden=section==='standards'||section==='software';
+  $('standards-panel').hidden=section!=='standards';
+  $('software-panel').hidden=section!=='software';
+  $('aov-intro').hidden=section!=='aov';
+  for(const name of ['manuals','aov','software','standards'])$('nav-'+name).setAttribute('aria-current',section===name?'page':'false');
+  if(section==='aov'){
+    for(const id of ['search','category','brand','type','download-status'])$(id).value='';
+    $('collection').value='aov';limit=50;render();
+  }else if(section==='manuals'&&$('collection').value==='aov'){$('collection').value='';render();}
 }
 window.addEventListener('hashchange',showArchiveSection);
 renderStandards();showArchiveSection();

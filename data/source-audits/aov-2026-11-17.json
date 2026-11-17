@@ -1,0 +1,386 @@
+{
+  "checked_on": "2026-11-17",
+  "record_count": 28,
+  "existing_corrections": 5,
+  "new_records": 23,
+  "brands": {
+    "Haes": 5,
+    "SE Controls": 3,
+    "Custom Electronics": 5,
+    "D+H": 3,
+    "WindowMaster": 12
+  },
+  "complete_file_sha256_distinct": 28,
+  "pages": 1060,
+  "private_download_bytes": 80178700,
+  "public_distribution": "source-link-only",
+  "records": [
+    {
+      "record_id": "haes-7fa8ec23fbf5",
+      "action": "correct-existing",
+      "official_source": "https://haes-tech.com/downloads/aov-instruction-manual",
+      "download_url": "https://haes-tech.com/app/uploads/2020/09/AOV-Manual.pdf",
+      "inspection_evidence": "PDF pages 1–2 and model table page 5 identify issue and exact models.",
+      "notes": "Manufacturer-hosted Issue 7.0; distinct from the installer-hosted Issue 4.0, which is retained.",
+      "source_pdf_sha256": "61127ceac1f3880f62972eebdc149a823d4980e2659c9316fa698e8f29e5f65e",
+      "source_pdf_bytes": 3313545,
+      "page_count": 36
+    },
+    {
+      "record_id": "haes-6ff0a33c817c",
+      "action": "correct-existing",
+      "official_source": "https://www.ukwatchsecurity.co.uk/engineers.php",
+      "download_url": "https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Haes-AOV-Instruction-Manual.pdf",
+      "inspection_evidence": "PDF pages 1–2 state Issue 4.0, software version 1.1 and above, and exact panel models.",
+      "notes": "Legacy installer-hosted edition for software 1.1 and above; retained separately from manufacturer Issue 7.0. Complete hash matches the previously stored header-check record.",
+      "source_pdf_sha256": "659e73715574c31839c76f66fa44c2fa358f064d0b1444e520d1b89bd44c0c7d",
+      "source_pdf_bytes": 426536,
+      "page_count": 36
+    },
+    {
+      "record_id": "haes-9c890b6b4d36",
+      "action": "correct-existing",
+      "official_source": "https://haes-tech.com/downloads/mzaov-instruction-manual",
+      "download_url": "https://haes-tech.com/app/uploads/2021/01/MZAOV-Instruction-Manual.pdf",
+      "inspection_evidence": "PDF pages 1–2 and page 9 identify manual, issue and four panel variants.",
+      "notes": null,
+      "source_pdf_sha256": "6bc515598f28d92a188afaa20273de8dfb116711083d1a8ecabaa4778d85719e",
+      "source_pdf_bytes": 2839780,
+      "page_count": 94
+    },
+    {
+      "record_id": "haes-c018de9853dd",
+      "action": "correct-existing",
+      "official_source": "https://haes-tech.com/downloads/szaov-instruction-manual",
+      "download_url": "https://haes-tech.com/app/uploads/2021/12/SZAOV-instruction-Manual.pdf",
+      "inspection_evidence": "PDF pages 1–2 identify manual, Issue 2.2 and model SZAOV-1001.",
+      "notes": null,
+      "source_pdf_sha256": "e15ebe1122cc908f2c8e1f2ca1e8b2aef2c1d441424b2ac389a868319eaabf5d",
+      "source_pdf_bytes": 1651081,
+      "page_count": 47
+    },
+    {
+      "record_id": "haes-ca8ad41c5c28",
+      "action": "correct-existing",
+      "official_source": "https://haes-tech.com/downloads/mzaov-config-software-manual",
+      "download_url": "https://haes-tech.com/app/uploads/2021/03/MZAOVConfigSWManual1_0.pdf",
+      "inspection_evidence": "PDF cover describes MAOV configuration software; PDF page 2 prints UI-MAOVCSW-03 Issue 1.0. Official MZAOV download listing associates this manual.",
+      "notes": "Document uses MAOV terminology; original catalogue MZAOV family association retained with that ambiguity explicit. This is a PDF software guide, not downloadable executable software.",
+      "source_pdf_sha256": "44e6309c1498efcf417202c05452460d63aab0529d617a8dbacde577ea55937f",
+      "source_pdf_bytes": 1361072,
+      "page_count": 15
+    },
+    {
+      "record_id": "se-controls-27424bee46eb",
+      "action": "add",
+      "official_source": "https://www.secontrols.com/en-gb/products/control-systems/osloop-control-system/",
+      "download_url": "https://www.secontrols.com/getattachment/Products/Control-Systems/OSLoop-Control-System/SEC_4868_OSLOOP-Control-System_O-M-10-24.pdf?lang=en-GB",
+      "inspection_evidence": "PDF page 1 title and SEC_4868 10.24 issue marking; introduction describes OSLoop coordinator and MCP system.",
+      "notes": null,
+      "source_pdf_sha256": "d8ec38c994db687a6d7178c03647f75b8641c9d54d02da4da22ee9c516fcc395",
+      "source_pdf_bytes": 2168055,
+      "page_count": 24
+    },
+    {
+      "record_id": "se-controls-ced9258f135c",
+      "action": "add",
+      "official_source": "https://www.secontrols.com/en-gb/products/control-systems/os2-shevtec-controller/",
+      "download_url": "https://www.secontrols.com/getattachment/Products/Control-Systems/OS2-SHEVTEC-Controller/SEC_4879_OS2-SHEVTEC-Controller-O-M-03-24-1-6-(9).pdf?lang=en-GB",
+      "inspection_evidence": "PDF page 1 title and SEC_4879 03.24 issue marking; application identifies OS2 SHEVTEC Controller.",
+      "notes": null,
+      "source_pdf_sha256": "b7c21b674737e3f5b31ad61cabf9b0239694b27d9b6c25ae9f5e6f7d92d53339",
+      "source_pdf_bytes": 2459768,
+      "page_count": 26
+    },
+    {
+      "record_id": "se-controls-8be81fcbbd49",
+      "action": "add",
+      "official_source": "https://www.secontrols.com/en-gb/products/control-systems/shevtec-repeater-panel/",
+      "download_url": "https://www.secontrols.com/getattachment/Products/Control-Systems/SHEVTEC-Repeater-Panel/SEC_4768_Repeater_Panel__O-M.pdf?lang=en-GB",
+      "inspection_evidence": "PDF page 1 title and SEC_4768 02.25 issue; application explicitly names OS2 OSLink and OSLoop systems.",
+      "notes": "Product-specific repeater instructions; relationship to OS2 OSLink/OSLoop is explicitly documented, not inferred from manufacturer name.",
+      "source_pdf_sha256": "8bb8422f2a1c09970a16dc4fdc2b9e11879958f20b3b8f0ee48e757a2c37e507",
+      "source_pdf_bytes": 405431,
+      "page_count": 10
+    },
+    {
+      "record_id": "custom-electronics-21751d7e3a8d",
+      "action": "add",
+      "official_source": "https://www.customelectronicsltd.com/aovcontrols/user%20guides.php",
+      "download_url": "https://www.customelectronicsltd.com/docs/aov-single-manual-2013.pdf",
+      "inspection_evidence": "PDF page 1 lists exact models and DOC-140A. No separately printed revision/date established; 2013 filename is not treated as revision.",
+      "notes": null,
+      "source_pdf_sha256": "5bb94f5c15d16e3a4d636c3d680895bdf6c8356793e31b7e5938dbe3e93885ce",
+      "source_pdf_bytes": 1436431,
+      "page_count": 6
+    },
+    {
+      "record_id": "custom-electronics-7ddc2b8c509e",
+      "action": "add",
+      "official_source": "https://www.customelectronicsltd.com/aovcontrols/user%20guides.php",
+      "download_url": "https://www.customelectronicsltd.com/docs/aov-single-zone-one-fix-V4.pdf",
+      "inspection_evidence": "Rendered PDF page 1 checked visually: printed title and bottom-right Document Version 4 (08/2018). Exact applicable panel part number not established.",
+      "notes": "Image-only PDF; text extraction returns no usable text. Readable wiring guide visually inspected; OCR required for searchable text.",
+      "source_pdf_sha256": "70e26e12df7ca78a8d0deb84921a1d82cf39ab5353e81b18c443401243c7d734",
+      "source_pdf_bytes": 1441689,
+      "page_count": 1
+    },
+    {
+      "record_id": "custom-electronics-a8e307287c84",
+      "action": "add",
+      "official_source": "https://www.customelectronicsltd.com/aovcontrols/user%20guides.php",
+      "download_url": "https://www.customelectronicsltd.com/docs/aov-multi-user-guide.pdf",
+      "inspection_evidence": "PDF page 1 states manufacturer, title, March 2008 and Version 1a. Exact current product-code mapping not established.",
+      "notes": null,
+      "source_pdf_sha256": "f00a5d43235939bed1fced64abc70a308a2bee0b5c3b1c5020bc7e02184c65a9",
+      "source_pdf_bytes": 1507589,
+      "page_count": 17
+    },
+    {
+      "record_id": "custom-electronics-476550b92374",
+      "action": "add",
+      "official_source": "https://www.customelectronicsltd.com/aovcontrols/user%20guides.php",
+      "download_url": "https://www.customelectronicsltd.com/docs/AOV-Multi-Zone-4-Page-Quick-Installation-Guide.pdf",
+      "inspection_evidence": "Rendered PDF page 1 checked visually: title and Custom Electronics/AOV Controls publisher branding. Manufacturer library labels it a four-page quick installation guide; no document revision verified.",
+      "notes": "Image-only four-page PDF; extracted text is empty. Rendered first-page identity reviewed, but OCR required for searchable instructions.",
+      "source_pdf_sha256": "aa8c5414c60b464e5396d41e29750acbf71c3b77508f4884eaebddfb627bc14e",
+      "source_pdf_bytes": 3831652,
+      "page_count": 4
+    },
+    {
+      "record_id": "custom-electronics-b627f07d1a41",
+      "action": "add",
+      "official_source": "https://www.customelectronicsltd.com/aovcontrols/user%20guides.php",
+      "download_url": "https://www.customelectronicsltd.com/docs/vcs-004-007-multi-wiring.pdf",
+      "inspection_evidence": "PDF page 1 explicitly identifies single-zone AOV-001/003/005 and C variants; page 2 labels 5-zone and 10–15-zone AOV layouts. No separately printed revision established.",
+      "notes": "The library/file calls this VCS-004/007 multi wiring, while printed diagrams describe three-position rocker/key switches. Title follows inspected content; compatibility remains limited to the depicted boards/variants.",
+      "source_pdf_sha256": "27b5027f1c167c97b01bf492e8e9df235f0c95938a5e3d64233a8d561d4f173a",
+      "source_pdf_bytes": 107625,
+      "page_count": 2
+    },
+    {
+      "record_id": "d-h-0b9ecd13c5f9",
+      "action": "add",
+      "official_source": "https://www.dh-partner.com/uk/en/products/controllers/productDetail/61289/RZN-4503-T",
+      "download_url": "https://www.dh-partner.com/getDownloadById/107279",
+      "inspection_evidence": "PDF page 1 prints RZN 4503-T and 99.825.18 2.6/07/24; English original instructions start at PDF page 18.",
+      "notes": "Combined German/English document; English section starts at PDF page 18. Manufacturer UK product page links this exact document.",
+      "source_pdf_sha256": "06baaa2069de75defcf282257653fd24503f6a3f67495fc14310847795133174",
+      "source_pdf_bytes": 3435271,
+      "page_count": 32
+    },
+    {
+      "record_id": "d-h-83f9d222f378",
+      "action": "add",
+      "official_source": "https://www.dh-partner.com/uk/en/products/controllers/productDetail/61299/RZN-4408-K",
+      "download_url": "https://www.dh-partner.com/getDownloadById/24201",
+      "inspection_evidence": "PDF page 1 lists all six enclosure variants, original-instructions sections and 99.822.96 3.7/06/19. English begins at PDF page 19.",
+      "notes": "Combined German/English document; English section starts at PDF page 19. Both UK RZN 4408-K and RZN 4408-M product pages link the identical file; one record covers documented variants.",
+      "source_pdf_sha256": "e4fb78661c64c011cc6d3bda879bbd315268395537e776ed36633b3a112470c3",
+      "source_pdf_bytes": 6122549,
+      "page_count": 36
+    },
+    {
+      "record_id": "d-h-09d73398b28a",
+      "action": "add",
+      "official_source": "https://downloads.dh-partner.com/en?languages=en&sword=CPS-P",
+      "download_url": "https://downloads.dh-partner.com/getDownloadById/136455",
+      "inspection_evidence": "PDF cover prints CPS-P1-020-0202(-B), CPS-P1-040-0202(-B) and 99.829.38 1.6/09/26; PDF page 5 confirms model columns.",
+      "notes": "Document footer has inconsistent total-page numbering on some pages; actual complete parsed file has 36 pages. Model suffixes preserved.",
+      "source_pdf_sha256": "efab0fbf32871de7e10d1b31c85ae5173e94b2603032af65d6c7559e25ddc2e1",
+      "source_pdf_bytes": 7088535,
+      "page_count": 36
+    },
+    {
+      "record_id": "windowmaster-41f67d21d98b",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-104/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=59268&culture=en&label=Installation+instruction",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. For firmware 1.09 onwards; version 2608 printed on cover.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. For firmware 1.09 onwards; version 2608 printed on cover.",
+      "source_pdf_sha256": "a7b2126842cef3298a8a42c965b86e7d3679eefc1b14dd1e686831ff4c944d98",
+      "source_pdf_bytes": 2280003,
+      "page_count": 26
+    },
+    {
+      "record_id": "windowmaster-73a9a68abd39",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-106-mh-s/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=69225&culture=en&label=Installation+instruction",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. For firmware 1.09 onwards; version 2608 printed on cover. This is the MH S manual; MH S AR must not be assumed equivalent.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. For firmware 1.09 onwards; version 2608 printed on cover. This is the MH S manual; MH S AR must not be assumed equivalent.",
+      "source_pdf_sha256": "50cae70d4abd75a89bdc5bb8931d1c4ab6947afca6f6766f8d2cd761bf3371af",
+      "source_pdf_bytes": 2313343,
+      "page_count": 27
+    },
+    {
+      "record_id": "windowmaster-b3627601d7bc",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-204/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=49169&culture=en&label=Installation+instruction",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover names all three full variants; printed issue 2207-UK. Manufacturer marks the source WSC 204 product discontinued. Opening and closing actions differ by variant.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover names all three full variants; printed issue 2207-UK. Manufacturer marks the source WSC 204 product discontinued. Opening and closing actions differ by variant.",
+      "source_pdf_sha256": "5db7ce14b185ea3ed1e3f536d2bfe703ae6977e59e72d9612abfa5071e5cae54",
+      "source_pdf_bytes": 1278205,
+      "page_count": 19
+    },
+    {
+      "record_id": "windowmaster-ad81f8ec3637",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-310-320-standard/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=57331&culture=en&label=Installation+instruction",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover: Version 2307; from main-card firmware 1.38. Standard must not be conflated with Plus.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover: Version 2307; from main-card firmware 1.38. Standard must not be conflated with Plus.",
+      "source_pdf_sha256": "20771cf823e72210a277faf8eed72da17ca257558a8c947ab5405d2380722b4f",
+      "source_pdf_bytes": 2758690,
+      "page_count": 29
+    },
+    {
+      "record_id": "windowmaster-c0f15e87bb78",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-310-plus/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=57336&culture=en&label=Installation+instruction",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover: version 2604; panel versions E1/E5 from main card 1.43 and motor card 2.14; E2/E4/E6/E7 from main card 2.16 and motor card 2.14.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover: version 2604; panel versions E1/E5 from main card 1.43 and motor card 2.14; E2/E4/E6/E7 from main card 2.16 and motor card 2.14.",
+      "source_pdf_sha256": "228dc0791fd47a2abf984a0a25f769767decc0246e551287e77cd12e5cfb2647",
+      "source_pdf_bytes": 6700369,
+      "page_count": 60
+    },
+    {
+      "record_id": "windowmaster-425d79db291e",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-310-plus/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=57336&culture=en&label=Appendix+to+the+instruction+manual+with+detailed+descriptions+of+all+the+menus",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Page 1 specifies SW Ver 2.05. No separate document issue found. Explicitly distinguishes smoke-only and NV Embedded items; this menu snapshot is not established as matching every current firmware.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Page 1 specifies SW Ver 2.05. No separate document issue found. Explicitly distinguishes smoke-only and NV Embedded items; this menu snapshot is not established as matching every current firmware.",
+      "source_pdf_sha256": "31d04f876b31fcdb3c9f391f8cf322f953500dd57ccfea77c899ea7caf00b7ba",
+      "source_pdf_bytes": 1040736,
+      "page_count": 172
+    },
+    {
+      "record_id": "windowmaster-e8b16b867448",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-520/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=54223&culture=en&label=Installation+instruction+-+version+E2+%2F+E3+%2F+E4",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover: WSC 5 install 2401-UK M00572; E2/E4 from firmware 1.13, E3 from 1.01.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover: WSC 5 install 2401-UK M00572; E2/E4 from firmware 1.13, E3 from 1.01.",
+      "source_pdf_sha256": "be1ec726e0cc24721b1d82a42a42d4bdb13fbf277eef506a2c688d0975a85246",
+      "source_pdf_bytes": 6693710,
+      "page_count": 63
+    },
+    {
+      "record_id": "windowmaster-540533cc029e",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-520/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=54223&culture=en&label=Installation+instruction+-+version+E5",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover: from panel version E5, firmware 2.03; printed WSC 5 install 2604-UK M00572.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover: from panel version E5, firmware 2.03; printed WSC 5 install 2604-UK M00572.",
+      "source_pdf_sha256": "ea97723bf9347f530e27d3a0ba45679b9b1dac74aaef50c39d7a558f3ce87e1e",
+      "source_pdf_bytes": 6477768,
+      "page_count": 59
+    },
+    {
+      "record_id": "windowmaster-de9990f9635c",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-520/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=54223&culture=en&label=Installation+instruction+-+version+E1",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Manufacturer links this specifically as E1. Cover says Version 1912 from firmware 0.97; footer says WSC 5_E1_install 1905-Firmware v097-UK M00572. Both conflicting issue markings retained.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Manufacturer links this specifically as E1. Cover says Version 1912 from firmware 0.97; footer says WSC 5_E1_install 1905-Firmware v097-UK M00572. Both conflicting issue markings retained.",
+      "source_pdf_sha256": "fb91f16f500c6da23c5333980d5bc017fbe7ed233c92e638f07da095e2e85b03",
+      "source_pdf_bytes": 6359701,
+      "page_count": 60
+    },
+    {
+      "record_id": "windowmaster-5e299a77d6e0",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-520/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=54223&culture=en&label=Appendix+to+the+instruction+manual+with+detailed+descriptions+of+all+the+menus",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Page 1 specifies WSC 5xx, WSA 5MC SW Ver 1.02 / 1.14. No separate document issue found. Do not assume this menu snapshot supports firmware 2.x.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Page 1 specifies WSC 5xx, WSA 5MC SW Ver 1.02 / 1.14. No separate document issue found. Do not assume this menu snapshot supports firmware 2.x.",
+      "source_pdf_sha256": "dafaeed45d555ba72cebe95f22a1ae3a860437d7fe603f9f0d6e4f944b69ab14",
+      "source_pdf_bytes": 576988,
+      "page_count": 63
+    },
+    {
+      "record_id": "windowmaster-29fd233d8c47",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/controllers/wsc-520/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=54223&culture=en&label=WSC+5xx+Utilization+examples",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover explicitly names all three models and printed issue 1507 EN. This is a configuration/application example document from 2015, not a current installation manual.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover explicitly names all three models and printed issue 1507 EN. This is a configuration/application example document from 2015, not a current installation manual.",
+      "source_pdf_sha256": "297849a31859dccf70f70a334f282c63fd1ac102758a035ae1ea79436fe7a25f",
+      "source_pdf_bytes": 2252394,
+      "page_count": 47
+    },
+    {
+      "record_id": "windowmaster-02a8e8bdcc17",
+      "action": "add",
+      "official_source": "https://www.windowmaster.com/products/accessories/break-glass-units/wsk-501/",
+      "download_url": "https://www.windowmaster.com/product/file/?productId=56423&culture=en&label=Installation+instruction",
+      "inspection_evidence": "Printed cover or first-page model applicability checked. Cover names WSK 501/502/503/504 for WSC 104/310/320/5xx. Printed footer literally says WKS 50x 02 install UK_DE_DK_2304; original transposition retained in audit. English, German and Danish sections.",
+      "notes": "Complete official PDF retrieved; PDF header, EOF marker, full-file SHA-256, byte count and Poppler page count checked. English content and printed identity inspected. This does not certify latest edition or applicability to an installed system. Cover names WSK 501/502/503/504 for WSC 104/310/320/5xx. Printed footer literally says WKS 50x 02 install UK_DE_DK_2304; original transposition retained in audit. English, German and Danish sections.",
+      "source_pdf_sha256": "0210e9b46f1f970c455b181c90161c8fdc6e71153a74db6be458f63b423d48bc",
+      "source_pdf_bytes": 1850184,
+      "page_count": 13
+    }
+  ],
+  "unretrieved_documents": [
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/wp-content/uploads/2026/01/EV-301-IP_EV-301-P-IP_EV-601-IP-Instruction-Manual.pdf",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    },
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/wp-content/uploads/2022/02/EV-301-EV-601-Instruction-Manual.pdf",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    },
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/wp-content/uploads/2022/06/EV-HMI7B-User-Manual-1.pdf",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    },
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/wp-content/uploads/2022/06/EV-HMI7-User-Manual.pdf",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    },
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/wp-content/uploads/2021/07/EV-301EV-601-Wiring-details-for-EV-Mode.pdf",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    },
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/productdownloads/ev-301ev-601-wiring-details-for-sp-mode/",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    },
+    {
+      "brand": "Group SCS",
+      "source_url": "https://groupscs.co.uk/smoke-control-downloads/datasheets/",
+      "download_url": "https://groupscs.co.uk/productdownloads/simon-link-programming-guide-ev-301-and-ev-601/",
+      "result": "Not PDF: 202 text/html",
+      "checked_on": "2026-11-17",
+      "counted_as_complete_file_verified": false
+    }
+  ],
+  "scope": "Bounded verified collection; not exhaustive manufacturer coverage. UK product/source evidence does not establish suitability for a particular installed system."
+}

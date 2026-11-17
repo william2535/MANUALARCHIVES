@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-17",
+  "record_count": 30,
+  "brands": 17,
+  "package_headers_checked": 7,
+  "installer_binaries_downloaded": 0,
+  "record_evidence": "data/software.json",
+  "gaps": [
+    {
+      "brand": "Fike",
+      "topic": "TWINFLEXpro OSP programming software",
+      "source_url": "https://www.fike.com/product-documents/twinflex-pro2/",
+      "status": "download-not-found",
+      "checked_on": "2026-11-17",
+      "note": "The official current product-document page exposes a battery-calculation spreadsheet under Software Tools, not a verified OSP installer. A manufacturer Twinflex brochure identifies OSP part 505-0040, but that is not a download or licence check. Obtain the supported UK installer route from Fike; do not substitute a third-party binary."
+    },
+    {
+      "brand": "Honeywell Gent / Notifier",
+      "topic": "Exact UK panel configuration tools and entitlement",
+      "source_url": "https://buildings.honeywell.com/portal/gb/en/product-downloads",
+      "status": "dynamic-portal-unverified",
+      "checked_on": "2026-11-17",
+      "note": "Gent UK explicitly links the brand-filtered software portal, retained as a portal-only record. The portal returns a JavaScript application without a readable tool listing in this environment. Exact tools, model scope, permissions and versions still require authorised portal inspection. No Notifier tool or public-download entitlement is inferred."
+    },
+    {
+      "brand": "Dahua",
+      "topic": "ConfigTool / SmartPSS Lite product-specific downloads",
+      "source_url": "https://support.dahuasecurity.com/en/tools",
+      "status": "dynamic-portal-unverified",
+      "checked_on": "2026-11-17",
+      "note": "Manufacturer navigation links this tools portal and names ConfigTool/SmartPSS in metadata. The portal returns only a JavaScript shell to the checked clients. Exact packages, operating systems, releases and account requirements remain unverified; no direct binary URL was guessed."
+    },
+    {
+      "brand": "RISCO",
+      "topic": "Intruder Configuration Software (CS)",
+      "source_url": "https://riscogroup.com/en/",
+      "status": "download-not-found",
+      "checked_on": "2026-11-17",
+      "note": "A current manufacturer CS download route was not established. VUpoint AI Search Tool is separately verified for CCTV and must not be represented as intruder-panel Configuration Software."
+    },
+    {
+      "brand": "HKC",
+      "topic": "SmartLink 700 installer distribution",
+      "source_url": "https://www.hkcsecurity.com/gb/en/solutions/smartlink-700",
+      "status": "download-access-not-verified",
+      "checked_on": "2026-11-17",
+      "note": "Official UK page confirms the product and purpose but no current download or registration link was exposed in the inspected content. Resource is labelled access not verified. Confirm the installer distribution process with HKC."
+    },
+    {
+      "brand": "FTDI",
+      "topic": "VCP driver packages",
+      "source_url": "https://ftdichip.com/drivers/vcp-drivers/",
+      "status": "retrieval-blocked",
+      "checked_on": "2026-11-17",
+      "note": "Official search evidence identifies the driver page, but live HTTPS and web retrieval returned HTTP 403. Retain blocked status; do not claim a verified current release or working direct download."
+    },
+    {
+      "brand": "Hanwha Vision",
+      "topic": "UK/Europe route for Wisenet Device Manager",
+      "source_url": "https://www.hanwhavision.com/us/support/tools/wisenet-device-manager",
+      "status": "regional-verification-needed",
+      "checked_on": "2026-11-17",
+      "note": "Official US product page and its publicly linked ZIP returned valid responses. Former global /en/support/online-tool and guessed UK route failed. The retained record explicitly identifies the US regional page; no claim of UK hardware/firmware equivalence."
+    },
+    {
+      "brand": "Hikvision",
+      "topic": "HiTools Delivery download access",
+      "source_url": "https://www.hikvision.com/uk/support/tools/hitools/cl7f0143d2c781a3e3/",
+      "status": "binary-access-not-verified",
+      "checked_on": "2026-11-17",
+      "note": "Official UK page and product/version/OS details verified; the publicly linked ZIP returned HTTP 403 to HEAD in this environment. The source page remains the entry point. The UK list recommends moving from SADP to HiTools Delivery."
+    }
+  ]
+}

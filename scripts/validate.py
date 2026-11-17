@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 from app_data import build_manifest, build_gap_audit
 from standards_data import standards_errors, render_standards_markdown
 from record_references import document_identity_errors
+from resource_data import resource_errors
 ROOT=Path(__file__).resolve().parents[1]
 def date_errors(data):
     errors=[]
@@ -71,6 +72,11 @@ def validate(root=ROOT):
     embedded=json.loads(match.group(1))if match else []
     if {r['id']for r in embedded}!=ids:errors.append('Browser index differs from catalogue')
     errors.extend(date_errors(data))
+    aov=json.loads((root/'data/aov.json').read_text())
+    software=json.loads((root/'data/software.json').read_text())
+    errors.extend(resource_errors(aov,software,data))
+    embedded_software=re.search(r'<script id="software-data" type="application/json">(.*?)</script>',page,re.S)
+    if not embedded_software or json.loads(embedded_software.group(1))!=software:errors.append('Browser software register differs from source')
     standards=json.loads((root/'data/standards.json').read_text())
     errors.extend(standards_errors(standards))
     embedded_standards=re.search(r'<script id="standards-data" type="application/json">(.*?)</script>',page,re.S)

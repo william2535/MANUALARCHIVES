@@ -4,6 +4,14 @@ The archive supplies the catalogue and original download sources. A phone app ca
 
 ## Stable feeds
 
+The 17 November 2026 addition keeps the existing PDF feed and category keys unchanged:
+
+- [`data/aov.json`](data/aov.json) selects stable catalogue IDs for the AOV / smoke ventilation collection. The same rows carry `aov` in `source_collections`. Their primary category remains `fire`; do not create duplicate documents when showing this collection.
+- [`data/software.json`](data/software.json) is a separate version-1 feed for official software/driver links. Its `access` values distinguish public pages, accounts, installer access, registration and unverified availability. It is **not** a PDF manifest. `download_url` is only a publisher-listed package link, not proof of a tested installer or compatibility.
+- `index.html#aov` and `index.html#software` open the corresponding sections. Metadata search is embedded locally. Opening vendor documents, downloading packages or signing in still needs a connection.
+
+Software `products` describe the documented scope of the tool or portal; they do not establish compatibility between those products. Empty `platforms` and null `version` mean not established by the checked source. Check `verification.note` and the individual `checked_on` date. Preserve access/verification labels when importing the feed into another app.
+
 | Feed | Purpose |
 |---|---|
 | [app-manifest.json](data/app-manifest.json) | Versioned, app-facing catalogue and download evidence |

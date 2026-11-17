@@ -1,5 +1,15 @@
 # Project status
 
+## AOV and software collection — 17 November 2026
+
+Added a dedicated [AOV / smoke ventilation collection](08-aov/README.md): **28 checked PDFs across five brands**, including 23 additions and refreshed evidence for five existing Haes records. The catalogue now has **12,400 records**. Existing IDs, model paths and the Fire category are preserved. Complete-file hashes, PDF boundaries, page counts and printed identity were checked; latest edition and installed-system suitability are not certified. [Source audit](data/source-audits/aov-2026-11-17.json).
+
+Added a separate [panel / NVR software and drivers directory](09-software-drivers/README.md): **30 official resource links across 17 brands**. Public, registration, installer-account and unverified routes are explicit. Seven publisher-listed ZIP URLs passed header checks; no installer binary was downloaded or executed. [Source audit and gaps](data/source-audits/software-2026-11-17.json).
+
+The previously mentioned staged archive batch was not present in the available workspace. This update was reconstructed from current manufacturer sources; it does not claim to recover an earlier 120-record collection. SCS direct PDF retrieval returned HTTP 202 HTML; Colt and Adexon remain document gaps.
+
+Validation: index generation, catalogue/feed validation, 59 Python tests and Node offline UI regression checks passed. Chromium at 390×844 and 1280×900 supported AOV/software navigation and filtering with networking disabled after loading; no external requests, JavaScript errors or horizontal overflow. Managed Chromium blocked `file://`, so a cold offline file launch was not verified. No physical iPhone or vendor installer was tested.
+
 ## Device expansion follow-up — 28 October 2026
 
 The combined device pass adds **314 records**, taking the catalogue to **12,377 records**: **311 complete-file-checked additions** and **three Orisec instructions with remotely checked PDF identity but HTTP 403 full-download failures**. The first 250 additions are published in commit `ba40a3fbed3ebfebd2d653eef4fd93a51f7e4276`; this follow-up adds 64 more records and improves navigation from the root README.

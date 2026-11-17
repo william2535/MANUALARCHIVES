@@ -38,3 +38,11 @@ python3 scripts/import_facp.py --workspace /path/to/facp-work --checked-on YYYY-
 python3 scripts/build_index.py
 python3 scripts/validate.py
 ```
+
+## AOV collection and software links
+
+Keep AOV PDF records in the existing Fire catalogue with stable IDs and model folders; curate membership in `data/aov.json` and the record's `source_collections`. Do not count the collection as extra documents. Distinguish controller generations, printed revisions and wiring/menu references from installation manuals.
+
+Maintain software resources in `data/software.json`, separately from PDF records. Prefer an exact official product/tool page. Record product scope, platform only when documented, nullable version, dated access status and source verification notes. Public means a public source page, not necessarily a free licence. Use a direct package URL only when it is explicitly linked by the manufacturer and actually checked. Never bypass a login/form, mirror installers, execute downloaded packages or infer cable compatibility from a manufacturer name.
+
+Keep unresolved or blocked sources in the feeds' coverage gaps and dated source audits. A successful page or HEAD response does not test an installer, digital signature, firmware upgrade or equipment compatibility. Run the resource validator and existing tests when changing either feed; regenerate navigation with `scripts/build_index.py`.

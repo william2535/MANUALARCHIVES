@@ -2,7 +2,7 @@
 
 [Archive](../README.md)
 
-8794 document records. Door entry belongs under access control.
+8817 document records. Door entry belongs under access control.
 
 | Brand | Document records | Model / family folders |
 |---|---:|---:|
@@ -30,7 +30,9 @@
 | [Chemetron](chemetron/README.md) | 4 | 4 |
 | [Comelit](comelit/README.md) | 37 | 35 |
 | [Cornell Communications](cornell-communications/README.md) | 3 | 3 |
+| [Custom Electronics](custom-electronics/README.md) | 5 | 9 |
 | [Cygnus](cygnus/README.md) | 3 | 3 |
+| [D+H](d-plus-h/README.md) | 3 | 11 |
 | [DITEK](ditek/README.md) | 6 | 6 |
 | [DMP](dmp/README.md) | 2 | 1 |
 | [Digitize](digitize/README.md) | 1 | 1 |
@@ -58,7 +60,7 @@
 | [Gentex](gentex/README.md) | 16 | 15 |
 | [Global Fire Equipment](global-fire-equipment/README.md) | 4 | 4 |
 | [HST](hst/README.md) | 1 | 1 |
-| [Haes](haes/README.md) | 78 | 66 |
+| [Haes](haes/README.md) | 78 | 77 |
 | [Harrington](harrington/README.md) | 14 | 13 |
 | [Hochiki](hochiki/README.md) | 94 | 90 |
 | [Honeywell](honeywell/README.md) | 145 | 118 |
@@ -88,6 +90,7 @@
 | [Pyrotronics](pyrotronics/README.md) | 2 | 2 |
 | [Radionics](radionics/README.md) | 8 | 5 |
 | [SDi](sdi/README.md) | 7 | 7 |
+| [SE Controls](se-controls/README.md) | 3 | 3 |
 | [STI](sti/README.md) | 2 | 2 |
 | [Safe Fire Detection](safe-fire-detection/README.md) | 12 | 12 |
 | [Schaller Automation](schaller-automation/README.md) | 3 | 3 |
@@ -115,6 +118,7 @@
 | [Ventcroft](ventcroft/README.md) | 10 | 15 |
 | [Viking](viking/README.md) | 2 | 2 |
 | [Wheelock](wheelock/README.md) | 252 | 227 |
+| [WindowMaster](windowmaster/README.md) | 12 | 30 |
 | [Xtralis](xtralis/README.md) | 10 | 9 |
 | [Zeta](zeta/README.md) | 35 | 30 |
 | [Ziton](ziton/README.md) | 11 | 4 |

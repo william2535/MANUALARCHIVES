@@ -94,7 +94,7 @@ def download_record(record,output,previous=None,refresh=False,opener=urllib.requ
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--category',choices=['fire','security','access-control','cctv','warden-call','other-reference']);parser.add_argument('--brand');parser.add_argument('--model');parser.add_argument('--id')
-    parser.add_argument('--collection',choices=['facp'],help='Select every catalogue document represented in this source collection')
+    parser.add_argument('--collection',choices=['facp','aov'],help='Select the FACP source collection or curated AOV / smoke ventilation manuals')
     parser.add_argument('--all',action='store_true',help='Select the whole catalogue; may download many GB')
     parser.add_argument('--limit',type=int);parser.add_argument('--list',action='store_true',help='Print matching records without downloading')
     parser.add_argument('--refresh',action='store_true',help='Fetch again and preserve a new file if source contents changed')

@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-28",
+  "checked_on": "2026-11-17",
   "notes": "Pending items are not additional catalogue records. Online manuals without PDF links are listed separately from broken or unresolved sources.",
   "unresolved_download_records": [
     {
@@ -1968,5 +1968,11 @@
     },
     "audit": "data/source-audits/devices-2026-10-28.json",
     "notes": "Device expansion reviewed across all six equipment categories. Three Orisec full downloads remain blocked despite remotely parsed originals. Historical editions, baseline IDs and source/model conflicts preserved."
+  },
+  "aov_software_update": {
+    "aov_audit": "data/source-audits/aov-2026-11-17.json",
+    "aov_collection": "data/aov.json",
+    "software_feed": "data/software.json",
+    "note": "28 AOV documents checked: five existing Haes records refreshed and 23 additions. Thirty official software/driver resource links; installer binaries not tested. Earlier source checks retain their original dates."
   }
 }

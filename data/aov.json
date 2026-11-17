@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-17",
+  "scope": "A curated UK smoke-ventilation collection: AOV control-panel installation and user instructions, configuration/menu references and wiring guides. Brand grouping is navigation, not a declaration of component compatibility or a complete brand inventory. Region, installed variant and latest edition still need checking in the original document.",
+  "record_ids": [
+    "haes-7fa8ec23fbf5",
+    "haes-6ff0a33c817c",
+    "haes-9c890b6b4d36",
+    "haes-c018de9853dd",
+    "haes-ca8ad41c5c28",
+    "se-controls-27424bee46eb",
+    "se-controls-ced9258f135c",
+    "se-controls-8be81fcbbd49",
+    "custom-electronics-21751d7e3a8d",
+    "custom-electronics-7ddc2b8c509e",
+    "custom-electronics-a8e307287c84",
+    "custom-electronics-476550b92374",
+    "custom-electronics-b627f07d1a41",
+    "d-h-0b9ecd13c5f9",
+    "d-h-83f9d222f378",
+    "d-h-09d73398b28a",
+    "windowmaster-41f67d21d98b",
+    "windowmaster-73a9a68abd39",
+    "windowmaster-b3627601d7bc",
+    "windowmaster-ad81f8ec3637",
+    "windowmaster-c0f15e87bb78",
+    "windowmaster-425d79db291e",
+    "windowmaster-e8b16b867448",
+    "windowmaster-540533cc029e",
+    "windowmaster-de9990f9635c",
+    "windowmaster-5e299a77d6e0",
+    "windowmaster-29fd233d8c47",
+    "windowmaster-02a8e8bdcc17"
+  ],
+  "gaps": [
+    "Group SCS: current IP54 and legacy EV panel generations remain separate. Seven official links were identified, but direct retrieval returned HTTP 202 HTML; they are recorded in the source audit and excluded from complete-file counts.",
+    "Colt and Adexon: no usable manufacturer manual was verified in this batch.",
+    "Custom Electronics includes two image-only guides; visual identity was checked, but searchable text/OCR is not claimed.",
+    "No complete inventory of every UK brand, product, firmware or historical edition is claimed."
+  ]
+}

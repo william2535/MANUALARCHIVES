@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [AOV Instruction Manual](https://haes-tech.com/app/uploads/2020/09/AOV-Manual.pdf) | installation | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://haes-tech.com/downloads/aov-instruction-manual) |
+| [AOV control panel installation, commissioning & operating manual](https://haes-tech.com/app/uploads/2020/09/AOV-Manual.pdf) | installation | UI-AOV-01 | Issue 7.0 | pdf-indexed | [Manufacturer](https://haes-tech.com/downloads/aov-instruction-manual) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

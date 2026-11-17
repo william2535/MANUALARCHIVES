@@ -6,7 +6,7 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [Haes-AOV-Instruction-Manual](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Haes-AOV-Instruction-Manual.pdf) | installation | Not recorded | Not recorded | pdf-link-listed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
+| [AOV control panel installation, commissioning & operating manual — Issue 4.0](https://www.ukwatchsecurity.co.uk/engineer-manuals/Manuals/Haes-AOV-Instruction-Manual.pdf) | installation | UI-AOV-01 | Issue 4.0 | pdf-indexed | [Installer](https://www.ukwatchsecurity.co.uk/engineers.php) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

@@ -6,8 +6,8 @@ Source titles and model associations are navigation aids. Some legacy model name
 
 | Document | Type | Number | Revision hint | Availability | Source |
 |---|---|---|---|---|---|
-| [MZAOV Config Software Manual](https://haes-tech.com/app/uploads/2021/03/MZAOVConfigSWManual1_0.pdf) | reference | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://haes-tech.com/downloads/mzaov-config-software-manual) |
-| [MZAOV Instruction Manual](https://haes-tech.com/app/uploads/2021/01/MZAOV-Instruction-Manual.pdf) | installation | Not recorded | Not recorded | pdf-link-listed | [Manufacturer](https://haes-tech.com/downloads/mzaov-instruction-manual) |
+| [MZAOV control panel installation, commissioning & operating manual](https://haes-tech.com/app/uploads/2021/01/MZAOV-Instruction-Manual.pdf) | installation | UI-MZAOV-01 | Issue 2.2 | pdf-indexed | [Manufacturer](https://haes-tech.com/downloads/mzaov-instruction-manual) |
+| [Multizone automatically opening vent control panel configuration software user manual](https://haes-tech.com/app/uploads/2021/03/MZAOVConfigSWManual1_0.pdf) | programming | UI-MAOVCSW-03 | Issue 1.0 | pdf-indexed | [Manufacturer](https://haes-tech.com/downloads/mzaov-config-software-manual) |
 
 Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
 

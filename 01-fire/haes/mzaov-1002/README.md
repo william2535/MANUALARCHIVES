@@ -1,0 +1,15 @@
+# Haes — MZAOV-1002
+
+[Brand index](../README.md) · [Category index](../../README.md) · [Archive](../../../README.md)
+
+Source titles and model associations are navigation aids. Some legacy model names are taken from supplier filenames. Confirm the installed model, protocol, firmware, market and issue against the original document.
+
+| Document | Type | Number | Revision hint | Availability | Source |
+|---|---|---|---|---|---|
+| [MZAOV control panel installation, commissioning & operating manual](https://haes-tech.com/app/uploads/2021/01/MZAOV-Instruction-Manual.pdf) | installation | UI-MZAOV-01 | Issue 2.2 | pdf-indexed | [Manufacturer](https://haes-tech.com/downloads/mzaov-instruction-manual) |
+
+Revision hints come from filenames unless stated otherwise. A source listing is not a downloaded file.
+
+Record IDs: `haes-9c890b6b4d36`
+
+PDFs are not mirrored in this public repository. See [offline downloads](../../../README.md#offline-downloads).

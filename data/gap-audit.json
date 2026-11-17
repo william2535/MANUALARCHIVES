@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-10-28",
-  "catalogue_sha256": "8bbf2afd2845a4d8a9a1f6aae70bd397eaf325d9da62a2c7ce7fa0adec7d8fc4",
+  "generated_on": "2026-11-17",
+  "catalogue_sha256": "f771096e72fc86a5db729d7a6507ba2ef2a35bff95ed3be33bc808f165dd15c9",
   "scope": "Every indexed record and model association. Products absent from the catalogue require further manufacturer inventory research. Flags are review tasks, not proof of a broken link or a missing publication.",
-  "record_count": 12377,
+  "record_count": 12400,
   "gap_counts": {
-    "complete-file-check-needed": 2949,
-    "document-number-unrecorded": 10893,
+    "complete-file-check-needed": 2944,
+    "document-number-unrecorded": 10901,
     "download-url-unresolved": 3,
-    "language-unverified": 11554,
+    "language-unverified": 11549,
     "model-applicability-review-needed": 9088,
     "possible-duplicate-review-needed": 1,
-    "region-unverified": 12357,
+    "region-unverified": 12380,
     "retrieval-failed": 13,
     "revision-review-needed": 11820,
     "source-metadata-conflict": 31,
@@ -1035,6 +1035,27 @@
       }
     },
     {
+      "brand": "Custom Electronics",
+      "records": 5,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "diagram": 2,
+        "installation": 2,
+        "quick-start": 1
+      },
+      "download_status": {
+        "complete-file": 5
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 4,
+        "model-applicability-review-needed": 1,
+        "region-unverified": 5,
+        "revision-review-needed": 3
+      }
+    },
+    {
       "brand": "Cygnus",
       "records": 3,
       "categories": [
@@ -1053,6 +1074,22 @@
         "model-applicability-review-needed": 3,
         "region-unverified": 3,
         "revision-review-needed": 3
+      }
+    },
+    {
+      "brand": "D+H",
+      "records": 3,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "installation": 3
+      },
+      "download_status": {
+        "complete-file": 3
+      },
+      "gap_counts": {
+        "region-unverified": 3
       }
     },
     {
@@ -1898,23 +1935,22 @@
       "document_types": {
         "datasheet": 1,
         "installation": 31,
-        "programming": 9,
+        "programming": 10,
         "quick-start": 1,
-        "reference": 25,
+        "reference": 24,
         "user-guide": 11
       },
       "download_status": {
-        "complete-file": 2,
-        "file-hash": 1,
-        "listed": 75
+        "complete-file": 7,
+        "listed": 71
       },
       "gap_counts": {
-        "complete-file-check-needed": 76,
-        "document-number-unrecorded": 78,
-        "language-unverified": 78,
-        "model-applicability-review-needed": 3,
+        "complete-file-check-needed": 71,
+        "document-number-unrecorded": 73,
+        "language-unverified": 73,
+        "model-applicability-review-needed": 2,
         "region-unverified": 78,
-        "revision-review-needed": 78
+        "revision-review-needed": 73
       }
     },
     {
@@ -3135,6 +3171,22 @@
       }
     },
     {
+      "brand": "SE Controls",
+      "records": 3,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "installation": 3
+      },
+      "download_status": {
+        "complete-file": 3
+      },
+      "gap_counts": {
+        "region-unverified": 3
+      }
+    },
+    {
       "brand": "STI",
       "records": 2,
       "categories": [
@@ -4049,6 +4101,26 @@
         "model-applicability-review-needed": 252,
         "region-unverified": 252,
         "revision-review-needed": 252
+      }
+    },
+    {
+      "brand": "WindowMaster",
+      "records": 12,
+      "categories": [
+        "fire"
+      ],
+      "document_types": {
+        "application-note": 1,
+        "installation": 9,
+        "reference": 2
+      },
+      "download_status": {
+        "complete-file": 12
+      },
+      "gap_counts": {
+        "document-number-unrecorded": 9,
+        "region-unverified": 12,
+        "revision-review-needed": 2
       }
     },
     {
@@ -23567,6 +23639,78 @@
       "gaps": [
         "region-unverified",
         "revision-review-needed"
+      ]
+    },
+    {
+      "id": "custom-electronics-21751d7e3a8d",
+      "brand": "Custom Electronics",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "revision-review-needed",
+        "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "custom-electronics-476550b92374",
+      "brand": "Custom Electronics",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "custom-electronics-7ddc2b8c509e",
+      "brand": "Custom Electronics",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "custom-electronics-a8e307287c84",
+      "brand": "Custom Electronics",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "custom-electronics-b627f07d1a41",
+      "brand": "Custom Electronics",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "d-h-09d73398b28a",
+      "brand": "D+H",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "d-h-0b9ecd13c5f9",
+      "brand": "D+H",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "d-h-83f9d222f378",
+      "brand": "D+H",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -128475,12 +128619,7 @@
       "brand": "Haes",
       "category": "fire",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed",
-        "model-applicability-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -128524,11 +128663,7 @@
       "brand": "Haes",
       "category": "fire",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -128644,11 +128779,7 @@
       "brand": "Haes",
       "category": "fire",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -128776,11 +128907,7 @@
       "brand": "Haes",
       "category": "fire",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -128824,11 +128951,7 @@
       "brand": "Haes",
       "category": "fire",
       "gaps": [
-        "complete-file-check-needed",
-        "language-unverified",
-        "region-unverified",
-        "document-number-unrecorded",
-        "revision-review-needed"
+        "region-unverified"
       ]
     },
     {
@@ -144717,6 +144840,30 @@
       ]
     },
     {
+      "id": "se-controls-27424bee46eb",
+      "brand": "SE Controls",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "se-controls-8be81fcbbd49",
+      "brand": "SE Controls",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "se-controls-ced9258f135c",
+      "brand": "SE Controls",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
       "id": "security-enclosures-f558a9a5f5cc",
       "brand": "Security Enclosures",
       "category": "cctv",
@@ -149786,6 +149933,113 @@
         "document-number-unrecorded",
         "revision-review-needed",
         "model-applicability-review-needed"
+      ]
+    },
+    {
+      "id": "windowmaster-02a8e8bdcc17",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-29fd233d8c47",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-41f67d21d98b",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-425d79db291e",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "windowmaster-540533cc029e",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "windowmaster-5e299a77d6e0",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded",
+        "revision-review-needed"
+      ]
+    },
+    {
+      "id": "windowmaster-73a9a68abd39",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-ad81f8ec3637",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-b3627601d7bc",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-c0f15e87bb78",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified",
+        "document-number-unrecorded"
+      ]
+    },
+    {
+      "id": "windowmaster-de9990f9635c",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
+      ]
+    },
+    {
+      "id": "windowmaster-e8b16b867448",
+      "brand": "WindowMaster",
+      "category": "fire",
+      "gaps": [
+        "region-unverified"
       ]
     },
     {
@@ -180995,6 +181249,115 @@
     },
     {
       "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-001",
+      "record_ids": [
+        "custom-electronics-21751d7e3a8d",
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-001C",
+      "record_ids": [
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-003",
+      "record_ids": [
+        "custom-electronics-21751d7e3a8d",
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-003C",
+      "record_ids": [
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-005",
+      "record_ids": [
+        "custom-electronics-21751d7e3a8d",
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram",
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-005C",
+      "record_ids": [
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "AOV-007",
+      "record_ids": [
+        "custom-electronics-21751d7e3a8d"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "Multi-zone AOV control unit",
+      "record_ids": [
+        "custom-electronics-476550b92374",
+        "custom-electronics-a8e307287c84",
+        "custom-electronics-b627f07d1a41"
+      ],
+      "document_types": [
+        "diagram",
+        "installation",
+        "quick-start"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Custom Electronics",
+      "model": "Single-zone AOV control panels",
+      "record_ids": [
+        "custom-electronics-7ddc2b8c509e"
+      ],
+      "document_types": [
+        "diagram"
+      ]
+    },
+    {
+      "category": "fire",
       "brand": "Cygnus",
       "model": "CIE Panel",
       "record_ids": [
@@ -181024,6 +181387,127 @@
       ],
       "document_types": [
         "brochure"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "CPS-P1-020-0202",
+      "record_ids": [
+        "d-h-09d73398b28a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "CPS-P1-020-0202-B",
+      "record_ids": [
+        "d-h-09d73398b28a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "CPS-P1-040-0202",
+      "record_ids": [
+        "d-h-09d73398b28a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "CPS-P1-040-0202-B",
+      "record_ids": [
+        "d-h-09d73398b28a"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4404-M",
+      "record_ids": [
+        "d-h-83f9d222f378"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4404-MS",
+      "record_ids": [
+        "d-h-83f9d222f378"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4408-K",
+      "record_ids": [
+        "d-h-83f9d222f378"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4408-KS",
+      "record_ids": [
+        "d-h-83f9d222f378"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4408-M",
+      "record_ids": [
+        "d-h-83f9d222f378"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4408-MS",
+      "record_ids": [
+        "d-h-83f9d222f378"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "D+H",
+      "model": "RZN 4503-T",
+      "record_ids": [
+        "d-h-0b9ecd13c5f9"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -205344,6 +205828,78 @@
     {
       "category": "fire",
       "brand": "Haes",
+      "model": "AOV-10",
+      "record_ids": [
+        "haes-6ff0a33c817c",
+        "haes-7fa8ec23fbf5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "AOV-10H",
+      "record_ids": [
+        "haes-6ff0a33c817c",
+        "haes-7fa8ec23fbf5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "AOV-3",
+      "record_ids": [
+        "haes-6ff0a33c817c",
+        "haes-7fa8ec23fbf5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "AOV-3H",
+      "record_ids": [
+        "haes-6ff0a33c817c",
+        "haes-7fa8ec23fbf5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "AOV-5",
+      "record_ids": [
+        "haes-6ff0a33c817c",
+        "haes-7fa8ec23fbf5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "AOV-5H",
+      "record_ids": [
+        "haes-6ff0a33c817c",
+        "haes-7fa8ec23fbf5"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
       "model": "AOV-Instruction-Manual",
       "record_ids": [
         "haes-6ff0a33c817c"
@@ -205792,7 +206348,51 @@
       ],
       "document_types": [
         "installation",
-        "reference"
+        "programming"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "MZAOV-1001",
+      "record_ids": [
+        "haes-9c890b6b4d36"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "MZAOV-1001A",
+      "record_ids": [
+        "haes-9c890b6b4d36"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "MZAOV-1002",
+      "record_ids": [
+        "haes-9c890b6b4d36"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "MZAOV-1003",
+      "record_ids": [
+        "haes-9c890b6b4d36"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -205845,6 +206445,17 @@
       "category": "fire",
       "brand": "Haes",
       "model": "SZAOV",
+      "record_ids": [
+        "haes-c018de9853dd"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "Haes",
+      "model": "SZAOV-1001",
       "record_ids": [
         "haes-c018de9853dd"
       ],
@@ -230899,6 +231510,39 @@
       ],
       "document_types": [
         "brochure"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "SE Controls",
+      "model": "OS2 SHEVTEC Controller",
+      "record_ids": [
+        "se-controls-ced9258f135c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "SE Controls",
+      "model": "OSLoop",
+      "record_ids": [
+        "se-controls-27424bee46eb"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "SE Controls",
+      "model": "SHEVTEC Repeater Panel",
+      "record_ids": [
+        "se-controls-8be81fcbbd49"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
@@ -258214,6 +258858,342 @@
       ],
       "document_types": [
         "datasheet"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WCC 310 P",
+      "record_ids": [
+        "windowmaster-425d79db291e"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WCC 320 P",
+      "record_ids": [
+        "windowmaster-425d79db291e"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSA 5MC",
+      "record_ids": [
+        "windowmaster-5e299a77d6e0"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 104",
+      "record_ids": [
+        "windowmaster-41f67d21d98b"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 106 MH S",
+      "record_ids": [
+        "windowmaster-73a9a68abd39"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 204 0102",
+      "record_ids": [
+        "windowmaster-b3627601d7bc"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 204BZ 0102",
+      "record_ids": [
+        "windowmaster-b3627601d7bc"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 204MH 0102",
+      "record_ids": [
+        "windowmaster-b3627601d7bc"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 310 P",
+      "record_ids": [
+        "windowmaster-425d79db291e"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 310 Plus",
+      "record_ids": [
+        "windowmaster-c0f15e87bb78"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 310 Standard",
+      "record_ids": [
+        "windowmaster-ad81f8ec3637"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 320 P",
+      "record_ids": [
+        "windowmaster-425d79db291e"
+      ],
+      "document_types": [
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 320 Plus",
+      "record_ids": [
+        "windowmaster-c0f15e87bb78"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 320 Standard",
+      "record_ids": [
+        "windowmaster-ad81f8ec3637"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 520",
+      "record_ids": [
+        "windowmaster-29fd233d8c47",
+        "windowmaster-5e299a77d6e0"
+      ],
+      "document_types": [
+        "application-note",
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 520 E1",
+      "record_ids": [
+        "windowmaster-de9990f9635c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 520 E2/E3/E4",
+      "record_ids": [
+        "windowmaster-e8b16b867448"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 520 E5",
+      "record_ids": [
+        "windowmaster-540533cc029e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 540",
+      "record_ids": [
+        "windowmaster-29fd233d8c47",
+        "windowmaster-5e299a77d6e0"
+      ],
+      "document_types": [
+        "application-note",
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 540 E1",
+      "record_ids": [
+        "windowmaster-de9990f9635c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 540 E2/E3/E4",
+      "record_ids": [
+        "windowmaster-e8b16b867448"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 540 E5",
+      "record_ids": [
+        "windowmaster-540533cc029e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 560",
+      "record_ids": [
+        "windowmaster-29fd233d8c47",
+        "windowmaster-5e299a77d6e0"
+      ],
+      "document_types": [
+        "application-note",
+        "reference"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 560 E1",
+      "record_ids": [
+        "windowmaster-de9990f9635c"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 560 E2/E3/E4",
+      "record_ids": [
+        "windowmaster-e8b16b867448"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSC 560 E5",
+      "record_ids": [
+        "windowmaster-540533cc029e"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSK 501",
+      "record_ids": [
+        "windowmaster-02a8e8bdcc17"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSK 502",
+      "record_ids": [
+        "windowmaster-02a8e8bdcc17"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSK 503",
+      "record_ids": [
+        "windowmaster-02a8e8bdcc17"
+      ],
+      "document_types": [
+        "installation"
+      ]
+    },
+    {
+      "category": "fire",
+      "brand": "WindowMaster",
+      "model": "WSK 504",
+      "record_ids": [
+        "windowmaster-02a8e8bdcc17"
+      ],
+      "document_types": [
+        "installation"
       ]
     },
     {
